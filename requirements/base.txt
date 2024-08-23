@@ -20,7 +20,7 @@ sentence-transformers==2.2.2
 channels[daphne]==4.0.0
 scikit-learn==1.2.2
 
-pandas==1.5.1
+pandas==2.2.2
 matplotlib==3.7.1
 plotly==5.14.1
 
