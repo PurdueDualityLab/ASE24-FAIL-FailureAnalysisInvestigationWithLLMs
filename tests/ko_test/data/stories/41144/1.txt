@@ -1,0 +1,33 @@
+Ire over outage shows growing role of the Web: Internet services are not regulated
+05/06/2007
+McClatchy - Tribune Business News*Buffalo News (New York)
+pq
+May 6--Dennis Smith's Internet connection came back on Tuesday after a two-day outage, but it was "dog slow."
+"That's some upgrade," the Buffalo resident said acidly.
+He's one of many Time Warner Cable customers who are unhappy about the service disruption, which began last Sunday as technicians replaced network equipment.
+Widespread ire over the two-day disruption underscores how broadband Internet has quickly grown from a toy for geeks and gamers into a must-have communications channel in thousands of homes.
+The disruption blocked many users from getting to secure sites. That meant people couldn't get to their online bank or brokerage accounts, eBay auctions or Web-based mail boxes.
+Then many said they hit a wall when they tried to reach customer service. Others like Smith -- though not all -- say their connection speed has fallen sharply once service came back.
+Unlike other essential wires that enter your home or office, Internet doesn't come with a set of regulators who set standards for the system's performance. In the Internet business, competition is supposed to keep providers on their toes.
+Cable TV providers operate under franchise agreements from local governments, but the oversight doesn't extend to their Internet services.
+"Internet service can only be regulated at the federal level," said Thomas Tarapacki, director of Buffalo's Office of Telecommunications. There are no regulatory standards for network performance, he said.
+Providers do commonly offer credits for outages, something Time Warner has offered for area customers who call and request it.
+The regulatory vacuum puts responsibility for backstopping your connection right back on you. But while choices exist, broadband-to- thehome isn't rich with options.
+Smith, who teaches computer technology at BOCES, has measured his download speed at one-quarter less than the data rate he enjoyed before the system overhaul.
+Even so, his next available choice, DSL service over telephone wires, still wouldn't match cable.
+"I'm at the mercy of Time Warner," Smith said.
+An amateur historian, Smith uses the Internet extensively to look up increasingly robust databases.
+"When Time Warner is down, other [online] services I have -- like research sites I pay a monthly fee for -- I'm not getting those either," he said. "It's great there's all this information online -- it's even greater when you can get to see it," he said. Time Warner Cable advertises downloads as fast as 4 million bits per second, or 4 Mbps, with its monthly $44.95 service. A premium tier service offers speeds up to 6 Mbps for $54.95.
+Residential DSL functions at fractions of those speeds, where its available. And while Verizon Communications is rolling out much faster fiber-to-the-home connections, they're still only available in limited areas in the Buffalo Niagara region.
+Views of the seriousness of the service disruption diverge greatly. Time Warner says the switch from Adelphia Communications' old system went relatively smoothly. Not all of its 130,000 area Internet customers were affected by the outage, the company said.
+"When it affects an individual, it's important -- I don't want to minimize that," said Robin Wolfgang, Time Warner vice president of public and government affairs in Buffalo. But the system didn't experience a mass outage, she added.
+Compared with protracted problems Time Warner has experienced absorbing Adelphia's network in Los Angeles, "this would be like a thunderstorm compared to hurricane Katrina," she said.
+The system "migration" to Time Warner's Road Runner platform prepares the way for phone-over-cable service to be rolled out this summer. And coming later this month, old Adelphia addresses will switch to new ones ending in "roadrunner. com."
+Network operators want the most availability possible, but "obviously 100 percent is an impossible goal," said Bruce Leichtman, a cable industry consultant in Durham, N.H.
+During system work it's common to have some downtime, he said. Still, networks have strong financial incentives to minimize the disruption for customers.
+"The calls [to customer service] cost money. The truck roll costs money," he said.
+But while it may be possible to avoid every glitch, cable providers can help their customers minimize inconvenience by providing warnings of work that could cause a disruption.
+"We think they could do more notification, better notification," Tarapacki said.
+"I think it's always better for consumers to have more information," he said.
+fwilliams@buffnews.com
+Credit: The Buffalo News, N.Y.

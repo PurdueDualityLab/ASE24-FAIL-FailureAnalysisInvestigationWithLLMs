@@ -1,0 +1,30 @@
+Web mail may be open to password attack
+08/25/1998
+ZDNet News from ZDWire
+fv
+Millions of Web-based e-mail accounts could be vulnerable to intrusions such as that demonstrated Monday on Hotmail accounts, an expert said Tuesday.
+That question became very real Monday when a Canadian Web programmer uncovered a security glitch that would allow a malicious user to steal the passwords from Hotmail accounts.
+"This is fairly powerful," said Web programmer Tom Cervenka, who created the password-stealing exploit. "It changes the links in both of the frames on the [Hotmail user interface] page. ... Who's to say that with a little work, someone couldn't write a program far more subtle and dangerous?"
+He said the exploit would need only minor modifications to run on any Web-based e-mail service that accepts JavaScript code.
+Many popular sites, such as Excite, Yahoo!, Netcenter and Lycos, offer free, Web-based e-mail from such providers as Four11, a subsidiary of Yahoo! Inc.; WhoWhere?, a division of Lycos Inc.; USA.net Inc.; and iName, a division of GlobeComm Inc.
+Those providers were not immediately available to give details on their response to the security flaw.
+Difficult to stop
+One of the reasons the exploit is difficult to stop is because it is so simple: All it uses is a few lines of JavaScript, a programming language used to enhance Web pages.
+Created by Cervenka, of Canadian Specialty Installations, an Alberta-based network reseller, the exploit alters the Hotmail user interface, which is comprised of ordinary HTML pages.
+The next time the user clicks on any link in the interface, he is directed to a false timeout message, asking him to enter his password to log in to Hotmail.
+Once the user enters his password, he returns to the ordinary Hotmail interface -- but the password is e-mailed to a malicious user. In the case of a demonstration posted on the site because-we-can.com, the password is mailed to Specialty Installations.
+Hotmail acknowledged the glitch Monday evening and posted a temporary fix -- a server-side filter that simply removes JavaScript from incoming messages.
+However, Cervenka found it simple to get around the temporary fix, by enclosing the malicious code within a different set of HTML tags -- tags the filter did not recognize.
+Hotmail says it is working on a permanent solution to any JavaScript security breaches, but as of Tuesday afternoon had not produced a long-term fix.
+Hotmail 'confident' of a solution
+"We continue to work extremely diligently and hard in terms of a completely robust and completely audited solution," said Sean Fee, director of product marketing for Hotmail.
+He said he is confident a fix will be found soon.
+Part of the draw of Web-based e-mail services is their ability to display anything a Web browser can display, since they use the browser itself as the mail viewer.
+Hotmail says it eventually wants to reach a solution in which users can view JavaScript without any security risk.
+"In the long term, what we'd like to move toward is a mechanism where it allows the functionality of scripting back into the messages, in such a way that it is completely safe and not malicious," Fee said.
+Tips for avoiding vulnerability
+Hotmail and Cervenka recommend several steps to avoid the vulnerability:
+Don't open messages from unknown parties.
+If you see an unexpected password prompt, do not use it to log on to your account; instead, return to the account by typing the Hotmail URL into your browser, or using a bookmark.
+Turn off JavaScript capabilities on your browser while using Hotmail, until a permanent solution is put into place.
+Hotmail, based in Sunnyvale, Calif., has 22 million active users.

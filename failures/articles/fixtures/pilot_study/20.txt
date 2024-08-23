@@ -1,0 +1,40 @@
+In Weekend Outage, Diabetes Monitors Fail to Send Crucial Alerts
+Parents who use the Dexcom G6 depend on alarms on their phones if their children’s blood sugar levels are dangerous. They say the outage put them at risk.
+
+For many parents of children with diabetes, the Dexcom G6 continuous glucose monitor is a lifesaver. The device tracks their children’s glucose levels and sends them an alert when their blood sugar climbs too high or falls too low, allowing them to take quick action to correct it.
+
+But around midnight on Friday, Dexcom suffered a mysterious service outage, leaving thousands of people who rely on the device for critical information in the dark. Many parents who woke up on Saturday morning and learned about the outage hours after it began had to scramble to make sure their children were safe. The affected service, Dexcom Follow, had been partly restored by Monday morning, a company spokesman said.
+
+In Connecticut, Virginia Coleman-Prisco’s son John, 10, a Type 1 diabetic, has worn a Dexcom glucose monitor for the past four years. Normally the device sends an alarm to her smartphone when John’s glucose levels require urgent action. But early Saturday morning his blood sugar plummeted to dangerously low levels while he was fast asleep and no alert was sent out.
+
+At around 5 a.m., her other son, Michael, 6, heard John moaning in distress and screamed for help, prompting Dr. Coleman-Prisco and her husband to jump out of bed and run to John’s side. They were able to get his blood sugar back to a safe level by stirring him awake and feeding him apple juice and gummy candies meant to help restore glucose levels in diabetics.
+
+“We rely on this technology,” said Dr. Coleman-Prisco, an assistant professor at Mercy College in New York. “We didn’t get any alerts, and that’s really dangerous. Our son could have died in his sleep.”
+
+Dexcom, based in San Diego, has amassed a huge following among people with diabetes and their families. The company’s G6 device allows patients to track their glucose levels without pricking their fingers or drawing blood. Instead, patients wear a small sensor on their abdomens, which transmits glucose readings wirelessly to their smartphones or a receiver every five minutes. The device can also alert people if their glucose levels are rising or falling too quickly.
+
+Doctors say the device and others like it have revolutionized diabetes care because they allow patients to easily track their glucose levels and better manage their disease. For parents of young diabetics, the Dexcom device can be life changing: It frees them from having to prick their children with a needle every few hours to check their blood sugar levels. Before the advent of continuous glucose monitors, parents would have to be particularly vigilant at night, waking up every two to three hours to make sure their kids did not have a hypoglycemic event in their sleep that could cause them to slip into a coma and die.
+
+With the Dexcom device, parents use an app that allows them and other caregivers to follow a child’s glucose levels on their phones — and get alerts when things go awry — whether the child is in another room or in another state. Other people use the app to monitor diabetic spouses, grandparents and other loved ones from afar.
+
+“I tell my friends that prior to getting the Dexcom G6, the iPhone was the most remarkable piece of technology I’ve ever owned,” said Mark Turner, who lives in Austin and hosts a podcast called Dads and Diabetes. Mr. Turner uses the Dexcom G6 to monitor his 11-year-old daughter, Ella, who is diabetic.
+
+But Mr. Turner and others who depend on the technology learned just how risky that strategy can be when the Dexcom follow feature suddenly went down without warning Friday night — right as people were relying on it to alert them to nighttime emergencies. Jake Leach, Dexcom’s chief technology officer, said late Sunday night that the outage occurred because the company’s servers unexpectedly became overloaded. He said that a “large portion” of Dexcom’s users were affected, but he did not know precisely how many or when the service would be restored.
+
+“We have a large team that’s been working around the clock on this since Saturday,” Mr. Leach added.
+
+It was not the first time the service went dark: Dexcom experienced a similar outage less than a year ago, on Dec. 31, which it resolved within a day.
+
+But this time many users were furious because Dexcom did not announce there was an outage until about 8 a.m. Pacific time Saturday, which is 11 a.m. on the East Coast, when it posted a brief notice on its Facebook page. The post received thousands of comments, most of them from loyal users who were upset that the company did not notify them sooner.
+
+“Dexcom, please, please send a notification of some kind when your products are not working,” one distressed parent wrote. “We are fully capable of monitoring our son when his devices are down, and are certainly used to sleepless nights checking blood sugar. I understand that software fails at times, but silence to parents dealing with life and death situations is completely unacceptable.”
+
+Heath Smith, whose 11-year-old son Cole has Type 1 diabetes, assumed when he woke up on Saturday morning without getting any alerts that his son had slept through the night with steady glucose levels. But he was stunned to find a blank screen when he opened his Dexcom app to check on his son. Mr. Smith ran upstairs and shook his son awake. It turned out that his glucose levels had plummeted to a severely low level of around 40 milligrams per deciliter and hovered there throughout the night.
+
+“We’ve learned to depend on getting an alert from the Dexcom and we never got it,” said Mr. Smith, who lives in Lawton, Okla., and works for a medical technology company. “We used to set our phones for every two hours throughout the night to go and check on him, but we haven’t done that in years because of Dexcom.”
+
+In an interview, Kevin Sayer, Dexcom’s chief executive, said he regretted that his company let its users down and did not alert them to the outage sooner. “I feel bad for them and I understand their disappointment,” he said.
+
+But he added that the company was working to fix the disruption and would use the incident as an opportunity to improve the way it interacts with its users.
+
+“We’re going to be working on this — we’re not going to sit still,” he said. “This is a very big deal. I feel for these parents. I’ve gotten emails from many of them. We will be better.”

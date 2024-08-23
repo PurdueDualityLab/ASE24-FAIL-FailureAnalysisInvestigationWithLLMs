@@ -1,0 +1,15 @@
+Computer gremlins grip TD bank: Teller link breakdown: [National Edition]
+08/25/2004
+National Post
+pq
+csorensen@nationalpost.com.
+Toronto-Dominion Bank suffered yet another computer glitch yesterday, this time preventing some of its customers in Ontario and British Columbia from receiving updated account balances.
+The breakdown, which affected face-to-face bank teller transactions, is the second network problem the bank has suffered in less than a month and comes on the heels of a string of software and technical problems at Canada's major banks this summer.
+Jeff Keay, a TD spokesman, said the "software application problem" was discovered at about 8 a.m. yesterday. The glitch did not impact telephone, online or automated bank systems, he said.
+"The disconnect is between the teller platform and the mainframe, for lack of a better term," said Mr. Keay.
+"All the information is safe, but its just kind of queued up waiting for us to re-establish the connection."
+Mr. Keay said the bank expected to have the problem fixed by late yesterday. He could not say how many customers were affected by the interruption.
+"It wasn't as serious as it could have been, given the fact that the ABM network wasn't affected, and that most people do their transactions at ABMs."
+TD suffered another malfunction to its system in late July. The temporary glitch, which a bank spokeswoman said was caused by an unexpected increase in system capacity, rendered its automated tellers and online banking services inoperable for about three hours.
+Other banks and financial institutions that have suffered from software or technical problems this summer include Canadian Imperial Bank of Commerce, ING Direct and Royal Bank of Canada.
+In early June, RBC customers went for almost a week without reliable account balances after an error related to a routine software upgrade. The glitch delayed the processing of millions of retail, corporate and public client transactions. RBC has yet to disclose the cost of the foul-up, but has said it is not "material" to its business.

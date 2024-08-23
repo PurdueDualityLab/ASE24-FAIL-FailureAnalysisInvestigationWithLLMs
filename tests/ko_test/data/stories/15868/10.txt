@@ -1,0 +1,29 @@
+Radar Glitch Snarls Flights On West Coast;Mysterious computer failure strands, delays thousands
+10/20/2000
+The San Francisco Chronicle
+ln
+Thousands of passengers were stranded or delayed across the country yesterday when a puzzling radar failure in Southern California twice interrupted air traffic control operations.
+The problem with a radar computer that guides flights into and across much of the Southwestern United States forced the Federal Aviation Administration yesterday morning to halt all flights nationwide destined for the Los Angeles basin. Dozens of flights at Bay Area airports were delayed for hours or canceled altogether.
+The 'ground stop' severed the air corridor between Los Angeles International Airport, the nation's third busiest, and San Francisco International, the fifth busiest.
+'San Francisco has a flight to Los Angeles about every 20 minutes. We were holding at one time 20 airplanes here destined for Los Angeles that couldn't get out,' SFO spokesman Ron Wilson said.
+At SFO, passengers scrambled to book seats on later flights or simply gave up and went home.
+'I looked at the lines (to reschedule) and decided I didn't want to deal with that. I can fly to L.A. tomorrow,' said Theresa Thompson, a San Francisco resident who was planning to take a long weekend and visit a friend. 'I'll call United and try to get a seat tomorrow.'
+Wilson said travelers should expect longer lines than normal today because airlines rescheduled passengers on today's flights. He recommended that passengers call airlines for updated flight times.
+Yesterday, United Airlines, the largest carrier at SFO, canceled 19 departures out of San Francisco and 63 flights total from its nationwide schedule, spokesman Matt Triaca said. Wilson said dozens of other flights on other carriers were also affected.
+At San Jose International, about 50 flights were affected, with about a quarter of those canceled, airport spokesman Rich Dressler said. Several dozen flights at Oakland International were also canceled or delayed.
+By late yesterday afternoon, flight schedules were returning to normal. To avoid more gridlock, the FAA staggered the release of flights for takeoff to Southern California.
+The radar failure occurred as a result of a scheduled software upgrade Wednesday night, FAA spokesman Jerry Snyder said.
+'When the systems were being brought back up on line, it failed,' Snyder said. 'It's worked for 17 other systems, but it's not working in this one. . . . Why it failed on this one we're still not sure.'
+When the radar computer failed, a backup system took over and airplanes continued to show up on radar screens, Snyder said. But the backup system cannot relay key information such as flight altitude and speed from one regional controller to another, forcing controllers to jot down information and pass it along to other controllers by telephone, Snyder said.
+At no point was safety compromised, Snyder said.
+The problem occurred at the FAA's Los Angeles Center, where controllers guide flights over a vast region that stretches from the San Luis Obispo area to the Mexican border and parts of Utah and Nevada. Arrivals into Phoenix, Las Vegas, Burbank, Santa Ana, Orange County and San Diego were also affected.
+The first radar problem occurred at 6:50 a.m. and lasted until 8:30 a.m. The backup system kicked in when the primary radar system failed.
+'I talked to one pilot who said he was flying along and the center communicated by radio saying, We lost you. Now you're back. We lost you. Now you're back,' ' SFO's Wilson said.
+The system failed again at 9 a.m. and forced the FAA to keep all aircraft nationwide destined for Southern California from taking off.
+The radar computer was restored again at 11:15 a.m. using the original software, Snyder said.
+But the failure again pointed to troubles with the nation's air traffic control system, which airline officials are now increasingly criticizing as outdated.
+'All it takes is one situation like this to have a ripple effect throughout the whole system,' said Mike Wascom, spokesman for the Air Transport Association, an airline trade group. 'Albeit an isolated incident where equipment was being upgraded, it still points to some of the problems that exist in modernizing the air traffic control system.'
+In a speech Monday, United Airlines Chairman James Goodwin called for improvements in air traffic control and expansion at the nation's airports to improve air travel.
+'(Air traffic control) delays and cancellations are growing exponentially and dragging down the entire air transportation system's performance and reliability,' Goodwin said.
+E-mail Marshall Wilson at marshallwilson@sfchronicle.com.
+Copyright 2000 The Chronicle Publishing Co.

@@ -1,0 +1,100 @@
+version: '3'
+
+
+volumes:
+  failures_local_postgres_data: {}
+  failures_local_postgres_data_backups: {}
+  failures_local_chroma_data: {}
+
+networks:
+  net:
+    driver: bridge
+
+services:
+  django: &django
+    build:
+      context: .
+      dockerfile: ./compose/local/django/Dockerfile
+    image: failures_local_django
+    container_name: failures_local_django
+    platform: linux/x86_64
+    depends_on:
+      - postgres
+      - redis
+      - chroma
+    volumes:
+      - .:/app:z
+    env_file:
+      - ./.envs/.local/.django
+      - ./.envs/.local/.postgres
+      - ./.envs/.local/.data
+    ports:
+      - "8000:8000"
+    command: /start
+
+
+  postgres:
+    build:
+      context: .
+      dockerfile: ./compose/production/postgres/Dockerfile
+    image: failures_production_postgres
+    container_name: failures_local_postgres
+    volumes:
+      - failures_local_postgres_data:/var/lib/postgresql/data:Z
+      - failures_local_postgres_data_backups:/backups:z
+    env_file:
+      - ./.envs/.local/.postgres
+
+
+  chroma:
+    image: ghcr.io/chroma-core/chroma:latest
+    volumes:
+      - failures_local_chroma_data:/var/lib/chroma/data:Z
+    ports:
+      - "8001:8001"
+    expose:
+      - 8001
+    networks:
+      - net
+    environment:
+      - IS_PERSISTENT=TRUE
+      - PERSIST_DIRECTORY=/var/lib/chroma/data
+      - ALLOW_RESET=TRUE
+    command: uvicorn chromadb.app:app --reload --workers 1 --host 0.0.0.0 --port 8001
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+
+
+  redis:
+    image: redis:6
+    container_name: failures_local_redis
+
+  celeryworker:
+    <<: *django
+    image: failures_local_celeryworker
+    container_name: failures_local_celeryworker
+    depends_on:
+      - redis
+      - postgres
+      - chroma
+    ports: []
+    command: /start-celeryworker
+
+  celerybeat:
+    <<: *django
+    image: failures_local_celerybeat
+    container_name: failures_local_celerybeat
+    depends_on:
+      - redis
+      - postgres
+      - chroma
+    ports: []
+    command: /start-celerybeat
+
+  flower:
+    <<: *django
+    image: failures_local_flower
+    container_name: failures_local_flower
+    ports:
+      - "5555:5555"
+    command: /start-flower

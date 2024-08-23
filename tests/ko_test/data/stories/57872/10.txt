@@ -1,0 +1,11 @@
+No Colo. fire warning because of mapping glitch
+04/05/2012
+The Associated Press State & Local Wire*Associated Press Online
+ln
+Differences in community names as well as a discrepancy between coordinates on Google maps and another mapping system are being blamed for the failure to alert some residents to a deadly Colorado wildfire.
+A document released Thursday by the Jefferson County Sheriff's Office indicates that mapping software used by FirstCall Network Inc. didn't recognize where to map homes with different towns listed.
+Those homes were placed in an 'unknown' category and didn't receive warnings. The family of one woman believed killed in the fire say that's why she didn't an automated call.
+Some who registered their cellphones online didn't get a warning because of a discrepancy between where the provided Google map placed their home and the system used to map landlines.
+First Call says it's working to correct problems.
+Copyright 2012 Associated Press
+All Rights Reserved

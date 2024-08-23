@@ -1,0 +1,12 @@
+Government Warns Small Firms of Year 2000 Glitch
+04/01/1998
+The Washington Post
+fv
+The Clinton administration yesterday expanded its efforts to sound an alarm over the year 2000 computer crisis beyond government agencies, warning millions of small businesses to tackle the date glitch quickly.
+The exhortation by John A. Koskinen, the White House's point man on the problem, reflects a new administration strategy in addressing the issue. Instead of concentrating solely on the government's problem -- which the Office of Management and Budget estimates will cost at least $4.7 billion to fix -- Koskinen and agency chiefs also are aiming their sights at private sector operations.
+Koskinen said small businesses could be particularly challenged because, unlike larger corporations, they usually do not have in-house computer systems departments to make the repairs.
+Because many small firms will have to rely on outside contractors to make the fix, Koskinen urged them to address the issue soon: "We need to make sure that senior executives in organizations -- whether they are Fortune 500 companies or mom-and-pop stores -- are asking the right questions."
+The date problem stems from how many computer systems use a two-digit dating system that assumes 1 and 9 are the first two digits of the year. Without reprogramming, the systems will recognize "00" not as 2000 but 1900, which could cause the computers to stop working or to start generating erroneous data.
+Koskinen said the administration is expanding its focus beyond federal agencies because "it has been made clear that people are looking to the federal government to play a leadership role here."
+Following an executive order issued by President Clinton in February, Koskinen is forming a year 2000 conversion council that will include representatives from federal agencies who are following date-repair work in their offices and across the economic sectors they oversee. He expects the Energy Department's member, for instance, to track conversion activities also at private electric utilities and nuclear power plants.
+The administration did not announce new programs yesterday to help small businesses make the repairs. Instead, Koskinen and Small Business Administration director Aida Alvarez encouraged the firms to consult the SBA's World Wide Web site, www.sba.gov[http://www.sba.gov/], which includes a flow chart to help plan date-repair tasks and a database of companies that will perform the repairs.

@@ -1,0 +1,13 @@
+GALILEO GOES TO `SAFE MODE' AS ENGINEERS IRON OUT GLITCH
+08/27/1996
+Los Angeles Daily News*Daily News
+pq
+Trouble aboard the Galileo spacecraft, now orbiting Jupiter, has caused it to turn itself off and phone home for help.
+Galileo's computers put the probe on "safe mode" Saturday after encountering a glitch, according to the National Aeronautics and Space Administration's Jet Propulsion Laboratory in Pasadena.
+"Basically, it phones home," said Torrence V. Johnson, who is project scientist for Galileo's two-year, unmanned mission to Jupiter and its moons.
+"Usually, these things turn out to be false alarms," Johnson said.
+The spacecraft Galileo, named after the astronomer who discovered the four great moons of Jupiter in 1610, has gone into safe mode 10 other times since its launch in 1989.
+Scientists expect Galileo to be turned on again by Sept. 1, in time for its second pass by the Jovian moon Ganymede on Sept. 6.
+Johnson said the shutdown was not altogether unexpected because of a previous software fix that was "at least as tricky as taking a dozen computers and loading Windows 95 on them - and then expecting them to work together."
+At the time that Galileo went into safe mode, it was transmitting the last of images that had been sent previously but in a different form. Johnson said the images would be re-sent.
+Already, Galileo has probed Jupiter's Red Spot and discovered evidence of water on one of its moons, Europa.

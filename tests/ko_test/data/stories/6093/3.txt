@@ -1,0 +1,11 @@
+API: Oil industry making good progress on Year 2000 problem
+10/05/1998
+Oil & Gas Journal
+ln
+Oil and gas officials told a Federal Energy Regulatory Commission meeting that the industry is making good progress on the Year 2000 computer problem.
+The American Petroleum Institute said a recent survey of more than 800 oil and gas companies found that nearly a third of respondents expect to be 'Y2K-ready' by December, 73% will be ready by June 1999, and all respondents will be ready by December 1999.
+The survey said 36% of oil and gas industry respondents are in the process of fixing computer software to accommodate the Year 2000 glitch. Another 19% are in the process of validating the results of their work.
+Regarding embedded hardware systems, 28% of industry respondents said they are assessing the problems, while 26% are in the process of fixing their systems. And 14% are in the process of validating the results of their work.
+Oil and gas industry officials told FERC the commission needs to work on the Year 2000 dilemma with the electric power generation, transmission, and distribution industries and with the telecommunications industry because of their interdependence with the oil and gas industries.
+API is coordinating oil industry Year 2000 mitigation efforts, and the Natural Gas Council is coordinating for the gas sector. Activities include: sharing information on technical issues, testing, and contingency planning; identifying and resolving legal issues, including legislation; and communicating within the industries and with the public.
+Copyright 1998 PennWell Publishing Company

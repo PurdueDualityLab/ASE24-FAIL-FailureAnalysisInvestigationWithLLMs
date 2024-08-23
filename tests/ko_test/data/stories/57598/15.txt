@@ -1,0 +1,17 @@
+Global Finance: Server Problem Caused Tokyo Glitch
+02/03/2012
+The Wall Street Journal*Wall Street Journal
+fv
+TOKYO -- The Tokyo StockExchange's suspension of trading of 241 securities Thursday morning lasted 2 1/2 hours and was attributed to a computer problem.
+The suspension, which included blue-chip stocks such as Sony Corp. and Hitachi Ltd.,was the first major trading disruption at the world's third-largest exchange since it upgraded its dealing system in early 2010. An earlier series of embarrassing technical errors had forced the exchange to replace its outdated trading platform.
+The halt, announced just before the market opened, affected 222 companies, a group that also included retailer Aeon Co. and Konica Minolta Holdings Inc.The trouble hit other instruments, too, including exchange-traded funds, real-estate investment trusts and convertible bonds. Overall, about 10% of the exchange's 2,459 listed securities were affected.
+A problem at one of the eight servers the TSE uses to distribute stock data was to blame, the exchange said.
+"If I describe the causeof the trouble in simple terms, a switching of servers didn't take place properly following a hardware problem at the information-distribution system at our bourse," said Hiroaki Uji, who is in charge of information-technology development at the exchange. Employees were still investigating why the switching didn't take place, and it remains unclear why the first server failed, he said.
+Trading in all thesuspended shares resumed for the afternoon session. The Nikkei Stock Average closed up 0.8% at 8876.82 amid the third-heaviest trading volume of the year.
+Some market analysts said the trouble may raise fresh concerns about the TSE's planned merger with rival Osaka Securities Exchange Co. in January 2013. One hurdle there is the integration of the different trading platforms.
+Traders were given little time to warn clients, both before the market opened and the restart of trading.
+"Within a short time, myteam scrambled to give multiple update announcements about the market data outage to many clients," said Michael Mollemans, head of advanced execution services for Japan at Credit Suisse Securities.
+"It was definitely a frantic day," he said.
+---
+Brad Frischkorn, Andrew Joyce, and Hiroyuki Kachi contributed to this article.
+License this article from Dow Jones Reprint Service[http://www.djreprints.com/link/DJRFactiva.html?FACTIVA=wjco20120203000048]

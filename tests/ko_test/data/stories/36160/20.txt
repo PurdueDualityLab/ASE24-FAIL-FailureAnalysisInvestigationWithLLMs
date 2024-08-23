@@ -1,0 +1,11 @@
+LEAD: Japan postpones satellite launch due to technical glitch
+01/17/2006
+Kyodo News
+fv
+(EDS: ADDING DETAILS, POSSIBLE NEW LAUNCH DATE)
+The Japan AerospaceExploration Agency (JAXA) said Wednesday it has postponed the launch of a land-observation satellite, originally scheduled for Thursday, due to a technical glitch in the launch vehicle.
+The No. 8 version of theH-2A rocket carrying the Advanced Land Observing Satellite was set to be launched from the Tanegashima Space Center in Kagoshima Prefecture on Thursday morning.
+One of the devices fortransmitting data on flight and rocket conditions to the ground was found to be malfunctioning, the agency said.
+The new launch date isexpected to be Saturday at the earliest, the agency said. Replacement work would require one day while the weather is forecast to deteriorate Friday, it added.
+The transmitters will be used for the first time. The malfunction did not reoccur after rebooting but since the cause of the glitch was unknown, the agency decided to replace a transmitter.
+The satellite, dubbedDaichi, is intended to orbit about 690 kilometers above the earth and capture images of disaster-hit regions.

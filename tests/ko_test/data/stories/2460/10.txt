@@ -1,0 +1,12 @@
+New Computer Problem Hits Jupiter Mission
+08/26/1996
+The Associated Press*Copyright 1996 Associated Press All Rights Reserved The Associated Press
+fv
+LOS ANGELES (AP) - Another computer glitch aboard the troubled Galileo spacecraft was puzzling engineers Monday, 10 days before the probe was scheduled to pass by one of Jupiter's moons.
+"We've got a ways to go to figure out what happened here," said William O'Neil, project manager at NASA's Jet Propulsion Laboratory in Pasadena.
+Galileo recorded images of the moon Ganymede during a June 26 flyby, one of 10 encounters with Jupiter's satellites planned during 11 orbits of the giant planet it will complete during a two-year, $1.3 billion mission.
+Residual data from the flyby was being transmitted from a recorder Saturday when a computer problem Saturday knocked Galileo into "safe mode," leaving only essential functions running. It was the 11th "safe mode" for the spacecraft since it was launched in 1989.
+Engineers believe the problem was caused by a mistake in a sequence a computer was ordered to perform, O'Neil said. Galileo should be ready to gather more information during a Sept. 6 flyby of Ganymede, but transmitting the data home may have to wait for a fix.
+Galileo was launched in 1989 and reached Jupiter last December, beginning a two-year exploration of the solar system's largest planet and its moons.
+Earlier problems affected Galileo's tape recorder and main antenna, which reduced the craft's capacity for capturing and sending home pictures.
+"Nothing much surprises us anymore, so the team is very skilled and reacts beautifully to these kinds of things," O'Neil said. "It's not something (in which) you could take the owner's manual off the shelf and fix."

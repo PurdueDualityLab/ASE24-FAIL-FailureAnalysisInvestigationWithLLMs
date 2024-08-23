@@ -1,0 +1,22 @@
+UPDATE 3-Tokyo bourse suffers glitch, angers traders
+02/01/2012
+Reuters News
+fv
+* Bourse blames data distribution server for disruption
+* First major technical problem for cash shares in six years
+* Sony among shares that could not trade Thursday morning
+* Problem resolved by afternoon, no market impact
+(Adds comment from stock exchange, closing price)
+By Hideyuki Sano and Mari Saito
+TOKYO, Feb 2 (Reuters) - The Tokyo Stock Exchange suffered a major glitchin cash-share trading for the first time in six years on Thursday that prevented morning trade in some 240 shares and instruments, including Sony Corp, and provoked anger among traders.
+The trouble, a problem with a server for the data distribution system, meant there was no morning trade in Sony one day after it announced a new chief executive and ahead of the release of quarterly results later in the day.
+Hiroaki Uji, director ofIT development at the Tokyo Stock Exchange, told a news conference that the exchange was still investigating the problem but ruled out the possibility of cyber terrorism when asked by reporters.
+The glitch affected 153 Topix shares, some exchange-traded funds (ETFs), real estate investment trusts (REITs) and convertible bonds.
+"This is absolutely ridiculous. Absolutely ridiculous. On a day like today, it's earnings season for god's sake," a trader said.
+The issue was resolved by the start of the afternoon session at 12:30 p.m. (0330 GMT).
+The Nikkei average ended0.8 percent higher at 8,876.82 but trading volume did not appear to suffer too much. Volume hit its highest level since Jan. 20, with 2.25 billion shares changing hands on the main board.
+"It's difficult tounderstand broader market moves without seeing some of these major blue chips (in the morning session), although the Nikkei gains seem in line with futures prices," said Toshiyuki Kanayama, senior market analyst at Monex Inc.
+The market did not markedly shift on the resumption, and an hour into the session the Nikkei was up 0.9 percent.
+Traders said it was themost extensive trouble for Tokyo cash shares since Nov. 1, 2005, when trading in 2,520 instruments were suspended due to system problems.
+"The TSE has damaged confidence as it has caused trouble at the peak of earning season," said a trader at a Japanese brokerage.
+(Reporting by Hideyuki Sano and Mari Saito; Editing by John Mair and Chris Gallagher)

@@ -1,0 +1,17 @@
+International Space Station cargo resupply makes good ProgressProgress docks with ISS successfully
+07/13/2010
+Flight International
+fv
+manned missions gayle putrich washington dc
+After an aborted first attempt on 2 July, the Russian cargo ship Progress 38 successfully docked with the International Space Station on a second pass, say NASA officials. The manoeuvre took 17min, it adds.
+The cause of the aborted docking was most likely a glitch in the Toru teleoperated rendezvous and docking system, provoked by "the activation of the Toru 'Klest' TV transmitter, which created interference with Toru itself", NASA says, stressing that the original incident was not a matter of losing control, only a loss of contact.
+Progress was under the control of the KURS autopilot with Toru in "hot standby", but the failure of Toru "generated the command 'cancel dynamic operations', which aborted KURS automatic rendezvous mode and switched Progress to a safe, passive flightpath, as designed."
+The Toru TV system is designed to provide a view of the docking target to the ISS commander in the event of a manual docking. Toru was not activated during last week's successful docking, which was fully automated.
+"It never posed any danger to the space station or the astronauts," NASA says. "The flight trajectory prevents them from colliding." The cargo vehicle was about 2km (1.2 miles) away from the ISS at the time the docking was aborted and communications were lost almost half an hour before the scheduled hook-up.
+The Progress brought 870kg (1,918lb) of propellant, 50kg of oxygen, 100kg of water and 1,210kg of equipment for experiments, spare parts and other supplies to the station.
+The crew - two Americans and a Russian - had previously arrived via a Soyuz TMA-19 spacecraft launched on 15 June from Baikonur cosmodrome in Kazakhstan. The launch marked the 100th trip to the space station.
+To make room for the new Progress supply ship, the Expedition 24 crew relocated their Soyuz TMA-19 spacecraft to the Rassvet module on 26 June. That manoeuvre involved boarding the spacecraft, undocking, and manually piloting the vehicle to its new parking slot.
+It was the first docking to Rassvet, which was delivered to the station in May on the STS-132 mission of Space Shuttle Atlantis.
+Another Progress cargo shipment is set to arrive in September followed in November by Space Shuttle Discovery, in what will be the Shuttle programme's penultimate launch.
+See Spaceflight P38
+The Soyuz TMA-19, right, was moved to make way for Progress

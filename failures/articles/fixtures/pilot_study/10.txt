@@ -1,0 +1,54 @@
+U.S. Will Investigate Tesla’s Autopilot System Over Crashes With Emergency Vehicles
+It will be the broadest look yet at Tesla’s assisted-driving technology. The National Highway Traffic Safety Administration has the authority to force a recall or require new safety features.
+
+The U.S. auto safety regulator said Monday that it had opened a broad investigation of the Autopilot system used in hundreds of thousands of Tesla’s electric cars.
+
+The investigation was prompted by at least 11 accidents in which Teslas using Autopilot, an assisted-driving system that can steer, accelerate and brake on its own, drove into parked fire trucks, police cars and other emergency vehicles, the safety agency, the National Highway Traffic Safety Administration, disclosed. Those crashes killed one woman and injured 17 people.
+
+Safety experts and regulators have been scrutinizing Autopilot since the first fatal accident involving the system was reported in 2016, in which the driver of a Tesla Model S was killed when his car struck a tractor-trailer in Florida. In that case, the safety agency concluded there were no defects — a position it stuck to for years even as the number of crashes and deaths involving Autopilot climbed.
+
+On Monday, the agency appeared to change course. The investigation is the broadest look yet at Autopilot and at potential flaws that could make it and the Teslas that operate on it dangerous.
+
+Depending on its findings, the safety agency could force Tesla to recall cars and make changes to the system. It also has the authority to force automakers to add safety devices and features to their cars, such as when it required rearview cameras and airbags.
+
+One critical issue that investigators will focus on is how Autopilot ensures that Tesla drivers are paying attention to the road and are prepared to retake control of their cars in case the system fails to recognize and brake for something. The company’s owner’s manuals instruct drivers to keep their hands on the steering wheel, but the system continues operating even if drivers only occasionally tap the wheel.
+
+“Driver monitoring has been a big deficiency in Autopilot,” said Raj Rajkumar, an engineering professor at Carnegie Mellon University who focuses on autonomous vehicles. “I think this investigation should have been initiated some time ago, but it’s better late than never.”
+
+Tesla, the world’s most valuable automaker by far, and its charismatic and brash chief executive, Elon Musk, have said Autopilot is not flawed, insisting that it makes cars much safer than others on the road. They have dismissed warnings from safety experts and the National Transportation Safety Board that have been critical of how the company has designed Autopilot.
+
+The company and Mr. Musk, who comments frequently on Twitter, did not respond to messages seeking comment on Monday and issued no public statements about the new investigation.
+
+Mr. Musk has previously been dismissive of the idea that Tesla’s advanced driver-assistance system ought to monitor drivers, and he said in 2019 that human intervention could make such systems less safe.
+
+His views stand in stark contrast to the approach General Motors and other automakers have taken. G.M., for example, offers a driver-assistance system known as Super Cruise on a few models. The system allows drivers to take their hands off the steering wheel but uses an infrared camera to monitor drivers’ eyes to ensure that they are looking at the road.
+
+The safety agency said it would also examine how Autopilot identifies objects on the road and under what conditions Autopilot can be turned on. Tesla tells drivers to use the system only on divided highways, but it can be used on smaller roads and streets. G.M. uses GPS to restrict Super Cruise’s use to major highways that do not have oncoming or cross traffic, intersections, pedestrians and cyclists.
+
+Tesla’s Autopilot system appears to have difficulty detecting and braking for parked cars generally, including private cars and trucks without flashing lights. In July, for example, a Tesla crashed into a parked sport utility vehicle. The driver had Autopilot on, had fallen asleep and later failed a sobriety test, the California Highway Patrol said.
+
+The safety agency’s investigation will look at all models of Teslas — Y, X, S and 3 — from the 2014 to 2021 model years, totaling 765,000 cars, a large majority of the vehicles the company has made in the United States.
+
+The new investigation comes on top of reviews the safety agency is conducting of more than two dozen crashes involving Autopilot. The agency has said eight of those crashes resulted in a total of 10 deaths. Those investigations are meant to delve into the details of individual cases to provide data and insights that the agency and automakers can use to improve safety or identify problem areas.
+
+Tesla has acknowledged that Autopilot can sometimes fail to recognize stopped emergency vehicles. And safety experts, videos posted on social media and Tesla drivers themselves have documented a variety of weaknesses of Autopilot.
+
+In some accidents involving the system, drivers of Teslas have been found asleep at the wheel or were awake but distracted or disengaged. A California man was arrested in May after leaving the driver’s seat of his Tesla while it was on Autopilot; he was sitting in the back of his car as it crossed the San Francisco-Oakland Bay Bridge.
+
+At least one person died in one of the 11 crashes with emergency vehicles that are under investigation by the agency. Just days after Christmas in 2019, Derrick and Jenna Monet were driving on Interstate 70 in Indiana west of Indianapolis when their Tesla slammed into a parked fire truck, the Indiana State Police said at the time. Mrs. Monet, who was 23 years old and a passenger in the Tesla Model 3, died. Mr. Monet, who was driving the car, could not be reached for comment.
+
+Some of the other crashes resulted in serious injuries. In February, local police officers in Montgomery County, Texas, north of Houston, were conducting a traffic stop when one of their vehicles was hit by a Tesla. Several officers and a dog were treated for minor injuries, and a person at the scene was taken to the hospital with severe injuries, according to a local official. The Tesla driver was arrested on suspicion of driving under the influence. In another crash, last year in Nash County, N.C., near Raleigh, the sheriff’s office said on Facebook that the Tesla driver had been watching a movie.
+
+The National Transportation Safety Board, which investigates accidents but cannot force automakers to make changes, has called on the National Highway Traffic Safety Administration to take stronger action on regulating Autopilot and other advanced driver-assistance systems. Last year, the transportation safety board said in a report that Tesla’s “ineffective monitoring of driver engagement” contributed to a 2018 crash that killed Wei Huang, the driver of a Model X that hit a highway barrier in Mountain View, Calif.
+
+After that report came out, the transportation safety board’s chairman at the time, Robert L. Sumwalt, called on the highway safety administration “to fulfill its oversight responsibility to ensure that corrective action is taken.”
+
+“It’s time to stop enabling drivers in any partially automated vehicle to pretend that they have driverless cars,” he said.
+
+In a statement on Monday, the transportation safety board said NHTSA’s investigation of Autopilot was “a positive step forward for safety.”
+
+Auto safety experts have often criticized the highway safety agency for doing a poor job of investigating deadly auto defects, such as a faulty ignition switch used by G.M. and defective airbags made by Takata. Several of the agency’s top leaders have come from the auto industry or have joined the industry after they left their government jobs.
+
+President Biden in January appointed Steven Cliff, previously the deputy executive officer of the California Air Resources Board, as the agency’s acting head. Mr. Cliff has spent much of his career on air pollution and vehicle emissions.
+
+The first Tesla fatality in the United States occurred in 2016 when Joshua Brown, an Ohio man and a former member of the Navy SEALs, was killed in Florida. His Model S was on Autopilot on a state highway when a tractor-trailer began crossing the road in front of him. Tesla said Autopilot had failed to recognize the truck because it was white and the sky behind it was bright.

@@ -1,0 +1,20 @@
+FAA Traces Radar Glitch to Software;Passengers stranded in Bay Area when data from Mexico didn't get through
+10/21/2000
+The San Francisco Chronicle
+ln
+The radar failure that grounded flights across the United States and stranded passengers at Bay Area airports was traced yesterday to a glitch in software that reads data from Mexican air traffic controllers.
+The Federal Aviation Administration said yesterday that the glitch happened after a computer software upgrade in a Southern California FAA center. Air traffic control radar failed twice Thursday morning, causing gridlock at the nation's airports and stranding thousands of passengers while planes destined for the Southwest were held on the ground.
+FAA spokesman Jerry Snyder said yesterday that the problem resulted from a missing 'logic pathway' in the new software, which had been installed successfully at more than a dozen other FAA centers.
+But the new software installed Wednesday night was unable to read some flight data Mexican air traffic controllers were sending to counterparts in the United States, Snyder said.
+Unlike the computerized system in the United States, Mexican controllers manually type data for planes that are handed off to U.S. controllers. The new software was unable to read some of the data and failed, he said.
+'The computers didn't receive some of the input, and it aborted,' he said.
+The malfunction took place at the FAA's Los Angeles Center, located in the Mojave Desert community of Palmdale. The center covers a vast amount of air space that includes Southern California to the Mexican border and parts of Nevada and Utah.
+The radar system failed twice yesterday morning. A backup took over and planes continued to show up on radar, Snyder said.
+However, the backup system does not have the ability to transfer information such as a flight's altitude and speed to controllers in other regional centers. Controllers were forced to jot down information and telephone other centers as planes already in the air were handed off.
+Snyder said engineers will have to work on the software program so it will accept data from Mexican controllers. They will probably not try to install it again until after the busy Thanksgiving holiday, he said.
+Dozens of flights at San Francisco, San Jose and Oakland international airports were canceled or delayed Thursday. The gridlock eased late in the day as the FAA began to stagger flights into Los Angeles.
+'It took us most of the evening' to return to normal operations, said Cyndy Johnson, spokeswoman for Oakland airport.
+Although the radar problem was over, fog descended on SFO yesterday afternoon, forcing the airport to close one of its two arrival runways. Los Angeles International Airport was also suffering through bad weather.
+As a result, SFO spokesman Ron Wilson said, flights between SFO and LAX were averaging delays of well over an hour and in some cases nearly three hours.
+E-mail Marshall Wilson at marshallwilson@sfchronicle.com.
+Copyright 2000 The Chronicle Publishing Co.

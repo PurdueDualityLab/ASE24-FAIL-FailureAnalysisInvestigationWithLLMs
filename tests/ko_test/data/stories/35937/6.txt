@@ -1,0 +1,11 @@
+NSA won't say why Web site was inaccessible: [All Editions]
+01/14/2006
+The Record
+pq
+WASHINGTON - The Web site for the National Security Agency, which has been under scrutiny over domestic wiretaps it conducted without warrants, was inaccessible for more than seven hours Friday.
+A spokesman, Don Weber, declined to say whether the site suffered an attack by hackers or a technical glitch. Speaking shortly after the site went back online, he said only that employees had worked to restore access.
+Internet experts at Keynote Systems Inc., which monitors Web traffic around the world, said access to the NSA's Web site by visitors across the United States was severely limited.
+"This condition would indicate to me that either the site is being overwhelmed with legitimate users or a [denial-of-service] attack," said Shawn White, the director for Keynote's external operations.
+The NSA, known for eavesdropping and code breaking, also helps protect computer systems deemed vital to the nation's security, such as those involved in intelligence, cryptography and weapons.
+"This illustrates that even technologically savvy people have a hard time fighting off denial-of-service attacks," said Alan Paller, research director for the SANS Institute in Bethesda, Md., a computer security organization.
+Internet records indicate the NSA's Web site is contracted to Lingual Information System Technologies Inc. of Columbia, Md. An operator there said no executives were available to comment on the outage because they had left for the holiday weekend.

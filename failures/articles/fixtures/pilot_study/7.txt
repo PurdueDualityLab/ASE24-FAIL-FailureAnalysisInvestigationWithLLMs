@@ -1,0 +1,74 @@
+‘It Happened So Fast’: Inside a Fatal Tesla Autopilot Accident
+A 2019 crash in Florida highlights how gaps in Tesla’s driver-assistance system and distractions can have tragic consequences.
+
+George Brian McGee, a finance executive in Florida, was driving home in a Tesla Model S operating on Autopilot, a system that can steer, brake and accelerate a car on its own, when he dropped his phone during a call and bent down to look for it.
+
+Neither he nor Autopilot noticed that the road was ending and the Model S drove past a stop sign and a flashing red light. The car smashed into a parked Chevrolet Tahoe, killing a 22-year-old college student, Naibel Benavides.
+
+One of a growing number of fatal accidents involving Tesla cars operating on Autopilot, Mr. McGee’s case is unusual because he survived and told investigators what had happened: He got distracted and put his trust in a system that did not see and brake for a parked car in front of it. Tesla drivers using Autopilot in other fatal accidents have often been killed, leaving investigators to piece together the details from data stored and videos recorded by the cars.
+
+“I was driving and dropped my phone,” Mr. McGee told an officer who responded to the accident, according to a recording from a police body camera. “I looked down, and I ran the stop sign and hit the guy’s car.”
+
+Mr. McGee’s statements to investigators, the accident report and court filings paint a tragic picture of overreliance on technology. They also strongly suggest that Autopilot failed at a basic function — automatic emergency braking — that engineers developed years ago. Many newer cars, including models much more affordable and less sophisticated than Teslas, can slow or stop themselves when an accident seems likely.
+
+On Monday, the National Highway Traffic Safety Administration said it had opened a formal investigation into Autopilot. The agency said it was aware of 11 accidents since 2018 involving Teslas that crashed into police, fire and other emergency vehicles with flashing lights parked on roads and highways. In one of them, a Tesla plowed into a fire truck in December 2019 in Indiana, killing a passenger in the car and seriously injuring the driver.
+
+Distracted driving can be deadly in any car. But safety experts say Autopilot may encourage distraction by lulling people into thinking that their cars are more capable than they are. And the system does not include safeguards to make sure drivers are paying attention to the road and can retake control if something goes wrong.
+
+Mr. McGee, who declined to comment through his lawyer, told investigators that he was on the phone with American Airlines making reservations to fly out for a funeral. He called the airline at 9:05 p.m. on April 25, 2019. The call lasted a little more than five minutes and ended two seconds after his Model S crashed into the Tahoe, according to a Florida Highway Patrol investigation. Florida law makes it illegal to text while driving, but the state does not prohibit drivers from talking on a hand-held cellphone except in school or work zones.
+
+Mr. McGee, who was close to his home in Key Largo after driving roughly 100 miles from his office in Boca Raton, called 911 and then spoke to police officers who responded to the accident. In both sets of recorded conversations, he sounds shaken but speaks clearly. He said he had looked up, seen that he was about to hit the Tahoe and tried to stop the car.
+
+“When I popped up and I looked and saw a black truck — it happened so fast,” he told the officers, at one point referring to Autopilot as “stupid cruise control.”
+
+Tesla, the world’s most valuable automaker, and its chief executive, Elon Musk, describe Autopilot as a way to make driving easier and safer.
+
+Despite its name, Autopilot does not make Teslas autonomous. The auto industry classifies it, and similar systems offered by General Motors and other companies, as Level 2 self-driving. Cars that can operate autonomously at all times would be Level 5, a distinction that no vehicle on sale today is close to achieving.
+
+Tesla’s critics contend that Autopilot has several weaknesses, including the ability for drivers like Mr. McGee to use it on local roads. With the help of GPS and software, G.M., Ford Motor and other automakers restrict their systems to divided highways where there are no stop signs, traffic lights or pedestrians.
+
+Tesla owners’ manuals warn customers not to use Autopilot on city streets. “Failure to follow these instructions could cause damage, serious injury or death,” the manual for 2019 models says.
+
+“The technology exists to limit where Autopilot can operate, but Tesla allows drivers to use it on roads it shouldn’t operate on,” said Jason K. Levine, executive director of the Center for Auto Safety, a Washington nonprofit group. “They made a corporate decision to do that, and it’s resulted in preventable tragedies. That should be enraging.”
+
+Mr. Musk and Tesla’s associate general counsel, Ryan McCarthy, did not respond to emails seeking comment.
+
+Regulators are looking into other potential Autopilot flaws. The system, which includes cameras, radar and software, sometimes fails to recognize other vehicles and stationary objects. In July, a Tesla ran into a sport utility vehicle parked at the site of an earlier accident on a highway near San Diego. The driver had Autopilot on, fell asleep and, later, failed a sobriety test, the police said. This year, a California couple sued Tesla in connection with a 2019 crash that killed their 15-year-old son.
+
+The National Highway Traffic Safety Administration is investigating more than two dozen crashes that occurred when Autopilot was in use. The agency said it was aware of at least 10 deaths in those accidents.
+
+Mr. McGee, 44, is a managing partner at a small private equity firm, New Water Capital. He bought his Model S, a performance model, in 2019.
+
+On the night of the accident, he left Boca Raton and headed south over major highways. South of Miami, he got on U.S. Route 1, took a narrow toll bridge from the mainland to Key Largo and continued on Card Sound Road, a two-lane road that ends at County Road 905. Mr. McGee had Autopilot on, and the speed was set at 44 miles per hour, according to data that the police retrieved from the car.
+
+About the same time, Ms. Benavides was on a date with Dillon Angulo. He was driving his mother’s black Tahoe, and pulled off to the wide shoulder of County Road 905 near Card Sound Road. Mr. Angulo stopped some 44 feet from the edge of the intersection, parked on a gravel strip and stepped out. Ms. Benavides got out of the passenger seat and walked around to the driver’s side, according to the investigation.
+
+Data from the Tesla shows the Model S accelerated from 44 to 60 m.p.h. a few seconds before crashing into the Tahoe. It is unclear if Autopilot or Mr. McGee raised the speed. Vehicle data and skid marks indicated Mr. McGee jammed on the brakes less than a second before impact. He told the police that he couldn’t tell how close he was to the intersection when he started looking for his phone.
+
+Ms. Benavides’s estate sued Tesla in state court in Miami-Dade County, claiming the company’s cars are “defective and unsafe.” Todd Poses, a Miami lawyer representing the estate, said Mr. McGee was expected to give a deposition in that case, which has been transferred to U.S. District Court in Miami. A separate lawsuit that the estate filed against Mr. McGee was settled, Mr. Poses said, but he wouldn’t disclose the terms.
+
+In court, Tesla has filed a brief response denying the estate’s claims without elaborating. In similar cases, the company has said any blame rests solely with the drivers of its cars.
+
+As in other crashes involving Autopilot, the system appeared not to have done much to make sure Mr. McGee was paying attention to the road.
+
+Tesla recently activated an in-car camera in certain newer models to monitor drivers, but it can’t see in the dark. Tesla owners have posted videos on YouTube showing that the camera sometimes fails to notice when drivers look away from the road and that it can be fooled if they cover the lens. When the camera notices a Tesla driver looking away from the road, it sounds a warning chime but does not turn Autopilot off.
+
+G.M. and Ford systems use infrared cameras to monitor drivers’ eyes. If drivers look away for more than two or three seconds, warnings remind them to look straight ahead. If drivers fail to comply, the G.M. and Ford systems will shut off and tell drivers to take control of the car.
+
+Mr. Musk has said monitoring drivers while cars operate on systems like Autopilot may not be needed because machines are much safer than people. “Having a human intervene will decrease safety,” he said in an April 2019 interview with a Massachusetts Institute of Technology researcher.
+
+Ms. Benavides emigrated from Cuba in 2016 and lived with her mother in Miami. She worked at a Walgreens pharmacy and a clothing store while attending community college. An older sister, Neima, 34, who is executor of the estate, said Naibel had been working to improve her English in hopes of getting a college degree.
+
+“She was always laughing and making people laugh,” Neima Benavides said. “Her favorite thing was to go to the beach. She would go almost every day and hang out with friends or just sit by herself and read.”
+
+Neima Benavides said she hoped the lawsuit would prod Tesla into making Autopilot safer. “Maybe something can change so other people don’t have to go through this.”
+
+Ms. Benavides had just started dating Mr. Angulo when they went fishing on Key Largo. That afternoon, she sent her sister a text message indicating she was having a good time. At 9 p.m., Ms. Benavides called her mother from Mr. Angulo’s phone to say she was on the way home. She had lost her phone that day.
+
+On the 911 call, Mr. McGee reported that a man was on the ground, unconscious and bleeding from the mouth. Several times Mr. McGee said, “Oh, my God,” and shouted “Help!” When an emergency operator asked if the man was the only injured person, Mr. McGee replied, “Yes, he’s the only passenger.”
+
+Mr. Angulo was airlifted to a hospital. He later told investigators that he had no recollection of the accident or why they had stopped at the intersection.
+
+An emergency medical technician spotted a woman’s sandal under the Tahoe and called on others to start searching the area for another victim. “Please tell me no,” Mr. McGee can be heard saying in the police video. “Please tell me no.”
+
+Ms. Benavides’s body was found about 25 yards away.

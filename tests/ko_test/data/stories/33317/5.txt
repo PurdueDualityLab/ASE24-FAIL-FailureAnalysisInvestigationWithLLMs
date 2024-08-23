@@ -1,0 +1,19 @@
+More Customer Data Missing -- Retail Ventures and Ameritrade report data mishaps, but a new standard backed by credit-card companies could raise the bar on data protection
+04/25/2005
+InformationWeek
+ln
+The company reported last week that personal information from 108 stores of its DSW Shoe Warehouse subsidiary was stolen. When it first reported the theft last month, it said 103 stores were involved. Information, including account numbers, names, and transaction amounts, was stolen on 1.4 million credit cards used to make purchases at DSW stores, mostly between November and February.
+Information also was stolen on 96,000 checking transactions, including checking account and driver's license numbers. However, customer names, addresses, and Social Security numbers weren't obtained, Retail Ventures says.
+Earlier this month, Polo Ralph Lauren Corp. revealed that a software glitch was to blame for a security breach that prompted HSBC North America to notify holders of its General Motors-branded MasterCard that their personal information may have been stolen. Polo Ralph Lauren repaired the glitch and says there's no evidence that any theft has occurred.
+Not only are companies compromising security because of credit-card snafus, they're also misplacing data. Last week, Ameritrade Inc. said it misplaced four backup tapes. Three were recovered, but the fourth remains missing. The online-trading company has alerted 200,000 current and former customers whose information was stored on the tape. The incident echoes a case involving Bank of America Corp., which said in February that it lost an undisclosed number of backup tapes.
+Earlier this year, the major card companies-American Express, Diners Club International, Discover, JCB International Credit Card, MasterCard International, and Visa International-handed down a set of requirements for securing cardholder information based on the Payment Card Industry Data Security Standard, which became effective in January. Card companies such as Visa and MasterCard have set compliance dates for the standard.
+The card companies have instructed merchants not to store the contents of a card's magnetic stripe, or the three-digit card-validation code on the back of a card. They also have instructed merchants to store all sensitive data in a secure area limited to authorized personnel.
+Each card company has implemented its own program under the standard; MasterCard's, for example, is called Site Data Protection, and Visa's is called Cardholder Information Security Program.
+The programs categorize merchants based on annual transaction volume. Visa, for example, defines 'level one' merchants as those that process more than 6 million transactions a year or have suffered a hacking attack. Level-one merchants must conduct an annual on-site security audit, a quarterly network scan, and an annual self-assessment questionnaire.
+It's critical that retailers take every precaution to protect sensitive customer information, Financial Insights analyst Sophie Louvel says. 'That information should be encrypted and stored at an off-site database,' she says.
+Maintaining confidential data at a facility without proper safeguards is a questionable policy, exposing the retailer to liabilities, says Gary Praegitzer, network administrator at privately owned Jelly Belly Candy Co., which sells its products wholesale as well as directly through the Web and a small number of retail stores. 'I can't think of a valid reason why any brick-and-mortar business would want to risk it,' he says.
+Jelly Belly has installed software from Qualys Inc. to protect its Web site from hackers and to comply with MasterCard's Site Data Protection program. The Web site generates about 1% of the company's $150 million revenue.
+STEVEN MARLIN (smarlin@cmp.com)
+http://informationweek.com/
+Copyright (c) 2005 CMP Media LLC. All rights reserved.
+Copyright 2005 CMP Media LLC

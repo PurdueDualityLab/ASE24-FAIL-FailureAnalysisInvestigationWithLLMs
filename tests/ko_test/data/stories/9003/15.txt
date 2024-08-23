@@ -1,0 +1,16 @@
+ORACLE 8 VULNERABILITIES HIT SPOTLIGHT.
+05/19/1999
+Network News
+ln
+'Setuid' files accessible to users could enable them to obtain system manager privileges.
+Security vulnerabilities that could allow users to upgrade their operating system privileges to that of systems manager have been uncovered in Oracle 8.
+The problem occurs because some of the 'setuid' executable files in the database application are accessible.
+Internet Security Systems (ISS) said this glitch is only open to local attack, but with a majority of hacking offences committed internally, it is not something that should be underestimated.
+Kevin Black, UK sales director for ISS, said: 'Coupled with careless administration or poor configuration, the vulnerability poses a medium to high security risk.'
+Gary Pugh, UK data server marketing manager for Oracle, responded: 'A user ID and password is required for such exploitation, such as a backdoor left by a disgruntled employee.' Oracle has protected itself against such attacks by introducing a secure internet directory service that enables it to delete all credentials of a single user from the one location.
+There have been no reported occurrences of security breaches due to this issue. But Ronan Miles, deputy chairman of the Oracle User Group, said: 'Oracle users may not admit to falling foul of this security issue because no-one wants to admit to running a vulnerable system.'
+Black added: 'Due to the nature of the problem, it may be impossible to detect intruders on affected systems, given the level of control they have access to.'
+Oracle is attempting to notify users via the Oracle Support website and is offering a patch at www.oracle.com/support/elec_sup. Oracle is incorporating the patch into future releases.
+www.oracle.com/support
+www.iss.net.
+Copyright 1999 VNU

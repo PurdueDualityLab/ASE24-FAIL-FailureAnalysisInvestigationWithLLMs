@@ -1,0 +1,22 @@
+Nothing happened and it's all good; The Internet survived the first global test of IPv6, reports HELLEN TAN
+06/15/2011
+The Straits Times (Singapore)*The Straits Times
+ln
+Nothing happened last Wednesday during the first World IPv6 Day.
+And it was a good thing.
+It was exactly the outcome that Facebook, Google and Yahoo sought when they put their websites through a 24-hour global test to see how well the Internet Protocol version 6 (IPv6) address system worked with the existing version 4 (IPv4).
+IPv4 and IPv6 refer to addresses that enable websites, networks and computers to find and comunicate with one another. So the test was like having almost every one of them change addresses all in the course of a day.
+The test was necessary because IPv4 addresses had run out and IPv6 addresses were being phased in. The test was organised by the non-profit global organisation Internet Society (Isoc).
+Isoc Asian regional bureau director Rajnesh Singh told Digital Life via e-mail: 'Overall, the test went well. The Internet continued to function as usual and there was no show- stopping outage that we have heard of so far.'
+Some early findings from the test should emerge later this week.
+Isoc plans to publish and share them with the Internet community worldwide so that all can work collaboratively and co-operatively towards this major transition to IPv6, he said.
+The day after the test, Facebook, Google and Yahoo said at a joint press conference in the United States that they would now begin to support their IPv6 upgrade permanently on some of their key websites.
+Facebook's senior network engineer Don Lee said that more than a million of its 500 million-plus users reached the social media network over IPv6. 'There were no technical glitches in this 24-hour period,' he said.
+Facebook has also decided to support IPv6 on its website for developers at www.developers.facebook.com.
+Google said it has decided to leave its main YouTube website IPv6-enabled for now. Its IPv6 software engineer Lorenzo Colitti said there was 65 per cent more IPv6 traffic during the test day and it did not have to disable IPv6 access for any of its networks or services.
+Yahoo said it made only one one minor adjustment to optimise traffic on its website as a result of the test.
+'The early data says there is minimal risk to pushing forward,' said Mr Jason Fesler, an IPv6 architect at Yahoo.
+Isoc's Mr Rajnesh said the society needs to analyse the test outcomes globally to see what lessons there were to learn, before deciding its next step.
+Nearly 400 corporate, government and university participants deployed IPv6 on more than 1,000 websites for the test, Isoc said.
+Copyright 2011 Singapore Press Holdings Limited
+All Rights Reserved

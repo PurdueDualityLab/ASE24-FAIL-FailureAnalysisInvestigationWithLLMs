@@ -1,0 +1,31 @@
+Left without cash ... ; Banking services disrupted but DBS says customer database safe
+07/06/2010
+TODAY (Singapore)
+fv
+SINGAPORE — The technical glitch that caused a seven-hour disruption of banking services yesterday of Singapore’s largest lender DBS and sister bank POSB could have resulted in delayed transactions of up to several millions of dollars.
+And for customers who needed to access the system urgently, the network crash yesterday morning sparked anger and frustration.
+Scores of DBS and POSB customers took to the social media to vent their anger.
+Some said they had visited as many as five different ATMs, but were left without cash and unable to top up their cash cards to pay for Electronic Road Pricing (ERP).
+But DBS is also likely to be counting the costs of the glitch that affected its entire online system, as businesses who needed to make high-value transactions would have probably turned to other financial institutions.
+Analysts estimate that DBS lost at least half a day’s worth of revenue from transaction fees. DBS declined to comment on business impact yesterday.
+Analysts also said the disruption may have affected up to 40 per cent of customers who conduct their transactions online.
+While the breakdown was reported as early as 6.30am, DBS said in a statement that it had detected the problem at 3am.
+“Our priority was to restore our systems expeditiously and ensure complete data integrity was maintained. Our branch and ATM services were restored at 10am and all other systems were progressively restored by lunchtime,” read the statement.
+Office goers were among the first to feel the impact in the morning.
+At 8am, engineer Teo Thiam Chye tried to log on to DBS’ online banking services, only to find the system was down. Then he discovered that its ATMs across Singapore were out of service.
+He said: “What if we need cash urgently? The reason why I want to access the Internet is that I need to check whether my cheque is cleared. I’ve a cheque that I banked in that I’m expecting to clear by today — this information I can’t get.”
+Another DBS customer, Ms Daisy Wong, said: “(At) 8.30am, I went down to withdraw money, but the ATM machines were not working. (I was) so frustrated because I needed to do marketing. So I went back home.”
+DBS said it regretted the unavailability of services and has set good customer service as one of its key priorities.
+“During the first 1.5 hours of branch operations from 8.30am to 10am, we took proactive measures to ensure that there was minimal disruption to customers who needed cash urgently for their day-to-day needs,” it said in its statement.
+The bank honoured all cash cheques of $500 on the spot. Customers could also withdraw cash over-the-counter.
+Additional staff members were deployed to the branches and call centre.
+-
+All DBS and POSB branches were opened for an extra 2 hours, from 4.30pm to 6.30pm, to help customers with their banking needs.
+According to analysts, a breakdown of this scale is generally unexpected here and usually more common in the region’s emerging markets. They added that the lender could also consider beefing up its infrastructure.
+SIAS Research investment analyst Liu Jinshu said, “I would say that DBS would probably have to incur some costs, costs to upgrade its IT infrastructure, costs to tighten its IT controls and things like that to prevent a relapse of this incident.”
+Speaking to reporters at an event last night, DBS Group Holdings chief executive Piyush Gupta said, “Actually we have very good safeguards. We have multiple redundancies built into our systems and it’s actually quite perplexing that the redundancies did not kick in as we normally would expect them to.
+“We’re currently doing thorough investigations with our vendor IBM to understand why the redundant systems did not kick in.”
+Mr Gupta added that he does not think it was a case of sabotage, adding that customer database had not been compromised as a result of the glitch.
+Responding to media queries, the Monetary Authority of Singapore said banks are required to investigate promptly the causes of system breakdowns and take immediate measures to rectify system failures and restore customer services. Subsequent action is also required to strengthen the system and prevent recurrence.
+“MAS assesses banks’ compliance with these requirements, and will take appropriate supervisory action where necessary,” said its spokesperson.
+Meanwhile, observers say the delayed transactions such as bill payments, and NETS or Credit Card transactions, should be cleared within 24 hours.

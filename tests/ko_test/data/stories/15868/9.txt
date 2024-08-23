@@ -1,0 +1,18 @@
+Software Upgrade Glitch Grounds Los Angeles Airport  Radar softwareupgrade blamed
+10/23/2000
+Computerworld
+fv
+Rob Enderle, a San Jose-based analyst at Giga Information Group Inc., had planned to travel to Los Angeles last Thursday morning to attend a conference. But his flight, slated to depart from San Jose at 8 a.m., was grounded on the tarmac due to a software-upgrade glitch.
+Enderle and his fellow passengers didn't know it, but the Federal Aviation Administration (FAA) had called a halt on all flights scheduled to land at or depart from Los Angeles International Airport for four hours that morning.
+Technicians loading an upgrade to radar software at the Los Angeles air-traffic control center caused a mainframe host computer to crash at 6:58 a.m., said Jerry Snyder, a spokesman at the FAA. The system was partially restored at 8:15 a.m. and fully restored by 1:05 p.m., he said.
+According to the FAA, the radar software processes incoming digital flight data, such as a plane's altitude and speed, and translates that critical data into alphanumeric blips on the radar screen. Without those blips, it's difficult to track flight traffic.
+"It was a pretty darn pesky problem," Snyder said. By law, the FAA must stop or reduce air traffic if the proper radar systems aren't running, he added.
+The Los Angeles air-traffic control center in Palmdale, Calif., is one of 20 such facilities that the FAA operates across the country for handling flights operating at 17,000 feet and higher. The agency uses multimillion-dollar hardware systems from IBM in each facility, FAA officials said.
+After shutting down the main radar system last Thursday, a backup system automatically took over. But Snyder said the alternate system doesn't automatically route flight data to the air traffic controllers, which meant the data had to be hand-carried to the appropriate controllers.
+Snyder insisted that safety wasn't compromised in the incident.
+Under normal conditions, air-traffic controllers at the airport can guide the landings and departures of approximately 84 flights per hour. During the period when the system was partially restored, FAA officials said, the controllers could handle only 64 flights per hour.
+To restore the air traffic radar, technicians removed the software upgrade and returned to the previous version.
+The FAA canceled hundreds of flights into and out of Los Angeles airport, the nation's fourth-largest airport. The cancellations caused backups and delays throughout the U.S.
+Gail Gadei, a spokeswoman at the Department of Airports in Los Angeles, was unable to say at press time how many flights had been affected by the radar equipment failure.
+Enderle never made it to the conference. After more than three hours on the grounded plane, he opted to return home. "It was a noontime speaking engagement, so there was no point in going," he said. "It goes to show that the more complex a software system gets, the more likely there are to be problems down the line."
+IBM products weren't responsible for the glitch, said an IBM spokesman.

@@ -1,0 +1,18 @@
+Intel's production of new memory chip keeps Moore's Law in effect
+08/31/2004
+East Valley Tribune (Mesa, Arizona)
+ln
+Moore's Law remains alive and well at Intel Corp.
+The semiconductor giant said Monday it has produced a memory chip packed with more than half a billion transistors using a next-generation manufacturing process.
+Chips made with the new manufacturing technology are on track for delivery in 2005, the company said. A manufacturing fab the company is upgrading in Chandler will use the new process, which produces circuit lines 65 nanometers across. That compares with the current industry standard of 90 nanometers. A nanometer is one-billionth of a meter.
+Measured another way, about 10million of the transistors on the newest chips could fit into an area roughly the size of the tip of a ball point pen.
+The manufacturing progress allows Moore's Law to remain in effect, said Sunlin Chou, senior vice president and general manager of Intel's Technology and Manufacturing Group. That law, formulated in the late 1960s by Intel co-founder Gordon Moore, holds that the number of transistors that can be placed on a chip will double every two years, resulting in ever faster and more capable microchips to operate computers and other electronic devices. 'Intel continues to meet the increasing challenges of scaling by innovating with new materials, processes and device structures,' Chou said.
+In addition to the factory in Chandler, Intel plans to start 65-nanometer manufacturing at plants in Oregon and Ireland next year, said spokeswoman Kari Skoog. The test memory chips were made at Intel's development fab in Hillsboro, Ore., she said.
+The continuing miniaturization of electronics poses special problems that Intel engineers have had to overcome, Chou said. For example, as transistors get smaller, power leaks out and heat is produced, causing the devices to run hot.
+To deal with those problems, Intel has developed technical innovations that save energy. They include 'sleep transistors' that shut off the flow of current to large blocks of the memory chip when they are not being used. That feature will be especially beneficial for battery-powered devices such as laptop computers, Chou said.
+'We have taken a holistic approach by developing solutions that involve systems, chips and technologies... that go beyond simply extending prior techniques,' he said.
+Intel's announcement comes at a time when the company is attempting to recover from a series of production glitches that included a product delay and recall. In July, chief executive Craig Barrett sent a message to the company's 80,000 employees saying the company's recent performance was 'not the Intel we all know' and 'not acceptable.' He urged employees to 'focus intensely on actions and attitudes that will continue Intel's strong track record.'
+-----
+To see more of The Tribune, or to subscribe to the newspaper, go to http://www.eastvalleytribune.com.
+Copyright 2004 Knight Ridder/Tribune Business News
+Copyright 2004 East Valley Tribune (Mesa, Arizona)

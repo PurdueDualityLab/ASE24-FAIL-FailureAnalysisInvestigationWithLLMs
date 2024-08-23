@@ -1,0 +1,14 @@
+Market Muddled Through TSE System Trouble, If Unhappily
+02/03/2012
+Nikkei Report
+fv
+TOKYO (Nikkei)--The stockmarket managed to eke out a small gain Thursday despite the half-day trading suspension at the Tokyo Stock Exchange that generated a torrent of complaints and questions from annoyed investors.
+Online brokerage kabu.com Securities Co.(8703) fielded double the usual volume of inquiries as the system problem made placing new orders and canceling existing ones impossible for some stocks.
+The trading halt of the Sony Corp.(6758) stock was particularly irksome for investors looking to trade it following Wednesday's announcement of its upcoming management reshuffling.
+Once trading resumed, selling overpowered buying for Sony, pushing it down to end the day 36 yen lower at 1,328 yen.
+Sony, Komatsu Ltd.(6301) and some other stocks are also listed on the Osaka Securities Exchange. But online brokerages' trading systems let customers select exchanges when placing orders, and the orders are not automatically rerouted to other exchanges even when a system glitch occurs. And "many customers chose not to switch to the OSE (even after the problem was reported), because they were not sure if trading would go smoothly," said an official at Matsui Securities Co. (8628).
+Despite having marketeditself as an alternative to the TSE, the proprietary trading system run by SBI Japannext Co. and others also halted morning trading for the issues suspended on the TSE.
+This was because tradingrules of the Japan Securities Dealers Association prohibit off-exchange transactions of shares whose trading is halted by their exchanges.
+In the end, the NikkeiStock Average closed Thursday up 67.03 points, or 0.76%, at 8,876.82. Daily turnover on the TSE's first section climbed 7% to 1.23 trillion yen.
+While the day endedwithout major fallout, investor confidence in the TSE likely suffered somewhat. The problem marked the first glitch since the introduction of arrowhead, the exchange's cutting-edge trading system.
+(The Nikkei Feb. 3 morning edition)

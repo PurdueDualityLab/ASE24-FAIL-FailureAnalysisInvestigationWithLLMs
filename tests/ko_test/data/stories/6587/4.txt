@@ -1,0 +1,25 @@
+Sema Replaces IBM at Olympics
+12/07/1998
+Associated Press Online
+ln
+The European computer group Sema replaced IBM today as the Olympics' chief technology sponsor, starting in 2001.
+The eight-year deal with Sema, a relatively obscure French-English company, is believed to be worth about $220 million. The International Olympic Committee called it the biggest sports-related information technology contract ever awarded.
+IBM, the world's largest computer company, said last August it would end its 38-year partnership with the IOC at the 2000 Sydney Games.
+IBM was criticized for glitches in its computer results system at the 1996 Atlanta Olympics. The IOC and IBM split earlier this year when negotiations broke down over a new eight-year deal.
+The contract with Sema will be signed Saturday in Lausanne by IOC president Juan Antonio Samaranch and Sema chief executive officer Pierre Bonelli.
+Sema will head a consortium of three companies in the IOC's new Olympic Information Technology Group. The companies will provide the computer technology and results systems for the Summer Games of 2004 and 2008 and Winter Games of 2002 and 2006.
+The Salt Lake City Winter Olympics in 2002 will be the first games operating under the new technology arrangement.
+Sema is a computer services and defense technology firm employing 16,500 people. The high-profile tie-in with the Olympics should put the company on the world map.
+Sema provided information systems at the 1992 Barcelona Games and has been involved in other sports events such as the 1994 World Cup, the 1996 European Soccer Championship and the 1998 Commonwealth Games.
+''It's not a very well-known brand name, but they come to the table with a tremendous amount of knowledge and understanding,'' IOC marketing director Michael Payne said. ''The IOC's primary decision was to ensure we had the best technology solution and to create as risk-free a scenario as possible.''
+The IOC said Sema will provide the systems integration, operations management and applications delivery for the Olympics. The company will also help develop the IOC's Internet sites.
+Payne said the partners for venue results management and for computer hardware will be announced in early 1999. The Swiss watchmaker Swatch is favored to win the results contract, with Compaq and Sun Microsystems, two U.S. computer makers, in the running for the hardware deal.
+Payne said the three companies will contribute around $500 million in cash and services to the games as part of their partnership, with the IOC and organizing committees putting up around $200 million for the installation and maintenance of the new system.
+Payne said Sema was chosen ahead of several other companies, including computer consulting giants EDS and Arthur Anderson.
+The IOC said an IBM demand to be paid hundreds of millions of dollars for its services would bankrupt organizing committees in Salt Lake and other host cities. IBM wanted local Olympics organizing committees to share the technology costs.
+IBM executives were upset by an IOC decision to seek a more profitable sponsorship deal for Internet services and sites at upcoming games, a role IBM held in the past two Olympics, at Nagano and Atlanta.
+(PROFILE
+(CO:Sun Microsystems Inc; TS:SUNW; IG:CPR;)
+)
+Copyright 1998 Associated Press
+All Rights Reserved

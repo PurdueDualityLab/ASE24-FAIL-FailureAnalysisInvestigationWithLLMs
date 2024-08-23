@@ -1,0 +1,49 @@
+POWERING UP SOFTWARE, COSTS CAUSING CONCERN TWO STATE AGENCIES ASK FOR CASH INFUSION WITH ELECTRICITY DEREGULATION JUST 10 WEEKS AWAY
+10/23/1997
+San Jose Mercury News (California)
+ln
+Racing to meet a deregulation deadline that's just 10 weeks away, two new power agencies have notified state regulators they need another $50 million -- immediately -- to begin operating Jan. 1.
+The cash infusion will boost the total cost of setting up the agencies to $300 million.
+Efficient and timely functioning of the two agencies is considered essential to the success of power deregulation.
+One agency, the Power Exchange, will create a spot market for electricity, ensuring that consumers pay a fair price for power. The other, the Independent System Operator, will run the power grid formerly controlled by investor-owned utilities, guaranteeing consumers get reliable service.
+But cost overruns and software problems at both agencies are leading some to question whether the breakneck pace is wise. At a meeting last week of afive-member Oversight Board on Electric Restructuring in Sacramento, there was a palpable nervousness about current cost estimates and the expected state of readiness.
+'What I'm carrying away from this meeting is what you've got will work but not necessarily the way you want,' said Lewis Coleman, an oversight board member and a retired BankAmerica executive.
+Coleman received assurances that bare-bones systems would be in place Jan. 1, with additional bells and whistles added in coming months.
+California may or may not have the best system. But it certainly will have the first.
+On Friday, utilities who have co-signed loans to the agencies notified the California Public Utilities Commission that the cost to meet this goal has gone up $50 million.
+'California traded time for money,' says Jeffrey Tranen, newly hired chief executive of the Independent System Operator and former CEO of the New England Power Pool.
+Mandated deadline
+Both organizations are racing to meet the legislatively mandated deadline and both will be conducting major tests of newly designed and enormously complex computer systems well into December. That leaves little time to fix glitches.
+'The biggest piece of challenge is the time frame in which this is being done,' said Dennis Loughridge, head of the Power Exchange. 'It's a very aggressive schedule.'
+Already, tests have uncovered a significant problem with the integration of computers used by the agencies. Good communications are vital, since the grid operator must dispatch power from the winning bidders in the Power Exchange auction.
+But engineers discovered the grid operator assumed it would be getting dispatch orders with everything tallied. The Power Exchange assumed it could hand over hundreds or even thousands of individual orders and leave the calculations to the 'ISO.'
+Software designers said they'd have the problem fixed by Dec. 16; the ISO talked them into a solution by early December.
+'It means the last module will have to be tested in two to three weeks,' said Terry Winter, chief of operations for the ISO. 'Does that make me nervous? You bet.'
+Utilities are jittery, too.
+On Friday, they warned the PUC that they don't want to be left holding the bag. They are willing to advance money so the agencies can repay temporary loans from BankAmerica Corp. But if this crimps their ability to pay down their own deregulation debts, they want authority to seek repayment from ratepayers over a longer period of time.
+That irks the chairwoman of the state Assembly Utilities and Commerce Committee, who has become one of deregulation's sharpest critics.
+'What bothers me is that, originally, the utilities said they were willing to bear some financial risk to get this new system up and operating,' said Diane Martinez, D-Alhambra, a member of the oversight board. 'Now we see they've no intention of incurring any of the risk.
+Sugar parents
+'We see they were willing to be the sugar daddy only because they figured they could come running to the sugar mommy -- the ratepayer.'
+Utility representatives say they never wanted to be the deep pockets for electric deregulation but have been thrust into that role.
+'From day one, the utilities didn't want to get stuck financing this,' says Jim Macias, head of transmission for PG&E and an ISO governing board member. 'This will not be our business in the future.'
+But unexpected financing difficulties left the utilities little recourse but to become deeply involved.
+The ISO believes it will be able to go to bond markets to roll its $215 million start-up debt into long-term bonds. The Power Exchange can't get reasonably priced financing for its $85 million start-up cost because its future looks iffy.
+Under the system devised by regulators and legislators, California's utilities only are required to buy and sell power through the Power Exchange for existing customers for four years. After that, they can bypass the exchange.
+From a bondholder's perspective, this means the Power Exchange may have a limited useful life.
+Utilities now propose to advance up to $300 million to the two agencies so they can repay short-term loans from BankAmerica.
+The ISO is expected to repay its loan with bond money. But ratepayers, under the proposal made to the PUC, would be expected to bankroll the Power Exchange loan, out of existing rates, during a transition period ending in 2002.
+If utilities don't collect enough, they'll seek the right to extend the collection period beyond 2002.
+Proposed tariffs by the Power Exchange do nothing to calm fears it may be a costly, short-lived experiment.
+In a filing Friday with federal regulators, the Power Exchange said it will have to charge customers a fee of 30 cents per megawatt hour -- on top of the market price of power -- to cover its $47 million yearly operating costs. That's one of the highest overhead charges of any power exchange in the world, comparing with five cents in Norway and eight cents in the United Kingdom.
+Fees would double
+And that 30 cents doesn't cover the $85 million start-up cost. If that were added to rates, fees would double.
+'If all the start-up costs had to be absorbed in the Power Exchange, it would be unsustainable,' said Scott Cauchois, a Power Exchange governing board member representing the PUC's Office of Ratepayer Advocates.
+Added Becky Kilbourne, director of market services for the Power Exchange: 'With rates like that, we wouldn't have been able to attract any customers who didn't have to do business with us.'
+Although 70 percent of the state's power will be handled by the exchange initially, it hopes to attract even more customers. There are dozens of power generators in California who can sell through the Power Exchange or competing exchanges, the biggest of which is the investor-owned Automated Power Exchange. It plans to charge 25 cents per megawatt hour, split 50-50 between buyers and sellers.
+Ed Casalet, chief executive officer of Automated Power Exchange in Los Altos Hills, thinks the Power Exchange is poorly designed.
+'What California is getting is a system that cost too much to create and has operating costs that are too high,' said Casalet, who designed his exchange for about $5 million.
+Meanwhile, ISO and Power Exchange employees are working nights and weekends to make everything happen on schedule.
+Said Tranen: 'If you don't tell people something is impossible, they go ahead and do it.'
+Copyright 1997 San Jose Mercury News
+All Rights Reserved

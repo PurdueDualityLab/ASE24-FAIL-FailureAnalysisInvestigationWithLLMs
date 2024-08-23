@@ -1,0 +1,21 @@
+Some viewers lose 6ABC, WHYY in DTV switch
+06/15/2009
+McClatchy - Tribune Business News*The Philadelphia Inquirer
+pq
+Jun. 15--Thousands of over-the-air TV viewers lost 6ABC, the No. 1 local news station in the Philadelphia TV market, in Friday's national digital-TV transition. Along with Action News, 6ABC is popular because of its afternoon soaps, and Oprah.
+Officials met in Washington today to discuss a potential solution. Similar glitches in the transition were reported in New York and Chicago. Officials are afraid to boost the 6ABC digital-TV signal because it could lead to interference with FM radio stations in Philadelphia, or TV stations in other markets.
+David Dombrowsky, an official with the Federal Communications Commission in Philadelphia, said the main issue seems to be with antennas. People should experiment with different antennas. "Keep your receipts and try different ones," he said. Some cheaper antennas work better than more expensive ones, he said.
+The lost 6ABC reception is widespread in Philadelphia, South Jersey and the Pennsylvania suburbs. Some over-the-air TV viewers 20 or 30 miles from Philadelphia could get 6ABC because, mostly likely, they have rooftop antennas that could receive the signal, officials said.
+WHYY, the public broadcasting station, also reported lost reception among TV viewers. "We are somewhat concerned about it," said William J. Weber, vice president and chief technology officer for WHYY. Officials said the WHYY problem was much less than 6ABC.
+Neither government nor station officials had a firm estimate on the actual number of people who lost 6ABC, although one knowledgeable industry expert said it was "many thousands" and "somewhat of an emergency" for the market-leading station.
+On Friday, the nation ended the age-old analog TV signals in a switch to digital ones. An estimated 145,000 people get their TV only by free over-the-air signals in the Philadelphia market, which includes Atlantic City, Trenton and Wilmington.
+For the most part, over-the-air TV viewers now get more TV stations because of the new digital signals. The 6ABC and WHYY glitch appears to be the biggest problem with the conversion in the Philadelphia TV market. They broadcast in the VHF frequency band, local broadcast officials said, which is likely what is causing the problems. 6ABC broadcasts on the lowest position on the VHF band for a TV station, adjacent to FM radio stations. WHYY broadcasts in a higher VHF position. Other Philadelphia TV stations broadcast in the UHF band.
+Problems were reported in the digital-TV transition with VHF bands in New York and Chicago. Some experts believe the government inaccurately forecast the necessary signal strength in VHF for digital TV signals.
+6ABC may need to boost its signal strength to solve the problem, station spokeswoman Caroline Welch said.
+One point was made repeatedly by 6ABC and WHYY: over-the-air TV viewers need combination UHF/VHF antennas to get reception.
+Dombrowski, an FCC electronics engineer managing the digital TV conversion in Philadelphia, said 6ABC officials and the FCC were meeting in Washington to discuss what could be done. "We probably want to get a game plan," he said.
+One idea was for 6ABC to temporarily relocate the station's transmission to TV spectrum designated for public safety radios, he said. Those radios are not operable and the spectrum is unused. But this change also could lead to more confusion.
+Dombrowski answered calls on the problem on Sunday at the 6ABC offices and said, "It was crazy." Even some Philadelphia residents in Roxborough, where the TV transmission towers are located, couldn't get 6ABC, he said.
+"It amazes me that they're the biggest station and they have the trouble," said Kathleen Clarke, of Frankford, who missed her soap operas today.
+Contact staff writer Bob Fernandez at 215-854-5897 or bob.fernandez@phillynews.com.
+Credit: The Philadelphia Inquirer

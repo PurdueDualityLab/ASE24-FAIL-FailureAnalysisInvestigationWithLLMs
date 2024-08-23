@@ -1,0 +1,23 @@
+Computers could crash state welfare ; 1,700 in county would be cut from benefit rolls if system fails
+08/28/2004
+The Gazette
+pq
+A $199 million computer system for Colorado's welfare programs is so flawed that thousands of needy people might find themselves without a safety net as of Wednesday, welfare administrators said.
+In El Paso County, 1,700 people could be cut temporarily from benefit rolls as records are transferred from a mishmash of computer software to the new system.
+In a scenario reminiscent of the Y2K scare before the turn of the century, programs covering food stamps, cash payments, worker training, adult protection and children's health insurance could be affected. State officials downplayed the danger, saying they're prepared to handle problems.
+The state's 64 counties are poised to use the software, called the Colorado Benefits Management System, starting next week.
+"We just don't know what's going to happen next Wednesday," said Barbara Drake, head of the El Paso County Department of Human Services. "It could go better than we hope, or it could be a disaster."
+Local workers are struggling to understand 84 "workarounds" to bypass flawed parts of the database and convert records to the software, said Levetta Love, who's handling the changeover for El Paso County. An explanation of one of the workarounds is 300 pages, she said.
+Drake said she and other top managers will be on hand Wednesday to deal with a possible flood of clients whose benefits are disrupted.
+The state Department of Human Services directed each county to set contingency plans to ensure no one loses benefits, spokeswoman Liz Mc-Donough said Friday.
+"It is a mammoth undertaking, and there are expected to be bumps in the road, but we don't believe it will be catastrophic," McDonough said. "We can't make the system any better at this point until we roll it out."
+The Colorado Benefits Management System (CBMS) has been in development since 1995. It was scheduled to start in July 2003, but two delays pushed the start date to Wednesday.
+The state had to buy software because the old systems use antiquated computer programming languages that no longer are taught in colleges, McDonough said. The Legislature set aside $3.3 million to help counties train workers to use the system, and Gov. Bill Owens this year issued an executive order for an additional $2 million.
+Despite those preparations, several county offices have complained that glitches in the system could result in records that will not transfer. El Paso County Attorney Bill Louis sent a letter to state authorities this week asking for assurance that the local office won't be held liable for mistakes.
+"It is my understanding that the CBMS system as presently formatted still requires counties to 'make up' certain data, including Social Security numbers, birth dates, alien status and other personal data in order for some cases to be processed for eligibility," Louis wrote. "The state is essentially requiring counties to enter false data into the case portfolio."
+That glitch is especially troubling because detecting false information is key to preventing welfare fraud, Drake said.
+The state Attorney General's Office responded Friday, saying concern about false information is unfounded.
+"Entering false data into the system is contrary to state policy and rule," Wade Livingston of the Attorney General's Office wrote in a reply to Louis. "The state cannot assume any liability arising from a county employee knowingly placing false data in the system."
+Computer programers for the state have established temporary fixes for the problems, McDonough said. In case of a birth date, for example, welfare workers have been instructed to enter Jan. 1, 1851, in some records.
+After programmers devise a permanent solution, they will find records with that date and replace it with correct information, she said.
+CONTACT THE WRITER: 636-0187 or pswanson@gazette.com

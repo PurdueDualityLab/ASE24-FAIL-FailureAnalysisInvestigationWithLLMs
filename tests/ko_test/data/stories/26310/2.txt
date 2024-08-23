@@ -1,0 +1,19 @@
+Mr. President, have you got e-mail? White House makes it harder to send messages electronically
+07/19/2003
+The International Herald Tribune*International Herald Tribune
+pq
+Do you want to send an e-mail message to the White House? Good luck. In the past, to tell President George W. Bush or at least those assigned to read his mail what was on your mind, it was only necessary to sit down at a computer connected to the Internet and dash off an e-mail note to president@whitehouse.gov.
+But this week, Tom Matzzie, an online organizer with the AFL- CIO, discovered that communicating with the White House has become a bit more daunting. When he sent an e-mail protest against a Bush administration policy, the message was bounced back with an automated reply, saying that he had to send it again in a new way.
+Under a system that was deployed on the White House Web site for the first time last week, those who want to send a message to the president must now navigate as many as nine Web pages and fill out a detailed form that starts by asking whether the message sender supports White House policy or differs with it.
+The White House says the new system, located on the Web at http:/ /whitehouse.gov/webmail, is an effort to be more responsive to the public and offer the administration real-time access to citizen comments.
+To complete a message to the president also requires choosing a subject from the provided list, then entering a full name, organization, address and e-mail address. Once the message is sent, the writer must wait for an automated response to the e-mail address listed, asking whether the addressee intended to send the message. The message is delivered to the White House only after the person using that e-mail address confirms the message.
+A White House spokesman, Jimmy Orr, called the system as an enhancement aimed at improving communications. Orr said the White House, which gets about 15,000 electronic messages each day, had designed the new system during the last nine months in partnership with a private company that he would not identify.
+It provides an additional means for individuals to inquire about policy issues at the White House and get a personalized response in 24 to 48 hours, said Orr, the Internet news director at the White House.
+Some Internet usability experts think that the new method for sending messages is not doing much to enhance communications between the White House and the public.
+Overall, it's a very cumbersome process, said Jakob Nielsen, an authority on Web design who helps run a consulting group, Nielsen Norman Group, in Fremont, California. It's probably designed deliberately to cut down on their e-mail.
+Acknowledging that there had been some glitches in the first few days, Orr said the system was being improved.
+Having tried it myself, he said, I would say it's pretty user- friendly.
+But Nielsen said he had found a range of shortcomings in the White House system, ranging from what he called a deeply buried privacy policy to a lack of indicators marking one's progress in traversing each of the multiple Web-page steps. He complained as well about a poorly designed approach to confirming a message had actually been sent.
+Matzzie, the AFL-CIO organizer, discovered the new White House e- mail system when he began a campaign to protest the administration's proposals changing the way overtime pay is to be calculated. He said he particularly disliked being required to specify whether he was offering a supporting comment or a differing opinion to Bush.
+This is the most ridiculous Web form for contacting someone I have ever seen, said Matzzie, who is a professional Web site designer and an online organizer for the labor organization. Having sent his e-mail message on Tuesday, he said, he was still waiting for a response.
+Credit: The New York Times

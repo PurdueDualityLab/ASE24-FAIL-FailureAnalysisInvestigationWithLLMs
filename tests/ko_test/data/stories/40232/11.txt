@@ -1,0 +1,21 @@
+Two key instruments failing on Mars orbiter
+02/08/2007
+Pasadena Star - News*Pasadena Star-News (California)
+pq
+LA CAADA FLINT-RIDGE - The Mars Reconnaissance Orbiter, which began its scientific mission high above the Red Planet three months ago, is already experiencing problems with two key instruments.
+Shortly after the spacecraft first started collecting data in November, its high-resolution camera, Hi-RISE, and weather- tracking tool, Mars Climate Sounder, suffered unexpected hiccups and slowly deteriorated over time.
+"The mission has been going very well in the sense that we've accomplished many of our early objectives as planned," said the Jet Propulsion Laboratory's Richard Zurek, project scientist for the orbiter.
+The spacecraft is studying the history of water on Mars and using its cameras to survey the planet's surface for new features and safe spots to land future missions.
+But, he added, "We've seen a couple things that have raised concerns that we've taken seriously."
+Of the 14 detectors in the Hi-RISE camera, two are now malfunctioning, said Alfred McEwen, University of Arizona's lead scientist for the camera. Tests have suggested early signs of trouble in five others.
+The glitch - which occurs as images are translated into data to send back to Earth - causes fine speckles in certain parts of some pictures, and occasionally the loss of entire columns of pixels.
+It could be caused by any of a very long list of failures in the instrument, McEwen said.
+Fortunately, warming the camera an additional five degrees Fahrenheit seems to ease the problem. It is possible, though, that the extra heat needed to keep the camera functioning smoothly will speed the failure of other components, he said.
+For now, the malfunctions with Hi-RISE seem to have stabilized, and the camera is still taking beautiful images, Zurek said. "The problem is, is this going to change in the future?" he said.
+Problems continue, meanwhile, with another of the craft's six tools, the Mars Climate Sounder.
+In December, scientists noticed that the instrument, which maps atmospheric temperature, as well as dust and ice cloud distributions, appeared to be skipping steps. As a result, its field of view would jump slightly out of position as it scanned across the Martian sky.
+After engineers reloaded instructions to the instrument, the problem disappeared. Then, in mid-January, it reappeared, more frequent than ever.
+The Climate Sounder is now stowed away as scientists debate how it could be fixed.
+"Are we concerned?" Zurek said. "Sure, and that's why we are taking some precautions and being careful while we use the instruments until we find out about the cause \." Still, he added, "We're hopeful we can resume observations in the not-too-distant future, in a few weeks."
+elise.kleeman@sgvn.com
+(626) 578-6300, Ext. 4451

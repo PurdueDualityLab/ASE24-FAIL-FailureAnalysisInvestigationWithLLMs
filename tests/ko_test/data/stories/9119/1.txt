@@ -1,0 +1,37 @@
+Utah Firm Accuses Microsoft of Persuading Public Against Its Product
+06/11/1999
+THE SALT LAKE TRIBUNE
+ln
+By the early 1990s, most consumers and computer manufacturers asked a crucial question before buying new software: Would it work with Windows?
+Caldera Inc. charges Microsoft plotted to make sure buyers who asked the question about rival operating system DR-DOS were frightened by the answer. The small Orem software firm accuses Microsoft of violating antitrust law during a campaign aimed at falsely persuading the public DR-DOS would not work with Windows 3.1.
+The alleged scheme had a devastating effect on DR-DOS, Caldera attorneys said in court Thursday.
+'You see a very marked drop-off in DR-DOS sales ... it just keeps going down,' said Caldera lawyer Parker Folse.
+Caldera sued Microsoft in 1996, alleging the software giant used illegal strategies to quash competition for its own operating system. U.S. District Judge Dee Benson is in the midst of a series of hearings aimed at determining which of Caldera's claims will proceed to trial in January.
+Benson has said he is inclined to allow most or all of Caldera's claims to remain in the case for now, and rule later on what specific evidence will be allowed at trial. He expects to rule on some claims by the end of the month.
+He heard arguments on Caldera's compatibility-related claims Thursday.
+DR-DOS is an operating system, a program that allows a computer to execute basic functions, such as opening a file. Microsoft offers competing operating system MS-DOS.
+Windows 3.1 and earlier versions ran on top of an operating system, enabling a user to execute commands via graphics -- such as clicking on a file drawer to close a file, instead of typing a command.
+Caldera contends Microsoft launched a three-pronged attack to make buyers believe Windows 3.1 would not run on DR-DOS: Microsoft planted deliberate glitches in its software to defeat DR-DOS; placed an error message in a test version of Windows 3.1 to imply the programs were incompatible; and denied DR-DOS engineers access to the test program to block them from fixing the problems.
+In court Thursday, Microsoft attorney Richard H. Klapper argued some of the glitches identified by Caldera were caused by Microsoft code that had a legitimate technical purpose.
+Other alleged problems are 'almost trivial' and supported by 'very, very slim evidence,' Klapper said. Out of 'tens of millions of lines of software code,' Caldera came up with about four alleged glitches, he added.
+Microsoft contends the incompatibilities between DR-DOS and Windows 3.1 and Windows for Workgroups were not intentional, and were simple for DR-DOS engineers to fix.
+But Caldera attorney Folse argued Microsoft e-mail and internal documents show it intended problems to arise with DR-DOS users. The glitches were not motivated by necessary technical changes, and were aimed solely at spreading 'fear, uncertainty and doubt' about DR-DOS, Folse said.
+Test, or beta, versions of Windows 3.1 were distributed to some computer users before the commercial release. A beta version of Windows 3.1 checked whether the user was using DR-DOS, and showed an error message.
+Caldera argues the false error message showed Microsoft's intent to spread the perception Windows 3.1 would be incompatible with DR-DOS. Beta testers who asked about the message were told they could eliminate it by switching to MS-DOS, Folse said.
+'They were taking advantage of these problems by blaming DR-DOS for them and by saying ... the solution is MS-DOS,' Folse said.
+Microsoft argues it had a legitimate reason for inserting the error message. Consumers who use other companies' software with Microsoft products -- and run into problems -- often call Microsoft technical support staff. The cost of those calls should not be borne by Microsoft, the company argues.
+The error message was inserted as a 'place keeper' for a possible message that Microsoft could not ensure the performance of Windows 3.1 on an operating system other than MS-DOS.
+'It was a perfectly legitimate business decision that they're making a huge thing about,' Klapper objected.
+Folse disagreed. 'The purpose of the message was to make users uncomfortable with DR-DOS,' he argued. If Microsoft's explanation is true, 'Why didn't they say (to beta testers) Don't worry about that -- this is a place holder'?' Folse asked.
+The plan for the message was dropped due to Microsoft's fear the intention behind it would be misconstrued and lead to a public relations flap, its lawyers said in court documents. The code was disabled in the April 1992 commercial release of Windows 3.1.
+But Caldera argues word of the error message -- and the implied incompatibility -- had already spread from beta testers to the press and computer manufacturers.
+'Our whole point is, a lot of damage was done before they pulled up short,' Folse said.
+Klapper argued DR-DOS sales dropped because Windows 3.1 was a roaring success for Microsoft, and buyers naturally turned to Microsoft's MS-DOS program to run it on.
+Benson will hear arguments later on Caldera's claim that Microsoft improperly refused to grant DR-DOS writers access to the beta version of Windows 3.1 in 1991.
+Microsoft publicly revealed its refusal, so trade press and consumers concluded DR-DOS writers were unable to fix the actual and perceived glitches, Caldera adds. 'They went public to make sure people knew Microsoft wasn't going to help,' Folse said.
+Microsoft will argue it had no duty to share the prototype.
+DR-DOS was initially sold by Digital Research Inc., then Novell Inc., and now Caldera. Caldera acquired the previous owners' legal claims when it bought DR-DOS in 1996, and the lawsuit focuses on Microsoft sales and marketing tactics back to 1988.
+-----
+Visit Utah Online, the World Wide Web site of The Salt Lake Tribune, at http://www.sltrib.com
+Copyright 1999 Knight Ridder/Tribune Business News
+Copyright 1999 The Salt Lake Tribune

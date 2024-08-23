@@ -1,0 +1,49 @@
+UNDERDAWG GETS TO RUN;COLLEGE PALS COMPETE IN ROBOTICS ROAD RACE
+09/27/2005
+San Jose Mercury News (California)
+ln
+This Silicon Valley start-up comes with a shut-off switch.
+Four of them, actually.
+They're right there on the roof of a white Jeep Cherokee as it drives along rough dirt roads on a private ranch here in San Benito County.
+Battered SUVs aren't special here, but ones that drive themselves do tend to get attention.
+The Cherokee -- it looks worse inside with its dusty dashboard, a tangle of wires and lots of computer and mechanical equipment -- serves as the chariot for the $2 million dreams of Team Underdawg.
+Underdawg, a collection of college buddies and high-tech work friends, takes the next step on its unlikely journey today. It's one of 43 teams competing in the military's DARPA Grand Challenge, an attempt to ''drive'' an unmanned vehicle through 150 miles of desert in less than 10 hours.
+These aren't remote-control cars, which many people assume when they hear about the DARPA Grand Challenge. They must operate with no human involvement.
+''It's really an amazing challenge and I think most people don't realize how difficult it is because everyone takes driving for granted,'' said Jonathan Stark, the leader of Team Underdawg. ''But trying to teach a computer to do it is very difficult.''
+A nine-day qualifying event begins today at California Speedway in Fontana. Then, on Oct. 8, 20 surviving teams will run the Grand Challenge, which will begin and end near Primm, Nev.
+The purpose of the event, staged by the Defense Advanced Research Projects Agency, is to accelerate the development of autonomous vehicles that can be used for warfare. In 2004, the first Grand Challenge ended with no team crossing the finish line, and the best team traveling about seven miles.
+This time the stakes are higher -- the prize grows from $1 million to $2 million -- and so are the expectations.
+
+Big-money backing
+Several well-financed teams are expected to conclude the route. They include the two Red teams from Carnegie Mellon University as well as the Stanford Racing Team, which has support from Volkswagen and MDV-Mohr Davidow Ventures, a venture-capital firm.
+Some say some teams, with sponsorship from Boeing, Intel, Google and others, are spending millions to win this year's Grand Challenge. That's not the case with Team Underdawg.
+It has spent about $30,000 so far -- some on the team members' personal credit cards -- on its vehicle, Stark said.
+''We're kind of a do-it-yourself team, which is one of the reasons we're the Underdawg team,'' said Stark, 31, a contractor currently working for TiVo.
+Stark became interested in the robotics race as soon as he heard about the first Grand Challenge, which was held in March 2004. A few months later, he bought the 1989 Jeep Cherokee for $500 off craigslist, as a platform for tinkering with some ideas.
+Then, with his friends gathered for his birthday in January, he announced his plans to compete in the race.
+Eventually, 195 teams would enter the Grand Challenge.
+Using some computer parts found in closets, borrowing equipment like laser scanners, buying what they had to and making what they could, Team Underdawg had a vehicle that moved on its own in time to send in a video to the DARPA committee earlier this year.
+That was enough to merit a site visit. In all, the agency visited 118 teams.
+After making Stark show his passport, the DARPA officials watched as Team Underdawg smashed some trash cans they were supposed to avoid. ''We killed them,'' said Matt Ranney, 34, the team's resident race-car driver.
+As a result, the team did little work on its vehicle and were ''a little bit disappointed'' but not surprised they didn't make the cut when DARPA announced the 40 teams that would go forward in June.
+But the next day the agency called Stark and asked if Team Underdawg would like to be one of the alternates.
+He said yes, and the work began again in earnest. It required another site visit, in August, where Team Underdawg still hit a few trash cans, but avoided a few, too. It also showed the officials how well it could do on rough terrain, up and down hills and on turns.
+That was enough to convince DARPA to add Team Underdawg to the list of 43 semi-finalists.
+They've spent the last month scrambling -- and re-doing much of their vehicle. They've changed their computers, added new tires and installed mechanical parts such as a power-steering pump and alternator.
+''We just refreshed all the equipment as best our credit cards could handle,'' Ranney said.
+
+Fixing the glitches
+Working in a shed they share with pigeons, bags of grass seed and piles of lumber, Stark, Ranney, Brad Smith, Brian Swetland and a half-dozen others fix glitches and seek improvements.
+The vehicle successfully negotiated a short, uphill course last Thursday, but it occasionally stopped and rolled backward. On a more challenging 2.5-mile course, it drove faster and braked harder, but would, on occasion, veer off the road.
+Stark sat in the driver's seat, letting the vehicle do the work until it was apparent he needed to grab the steering wheel or hit the brakes.
+''Making the computer control the throttle, the brakes, the steering wheel, they're the basics,'' said Smith, 42, a contract system software engineer. ''Then the hard stuff begins, which is seeing where you are in your environment and seeing where you want to go and figuring out how to get from point A to point B.''
+The vehicle relies on lasers, cameras and a GPS satellite system to see what's ahead, and the computer decides when to speed up, when to slow down, and when to stop and go around an obstacle.
+''Every day is hit and miss,'' said Stark.
+Two weeks ago, they wound up going to Fry's, twice, to replace some faulty computer memory.
+They expect they'll be perfecting up to, and during, the qualifying event.
+Stark, who has lived with his clipboard and his to-do list for months, said Team Underdawg hopes to be the team that goes the farthest while spending the least money.
+Two hours before the race, teams will be given a CD with the route.
+''DARPA says go, and it's totally hands off,'' Ranney said.
+Contact Matt Nauman at mnauman@mercurynews.com
+Copyright 2005 San Jose Mercury News
+All Rights Reserved

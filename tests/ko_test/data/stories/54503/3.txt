@@ -1,0 +1,33 @@
+PROPERTY VALUES; Second error found on Fulton tax notices
+05/11/2011
+The Atlanta Journal-Constitution
+ln
+Increased homestead exemption not figured into calculation.
+There's another inaccuracy on Fulton County's property tax assessment notices, and this one affects the whole county.
+Fulton's basic homestead exemption will go up to $30,000 this year, a tax break for homeowners who reside at their properties. The notices sent out last week by the assessors office, however, calculated this year's taxes using last year's exemption of $25,000.
+That means even if the county's computer program had tallied taxes correctly, totals still would have been too high.
+It's yet another snag for an assessors office that, like its counterparts across the state, was required by a new state law to send estimated tax bills to every property owner this year. The Fulton assessors office has come under fire because, through a computer glitch, most of the assessment notices sent to Atlanta taxpayers grossly overestimated their upcoming tax bills.
+Fulton chief appraiser Burt Manning said he is still trying to determine whether county staff or contractor Tyler Technologies Inc. is responsible for the Atlanta mistake. If it's the county's fault and he opts to mail out letters with corrected estimated taxes, it could cost about $50,000 to $60,000, he said.
+Manning defended his use of last year's homestead exemption. He said his department had no way of calculating taxes with last year's rates and a different exemption.
+The new law, Senate Bill 346, requires counties to provide estimates of taxes based on last year's millage rates, but it does not require them to include exemptions.
+Assessors offices in Gwinnett, Cobb and DeKalb didn't have to contend with basic homestead exemption changes in generating their notices. Cobb Chief Appraiser Phil Hogsed said that if that had been the case, it would have been a simple matter of plugging in new numbers.
+Calculating assessed values against homestead exemptions and various millage rates is a task normally handled by tax commissioners' offices.
+'That's the problem,' said Barbara Payne, Fulton County Taxpayers Foundation executive director. 'You've got a department sending out tax estimates that doesn't handle taxes.'
+Mary Hayes, one of tens of thousands of Atlantans who received an erroneous estimate, said she also didn't understand why it listed a $25,000 homestead exemption when she received a letter from the Board of Assessors in January announcing the exemption would go up.
+Since her home's appraised value hasn't changed, with last year's millage rates the new exemption should lower her taxes by about $200. Instead, her notice said her taxes on her home off Howell Mill Road would go up by about $1,400. In Atlanta, the exemption applies to city and school taxes along with the county government's tax rate.
+'I swear, they're incompetent, just incompetent,' Hayes said.
+Manning said his only other option would have been to leave out homestead exemptions.
+'There's no table yet that's been adjusted to subtract the $30,000 instead of $25,000,' he said. 'We had enough trouble getting the program to grab numbers.'
+As for the computer error that told Atlanta property owners that their taxes would go up this year --- even if assessed values went down or stayed the same --- Manning said he thinks he has isolated the problem. A computer program somehow applied a commercial sanitation charge to everyone in Atlanta, somewhere in the range of several thousand dollars.
+Earlier this week, the Board of Assessors assured taxpayers in a news release that the notices are not bills.
+Roswell homeowner Barbara Krasnoff didn't know anything was off with her notice. The increased homestead exemption should lower her county tax bill by about $50.
+'That just went right over my head,' Krasnoff said. 'That's not a surprise, though. I think the tax office, over the years, has been horribly run.'
+Exemptions in DeKalb are far more complicated than in most counties, but Chief Appraiser Calvin Hicks said he could have made adjustments if the amounts changed. Though the law doesn't require him to factor exemptions, Hicks said he wouldn't dare leave them out, because they can lower taxes substantially.
+'This is new ground,' Hicks said. 'I'm trying to minimize any emotional outburst based on what they know they paid last year.'
+Notices being sent to every homeowner were already expected to result in floods of appeals, as they not only give each taxpayer the automatic right to do so, but also remind them of their assessed values and lay out the process for waging a challenge. SB 346, passed after widespread complaints of overtaxed homes in the wake of the real estate bust, was intended to simplify the appeals process.
+Payne said the erroneous notices will only encourage more appeals. Even though Atlantans are being assured the estimates were off, they're now geared up to protest.
+'They're either irate, or they're exhausted, or they're laughing,' Payne said.
+For more information
+Fulton County Board of Assessors: 404-612-6440, www.fultonassessor.org
+Fulton County Taxpayers Foundation: 404-869-6066, www.fctf.org
+Copyright 2011 The Atlanta Journal-Constitution

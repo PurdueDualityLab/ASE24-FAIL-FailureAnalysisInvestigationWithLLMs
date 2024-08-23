@@ -1,0 +1,29 @@
+Firms sleepwalking into computer chaos: 54% of companies lack plan to deal with millennium bug
+12/09/1997
+The Ottawa Citizen
+ln
+Canadian businesses urgently need to wake up, get with the program, and start attacking the millennium bug, a new survey from Statistics Canada has concluded.
+The fall survey of 2,000 companies found slightly more than half had no plan to deal with the possibly catastrophic computer glitch, and one in 10 had never even heard of it.
+The potential effect of the millennium bug, often called the Year 2000 or Y2K problem, is so far-reaching that, left uncorrected, it could cause malfunctions in everything from bank balances to traffic lights to flight schedules.
+Simply stated, most older computer software identifies years only by their last two digits (1997 is read '97'), assuming that the first two digits are always 19. Without an adjustment, a computer on Jan. 1, 2000 will read 00, leading the computer to assume it is 1900, causing chaos for financial institutions, transportation systems and even bank vaults and elevators.
+Conservative estimates compiled from the survey place the cost of fixing the problem in Canada at $ 12 billion, though other industry estimates have put it much higher, near $ 25 billion.
+The federal government has assembled a blue-chip panel to address the dilemma and yesterday it issued a warning and announced an accelerated schedule of its own work.
+'Basically, there are no excuses,' said task force chair Jean Monty, president of telecommunications giant BCE Inc. 'Companies must take the time, spend the money, devote the resources and do it now. Failing to take a formal approach to solving the problem puts the enterprise at risk, and all of its partners in the supply chain.'
+The telephone survey, done in October and November, found 54 per cent of respondents were taking no action to correct the problem or didn't even know about it.
+The rate of inaction was higher among smaller firms (51 per cent) and midsize firms (29 per cent) than at large ones (eight per cent). By sector, the primary industries -- agriculture, fishing, forestry, mining -- were the worst offenders: 57 per cent without a remedial plan and a further eight per cent unaware of the problem.
+Task force secretary Alain-F. Desfosses yesterday underlined one of the survey's most disturbing findings.
+'The fact that 90 per cent of the companies are aware of the problem but only half of them are taking any action is a source of real concern.'
+He said small and midsize companies need to realize that, fairly soon, larger companies that form their customer or supplier base will want to know whether their data and computer networks have been upgraded.
+The task force announced it was launching a new communications strategy aimed at business and was moving up its own deadline for reporting to the federal government on the problem and a range of solutions, from May 31 to some time in February.
+He urged small companies to contact the supplier of their computer equipment to get an update on corrective action and pointed out there is a wealth of information available on industry and government Internet sites.
+It will take an army of programmers to correct the problem, and experts have been warning for years now that the crunch is on.
+Catherine Swift, president of the Canadian Federation of Independent Business, says she's not very surprised by the findings. Her group, which has 88,000 members, has been getting the word out to members all year, long before the federal task force was created.
+'The No. 1 message in all this for business is act now,' said Ms. Swift. 'You don't have a lot of time.'
+She urges businesses to start finding out what their needs are and to begin looking for someone to fix the problem. She also thinks the government should offer 'a few carrots,' or tax incentives, for business to upgrade their computer equipment.
+During the past year, there has been a veritable boom in private-sector companies geared to correcting the Year 2000 glitch.
+But the survey made plain that finding someone to correct the problem may be getting more difficult, particularly because the computer industry has yet to devise a 'magic bullet.'
+The preliminary indication from the survey is that businesses across the country have identified the need for an extra 7,000 project managers, systems analysts, programmers and testers to complete the conversions.
+The problem is particularly acute for governments, which possess millions of pieces of computer information. The federal government alone expects it will cost $ 1 billion to convert its computers, a job that will require hiring about 2,000 computer specialists.
+Copyright 1997 CanWest Interactive, a division of
+CanWest Global Communications Corp.
+All Rights Reserved

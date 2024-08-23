@@ -1,0 +1,20 @@
+FAA: Software Glitch Grounded Planes
+10/20/2000
+AP Online
+fv
+LOS ANGELES (AP) - Failure of the radar system that guides aircraft into or out of the Southwest was traced to new computer software that malfunctioned, the Federal Aviation Administration said Friday.
+Software installed Wednesday night at the FAA's Los Angeles Center in the Mojave Desert was unable to recognize data typed manually by Mexico controllers.
+Tens of thousands of airline passengers waited hours for delayed or grounded flights Thursday because of the radar failures.
+The software upgrade had been completed successfully at 19 other FAA radar centers, but software designers didn't allow for information typed in by controllers handing off flights from Mexico, which doesn't have a computerized system, FAA spokesman Jerry Snyder said.
+"The computer didn't recognize the information when it was passed from Mexico and it aborted," Snyder said. "A digit out of place could do it."
+The Los Angeles system failed Thursday morning when data from a Mexico controller was received. The system instantly switched to backup.
+The new software was restarted about 1 1/2 hours minutes later, but it failed again. The system returned to operation more than two hours later.
+Air travel schedules were left in disarray as the FAA ordered a nationwide ground stop for all flights bound for the Southwest, causing cancellations, rerouting, long delays and airport gridlock. There were no safety problems for about 100 aircraft already en route.
+The national ground stop order was lifted incrementally throughout the day Thursday to meter the flow of aircraft.
+"Everything's back to normal," Snyder said Friday.
+The radar system at Los Angeles Center covers a 100,000-square mile section of the Southwest, including most of California, parts of Nevada and Utah, and out to sea 250 miles.
+Technicians must now rewrite the software to recognize the Mexico controller information. It wasn't clear when a revised program would be installed.
+"It won't be attempted until after the Thanksgiving holiday rush," Snyder said.
+---
+On the Net:
+FAA: http://www.faa.gov[http://www.faa.gov]

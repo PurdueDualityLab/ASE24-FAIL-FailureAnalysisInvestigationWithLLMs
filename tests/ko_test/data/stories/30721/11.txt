@@ -1,0 +1,15 @@
+[untitled]
+08/16/2004
+Copyright 2004 Reed Business Information US, a division of Reed Elsevier Inc.All Rights Reserved
+ln
+Delays Intel's Sonoma
+Following a series of setbacks, Intel Corp. revealed yet another one to financial analysts during a conference call yesterday.
+The chip giant said its Sonoma platform launch would be delayed until Q1 due to some quality issues with the Alviso chipset, a component of the Sonoma platform. The company said the delay also reflected an effort to re-align the launch with its customers' product launches. However, Alviso will ship for revenue in Q4, Intel said.
+'We wanted to make sure we addressed some quality issues found in a late stage of verification,' said Anand Chandrasekher, vice president and general manager of the mobile platforms group, in the call with analysts. 'Those have been addressed.'
+The Sonoma platform is Intel's next generation design for notebook computers and includes the Alviso chipset, an increase in Pentium M processor speed and a next generation wireless LAN 802.11a/b/g triband capability providing greater security and an easier interface.
+The delay disclosure follows a series of setbacks for the Santa Clara, Calif.-based company, including other missed product deadlines, swelling inventories and lower utilization rates. Financial analyst Lehman Brothers downgraded http://www.reed-electronics.com.offcampus.lib.washington.edu/electronicnews/article/CA443961 Intel this week, even before the latest disclosure.
+The conference call this week served as an update from the company's mobile platforms group and framed Intel's strategy for this rapidly growing market. Intel noted that analyst firm Gartner Dataquest has forecast the notebook segment to grow at a 16 percent compound annual growth rate -- 3 times the rate for desktop PCs. And it represents a strong and growing segment for Intel.
+'Centrino represents $3 billion of Intel's revenue,' said Chandrasekher, adding that the company's 2004 goal for its mobile products is 250 percent year over year.
+While previous efforts have been aimed at pushing notebook sales in the corporate environment, Intel is now shifting its focus to winning customers in the consumer segment. Chandrasekher said the security features in Sonoma, together with its performance and power, are aimed at winning corporate customers while the enhanced audio and video capabilities enabled by the Alviso chipset provide the features consumers want.
+'We took an approach a few years ago to take more than just a processor view, offering processor, chipset and wireless together,' Chandrasekher said. 'That platform approach is a harbinger of what is to come throughout Intel's product lines.'
+Chandrasekher also said that Intel would offer dual core technology in its mobile processors and that the company was working to create a platform that offered an all-day battery life by 2010. To achieve its battery life goal, Intel is looking at a variety of battery technologies, including renewable sources such as fuel cells.

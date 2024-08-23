@@ -1,0 +1,23 @@
+Radar glitch grounds airlines, strands passengers in West
+10/20/2000
+Deseret News*Deseret News (Salt Lake City)
+fv
+LOS ANGELES -- Tens of thousands of airline passengers waited hours for delayed or grounded flights headed into or out of the Southwest because of failures of the radar system that guides aircraft through the region.
+A backup system took over immediately, and about 100 aircraft in flight at the time of Thursday's emergency were not endangered, said Federal Aviation Administration spokesman Jerry Snyder.
+But by the time the FAA restored the system more than four hours later, airports nationwide were gridlocked with aircraft lined up on the ground, canceled flights and passengers stranded or delayed.
+About 75,000 of those passengers were at Los Angeles International Airport, where weight-loss guru Richard Simmons entertained weary travelers with banter and dancing after his flight arrived about an hour late from Philadelphia.
+"I could have been in Paris eating cold oysters by now," Simmons said.
+Los Angeles International averages 100 arrivals and departures hourly, spokeswoman Nancy Castles said. For five hours ending at about noon, all flights were canceled or delayed, she said.
+"It was very disruptive and it had a domino effect," she said, adding most of the backlog had been absorbed by 7 p.m.
+The failures at the FAA's Los Angeles Center followed a software upgrade Wednesday night. The radar facility, 60 miles north of downtown in the Mojave Desert, covers a 100,000-square-mile section of the Southwest, including most of California, parts of Nevada and Utah, and 250 miles out to sea.
+"This was a standard upgrade. Something is corrupting the system," Snyder said. "It's worked for 17 other systems but isn't working here."
+Air traffic controllers had many tense moments. At one point, there was no more room at Los Angeles International, and flights from Australia were sent to Las Vegas.
+"Every flight in and out of our sector was affected," said Garth Koleszar, local vice president of the National Air Traffic Controllers Association.
+Asked if there were safety concerns, he said: "Any time you use a system that isn't the best that we have, I feel there is a degradation."
+The backup system doesn't have the automatic feature that passes planes from one regional controller to another. It requires a controller to manually type flight information and relay the information by telephone.
+The first computer outage lasted from 6:50 a.m. to 8:30 a.m., preventing Southern California-bound aircraft west of the Mississippi from taking off.
+The computer went down again at 9 a.m., grounding planes nationwide. The system was restored at 11:15 a.m. using the old software.
+Southwest Airlines canceled 70 flights, airline spokesman Melanie Jones said. A San Francisco International Airport spokesman, Ron Wilson, said about 20 flights were grounded during the first outage alone, and United Airlines canceled 32 flights into and out of San Francisco during the day. Forty flights were grounded at McCarren International Airport in Las Vegas during the first outage.
+On the Net:
+FAA: www.faa.gov[http://www.faa.gov/]
+Air controllers: www.natca.org[http://www.natca.org/]

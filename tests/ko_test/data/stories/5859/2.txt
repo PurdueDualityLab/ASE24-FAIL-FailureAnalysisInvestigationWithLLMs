@@ -1,0 +1,14 @@
+Microsoft's Hotmail security leak sealed
+08/28/1998
+Calgary Herald (Alberta, Canada)
+ln
+The e-mail security glitch discovered in Microsoft's Hotmail by an Edmonton firm has been fixed, but similar breaches have been found in at least five other e-mail systems.
+Hotmail in California announced at 2 a.m. Thursday that its system was secure, said Tom Cervenka, a programmer at Specialty Installations. Specialty is a small firm that helps others set up and maintain websites.
+Cervenka first managed last week to evade Hotmail security and capture other people's confidential passwords. He advised Microsoft, Hotmail's parent company, last Friday and then went public to users on Monday.
+Since then, the firm has received more than 160,000 hits on its website from Hotmail users concerned about the issue. The usual daily number of hits is around 30.
+Cervenka stayed up all night testing the new Hotmail security system. 'We're impressed with it,' he said. But in the meantime, he has found that Hotmail is not alone in having a leaky security system.
+Using a similar kind of Trojan Horse approach, he has found ways to get passwords from users of Yahoo! Mail, Lycos Mail, Mail City, Eudora Mail and Mail Excite.
+Cervenka plans to inform the companies that service those e-mail systems. And Specialty will then broadcast a demonstration of the breaching methods on its website.
+Copyright 1998 CanWest Interactive, a division of
+CanWest Global Communications Corp.
+All Rights Reserved

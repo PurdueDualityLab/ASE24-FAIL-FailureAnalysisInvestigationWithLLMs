@@ -1,0 +1,24 @@
+Time Warner changeover cuts some Internet service: [Central Edition]
+05/01/2007
+Buffalo News
+pq
+As many as 130,000 Buffalo-area homes were without a critical piece of their Internet service Sunday and Monday, and Time Warner Cable continued to struggle Monday night to correct problems stemming from the replacement of network equipment.
+The outage has prevented individuals and businesses from reaching their Web-based mail, banking sites, eBay accounts and other cyberservices on which many users say they depend.
+"There are several things I'm in the process of looking at and bidding on," said Dale Hartlieb, an eBay user in Gowanda. He said he will miss out on bargains on equipment as auctions expire.
+Like many who encountered problems, Hartlieb said he had partial access to the Web and e-mail, but was blocked from sites that required him to log in.
+Time Warner, which acquired the network from Adelphia Communications last year, pipes high-speed Internet to about 130,000 area customers, mostly in Erie and Niagara counties.
+The problems started Sunday when Time Warner began replacing "Internet Protocol" or IP addresses in Adelphia's old system, said Robin Wolfgang, a spokeswoman. The addresses are critical for routing Internet traffic.
+The outage "certainly got a lot of people's attention on our end," she said. The problem continued Monday evening, without an estimate of when it would be fixed.
+The company had not anticipated any service problems during the switchover, she said, and no count was available of the number of user complaints. The company said it did not know how many customers were affected by the problem.
+Technicians fixed an outage Monday that had blacked out Internet service in Lackawanna, Orchard Park and West Seneca, she said. But problems logging onto secure Web sites continued Monday evening for at least some users throughout the company's Western New York service territory.
+The glitch demonstrates how cable Internet, formerly a novelty, has become a vital communication link for many residents, small businesses and home-based workers -- some of whom use it in place of a phone to carry voice calls.
+"It's a major problem," said Kirk Miller, owner of Matrix Communications in Amherst. His company, which hosts corporate Internet equipment, has been hit by calls from customers worried that they can't log into their company's Web and e-mail servers.
+"When we investigate it, they're using [Time Warner] to log in from home," he said.
+One customer, a law firm that uses cable Internet to carry voice calls, was without phone service, he said. Also, Miller's son was unable to process credit card transactions at his go-cart business in Depew over his cable Internet connection.
+Time Warner will issue credits based on the length of the outage for customers who call and request one, Wolfgang said. Users having connection problems should fully power-down their system by unplugging it before reconnecting, she said.
+Cable Internet users said help lines were jammed Monday, with automated messages promising a call back when the problems were fixed. Wolfgang said that support lines were handling calls and that volume was "a normal Monday."
+But during the day Monday, the company revised its assessment of the connection problems. Wolfgang initially said the company had corrected the problem Monday morning, before learning of more widespread connection problems.
+Unlike land-line telephone service, cable Internet isn't regulated by the state Public Service Commission. Complaints to the commission about cable service will be passed on to the company, a spokeswoman said.
+Wolfgang said she was unaware of any problems affecting Time Warner's television service. The company has about 315,000 area TV customers.
+e-mail: fwilliams@buffnews.com
+Credit: NEWS BUSINESS REPORTER

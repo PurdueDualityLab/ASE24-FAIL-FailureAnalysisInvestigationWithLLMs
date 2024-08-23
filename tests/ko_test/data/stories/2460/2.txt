@@ -1,0 +1,9 @@
+ENGINEERS SEEK EXPLANATION FOR LATEST GLITCH ON GALILEO
+08/27/1996
+San Jose Mercury News (California)
+ln
+Another computer glitch aboard the troubled Galileo spacecraft was puzzling engineers Monday, 10 days before the probe was scheduled to pass by one of Jupiter's moons. 'We've got a ways to go to figure out what happened here,' said William O'Neil, project manager at NASA's Jet Propulsion Laboratory in Pasadena.
+Galileo recorded images of the moon Ganymede during a June 26 flyby, one of 10 encounters with Jupiter's satellites planned during 11 orbits of the giant planet it will complete during a two-year, $1.3 billion mission. Residual data from the flyby was being transmitted from a recorder Saturday when a computer problem knocked Galileo into 'safe mode,' leaving only essential functions running.
+Engineers believe the problem was caused by a mistake in a sequence a computer was ordered to perform, O'Neil said. Galileo should be ready to gather more information during a Sept. 6 flyby of Ganymede, but transmitting the data home may have to wait for a fix.
+Copyright 1996 San Jose Mercury News
+All Rights Reserved

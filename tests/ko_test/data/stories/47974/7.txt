@@ -1,0 +1,17 @@
+FCC to send help for Phila. viewers with digital glitches
+06/17/2009
+Philadelphia Inquirer
+pq
+Faced with angry viewers throughout the Philadelphia area, the federal agency that regulates television stations says it will send extra staffers here to help people make the switch to digital TV and measure digital-TV signals.
+Thousands of over-the-air viewers have lost reception of market-leading 6ABC and WHYY, the public-television station, since Friday's nationwide switch from analog TV signals to digital signals.
+The Federal Communications Commission acknowledged that these people also lost access to Oprah, their afternoon soaps, and other favorite TV shows.
+"We are looking at all available options to resolve these issues. We will act quickly, but thoughtfully," FCC acting chairman Michael J. Copps said yesterday in a statement.
+The FCC will focus resources on similar problems with the digital transition in New York and Chicago, spokesman Mark Wigfield said.
+Many of this region's over-the-air viewers are now in the odd position of receiving stations from Reading and Atlantic City they previously could not get while they can't tune in 6ABC, which has the top-ranked local TV news show.
+The problem, experts say, appears to be with the VHF band. 6ABC has the lowest position on the VHF band, which is prone to interference and adjacent to FM radio stations. WHYY also is located on the VHF band. Other area stations are broadcasting in digital on the UHF band.
+Viewers are frustrated because they could receive 6ABC in digital before Friday's final transition. That's because during the testing phase 6ABC broadcast temporarily in digital in the UHF band, and viewers couldn't tell there might be a problem.
+When 6ABC moved back to its permanent slot in the low VHF band Friday, viewers lost reception because of antenna or signal problems. Experts say they may need dual VHF/UHF antennas.
+"I have almost no TV," Irma Gray of Havertown said yesterday. "I have Channel 3 and then nothing until 29."
+Contact Bob Fernandez at 215-854-5897 or bob.fernandez@phillynews.com.
+
+Credit: By Bob Fernandez INQUIRER STAFF WRITER

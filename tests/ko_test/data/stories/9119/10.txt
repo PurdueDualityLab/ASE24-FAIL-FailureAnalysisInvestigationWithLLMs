@@ -1,0 +1,20 @@
+Microsoft To Release Windows Update
+06/09/1999
+Associated Press Online
+ln
+Microsoft Corp. on Thursday will release Windows 98 Second Edition, an upgrade that makes minor changes to its personal computer operating system, fixes some glitches and combines some previously available improvements.
+The major tweak to the software is a feature that allows multiple computers to simultaneously use a single Internet connection, a first step toward building a home computer network.
+Mike Nichols, Microsoft product manager for Windows 98, said the new version would go on sale at thousands of retail outlets and will be the operating system shipped with virtually all new PCs.
+Nichols said Microsoft hopes the new edition will persuade the millions of consumers who still run older versions of Windows _ Version 3.1 and Windows 95 to upgrade.
+However, many of the features offered in the new software already are available free from Microsoft's Internet site.
+The estimated retail price for the upgrade for older versions of Windows is $109, though the software typically sells at around $89 in stores. Existing users of Windows 98 can get a CD-ROM with the new features for $19.95 plus shipping and handling, direct from Microsoft at www.microsoft.com/windows98/.
+The chief improvement in Second Edition is technology to allow home users to share a single connection to the Internet. It's primarily designed for users who have cable or high-speed telephone access to the Internet, Nichols said; a 28.8 baud modem connection through a normal telephone line would be halved to 14.4 with two simultaneous users.
+The software also expands the range of devices, such as digital camcorders, that can be easily plugged into the system.
+The upgrade includes Microsoft's Internet Explorer 5 Web browser, NetMeeting video conferencing software and Windows Media Player, all of which are now available as free upgrades to Windows 98. It also has Windows 98 Service Pack 1, which fixes bugs and other problems including some Year 2000 compatibility issues, in the existing operating system. The service pack likewise will be made available free from Microsoft to Windows 98 users.
+The Internet connection sharing software is not being given away, and Nichols said Microsoft hopes it and the ease of having all the upgrades on one disk will persuade users to spend $19.95. The CD-ROM package also includes an instruction manual.
+Earlier this year, Microsoft said it would bring out a new version of Windows for consumers in 2000, but it will be based on the Windows 98 code and not the more sophisticated Windows 2000 operating system as originally planned. Microsoft plans to introduce Windows 2000, a long-delayed system aimed primarily at high-powered workstations and computer networks, later this year.
+(PROFILE
+(CO:Microsoft Corp; TS:MSFT; IG:SOF;)
+)
+Copyright 1999 Associated Press
+All Rights Reserved

@@ -1,0 +1,12 @@
+Trouble detected in satellite Daichi found to be no problem
+01/28/2006
+Japan Economic Newswire
+ln
+Some trouble had been detected in a land-observation satellite Friday after it was deployed from a domestically made H-2A rocket earlier this week, Japan's space agency said Saturday, later identifying it as caused by a computer glitch that posed no problem to the satellite's operation.
+The trouble was detected in the data processing system of the Advanced Land Observing Satellite, nicknamed 'Daichi,' at 10:51 p.m. Friday during an operation check upon completion of the process to change its position control, according to the Japan Aerospace Exploration Agency.
+The computer controlling the whole satellite system detected the trouble due to a temporary malfunctioning of the computer after it was exposed to radiation in the space, it said.
+Proper function was restored after resetting the computer and there will be no resulting problem in operation caused hereafter, it said.
+With the check ended, the satellite is now able to precisely control its position, it said.
+The satellite Daichi will orbit about 690 kilometers above the Earth and is intended to collect topographic data to contribute to cartography and capture images of disaster-hit areas anywhere in the world, among other things, the agency said earlier.
+Copyright 2006 Kyodo News Service
+All Rights Reserved

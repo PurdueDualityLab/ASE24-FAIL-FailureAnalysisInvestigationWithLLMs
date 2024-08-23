@@ -1,0 +1,10 @@
+2000 glitch delays petitions to Texas Supreme Court
+02/19/2000
+Austin American-Statesman*Austin American Statesman
+pq
+Texas Supreme Court Clerk John Adams says it's not really a Y2K problem, although it sure resembles the real thing. No matter what you call it, he says, the bug is dead, and no one's rights have been hurt. The problem cropped up Tuesday when court personnel spotted a drop in the number of "petitions for review" transferred weekly to the justices. The petitions are filed by those wanting the Supreme Court to hear their appeal of a lower court ruling. The clerk's office holds the petitions for 30 days awaiting a response from the other party, and then a computer calendar program automatically forwards them to the justices, Adams said.
+There was a similar drop in transfers the week before, but an occasional dip is not unusual, Adams said. Two weeks in a row is.
+The problem, Adams said, was in the computer program, written to conform with the court's system for assigning docket numbers to a case. The number includes two digits that indicate what year the petition was filed .
+That program did not recognize the 00 as the year 2000, Adams said. He said that was not a true Y2K problem because it wasn't a case of the computer's clock not recognizing a time changeover. At any rate, he said, the problem came to light only nowthis month, about a month after petitioners started filing cases this year, because of the 30-day waiting periodgiven to the other party to respond.
+The program was quickly fixed to recognize 2000 properly, Adams said. He said the glitch affected 36 cases, all of which have now been sent to the justices. Adams said no cases were sent to the court's archives, as has been reported in some legal circles.
+"Everything's cool," Adams said.You may contact Bruce Hight at bhight@statesman.com or 445-3977.

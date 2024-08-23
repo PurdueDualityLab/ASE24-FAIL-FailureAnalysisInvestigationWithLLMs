@@ -1,0 +1,11 @@
+Swatting the millennium bug
+12/11/1997
+The Financial Post
+ln
+You're a senior corporate executive. A potentially serious problem - one that could cost your company big money - is brought to your attention, What do you do? Simple. You eliminate the difficulty, or take measures to minimize the damage.
+Seems like Management 101. Why, then, are so many Canadian managers unconcerned about what has come to be called the millennium bug? A recent Statistics Canada survey shows more than half the businesses questioned haven't done a thing to deal with this potentially disastrous computer glitch.
+As The Financial Post's Jill Vardy has reported, the survey has so alarmed a federal task force established to analyse the problem that it has quickened the pace of its work. It will report to Ottawa three months earlier than originally expected - in February 1998, rather than May.
+The bug, which could cause global chaos, has its roots in a 40-year-old programming feature. Most software uses two digits - not four - to represent the year. So when the year 2000 is reached, most computers will set the date at '00.' Computers could assume the date is Jan. 1, 1900, creating a mess of misery. Fixing the problem means re-writing millions of lines of computer code, likely at enormous cost. Statistics Canada said total domestic costs could be as high as $ 12 billion.
+It is not as if executives don't see the problem. The survey shows 91% of respondents are aware technical difficulties could arise in 2000. But the will to take steps to address the issue is sadly lacking. Fifty-five per cent have done nothing.
+BCE Inc. president and task force head Jean Monty suggests senior executives may assume information technology staff can deal with the issue. 'Wrong,' Monty says. 'This is a major project management issue.' Not only could business suffer, but directors and officers could be liable to shareholders and employees for losses they suffer as a result of not dealing with the bug. Managers have no excuse for inaction; if they do nothing, this bug will bite. And that could be very painful.
+Copyright 1997 Financial Post Ltd.

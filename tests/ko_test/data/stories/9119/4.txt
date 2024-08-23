@@ -1,0 +1,22 @@
+Utah Federal Judge Upholds Suit Against Microsoft
+06/09/1999
+THE SALT LAKE TRIBUNE
+ln
+A Utah federal judge said Tuesday he has tentatively decided to deny Microsoft's first three requests to dismiss claims brought against it by Caldera Inc.
+The small Orem software company has accused the industry giant of violating antitrust laws, arguing Microsoft employed a broad range of illegal tactics to quash competition for its computer operating system, MS-DOS.
+Microsoft has divided the strategies alleged in Caldera's lawsuit into nine separate claims, and is asking U.S. District Judge Dee Benson to rule on the validity of each claim individually.
+Caldera lawyers objected to that plan in court Tuesday, arguing Benson --and a jury -- should consider how all of Microsoft's tactics worked together to thwart competition.
+Caldera argued Benson should strike Microsoft's requests from the court record. Benson disagreed Tuesday, saying he will continue to hear arguments on each of the claims outlined by Microsoft because 'they have been beneficial in educating me' about the case.
+However, Benson said Microsoft's 'divide and conquer' method of chopping Caldera's case into pieces 'may be arguably improper' under court rules.
+Benson said he is considering initially denying all of Microsoft's requests, then ruling later on which of Caldera's allegations will be admitted as evidence of the alleged antitrust scheme.
+Benson has heard arguments on three of the claims -- that Microsoft used illegal licensing agreements with computer manufacturers, deliberately announced overly optimistic release dates for its products to dissuade consumers from buying other brands of software, and disparaged competing operating system DR-DOS, owned by Caldera.
+The judge said he has drafted an order on those claims: 'The way it's now written, it's denying all [three] motions for summary judgment,' or requests to dismiss the claims before trial.
+An operating system allows a computer to execute basic functions, such as opening a file. Microsoft offered operating system MS-DOS; competing DR-DOS was sold by Digital Research Inc., then Novell Inc. and now Caldera.
+Caldera bought the previous owners' legal claims when it acquired DR-DOS in 1996.
+Microsoft lawyer James Jardine said he still hopes to convince Benson to dismiss some of the allegations immediately -- such as the claim Microsoft illegally tied its operating system, MS-DOS, to its popular Windows software in one program. A federal appeals court already has rejected that argument, Jardine noted.
+Caldera argues some of Microsoft's aggressive but legitimate business tactics should be considered at trial because they reveal the intent to destroy competition.
+Benson will hear arguments Thursday on allegations that Microsoft created both deliberate glitches and the perception of incompatibilities between DR-DOS and Windows. Caldera also complains Microsoft denied DR-DOS writers access to a draft version of Windows 3.1, preventing them from fixing any problems.
+-----
+Visit Utah Online, the World Wide Web site of The Salt Lake Tribune, at http://www.sltrib.com
+Copyright 1999 Knight Ridder/Tribune Business News
+Copyright 1999 The Salt Lake Tribune

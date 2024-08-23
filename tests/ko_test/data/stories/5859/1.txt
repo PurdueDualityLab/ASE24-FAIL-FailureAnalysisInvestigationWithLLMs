@@ -1,0 +1,16 @@
+HotMail scrambles to fix glitch that exposes passwords
+08/25/1998
+InfoWorld Daily News
+fv
+Microsoft's HotMail subsidiary is scrambling to fix a security glitch in its free e-mail service that could allow someone to steal passwords from HotMail members, a representative at the company's public relations company said Tuesday.
+The security breach was uncovered Monday by a Web developer at Canadian company Specialty Installations, which has posted an explanation of it on the company's "Because-We-Can" Web page (at http://www.because-we-can.com/hotmail/default.htm)[http://www.because-we-can.com/hotmail/default.htm)].
+The scheme involves sending an e-mail message to a HotMail user that contains a particular JavaScript program. When users open their e-mail, the JavaScript program runs almost instantly, creating a message box that tells users their account access has timed out and asking them to re-enter their log-in information.
+In doing so, the victim's username and password are sent back to the person who sent the malicious e-mail. Armed with that information, the intruder could delete, send, and read the victim's e-mail, access the victim's address book, and check messages on other mail servers the victim may have configured to be accessible from the HotMail account, according to Specialty Installations.
+"HotMail is working right now on a permanent fix ... They're working flat out," said Peter Ross, a spokesman for HotMail's public relations company. HotMail cannot say at the moment how long it will take to implement the fix, he added.
+As a temporary measure, HotMail users can disable the JavaScript support in their browser software, Specialty Installations advised.
+HotMail Corp., in Sunnyvale, Calif., can be reached at (408) 222-7000 or http://www.hotmail.com[http://www.hotmail.com]. Specialty Installations Ltd. can be reached at http://www.specialty.ab.ca[http://www.specialty.ab.ca].
+James Niccolai is a San Francisco correspondent for the IDG News Service, an InfoWorld affiliate.
+Related articles:
+"HTML provides opening for e-mail vandals"
+"Hacker tools target Windows systems"
+"Eudora susceptible to malicious e-mail attachments"

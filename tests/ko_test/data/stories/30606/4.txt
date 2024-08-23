@@ -1,0 +1,13 @@
+Computer glitch hits TD Bank: [ONT Edition]
+08/25/2004
+Toronto Star
+pq
+Toronto Dominion Bank apologized yesterday for a software problem that prevented customers in Ontario and British Columbia from getting up-to-date account balances related to in-branch transactions.
+The software, which connects teller computer terminals to the bank's mainframe computer, stopped working properly at 8 a.m. yesterday morning. Customers doing Internet banking or making transactions at bank machines were not affected.
+Customers could still make in-branch transactions but they were not reflected in account balances, making it more difficult to manage accounts.
+Jeff Keay, a spokesperson for the bank, said the problem at B.C. branches was fixed by early afternoon and Ontario branches were running by 3 15 p.m.
+"We recognize there was some inconvenience for customers and we apologize," said Keay, adding that the bank will correct any customer charges - such as fees for cheques returned "non- sufficient funds" - related to the software error.
+He said all in-branch transactions conducted before the systems were fixed were held in standby mode. Those transactions began flowing again late in the afternoon yesterday and all affected accounts should be up-to-date sometime today.
+"If anybody has a transaction they have a problem with, they should contact their branch," said Keay.
+It's just the latest in a string of system troubles at some of Canada's largest banks. Last month, a programming error caused systems at Canadian Imperial Bank of Commerce to duplicate money- transfers, deposits and withdrawals in more than 65,000 personal line-of-credit accounts.
+Credit: Toronto Star

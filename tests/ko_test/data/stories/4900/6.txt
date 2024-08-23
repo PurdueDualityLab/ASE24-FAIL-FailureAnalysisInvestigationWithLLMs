@@ -1,0 +1,17 @@
+US: SOME US AGENCIES UNLIKELY TO FIX YEAR 2000 PROBLEM
+03/19/1998
+AAP NEWSFEED
+ln
+WASHINGTON, March 18 AP - The US government is straining to fix 'the mother of all computer glitches' before the year 2000 arrives, but many federal agencies probably will not meet the deadline, Congress' investigative arm said today.
+That could mean trouble for anyone who receives government cheques, pays taxes, flies in an aeroplane, receives student loans or manages the military, said Gene L. Dodaro, assistant comptroller general for the General Accounting Office.
+'Financial transactions could be delayed, airline flights grounded and national defence affected,' he told a joint meeting of two House technology subcommittees.
+Government computer systems that perform calculations involving dates may begin generating incorrect data after December 31, 1999, because for several decades computer systems have used two digits to represent a year to save electronic storage space and reduce computing costs.
+This means that after 1999, 2000 will be indistinguishable from 1900.
+As of February 15, about 35 per cent of the roughly 7,850 computer systems labelled as 'mission critical' - systems that would cause the most serious problems - were ready for 2000, according to the White House Office of Management and Budget.
+45 per cent are being fixed, 14.6 per cent are being replaced and 4.6 per cent are being retired.
+'Our reviews of federal agency Year 2000 programs found uneven progress,' Dodaro said. 'Some agencies are significantly behind schedule and are at high risk that they will not fix their systems in time.'
+Costs already have jumped. In February 1997, the OMB estimated fixing the problem would cost $ US2.3 billion ($ A3.47 billion). Its most recent estimate was $ US4.7 billion ($ A7.09 billion).
+To help the government head off trouble, President Bill Clinton appointed a council last month to oversee a government-wide effort to reprogram or replace computer systems.
+'I don't need to remind the council that as we ring in the 21st century, we will be ushering in the mother of all computer glitches,' said Republican Constance Morella.
+AP hf
+Copyright 1998 AAP Information Services Pty. Ltd.

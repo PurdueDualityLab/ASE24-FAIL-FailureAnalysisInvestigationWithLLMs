@@ -1,0 +1,9 @@
+TSE To Run Simulations To Find Cause Of System Glitch
+02/04/2012
+Nikkei Report
+fv
+TOKYO (Nikkei)--The Tokyo Stock Exchange will try to re-create the situation right before Thursday's trading system glitch in an attempt to find what triggered the disruption.
+The testing will take place over the weekend, allowing time for a lengthy system shutdown.
+Trading went on normallyFriday after the TSE replaced a faulty server. But the exchange still does not know exactly what went wrong the day before, when system trouble forced a halt in morning trading in 241 securities, including blue chip stocks and real estate investment trusts.
+Fujitsu Ltd.(6702), which developed the system, called arrowhead, will take part in the testing this weekend. Several dozen engineers are scheduled to join the effort. Once the problem is found, the exchange will take steps to prevent a recurrence.
+(The Nikkei Feb. 4 morning edition)

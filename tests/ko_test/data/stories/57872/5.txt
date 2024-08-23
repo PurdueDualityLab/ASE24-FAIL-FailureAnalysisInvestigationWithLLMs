@@ -1,0 +1,34 @@
+Mapping glitch blamed for no Colo. fire warnings
+04/05/2012
+The Associated Press State & Local Wire*Associated Press Online
+ln
+Software that failed to recognize a community name and a discrepancy between coordinates on Google maps and a mapping system are being blamed for the failure to alert some residents to a deadly Colorado wildfire.
+A document released Thursday by the Jefferson County Sheriff's Office indicates mapping software used by FirstCall Network Inc. didn't recognize where to map homes listed as being in Morrison. Those homes were placed in an 'unknown' category and received no warnings about the fire. They included the home of Ann Appel, who is believed to have died in the blaze.
+Appel was one of the first residents to call 911 to report smoke over her house and was told it was a small, 5 acre fire.
+FirstCall provides automated phone warning systems to up to 200 cities, counties and states across the country.
+A review by the county and FirstCall also found up to 100,000 records containing errors, leaving county officials to consider using other systems to warn residents of emergencies. Those include sending cruisers through affected neighborhoods with sirens, and broadcasting warnings on the Emergency Alert System on television and radio.
+'We now know that we have 100,000 people who are in Ann Appel's position,' sheriff's spokeswoman Jacki Kelley said of the widespread system problems. 'The confidence in this FirstCall system is extremely low.'
+The county and FirstCall are at odds over who's to blame, with the sheriff's office saying the company maintains its own database that the county pays for and should work.
+FirstCall President Matthew Teague said the problem was in the difference between software the company uses and the address data collected from the county's 911 system, which lists some homes in Morrison, about 13 miles from the fire.
+'They provided us with that data,' Teague said. 'It's their data that has the incorrect addresses.'
+Teague later issued a statement saying the company and the county are working with other companies that collect the data to ensure addresses match their location.
+In regards to the 100,000 records with errors, Teague said the mistakes appear to be minor, with the addresses being off by one house or on the wrong block.
+Mountain homes in the evacuation zone listed as being in Littleton, on the high plains just south of Denver more than 15 miles from the fire, received the evacuation calls. Kelley said the county is concerned with how other addresses are mapped because other homes are listed as being in Golden, nearly 20 miles from the fire area, and nearby Conifer.
+For people who registered their cellphone numbers online, the registration system used Google's mapping software, which produces coordinates for the home's structure and not at the street, which is how landlines are mapped. Teague said the county could provide only one example of a person who registered their cellphone online and was not notified, and that he didn't believe it was a widespread issue.
+He noted he believed it was only a matter of yards but said the company would use the street coordinates only to prevent any problems.
+Jefferson County officials, however, said many homes are some distance from the winding mountain roads that snake through the communities nestled in the foothills west of Denver. For example, resident Andy Hoover sat safely in his driveway as the wildfire destroyed his home some distance away while he spoke with 911 dispatchers.
+Recordings of 911 calls released by the sheriff's office show dispatchers relied heavily on the automated phone notifications when advising increasingly panicked callers whether to evacuate. In one call, a dispatcher tells resident Neal Biller that if he didn't receive a call, he didn't have to leave.
+Biller told the dispatcher that his neighbors were receiving calls and insisted that his address be looked up. When the dispatcher checked, Biller indeed was in the evacuation zone.
+'Do evacuate,' the dispatcher said.
+'Wow. Really?' Biller said.
+'I wonder why you didn't get the call?' the dispatcher asked.
+'Well, I'm glad I called,' Biller said.
+Some dispatchers did urge people to err on the side of caution and evacuate if they felt they were in danger.
+FirstCall said the first round of evacuation calls erroneously went to anyone who signed up for the service on a county website, whether or not they lived in the evacuation area.
+The company logged the first call at 4:50 p.m. and the start of the second round of calls at 5:16 p.m. Teague said the corrected calls went to 1,089 phone numbers in six waves, the last one starting at 9:14 p.m.
+Appel's family thinks someone should have called her back after she reported seeing smoke. A neighbor who evacuated showed them a video that indicates Appel's house was burning around the time the first wave of calls went out.
+The records problems were among a series of missteps in a prescribed burn that escaped containment lines that resulted in the deaths of three people: Appel, Sam Lucas and Lucas' wife, Linda.
+An independent review board appointed by Gov. John Hickenlooper is examining how a controlled burn that sparked the blaze was planned and conducted. Local fire districts on the scene say they lost precious minutes as the blaze grew because of communication problems.
+Associated Press writer Rema Rahman contributed to this report.
+Copyright 2012 Associated Press
+All Rights Reserved

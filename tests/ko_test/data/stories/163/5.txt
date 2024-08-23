@@ -1,0 +1,25 @@
+Glitch May Force Shuttle to Land Early / Astronauts Cut Back on Electricity
+03/15/1989
+San Francisco Chronicle (pre-1997 Fulltext)
+pq
+Cape Canaveral
+Space agency officials said yesterday that a problem with the space shuttle Discovery's electrical system might force the winged spaceship to land a day early, on Friday.
+The trouble involves a tank supplying hydrogen to the shuttle's fuel cells, which make electricity for use throughout the spacecraft.
+A sensor reported unusually high pressure Monday in one of three tanks that supply the fuel cells, and it was later turned off. The orbiter is now relying on the other two tanks.
+Experts at the National Aeronautics and Space Administration said they were unsure whether the pressure was really high or whether the signal was false.
+"The hydrogen tank is exhibiting a pressure signature that we haven't ever seen before," Granville Pennington, a flight director at the Johnson Space Center in Houston, said at a news conference.
+As a precaution, the astronauts switched off some electrical devices to conserve power, Pennington said. The items included several lights, a guidance unit and various radios and computers.
+NASA officials said this had not affected any of the scientific activities or payloads aboard the Discovery. Pennington said the tank problem posed no danger to the astronauts.
+After the "powering down" yesterday morning, the crew continued with planned tasks, such as monitoring experiments and photographing environmental damage to the rain forests of Brazil and the Mexican coastline.
+Engineers were studying data from the spaceship, trying to fathom what caused the unusual reading. If they determine that it is merely a sensor problem, the craft could complete its five-day mission.
+If the problem could be solved and the shuttle could use only two of its three electrical system tanks, it would be forced to land on Friday, a day early. The orbiter is always managed so that it has enough fuel for two extra days in case bad weather repeatedly blocks a landing.
+The space agency said it could wait as late as Thursday to make a decision about how to deal with the tank problem.
+The three tanks that supply the fuel cells are filled with pressurized super-cool hydrogen and oxygen, at 420 and 285 degrees Fahrenheit below zero respectively.
+In the fuel cells, hydrogen and oxygen react chemically to generate 28 volts of electricity. Within each tank there is a pressure vessel for oxygen and hydrogen. Each oxygen or hydrogen pressure vessel has two pressure sensors. It is one of these sensors that is giving astronauts unusually high pressure readings.
+Pennington said that if the orbiter did land a day early, it would not significantly affect the mission's success.
+"I think that we could pretty well say we'll get a majority of all the experiments," he said. "I think the primary part of the mission has been accomplished, and that's the important thing."
+He stressed that no final decision had been made to end the mission early. "Right now," Pennington said, "we're still planning to land on Saturday, unless that changes, based on engineering data." He said the shuttle is scheduled to land at 6:34 a.m. PST at Edwards Air Force Base in California.
+The launching of a giant $100 million communications s atellite on Monday was considered the mission's main goal. Yesterday, it reached its position in an orbit 22,300 miles above the Earth and was reported to be operating perfectly.
+The satellite joins one fully functioning and one backup satellite in orbit 22,300 miles above the Earth to relay radio communications between shuttles and the Earth during 85 percent of each orbit.
+Using ground relay stations, radio contact is possible only when the shuttle is roughly above each station, a total of about 15 percent of each orbit.
+The space agency will soon close six ground stations at a monthly savings of $3 million.

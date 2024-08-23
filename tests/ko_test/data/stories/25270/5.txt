@@ -1,0 +1,15 @@
+Glitch delays Mars rover launch
+04/15/2003
+United Press International
+ln
+NASA officials said Tuesday the agency is delaying launch of the first of two Mars rovers to modify a potentially troubling electrical circuit.
+The spacecraft had been set for launch on May 30, the opening of a 21-day launch opportunity, made possible by the relative positions of Earth and Mars in their orbits and the planned trajectory and power of the spacecraft. The extra work will postpone launch at least a week, said Kennedy Space Center spokesman George Diller.
+The rover, along with its twin that remains scheduled for launch on June 25, will be disassembled in Florida, officials said, to remove a circuit board that will be sent to the Jet Propulsion Laboratory in Pasadena, Calif., for a slight modification.
+Engineers running mission simulations at the JPL discovered a potential problem with a circuit that could have left both probes unable to determine their positions on the surface of Mars.
+'It's great that they caught this,' said Diller. 'That's why we do all that testing.'
+NASA lost two Mars probes in 1999 due to engineering oversights. The Mars Climate Orbiter apparently crash-landed on the planet's surface on Sept. 23 because of a mathematical error in calculating its approach to the Red Planet. The Mars Polar Lander likewise is thought to have crashed on Dec. 3, just minutes after the craft entered the Martian atmosphere on its way to landing on the planet's surface.
+The problem with the new rovers concerns cables that connect the spacecraft's main computers to other equipment needed to separate the rovers from various elements during the flight and upon arrival at Mars.
+The first rover must be launched by June 19 or it will miss its flight opportunity for 26 months -- the next time Earth and Mars will be favorably aligned. No matter when the rover flies during the current launch window, it is scheduled for arrival on Jan. 4, 2004.
+The second rover, which is being launched on a more-powerful booster, must fly by July 15 and is expected to reach Mars on Jan. 25.
+Both rovers carry an identical set of science instruments that will look for evidence of past water on Mars.
+Copyright 2003 U.P.I.

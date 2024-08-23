@@ -1,0 +1,61 @@
+Glitches keep the road free
+08/31/1999
+The Australian
+ln
+Melbourne's high-tech tollway is still a freeway. Dan Tebbutt reports
+VICTORIAN motorists are more than two weeks into a toll-free windfall on the new City Link roadway as computer problems continue to plague the project.
+It's still anybody's guess when toll charges will begin on the 14km roadway.
+Road owner Transurban will say no more than that drivers will have seven days' notice before charges begin.
+News reports are generally attributing the problem to unspecified software glitches. But for those who manage large software developments, many of the project's problems will sound familiar.
+Two different IT systems make up the City Link tolling system. Both rely on complex technologies that have been under development by specialist contractors for more than three years.
+In the front line stands the most publicised technology in the project: the e-tag.
+Developed in Sweden by Saab Combitech Traffic Systems and manufactured locally, the e-tag is a small grey transponder that tracks vehicle movements on the roadway in order to deduct tolls.
+More than 500,000 of the cassette-sized identification tags have been made for distribution to Victorian drivers.
+When a car enters City Link, it triggers three simultaneous processes in the gantry booths mounted along Western Link -- the first section of the road to open.
+Overhead sensors read the e-tag identification pass, while cameras scan the vehicle's number plate and snap a photo to confirm its size.
+The process begins automatically when a vehicle approaches the toll point.
+Sensing the movement, the gantry reader sends a short-range 5.8GHz microwave signal to the e-tag, mounted inside the car's windscreen.
+When the signal is received, the device comes to life for less than a second to transmit its identity number.
+Ron Glenn, project director for City Link management company Translink, says the battery should last the e-tag's whole lifespan because reflected microwave energy is used to transmit identity data.
+E-tag communications are encrypted for security, and Glenn says the frequency used should not interfere with mobile phones.
+Similar transponder technology is used on tollways in North America, but City Link's two extra identification features are unique.
+The first involves stereoscopic video cameras that capture an image of each vehicle to confirm its characteristics match recorded data.
+When tolls are eventually introduced, different rates will apply for cars, light-commercial vehicles and trucks.
+The video image system is designed to ensure the correct rate is charged. If the vehicle type matches the e-tag number, the digital image is discarded, Transurban assures customers.
+As a final safeguard, imaging cameras take a snapshot of each vehicle's number plate.
+The digital image is converted into numbers and letters and then cross-checked against the e-tag database.
+A key design feature of the e-tag system is its ability to keep traffic moving.
+The so-called free-flow collection approach was chosen in an effort to avoid the long queues at tollgates on other user-pays roads.
+According to Transurban, traditional toll booths would undermine the time savings promised by the CBD bypass.
+The scanning system has been successfully tested at speeds up to 200kmh, and overlapping camera coverage ensures it can cope with vehicles changing lanes as they pass under the gantries.
+Despite so much focus on the complexity of the e-tag approach, all reports indicate this aspect of the City Link technology is working smoothly.
+But problems are arising in the low-profile back-end systems used to match data collected at the roadway gantries with customer account records. The heart of City Link's billing system is an application known as the central toll computer system (CTCS), which was developed under contract by CSC Australia.
+Many of the problems experienced in the final roll-out mirror common complaints in other large software development projects.
+Transurban operations executive general manager Ken Daley says test and debug efforts are still using a pre-production version of the management and billing application. The beta test environment is not yet linked to real customer account records.
+The problems encountered to date can be broadly classified into three areas: scalability issues, event scheduling software and the trip reconstruction mechanism.
+The CTCS software has so far proved unable to scale up to handle heavy traffic flows -- a key criterion in a system expected to process 1.7 million transactions every 48 hours.
+'There are performance issues,' Daley says.
+Written in the fourth-generation Forte applications environment, the tolling application runs on a Sun E4000 server farm at City Link's data centre.
+One expert suggests the object-oriented software design of CTCS -- with each function written as an independent program before interlinking the whole package -- could continue to pose problems for City Link.
+'Often, with object-oriented systems you don't know how it will perform until you put it all together,' RMIT University software engineering research centre director Professor Fergus O'Brien says.
+Object-oriented software is rarely chosen for time-sensitive systems like City Link because its performance can be unpredictable, he adds.
+But Daley defends the platform choice.
+'Everything had to be tailor-made for this project,' he says. 'Overall performance is good and we do not have any
+problems inside the machine.'
+He adds that Transurban cannot use a real-time operating system because billing integrity and audit trails are fundamental requirements.
+Perhaps the most vexing problem is the software's alarm scheduling clock, which controls when particular CTCS tasks should occur.
+The scheduler manages the system's overall load and the sub-routine order, including the ability to reschedule non-critical tasks during off-peak periods.
+Daley says the scheduler will sometimes misfire, confusing the computer's processing order. 'The alarm scheduler just goes mad and overloads the system,' he says.
+Scheduler problems are serious enough to break through Forte partitions designed to ensure system reliability, Daley says.
+Debugging efforts are being delayed as the developers struggle to recreate the circumstances that cause the malfunction -- a necessary step to observe the problem and catch code bugs.
+'Transurban wants a high degree of confidence associated with the central computer system, so we're still making changes and subjecting them to regression testing,' Daley says.
+The third major CTCS problem centres on the technology that tracks the length of each car's City Link journey. Because toll charges relate to the distance travelled, the computer must reconstruct each trip by calculating where a vehicle entered and exited the roadway.
+'That is just a very, very hungry program because it has all these complex algorithms to run,' Daley says.
+Beyond these identified problems, a number of CTCS interfaces remain incomplete.
+Daley says these are limited to non-core functions such as credit checking and debt collection. 'Those don't need to be fully automated from day one.'
+All core interfaces such as the links to the bill mailing house and fines enforcement are ready, Daley says.
+The delay in introducing toll charges on City Link highlights the risks involved in relying on cutting-edge technology without back-up options, one commentator says.
+'This is the first such system in the world that is truly automatic,' Monash University mechanical engineering researcher Dr Patrick Moriarty says. 'They haven't got a manual back-up system.'
+The free-flow design also means there is no latitude to add a tollgate infrastructure down the track. 'There's always problems with being first in the world,' he says.
+www.transurban.com.au
+Copyright 1999 Nationwide News Pty Limited

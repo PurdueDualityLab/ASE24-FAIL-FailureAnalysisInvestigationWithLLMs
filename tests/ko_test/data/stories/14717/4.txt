@@ -1,0 +1,12 @@
+Router Problem Disrupts Pacific Bell Internet Service
+07/06/2000
+The San Francisco Chronicle
+ln
+Pacific Bell's dial-up Internet service was 'impaired' in San Francisco for five days, the company said.
+Spokeswoman Lisa Ward said it has been taking customers twice as long to download a Web page, and many requests for Web pages haven't gone through at all. Ward, who blamed the problem on a misconfigured piece of network equipment called a router, said the slowdown started last Thursday and was fixed Tuesday morning.
+The problem left some Pac Bell customers fuming. 'Without Internet access, I am unable to do business,' complained one user, a San Francisco attorney.
+The problem is just the latest black eye for Pac Bell's Internet service, which has nearly 400,000 customers. Pac Bell's e-mail system has repeatedly gone down or slowed to a crawl this year, sometimes for a week or more at a time.
+Many customers have also complained about frequent outages and installation problems with its high-speed Internet service, called digital subscriber line.
+Ward, however, said Pac Bell has recently upgraded its equipment and hired more technicians. She said the latest glitch likely would have been fixed faster if customers had called earlier to complain. 'If we do have a problem, we can repair it quickly.'
+E-mail Todd Wallack at todd@sfgate.com.
+Copyright 2000 The Chronicle Publishing Co.

@@ -1,0 +1,26 @@
+Intel Forum Arrives At A Good Time; Focus Is Cool Upcoming Stuff; Chipmaker's biannual fest aimed at developers comes on heels of lowered outlook
+09/07/2004
+Investor's Business Daily
+ln
+Intel, reeling from a string of bad news, hopes to change its momentum with an event it hosts this week.
+The world's biggest chipmaker stages the latest Intel Developer Forum Tuesday through Thursday in San Francisco. The twice-a-year event aims to help firms develop new products with Intel chips.
+Intel itself has missed a few new-product deadlines and had manufacturing glitches this past year.
+In its midquarter update Thursday, the company said it's saddled with chips it can't sell as consumers and businesses hold on tightly to their cash.
+Intel lowered its sales and profit margin outlook for the third quarter much more than analysts expected, news that sent many tech stocks tumbling. (See related story, this page.)
+So the forum's timing gives the Santa Clara, Calif.-based chipmaker a chance to focus investors' attention on cool new technologies.
+Intel President Paul Otellini Tuesday is slated to talk about how chips are changing the way people work and play. At the 3GSM wireless conference in France in February, Otellini said people want phones, music players, cameras, computers and other devices on a single product that works anywhere.
+'Increasingly, they're going to demand coexistence because they don't care what kind of network they're on; they just want to be connected,' he said then. 'And they want to be able to get access to those services that are starting to roll out.'
+Otellini is slated to talk about a big move underway in the semiconductor field to put more than one chip 'core' into a single package.
+Chipmakers call these new devices multicore chips.
+Having multiple cores in a single package can boost a chip's performance. Because the cores can share common circuits, the design cuts down on a chip's energy needs.
+The more energy, or electricity, a chip uses, the more heat it generates. And heat can fry a chip's circuits. Intel Chief Technology Officer Pat Gelsinger often warns about the dangers of heat. He says unless things change, as chips get bigger a single chip could one day create as much heat as a nuclear reactor.
+That's why Intel and rival Advanced Micro Devices, the No. 2 PC chip seller, are racing to bring multicore chips to the market.
+'It's not who's first, but who is executing best' on the multicore chips, said Ben Williams, an AMD vice president.
+He says AMD and Intel could start selling multicore chips next year.
+An Intel spokeswoman agrees with Williams. 'The race will be about who can provide good quality products in high volume that meets customers' needs,' said Laura Anderson. At this forum, 'We're going to outline several multicore product plans for desktops (PCs), server and mobile products.'
+Other technologies Intel is expected to highlight at the forum include:
+** WiMAX. Otellini plans to reveal more details about Intel's planned WiMAX products. WiMAX, the successor to Wi-Fi, is counted on to boost wireless bandwidth.
+** The Internet. Gelsinger plans to outline Intel's ideas for a new Internet, one that is more secure and faster.
+** All-day batteries. Vice President Anand Chandrasekher plans to talk about Intel research in rechargeable batteries. These are designed to power notebook PCs for 12 hours or longer on a single charge, triple today's average.
+Copyright 2004 Investor's Business Daily, Inc.
+www.investors.com

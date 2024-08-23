@@ -1,0 +1,26 @@
+Load Alleviation
+02/06/2012
+Aviation Week & Space Technology
+ln
+Robert Wall/London andJens Flottau/Dubai, United Arab Emirates
+The high profile Airbus has given the A380 magnifies any of its problems in the public eye. The mega-transport's latest setback, cracks in a wing component that must be repaired in much of the fleet worldwide, may end up as little more than a footnote, however.
+Airbus has put in place changes to its A380 wing assembly process to address the occurrence of component cracks as it becomes apparent that most A380s already built require fixes to deal with the issue.
+Twenty of the more than 60 Airbus A380s in service worldwide are affected by the European Aviation Safety Agency's (EASA) airworthiness directive (AD) to inspect the aircraft for potential cracks of wing rib-feet. The findings by the airline inspections having unfolded in recent days are in line with the expectations, says Airbus executive vice president for programs, Tom Williams.
+Singapore Airlines has the most A380s affected; it found cracks on all six aircraft inspected initially. No major service disruptions resulted, although some flights had to be shifted to Boeing 777-300ERs while the A380 wing repairs were underway.
+Similarly, Lufthansa's A380 introduction director, Dean Rainieri, says he does not expect any major disruptions. Lufthansa operates eight A380s, but they are not yet affected due to their low number of flight hours.
+The Jan. 20 AD requires A380s with 1,800 flight cycles or more to undergo a detailed visual inspection within four days or 14 flight cycles, whichever occurs first. For aircraft with 1,300-1,800 flight cycles, the inspection must occur within six weeks or 84 flight cycles, according to EASA. Aircraft not yet affected by the directive will undergo the process once they reach the flight cycle threshold, or even earlier, Williams notes.
+There are enough replacement wing rib-feet available to avoid parts shortages that could impact aircraft return to service.
+At issue is an L-shaped bracket that attaches the wing skin to the ribs. Each wing has about 2,000 L-shaped brackets (30-40 per rib, with 60 ribs per wing), so the failure of one bracket is not seen as a safety issue. However, EASA says that this condition, if not detected and corrected, could potentially affect structural integrity of the aeroplane.
+To avoid the problem on new-build aircraft, Airbus is using shimming to reduce the strain applied when the wing skins are assembled, which will reduce the loads on the wing rib-feet. Rather than a 0.5-mm gap when skins were pulled down in the assembly process, it was 1.5-2 mm in the lower wing area around Rib 26 and Stringer 21, causing an unexpected load on the wing rib-feet.
+Airbus also is changing the material of the part from an Aluminum 7449 alloy to a stronger component. The overall effect will be to add 89 kg (196 lb.) to the aircraft, Williams says.
+Furthermore, Airbus is altering the interference fit fasteners because it deems the current configuration complicit in the damage seen.
+The inspection regime airlines are undertaking involves draining the wing tanks and opening an access panel. Depending on local rules, the process takes a day or more. If a repair action is required, it can take several days.
+Airbus stresses that the issue is not a flight safety concern.
+As part of the root-cause analysis, Airbus instrumented one of its own aircraft to determine if its wing-load estimate had been erroneous. The testing indicated that was not the case.
+EASA notes that this AD is considered to be an interim action to immediately address this condition. But, it adds, further mandatory actions might be considered as a result of the ongoing investigation.
+Wing changes being introduced on the A380 to boost the maximum takeoff weight to 574 from 569 metric tons should not create a new problem in this area, Airbus says.
+But that is not the only in-service issue the aircraft maker is dealing with on its flagship product. Fleet-wide dispatch reliability of the A380 is now at 98%. We were not at the levels of reliability that we had hoped for, concedes Paul Oliver, head of customer support for the Middle East, Africa and India during Aviation Week's MRO Middle East conference in Dubai last week.
+However, he emphasizes that the trend lines are in the right direction and that more than half of A380 operators have a 99% dispatch reliability rate. Lufthansa has a 99.2% rate, according to Rainieri. The airline operated four of the aircraft at 100% for four months before encountering some glitches.
+Separately, the Qantas A380 severely damaged as a result of the Nov. 4, 2010, uncontained Rolls-Royce Trent 900 engine failure is now back in flying condition, Oliver says. The aircraft is on the ground again, though, undergoing wing-crack repairs in Singapore.
+Copyright 2012 The McGraw-Hill Companies, Inc. http://www.mcgrawhill.com
+All Rights Reserved

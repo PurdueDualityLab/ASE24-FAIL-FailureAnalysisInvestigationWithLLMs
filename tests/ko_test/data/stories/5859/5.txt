@@ -1,0 +1,20 @@
+Hotmail posts fix to password flaw
+08/25/1998
+ZDNet News from ZDWire
+fv
+Microsoft Corp.'s Hotmail subsidiary says it has fixed a security glitch that would allow users to steal Hotmail members' passwords.
+On Monday, Canadian Web programmers publicized how malicious users could fool Hotmail users into revealing their passwords, using nothing more elaborate than JavaScript code attached to an e-mail message. The code, which runs as soon as the e-mail message is viewed, alters the Web-based user interface of the Hotmail e-mail account, creating a false timeout message, and asking users to re-enter their passwords in order to use the account.
+Once Hotmail users re-enter their passwords, they would return to the normal Hotmail interface -- but by then, their password security would have been compromised.
+Canadian Specialty Installations, a reseller, posted a demonstration of the exploit, which it calls "Hot" Mail, on the Web site "Because-we-can," which publishes the work of Specialty Installations Web programmers.
+Hotmail acknowledged the vulnerability Monday evening. The company has posted a server-side fix, and says it will shortly produce a "permanent fix" to "similar problems."
+"Hotmail is committed to protecting its members and their accounts and takes even the smallest e-mail security risk very seriously," Hotmail said in a statement.
+Steps to safety
+The e-mail service recommends several steps to avoid the vulnerability:
+Don't open messages from unknown parties.
+If you see an unexpected password prompt, do not use it to log on to your account; instead, return to the account by typing the Hotmail URL into your browser, or using a bookmark.
+Specialty Installations recommends users turn off JavaScript capabilities on their browsers while using Hotmail, until a permanent solution is put into place.
+"The security problem is easy to take advantage of," said the programmers in a message posted on because-we-can.com. "A would-be hacker needs only to embed the JavaScript code into the body of an e-mail message using a standard e-mail program such as Netscape Mail."
+Damage potential is out there
+Once a user has someone's password, he or she can not only alter that Hotmail account, but can also alter or delete messages on an Internet service provider e-mail account, through the POP-mail feature on Hotmail.
+The glitch works on any JavaScript-enabled browser, according to Specialty Installations.
+Hotmail, based in Sunnyvale, Calif., has 22 million active users.

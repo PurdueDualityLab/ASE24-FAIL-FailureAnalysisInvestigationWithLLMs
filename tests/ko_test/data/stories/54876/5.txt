@@ -1,0 +1,16 @@
+Test run of next-gen internet protocol IPv6 due tomorrow
+06/07/2011
+domain-b
+ln
+Around 200 technology companies including Akamai, Facebook, and Google are set to switch to IPv6 during the World IPv6 Day trial for 24 hours on 8 June. The switch is intended to test the readiness of companies to handle IPv6 addresses and also check what could be expected when websites are obliged to enable IPv6 in the future.
+The Internet Society (ISOC) says that 99.5 per cent of all users would hardly notice anything unusual tomorrow but admits there could be glitches.
+According to industry sources, small businesses need not worry over the trials on Wednesday. In fact, unless companies are hosting their own web servers, small businesses have nothing to prepare for when the current IPv4 addresses are expected to be depleted next year, either.
+Already, newer routers come with IPv6 support and Windows XP, Vista, Windows 7, and upcoming Windows 8, as also major Linux distributions including Red Hat and Ubuntu are IPv6-ready. All ISPs eventually would have to eventually support IPv6 addresses as well.
+However, even if users' network equipment or OS does not support IPv6, they would not notice anything on 8 June or in the future.
+Small businesses could also continue to use IPv4 addresses indefinitely since it would hardly be in the interest of a website owner to lock anyone or deny access to any IPv4 connection. In fact, given that IPv6 addresses are incompatible with IPv4 addresses, and vice-versa, it would be a good idea for businesses to support IPv4 until a complete switch has been achieved across the internet user spectrum.
+On 8 June, the over 200 web companies would work with ISPs and content-delivery networks to conduct the first global-scale trial of IPv6. For a 24-hour period, the companies participing in the trial from around the world would enable IPv6 on their main services.
+The need for an IPv6 day has been felt ever since the Internet Assigned Numbers Authority assigned the last remaining blocks of IPv4 addresses to the individual regional internet registries in February. This signaled the depletion of available IP addresses and even ahead of this there has been a lot of discussion about adopting the next-generation networking protocol, IPv6.
+According to analysts the push for IPv6 will come from the continued explosion of mobile devices and with greater number of users from emerging markets. With no more IPv4 addresses left, new mobile devices would all be working with IPv6 addresses.
+IPv6 solves the address saturation problem associated with IPv4 by using 128-bit addressing, which creates a massively larger number of IP addresses - '340 trillion trillion trillion' - widely believed to be beyond the what that the internet would need for decades, even by the most ambitious growth projections.
+Copyright 2011 domain-b, distributed by Contify.com
+All Rights Reserved

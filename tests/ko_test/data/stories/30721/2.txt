@@ -1,0 +1,30 @@
+Intel Moves Ahead Of Rivals In Key Transition To Next-Generation Chips
+08/30/2004
+Investor's Business Daily
+ln
+Even as the dust settles on the most recent advance in chip technology, Intel on Monday plans to launch the first salvo in the next advance.
+The company plans to unveil the first high-end chip ever made with what the industry calls a 65-nanometer process. It'll be a prototype memory chip not yet for sale, but it will mark another big advance for the industry and herald the start of a new era of chips and chip-powered products.
+This prototype static RAM memory chip has a half a billion transistors, Intel says, roughly twice as many as the current process. With its 65-nm process, Intel says it will be able to put more than 1 billion transistors onto its flagship product, the Pentium chips that power most personal computers.
+Intel has set a bar that competitors such as Advanced Micro Devices and IBM must clear to compete, analysts say.
+IBM, AMD On Notice
+'We were pleasantly surprised by the (65-nm) news,' said Richard Doherty, an electro physicist and research director at Envisioneering Group in Seaford, N.Y.
+'With this announcement, Intel is certainly ahead of anything AMD or IBM is doing,' he said. 'To have achieved that and demonstrated it in an SRAM will set the pace in the industry. Others will have to match or exceed this.'
+The nanometer number refers to the width of the metal lines -- the circuitry etching -- on chips. A nanometer is super tiny, but when dealing with the limited real estate of chips, each nanometer makes a big difference in how many features a maker can pack on a chip, how fast that chip can run and how much power it needs. The smaller the width, the more transistors a chipmaker can pack onto its chips, and the more speed or less power it needs.
+So this advance could help Intel sell more chips and help firms improve the products they make with such chips. But analysts question just when there will be a need for 65-nm chips. And many analysts say Intel had problems in the last big transition, from 130-nm to 90-nm chips, something Intel itself has neither confirmed nor denied.
+Banc of America Securities analyst John Lau says Intel might be jumping the gun by moving to 65 nm now. Every such chipmaking advance poses difficulties, he points out.
+'There is no question whether they can do it. They can,' Lau said. 'The real issue is: Do they need it?'
+On the other hand, the industry will, and must, always advance.
+'It's not just a race to get to 65 nm,' Doherty said. 'It's a mandate. Customers expect it. They depend on scaling to keep up the pace of Moore's Law.'
+Intel co-founder Gordon Moore long ago prophesied that the number of transistors on chips would roughly double every 18 months to two years, a forecast that has proved to be remarkably accurate. The company first started unveiling 90 nm in August 2002.
+Mark Bohr, an Intel senior fellow, says the company is working to avoid any glitches in the transition from 90-nm to 65-nm chips. Analysts last year said the number of good 90-nm chips yielded from every batch was low. The problem was short-lived, and Intel is shipping millions of good 90-nm chips a month, analysts say.
+Still Ramping 90-nm
+Bohr is responsible for getting the process of making new chips up and running at Intel's plants. He says chip designers and factory engineers are working more closely together.
+'Do we work with designers? Oh boy, do we,' he said in a recent conference call with the media. 'We do it very proactively and upfront. We sit down with them to design power and performance tradeoffs.
+'We have worked closely with them to come up with optimal combinations' of features on the 65-nm process.
+In this quarter, more than half of Intel's chips will be made using the 90-nm process rather than 130 nm. By next year Intel plans to be well along in its transition toward making all its chips using 65 nm. That includes new Pentiums, Itaniums and Xeons.
+But PC chipmakers have a glut of chips sitting on their shelves. This includes Intel. Last month, the company said its second-quarter product inventory had risen by $427 million, or 15%, since the first quarter. It also fell a tad short of second-quarter revenue expectations.
+Analysts didn't expect either item. Intel's stock has slipped from more than 26 before this announcement to about 22. Lau on Thursday lowered his revenue and earnings forecast for a handful of chip firms, including Intel. He downgraded one of them, AMD, based on falling prices for its key flash memory chips.
+Intel, which first talked about its planned 65-nm process in November, timed this latest disclosure in part to pump up its image after last month's troubles, Doherty says. He also notes that the company's annual Intel Developer Forum in San Francisco starts Sept. 7.
+'They are announcing this just before IDF,' Doherty said 'This should help offset the last six weeks of disappointing news.'
+Copyright 2004 Investor's Business Daily, Inc.
+www.investors.com

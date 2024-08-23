@@ -1,0 +1,8 @@
+Glitch found to cause failure of data transmission from satellite
+01/30/2006
+Kyodo News*Japan Economic Newswire
+fv
+The Japan Aerospace Exploration Agency said Monday it has found a glitchin its land-observation satellite ''Daichi'' that causes a data transmission failure when the satellite tries to send information to a station on the ground.
+The agency said it has set up a special team to investigate it.
+The Data Relay TestSatellite, nicknamed ''Kodama,'' is planning to relay data from Daichi to the ground in the future, but it is not known if the glitch will affect the operation.
+Daichi was deployed from a domestically made H-2A rocket on Jan. 24.

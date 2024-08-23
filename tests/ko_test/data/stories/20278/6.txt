@@ -1,0 +1,22 @@
+Tech Systems For Olympics Tested, Ready; Tech Systems All Tested and Ready to Go
+12/22/2001
+Salt Lake Tribune (Utah)
+ln
+Olympic officials have been testing and rehearsing all of the computer systems and operations for the 2002 Winter Games and can now say, 'All systems go.'
+The technology crews responsible for the computer networks, Olympic Web site, and the telecommunications systems completed their last exercise -- known as the Technical Rehearsal 2 or TR2 -- Friday, and 'it was absolutely successful,' said David Busser, chief information officer for the Salt Lake Organizing Committee who is in charge of all the Olympic technology systems.
+'Success is defined by how much we learned,' Busser added. 'And we learned a lot.'
+The five-day rehearsal was conducted to test the systems, ranging from the network that manages all of the race times and judges' scores to the cell phone network, to see how well they work under stress. They also were testing the systems and procedures that manage volunteers, traffic monitoring and security setups for the official Olympic Web site.
+'We've been working through all the issues, and we're happy with the way it's been going,' said Robert Cottam of SchlumbergerSema, the Olympic sponsor responsible for making sure all of the technology for the Games works well together. 'We've had a lot of serious scenarios thrown at us.'
+Olympic technology staff have been running exercises by throwing simulated disasters into the operations to see how things work out.
+'We had scenarios where radio towers fell over,' said Marco De Palma, a SLOC technology consultant. 'We [simulated] a tree falling over a scoreboard.'
+Officials also tested more likely possibilities such as a snapped cable or a piece of computer equipment going on the fritz.
+To test the On Venue Results System, the huge network that manages the racing times and sports scores, computers were set up to produce simulated times and scores for competition events then transmitted the information through the network.
+During the Olympics, Feb. 8-24, this network will provide all of the competition results to television commentators, event spectators and news reporters. One hiccup in the system could spell disaster.
+'The biggest nightmare is if we don't get a time -- an athlete who has trained his whole life for the Olympics crosses the finish line and we don't get the time,' Busser said. 'The biggest nightmare won't happen.'
+To test the network's stress level, officials ran as many as eight simultaneous competitions with all results coming in at the same time.
+Realistically, no more than four or five events will be running simultaneously during the Games, but the system had no problem handling nearly twice as many, De Palma said.
+SLOC's setup includes command centers for the computer network, for the telecommunications network and for the the Web site, and each center can monitor where there are problems at any of the venues and instantly implement solutions before anyone knows a glitch erupted.
+'When something fails, people won't know about it because the transition to the backup system is seamless,' Busser said.
+While the TR2 or second test rehearsal was successful, there will be some additional minor testing before February. Otherwise, the system is ready to go, according to Olympic organizers.
+'The joke is the next testing is the TR3,' Busser said. 'And that's the Games.'
+Copyright 2001 The Salt Lake Tribune

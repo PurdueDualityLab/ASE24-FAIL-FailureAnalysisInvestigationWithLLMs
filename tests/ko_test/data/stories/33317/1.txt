@@ -1,0 +1,17 @@
+When it Comes to Data, Less is Better;Minimize the amount of data you keep, and you reduce the chances that lost or stolen information can come back to haunt you.
+05/03/2005
+eWeek.com
+ln
+Polo Ralph Lauren loses the personal information of 180,000 HSBC North America customers. DSW Shoe Warehouse discovers credit card and check data on 1.4 million transactions has been stolen. Bank of America loses backup tapes with the personal information of 1.2 million federal employees.
+Why are these security breaches happening?
+The answers generally offered by the leaky keepers of data on customers all sound familiar--software glitches, lax security procedures and criminal activity.
+Another reason, never offered: Companies are data pack rats, collecting customer information for years without knowing what data is lying around or whether it even holds business value, say security experts such as Alan Brill, senior managing director at Kroll Ontrack.
+The fix: Go on a data diet. Reduce the amount of data you keep around, a process called 'data minimization.'
+Such minimization won't end the theft of customer information, but it will limit what data there is to steal (or lose).
+Companies often learn the hard way. Polo Ralph Lauren spokeswoman Alex Cohan says the company 'had more data on hand than we needed in the point-of-sale system.' The company wouldn't comment on what data was stored, but credit card magnetic strips contain items such as account numbers, three-digit verification codes and expiration dates.
+Now that Polo Ralph Lauren's system, provided by Micros Systems' Datavantage unit, has been patched, Cohan says only information needed to complete the sale--namely, credit card number and authorization--is collected.
+'No one asks whether a company really needs to keep all this information lying around,' Brill says. 'Is there a reasonable business reason to keep it?'
+According to Brill, companies need to go on a 'data minimization' quest to cut risks. Go through all your processes and purge data that doesn't serve a business purpose. In a data-minimized world, a retailer, for instance, wouldn't keep credit card numbers on transactions beyond its return policy. Social Security numbers wouldn't be collected at all. Addresses for former customers could be purged after, say, three years. Temporary workers and offshore contractors would only see the data necessary to do a task.
+Read the full story on Baselinemag.com: When it Comes to Data, Less is Better
+Copyright 2005 Ziff Davis Media Inc.
+All Rights Reserved

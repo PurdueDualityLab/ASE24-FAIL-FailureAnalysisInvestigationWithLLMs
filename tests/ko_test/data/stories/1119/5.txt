@@ -1,0 +1,36 @@
+Electromagnetic storm causes satellite chaos
+01/22/1994
+The Record (Kitchener-Waterloo, Ontario)
+ln
+(CP) - A violent electromagnetic storm likely disabled Canada's main broadcast satellite, Telesat Canada officials said Friday.
+The breakdown of Anik E-2 left television viewers across the country with fuzzy screens in the place of some of their favorite channels.
+Although engineers and computer specialists at Telesat struggled throughout the day to restore the errant satellite, company officials told a late-day news conference their efforts had not succeeded.
+'We believe a failure of this magnitude is unparalleled in the satellite industry,' said a grim Larry Boisvert, Telesat's president.
+Salvage efforts continued, but Telesat officials admitted Anik E-2 may now be space junk.
+Boisvert ruled out sabotage as a possible cause of the failure of Anik E-2 and an earlier outage Thursday aboard its sister Anik E-1.
+Instead, he suggested the blame probably lies with a massive electromagnetic storm near the satellites about the time that the problems began.
+The storm, which was detected by a nearby environmental satellite, began around noon EST Thursday and continued until mid-morning Friday.
+'We now have definitive information that that storm did occur in the vicinity of our satellites,' said Len Stass, Telesat's vice-president of space systems.
+The storm probably charged the Anik E-2 with current, causing it to blow a circuit, Stass said.
+If that theory is correct, Anik E-2 could be a writeoff, he said.
+'If it's a circuit failure, I think that the prognosis is not that good.'
+A nearby Mexican satellite also experienced minor glitches following the storm, said Stass.
+Boisvert said about 90 per cent of Anik E-2 traffic had been diverted to Anik E-1 and the Galaxy 6 satellite owned by U.S.-based Hughes Communications. The remaining traffic was to be rerouted Friday night.
+Telesat officials admitted it might be several months before occasional users, such as companies broadcasting sports specials, would have access to satellite time.
+The difficulties with Anik E-2 arose Thursday night shortly after technicians solved a similar problem with Anik E-1.
+'It was the most unbelievable occurrence that could ever happen,' said Telesat spokesman Jim Spendlove. 'We just got the other one working and this one went.'
+CBC Newsworld and other national specialty cable channels relayed by satellite, including MuchMusic, TSN, Vision TV and the Weather Network, were knocked off the air. Some U.S. signals were also bumped.
+'It's causing all sorts of problems,' said Ken Stein, president of the Canadian Cable Television Association.
+About 7.5 million Canadian households subscribe to cable.
+Thousands of rural satellite-dish owners were also unable to pull in the specialty services from the ailing bird perched 36,000 kilometres above the equator.
+Anik E-2 has had a troubled history. An antenna malfunctioned after its launch almost three years ago. It was later fixed.
+Telesat officials suggested Thursday's storm caused Anik E-2's momentum wheel to fail.
+The wheel works like a gyroscope to keep the satellite stable with its equipment pointed toward Earth.
+The failure left the satellite's signal - normally fixed on Canada like a flashlight beam - spinning like the bulb atop a lighthouse.
+Officials believe the Anik E-1, which resumed full operation late Thursday, also experienced a wheel breakdown.
+They adamantly ruled out sabotage, saying it would be impossible to cause such a mechanical failure.
+'You can't order it to do what it did,' said Telesat vice-president Barry Turner. Other industry insiders also played down the possibility of foul play.
+The $300-million Anik E-2 isn't insured, not unusual for satellites once they're working in space.
+Telesat is controlled by the country's largest telephone companies.
+Last year, facing anticipated losses of up to $60 million over the next 24 months, the company laid off more than one-quarter of its 830 employees.
+Copyright 1994 Metroland Media Group Ltd

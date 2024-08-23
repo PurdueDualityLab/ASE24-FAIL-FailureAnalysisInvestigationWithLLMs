@@ -1,0 +1,16 @@
+Increased awareness prompts virus writers to be creative
+05/19/2000
+Associated Press Newswires*The Canadian Press
+fv
+NEW YORK (AP) - As awareness about Internet security rises, virus writers are finding creative ways to trick computer users into opening harmful e-mail attachments.
+To keep Internet users off guard, the latest virus changes the e-mail's subject line to reflect recent files on the computer that forwards the bug. So friends and co-workers may receive such messages as "Birthday party plans for Bob" or "Information about Motorola."
+"The e-mail goes to people who know you're working on that project," said Mikko Hypponen, manager of anti-virus research at F-Secure Corp. in Helsinki, Finland. "It's really convincing."
+Plus, said David Remnitz of security firm IFsec in New York, the mutations deny recipients and computer administrators "a common ground to judge whether a message is actually a virus."
+The "Love Bug" virus spread quickly two weeks ago by seducing recipients with a love letter purportedly from a friend.
+Within days, variants disguised themselves as an e-mail joke or a receipt for a Mother's Day gift. Some viruses even pretended to come as warnings from Symantec Corp., a maker of anti-virus software.
+"Someone thought that by falsifying credibility, maybe that will get them into the system," said Patrick Martin, a Symantec product manager. "Instead of forcing a virus down your throat, they try to entice you to do to it yourself."
+Virus writers have tempted computer users previously with a South Park cartoon character and tools to fix the Year 2000 glitch.
+Clever social engineering helps viruses spread far, said David Perry, director of public education with anti-virus vendor Trend Micro. Less-clever viruses - his company discovers hundreds each month - die out uneventfully.
+"Virus writers are trying a lot of stuff by trial and error," Perry said. "That's the nature of software development and the nature of human endeavor. Novelty works."
+As a result, security becomes a game of cat-and-mouse. Anti-virus vendors try to stay a step ahead of virus writers, who try to stay a step ahead of public awareness.
+Americans are generally savvy about viruses, claimed Susannah Fox, director of research at the Pew Internet and American Life Project. But, she fretted: "As computer virus writers get trickier, are Americans keeping up with them?"

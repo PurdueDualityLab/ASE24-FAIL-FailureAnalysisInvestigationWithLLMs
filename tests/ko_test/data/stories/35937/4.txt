@@ -1,0 +1,13 @@
+U.S. spy agency website inaccessible for hours: hacker attack possible
+01/13/2006
+The Canadian Press
+fv
+WASHINGTON (AP) _ Thewebsite for the U.S. National Security Agency, which has been under scrutiny for domestic wiretaps it conducted without warrants, was inaccessible for more than seven hours Friday.
+A spokesman, Don Weber, declined to say whether the site suffered an attack by hackers or a technical glitch. Speaking shortly after the site went back online, he said only employees had worked to restore access.
+Internet experts atKeynote Systems Inc., which monitors Web traffic around the world, said access to the NSA's website by visitors across the United States was severely limited.
+``This condition wouldindicate to me that either the site is being overwhelmed with legitimate users or a (denial of service) attack,'' said Shawn White, director for Keynote's external operations.
+The NSA, known foreavesdropping and code-breaking, also helps protect computer systems deemed vital to U.S. national security, such as those involved in intelligence, cryptography and weapons.
+``This illustrates thateven technologically savvy people have a hard time fighting off denial of service attacks,'' said Alan Paller, research director for the SANS Institute in Bethesda, Md., a computer security organization.
+Internet records indicatethe NSA's website is contracted to Lingual Information System Technologies Inc. of Columbia, Md. An operator there said no executives were available to comment on the outage because they had left for the weekend.
+On the Net:
+National Security Agency: http://www.nsa.gov [http://www.nsa.gov]

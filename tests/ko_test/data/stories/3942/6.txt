@@ -1,0 +1,33 @@
+Three in five firms doing nothing for 2000: study Survey paints bleak picture of ability to cope with software glitch
+12/09/1997
+The Globe and Mail
+pq
+Survey paints bleak picture of ability to cope with software glitch
+Three in five firms doing nothing for 2000: study
+Survey paints bleak picture of ability to cope with software glitch
+Tuesday, December 9, 1997
+Technology Reporter
+Three in five Canadian companies are doing nothing to prepare their computer systems for the arrival of 2000, a Statistics Canada survey released yesterday says.
+The national survey of 2,000 firms is the first broad measure of how well Canada's private sector is coping with the "millennium bug," a software programming glitch that has the potential to severely disrupt -- or even to bankrupt -- businesses. Unless fixed, computers won't be able to tell 2000 apart from 1900, wreaking havoc with any computer system that uses dates.
+The picture drawn by Statscan is bleak: 9 per cent of Canadian firms haven't even heard of the problem and another 46 per cent say they're aware of the problem but aren't doing anything about it.
+Only 9 per cent of businesses have a formal plan to deal with the millennium bug. The survey estimates that at least $12-billion will be spent in Canada to fix it. But Statscan warned that the amount is likely understated -- only 18 per cent of firms could even provide estimates of their anticipated expenditures.
+Jean Monty, chairman of the federal government task force on 2000, says the survey results demonstrate the private sector is taking a nonchalant attitude toward a "serious and urgent" problem. The survey is part of the three-month-old task force's effort to spur awareness of the 2000 problem. The task force is to release a full report in early February.
+Two months ago, the Auditor-General's 1997 report described a similarly serious situation for the federal government. The report said crucial public services could be disrupted unless the government moves aggressively to fix its computer systems.
+Mr. Monty, who is also president and chief operating officer of BCE Inc., said he's both surprised and worried by the survey of the private sector, especially because only 9 per cent of businesses has come up with a plan. "It's quite obvious that we have a long way to go yet," said Mr. Monty, whose firm is spending up to $500-million to fix the problem.
+He suggested that part of the cause of the corporate complacency is that the 2000 computer problem seems too simple to be a big problem.
+Most computer software uses two digits, instead of four, to denote years, an anachronistic programming technique that dates from the 1950s. That practice -- originally intended as a memory-saving shortcut in the early days of computing -- has now become a hugely expensive problem as 2000 approaches, and the two-digit year in many computers rolls over to "00" from "99."
+Quite simply, programs that aren't updated won't know whether the year is 2000, 1900 or even a random date. Any device that employs a computer chip could be affected, including security systems and elevators.
+Peter de Jager, head of the consulting firm de Jager & Co. Ltd. of Brampton, Ont., agrees many executives do not want to believe their companies face such a large problem. He said the attitude of denial is fed by vague assessments from information technology departments. "When you put those two things together, you have a recipe for disaster," said Mr. de Jager, whose firm specializes in the 2000 problem.
+Mr. de Jager pointed to two bright spots in Canada, however. He said Canada is second only to the United States in its level of preparedness. Canada's banks, he said, are world leaders in their effort to fix their computer systems.
+The survey found that, among the 91 per cent of firms that are aware of the problem, an overwhelming 82 per cent believe they cannot be sued if their lack of planning results in them being unable to meet contractual obligations.
+That attitude is unrealistic, said John Judge, a partner at law firm Stikeman Elliott in Toronto. He said there is enough awareness of the problem that companies cannot treat a computer system breakdown as an unforeseen act of God.
+"God didn't create the computer," said Mr. Judge, whose firm has set up a special section to handle anticipated lawsuits.
+Other findings of the survey include:
+13 per cent of those companies aware of the 2000 problem are determining the state of readiness of their suppliers and customers
+for those businesses aware of the problem but not taking any action, 27 per cent said they aren't worried because they believe there is enough time to fix the problem; 23 per cent said it is not an important issue because they don't depend on computers; 14 per cent said they had no time, money or staff to fix the problem; 10 per cent said it was up to their information technology suppliers to fix the problem; and 7 per cent said they were waiting for a so-called "magic bullet" solution that would fix the problem cheaply and quickly.
+Related Web sites
+For further information on the 2000 problem, including the Statistics Canada survey, check out:
+
+http://www.statcan.ca
+
+http://www.ic.gc.ca

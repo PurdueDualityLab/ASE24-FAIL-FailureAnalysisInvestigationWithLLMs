@@ -1,0 +1,49 @@
+Your DVR Didn't Take Down the Internet---Yet
+Blame webcams and DVRs for last Friday's Internet outage, but not the kind you think.
+
+LAST WEEK ENDED with a mid-level internet catastrophe. You may have noticed that for most of Friday popular sites like Netflix, Twitter, Spotify (and yes, WIRED) were inaccessible across the East Coast and beyond. It’s still unknown who caused it, but by now we certainly know what: An army of internet-connected devices, conscripted into a botnet of unimaginable size. And who owns those devices? Well, lots of people are saying you do. As far as we know, they're wrong.
+
+We’ve already discussed in depth what happened on Friday, when a distributed denial of service (DDoS) attack threw more traffic at a company that runs part of the internet’s infrastructure than it could handle, making web pages not load for millions of people throughout the day. Now it’s worth taking a closer look at how we got there. More specifically, how IoT became a singular threat to the stability of the internet itself.
+
+A Different DVR
+Let’s start with the silver lining: Despite what you may have heard, your webcam and DVR and baby monitor and smart refrigerator almost certainly aren’t complicit in last Friday’s collapse. You’re not an accessory to botnet. At least, not this time.
+
+It’s true that what took down the internet was a botnet comprising internet-connected devices, and that those devices included hundreds of thousands webcams and DVRs, two items many people keep in their homes. That’s not the type implicated in this attack, though. As it turns out, the type of botnet in question, called Mirai, recruits not the Late Show-recording computer your cable company installed, or to the Dropcam you point out the window.
+
+The zombie webcam army responsible for Friday’s mayhem instead consists of industrial security cameras, the kind you’d find in a doctor’s office or gas station, and the recording devices attached to them. Also? They’re mostly ancient, by technological standards.
+
+“Most of these were developed in 2004 on down the line,” says Zach Wikholm, a research developer at security firm Flashpoint who’s been tracking the root cause of the attack. “Like most of the things built at the beginning of the internet, they were just built to work. There was no real security consciousness.”
+
+Adding to the vulnerability of those creaking machines is that they’re often connected directly to modems, making it easier for hackers to gain control.
+
+“That’s one minor yet important factor here to consider,” says Allison Nixon, Flashpoint’s Director of Security Research. “If I plugged in one of these DVRs to my home network, it would not be publicly accessible. I would not even have to worry about the vulnerability.”
+
+That's because smart home devices are typically tucked behind a firewall, on non-routable networks that don't interact with the internet at large. “Typically those type of devices aren't openly exposed to the Internet,” says Rapid7 security researcher Deral Heiland, who cautions that this doesn't mean they're beyond being compromised at all. “Obviously, if malware was able to get inside a home network and then identify other devices on the home network, that could be a potential risk.”
+
+But generally, yes, in this case, you're off the hook. But what about the storefronts who do have these devices installed? Well, they might not even know they own one of the problem gadgets. And that's the biggest problem of all.
+
+Chain of Command
+Many of the affected cameras and DVRs can be traced back to a single manufacturer: Hangzhou Xiongmai, a Chinese electronics company that has since recalled all of its potentially compromised products. Xiongmai makes what’s known in the industry as “white label” products, fully formed hardware or components that are sold to more prominent brands, which then distribute them under their own names. This makes it incredibly hard to tell if your small business is using compromised devices made by Xiongmai.
+
+“Some of these subcomponents have their own embedded operating system, with embedded default passwords in some cases,” says Heiland. Xiongmai said in a statement about Friday's botnet attack that people had not changed those default passwords, making their webcams easy targets. That’s not to blame the camera-owning public; in many cases, changing the password on IoT devices either requires robust technological know-how, or simply isn’t possible, because they’re hardcoded to the device.
+
+Security experts are unsure if the Xiongmai recall will be successful; it's hard enough to motivate people to return their car to the dealer, much less a security camera of unknown provenance. The path forward to prevent another devastating botnet attack is equally unclear. What the Mirai incident did show, though, is that IoT’s security problems run deeper than whatever name is on the box the device comes in. And that has implications beyond a large-scale internet outage.
+
+“Even though the DDoS was bad, it brings to light the failure around the supply chain management problem,” says Heiland.
+
+A failure that could just as easily impact the smart devices in your own home.
+
+Put a Chip in It
+The Internet of Things has gotten out of hand. Alongside devices where “smart” makes sense, like security cameras, are items that have no defensible reason to be on the internet, such as refrigerators, ovens, and washing machines. Even Barbie’s Dreamhouse is a smart home.
+
+That ubiquity isn't entirely without reason. The IoT market as a whole was worth $600 billion in 2014, according to a recent study from Grand View, which expects it to grow to nearly two trillion dollars by 2022. With numbers that robust, what company wouldn’t want a sliver?
+
+The problem with this proliferation, though, is that not all of these companies are skilled at connecting appliances and other electronics to the dangerous wonderland that is the internet. Fortunately for them, competence has not been a barrier to entry. Not as long as there are white label providers like Xiongmai.
+
+“So many vendors that are making available IoT-based technology don’t necessarily have any idea how to produce those products,” says Heiland. “There’s a toothbrush company out there with embedded technology in their toothbrush now. They may not understand security implications, or have a solid security management program, so when issues are identified they don’t know how to fix the problems, or even know how to approach those problems.”
+
+More can go wrong than just a botnet. In one high-profile supply chain issue, insecure, internet-connected baby monitors from several different manufacturers allowed voyeurs to watch (and even talk to) small children from half a world away. (If you want to avoid the possibility that such an attack could happen to your baby's monitor, buy one that has RF connection, but not internet connection.) Heiland this summer found that a new line of Sylvania smart bulbs were riddled with vulnerabilities, in part due to third-party components.
+
+So no, your DVR didn’t bring down Spotify last week, and your webcam didn’t crash Reddit. That honor goes largely to more industrial products. That doesn’t mean they’re necessarily safe, though. Or if they are, that they’ll stay that way.
+
+“People shouldn’t be afraid of their light bulb,” says Wikholm. Yet. But you should be aware that if it has an internet connection, that bulb could be turned against you.

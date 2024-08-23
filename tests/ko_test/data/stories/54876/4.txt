@@ -1,0 +1,23 @@
+Happy IPv6 Day
+06/08/2011
+The New York Times Blogs(Bits)
+ln
+A new system of Internet addressing is being tested Wednesday. If you didn't notice, that's good.
+Get out the confetti. Wednesday is World IPv6 Day.
+If you are unaware of the event, you're hardly alone. Few people know about it and if it is a success, it should stay that way.
+The day nevertheless marks an important step in the Internet's evolution. The event is intended as a 'test flight' for a successor to the current Web address system that - if successful - will help to ensure that the Internet runs smoothly into the future.
+IPv6, as the Web address system is known, is intended to relieve the strain on a system that has been used since the Internet's inception. IPv4, the original address system, was devised without consideration for how big the Internet would eventually become as a means for buying diapers, downloading music and sending risque photos.
+The problem is that IPv4 addresses are nearly all taken. The last batches were made available in February and are expected to be claimed by the end of the year.
+The addresses are not the Yahoo.com, Facebook.com and Google.com that nearly everyone recognizes. Rather, they are the basic numeric addresses that those domains stand-in for.
+IPv4 addresses consist of 32 zeros and ones in different sequences. There are roughly 4.3 billion such addresses.
+IPv6 addresses consist of 128 numbers. Given all the possible combinations of zeros and ones, the system offers around 320 undecillion numbers.
+Leslie Daigle, chief technology officer for the Internet Society, a nonprofit group that is promoting World IPv6 Day, put it this way: There are more IPv6 addresses 'than there are grains of sand on Earth.'
+On Wednesday, more than 400 Web content companies like Google, Yahoo and Facebook will participate in World IPv6 Day by making their sites accessible over IPv6. The goal is to motivate organizations across the Internet industry to prepare their services for IPv6.
+People who are curious about whether their Internet connections are IPv6-ready can test them.
+The change will likely go unnoticed by most everyone. However, a small percentage of Internet users - less than half a percent, according to the Internet Society - may notice a temporary slowdown because of incorrectly configured equipment, particularly home networking equipment.
+In reality, most of the preparation has already been done by backbone Internet providers, Internet service providers, Web sites and Web site hosting services.
+The alternative to the transition to IPv6 is far worse than any minor glitches for a fraction of the Internet using population. The Internet would become increasingly slow for everyone and more costly for Internet companies to do business because they would have to spend money on working around the problem, Ms. Daigle said.
+'Your games don't work, or your Google Maps doesn't fill in as smoothly as before,' she offered as examples.
+IPv6 addresses have been available for years. But they represent only a fraction of all addresses, although that will undoubtedly change in coming years.
+Copyright 2011 The News York Times Company
+All Rights Reserved

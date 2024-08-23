@@ -1,0 +1,26 @@
+Not ready for 2000, experts warn: Turn-of-century computer glitch could be costly, businesses told
+12/09/1997
+The Gazette (Montreal, Quebec)
+ln
+The year 2000 is looming, but many Canadian businesses still haven't started fixing an end-of-century computer glitch that could bring everything from automated billing systems to elevators grinding to a halt.
+And that could have devastating effects on Canada's economy. Those are some of the findings of a survey of 2,000 companies conducted this fall by Statistics Canada. The results were made public yesterday by Task Force Year 2000, set up by Industry Canada to gauge how prepared business is for the so-called millennium bug.
+'Serious and urgent'
+'We're not at the crisis point yet, but this is serious and urgent,' said task-force chairman Jean Monty, who is also president and chief operating officer of BCE Inc. 'The fateful date is approaching rapidly and we already know that the process of repairing or replacing information systems is long and costly.'
+The survey found that 90 per cent of all companies were aware of technical problems that could arise because of the glitch - but only half of them were doing anything about it.
+The year-2000 problem refers to computers that were programmed to identify years only by their last two digits. To them, 97, for example, means 1997. Unless the problem is fixed, the computers will assume that Jan. 1, 2000 is actually Jan. 1, 1900. The malfunction may cause some of them to shut themselves down altogether.
+And the bug doesn't affect only desktop computers, Monty noted. 'The issue goes beyond information systems. It goes to elevator systems, lighting systems, anything that uses microprocessors.'
+To update the problem systems, programmers must plow through computer code and manually fix the software. It's labour-intensive and expensive. Statistics Canada's 'ball-park estimate' is that businesses will spend more than $ 12 billion to fix the problem.
+Monty figures the cost will be a lot higher than that. He noted the companies under the BCE umbrella (including Bell Canada and Northern Telecom Ltd.) alone will spend 'between $ 400 million and $ 500 million' converting their computers. And Canadian banks and car-makers will each spend $ 75 million to $ 100 million.
+'In the end, the cost is going to be very, very large, and I suspect that in order to absorb this cost there will be a lot of displacement of priorities because this is one priority you can't miss,' Monty said. 'The year 2000 is going to be upon us whether we like it or not.'
+As the clock ticks toward 2000, getting a handle on the problem is becoming pricier because there's a dearth of project managers and technical talent. 'I'm worried because there arrives a moment where even if you have the money, you might not have the time, you might not have the human resources,' Monty said.
+The survey showed that companies see a need for at least 7,000 project managers, systems analysts and programmers not currently available from internal ranks. It's already hard to fill such positions: Statistics Canada reports a 2.5-per-cent unemployment rate for systems analysts and programmers. Many computer experts are being scooped up right out of school by booming consulting firms that specialize in converting computer systems.
+Monty suggested that many business people haven't started taking the problem seriously because 'it doesn't appear to be intellectually challenging. A lot of us in the senior levels of business and governments just say, 'This issue is so simple it will be dealt with by information-technology specialists.'
+'Major issue'
+'That's wrong. This is a major project-management issue. It addresses millions and tens of millions of lines of code in our systems. It addresses pretty well everything we do with information-technology today.'
+And if businesses don't smarten up, Monty said they risk falling behind foreign competitors. If computer systems aren't up to snuff, Canadian business will stumble at the turn of the century. 'Response times to our customers whether they be Canadian or foreign will be much reduced,' Monty said.
+On the other hand, if Canadian businesses make a concerted effort to tackle the problem and are year-2000 ready before other countries, they'll be in a position to beat out foreign competitors.
+Monty's task force has asked for reports on different aspects of the year-2000 problem from the Conference Board of Canada, the Information Technology Association of Canada and the Canadian Bar Association. The task force's final report, including recommendations, is to be published in February. In the meantime, Monty has sent letters to members of 400 national business associations, urging them to get started on fixing the year-2000 problem in their firms.
+- Industry Canada has published the survey results on its Year 2000 Web site (http://strategis.ic.gc.ca.offcampus.lib.washington.edu/year2000), a clearinghouse of millennium-bug information.
+Copyright 1997 CanWest Interactive, a division of
+CanWest Global Communications Corp.
+All Rights Reserved

@@ -1,0 +1,13 @@
+Signal glitch weakens WHDH-TV's digital strength
+06/17/2009
+Boston Globe
+pq
+While thousands of television viewers struggled with the changeover to digital TV broadcasting, a major Boston TV station found that it wasn't ready either.
+The digital signal from local NBC affiliate WHDH, which broadcasts on Channel 7, isn't strong enough to reach many homes in Greater Boston. So WHDH has begun "simulcasting" its signal on Channel 42 and Channel 7.
+"We are very sorry for the inconvenience to our viewers, and we hope to have this resolved quickly," said WHDH general manager Chris Wayland. Wayland said he did not know how many people in the Boston area were affected by WHDH's signal problem.
+Like most major TV stations in the United States, WHDH has been broadcasting a digital signal for months. But it had been using Channel 42 for its digital signal and Channel 7 for the traditional analog signal.
+Once analog broadcasts ended Friday, WHDH planned to stop using Channel 42 and do its digital broadcasting on Channel 7. But the station found that the Channel 7 transmitter isn't powerful enough to deliver a clear picture through the Boston area. WHDH has asked the Federal Communications Commission for the right to boost its signal strength, but this process could require weeks of testing to ensure the signal won't interfere with other broadcasters.
+In the meantime, the FCC gave WHDH permission to resume digital broadcasts on Channel 42. Viewers who receive their TV stations with an over-the-air antenna, and are receiving a clear signal from Channel 7, won't be affected. Those having trouble receiving the station, should rescan for channels through the menu functions on their digital TVs or converter boxes to get a clear signal. This feature will program the TV or converter to tune in every available TV signal, including the WHDH digital broadcasts on Channel 42.
+The FCC issued an advisory on Monday, suggesting a more complicated process called "double rescanning." This requires disconnecting the antenna from the TV or converter before rescanning, then unplugging the TV or converter for one minute. The viewer should then reconnect all the components and run a second channel scan. The FCC advisory also noted that users need an antenna capable of picking up VHF signals - channels 2 through 13 - and the higher-numbered UHF signals. More information is available at www.dtv.gov, or by calling 1-888-CALL-FCC.
+Hiawatha Bray can be reached at bray@globe.com.
+Credit: Hiawatha Bray, Globe Staff

@@ -1,0 +1,6 @@
+INTEL STILL FOLLOWS MOORE'S LAW
+08/30/2004
+WALL STREET JOURNAL ABSTRACTS
+ln
+Intel Corp, despite recent technical glitches, is offering evidence that the historic pace of its technological improvements, as codified by Moore's Law, has not changed; in perfecting its 65-nanometer manufacturing process, Intel says it has created chips called SRAMs, for static random-access memories, that store 70 million bits of data (M)
+Copyright 2004 The New York Times Company: Abstracts

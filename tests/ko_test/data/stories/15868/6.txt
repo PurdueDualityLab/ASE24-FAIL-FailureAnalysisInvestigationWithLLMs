@@ -1,0 +1,26 @@
+RADAR FAILS
+10/24/2000
+San Jose Mercury News (California)
+ln
+A radar system failure brought air traffic to a near standstill in the Bay Area for the second time in a week Monday, delaying tens of thousands of travelers and confounding flight schedules nationwide.
+Computers at Oakland's air traffic center, which monitors planes over Northern California and parts of Nevada, were unable to gauge planes' altitude, speed and other vital data Monday morning for more than four hours. Officials blamed the failure on a different computer glitch than the one that collapsed Los Angeles' radar system last week, causing similar backups.
+But travelers didn't care which computer had failed.
+'I'm tired of it. It's ridiculous,' said Rob Bakondy of Houston. 'Just because it happens all the time, I don't have to get used to it.'
+At 10:30 a.m. Monday -- just about the time Bakondy was supposed to be bidding on a new power plant in Riverside -- he was standing in line for United Airlines' customer service counter at San Francisco International Airport.
+San Francisco Airport was hardest hit -- again with 33 canceled flights and about 150 flights delayed about two hours. Among airlines, United was worst off because of its numerous shuttle flights to major California cities.
+Shuttle flights are likeliest to be canceled because such short flights hold the lowest priority during a backup. Monday morning, it seemed no one could get off the ground. At one point, 90 loaded planes were waiting for take-off clearance.
+'I hope this isn't a trend,' said Matthew Triaca, United spokesman in Chicago. 'These radar troubles hurt everyone, but it will take us all day and all night to get back on schedule.'
+Because Oakland and San Jose international airports host fewer commuter flights in the early morning than San Francisco, they suffered far less this time. Only about 38 flights were delayed in Oakland and about 25 were delayed at San Jose. Both airports were running at full capacity by late morning.
+That wasn't much comfort for Rebecca Roman of San Francisco, who was trying to get to Los Angeles. 'I was going to drive, but I didn't want to waste the day. Now look, I've wasted the day and haven't gotten there.'
+The back-to-back radar failures come amid a $41 billion modernization program by the Federal Aviation Administration to upgrade its air traffic control systems -- a program that is years behind and billions over budget. Congressional hearings on radar problems have been held frequently.
+Last month, Rep. Ellen Tauscher, D-Walnut Creek, called the radar delays a 'huge problem' and said they were wreaking havoc on worker productivity.
+Nationwide there are 20 major radar centers. On Oct. 15, Oakland became one of the last ones outfitted with software intended to give air traffic controllers more accurate information on the flights they monitor.
+The new system worked fine for a week, but crashed at 5 a.m. Monday after technicians had taken it offline for other maintenance. The upgrades are specially designed for each control center. Last Thursday, the Los Angeles center's radar failed because its version of the upgrades didn't include commands for the computers to communicate with Mexico's radar system.
+After the outage, the FAA halted all planes taking off from the Bay Area. That was followed by a national ground stoppage of planes headed to the Bay Area at 7:30 a.m., which caused hourlong flight delays throughout the country. FAA spokesman Jerry Snyder said there was no way to estimate the number offlights delayed nationwide.
+Snyder said the software was reinstalled on Oakland control center computers at 7:50 a.m., the system went back online and the national ban was lifted about an hour later.
+Area legislators said they were concerned by the consecutive radar problems but were waiting to see whether the two incidents were related before condemning the FAA's handling of the computer upgrades.
+Snyder said that there was no reason to believe the two incidents were related and there were no special precautions put into place after last week's Los Angeles failure that would have delayed Monday's maintenance.
+'No one has come screaming to me that we shouldn't have done this maintenance -- that it would have crashed the whole system. I don't think anybody anticipated this would happen because of last week or that it would again because of maintenance.'
+Several travelers had their own predictions on that, however. 'It will happen again. No doubt about it,' said Julee Pewsey, of Boise, Idaho. 'And it will happen the next time I fly. I'd bet on it.'
+Copyright 2000 San Jose Mercury News
+All Rights Reserved

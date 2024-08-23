@@ -1,0 +1,11 @@
+U.S. urges firms to ready for 2000 computer glitch.
+03/31/1998
+Reuters News
+fv
+WASHINGTON, March 31 (Reuters) - The U.S. government urged the nation's 23 million small businesses on Tuesday to prepare for the year 2000 "millennium bug" by consulting an Internet web site designed to help them cope with the computer glitch.
+The Small Business Administration (SBA) said it had created a year 2000, or "Y2K," page accessible from its http://www.sba.gov/[http://www.sba.gov/] home page to help companies decide whether they face the problem and determine how to grapple with it.
+"There's no getting around it. Y2K is a problem that demands the attention of every computer-dependent small business," SBA administrator Aida Alvarez told reporters at a White House ceremony to show off the SBA web site.
+The millennium bug refers to the fact that most computers are programmed to register only the last two digits of the year, meaning that 2000 may be read as 1900.
+If left uncorrected, such programs could generate errors and scramble the computers that companies use to keep track of customers, run their payrolls and handle their accounts.
+Large companies, particularly in the banking sector, are spending hundreds of millions of dollars to combat the problem and the U.S. government in September estimated that it will need $3.8 billion to fix or replace its computer systems.
+(C) Reuters Limited 1998.

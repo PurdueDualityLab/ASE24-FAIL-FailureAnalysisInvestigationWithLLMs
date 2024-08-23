@@ -1,0 +1,76 @@
+All systems 'go' for California competition launch
+03/30/1998
+Megawatt Daily
+ln
+Tomorrow, the much anticipated, much heralded and much criticized new market structure will be launched in California.
+After a three-month delay, all systems are reportedly a go and, ready or not, here it comes.
+The original launch of new market was officially scrapped on Dec. 22, one week before take off, due to glitches in computer systems.
+Rather than risk a public relations nightmare and have both systems meltdown hours into the new year, the California Power Exchange and Independent System Operator (PX and ISO) decided to weather the storm of criticism from the delay and postpone competition.
+The biggest critics of the delay could be the ones who will be hurt the most by the postponement, the ratepayers. The three-month delay has cost Californians an additional $75 million in start-up costs, bringing the grand total to implement the PX and ISO to more than $325 million.
+In addition, Californians have begun paying off the billions of dollars in stranded costs associated with the three investor-owned utilities (IOU) through the competitive transition cost (CTC), which has appeared on their bills since Jan.1, despite the delay.
+The delay has many wondering if the exorbitant price paid for competition was too high. Others still question whether California's market model will be effective at spurring competition.
+Though the PX and ISO did not begin on Jan. 1, market players continued to jockey for position to reap the rewards of a $28 billion market with 10 million customers.
+In the beginning, providers were promising as much as a 20% reduction in rates. 'A figure people like to hear,' said Norman Pedersen, an attorney with Jones Day, who represents a variety of California electricity generators and consumers.
+Robin Larson, director of regulatory affairs for the ISO, noted that while rates are above average, Californian's actual utility bills are about average because the mild weather keeps usage low.
+Only 20,000 of California's 10 million customers had signed up for competition by Jan. 1, Pedersen told attendees of Megawatt Daily's California Power Rush Conference. The largest energy service provider (ESP), in terms of accounts, was not a commercial vendor like Enron, but the Assn. of Bay Area Governments (ABAG), which has 125 municipalities in the San Francisco bay area.
+'ABAG accounts for more than half of the 10,000 direct service requests,' Pedersen said, adding that they are projecting significant savings of 4%, much better than smaller customers will see.
+The ESP is not competing against the PX price, but is competing against the PX credit, which is the way the program is set up.
+The customer gets credit off the commodity portion of the bill, he said. The credit is calculated on the average for the service class.
+When an ESP looks at a customer, he asks if he can buy energy at the time the customer needs it and provide a net savings in comparison to the credit extended to the customer, which is calculated not by the customer's usage patterns but class average usage patterns.
+'This is why ESPs ask potential customers for reams and reams of usage patterns to determine what the customer will get by way of PX credit,' Pedersen continued.
+ESPs will be able to assess if they can buy electricity at the time required to meet customers' load profiles so their will be a savings compared to the PX credit, he said.
+To do this successfully, however, ESPs must rely on costly ultra-specific, real-time meters. ESPs have to be careful in reviewing load data. This has inhibited medium to smaller customers, said Pedersen.
+'Many customers have thought about amortizing the cost of real-time meters,' Pedersen said. But at $1,000 a pop, plus $50 in telephone charges for only a 1% reduction in the total bill, metering costs are determining whether players want to participate in the program, he said.
+'Some are jumping in and some are staying out until they learn the rules.'
+The driving force behind reform in California was that electricity rates were 50% above the national average in 1994 Pedersen says.
+This prompted the CPUC to issue its famous blue book in 1994, which proposed to establish a competitive market through direct access, Pedersen said, adding that no consideration was given to deregulating the transmission and distribution functions. The focus was to deregulate the commodity market only, he said.
+'The proposal gave rise to the famous debate between those advocating going to a pool versus having direct access,' according to Petersen.
+In December 1995, the CPUC issued another highly political policy decision that resolved the pool-versus-direct-access debate by electing to do both.
+In September 1996, the legislature adopted the framework for reform in Assembly Bill 1890, which passed unanimously.
+The legislators implemented a four-year rate freeze and a 10% rate reduction for residential and small commercial customers, financed by rate-reduction bonds. However, when all is said and done and the transition charges are added, most customers will see only a modest 1% savings.
+California power players still debate whether the market should have been designed exclusively as a power pool or as a bilateral market, rather than incorporating both models into its market structure.
+Becky Kilbourne, director of market services for the PX, said the model that will begin operation on March 31, achieves a peaceful coexistence that will allow market participants to buy or sell through the exchange itself.
+The PX will be more efficient than such well-known exchanges as the Chicago Board of Trade (CBOT) and the New York Stock Exchange (NYSE), Kilbourne said.
+During the 1987 stock market crash, program trading initiated a flurry of sell orders that were magnified by further selling in response to a falling market.
+Kilbourne said the 'auction' nature of the PX market would avoid such pitfalls because buyers and sellers submit their bids once in the day-ahead market and then receive the market clearing price that is determined by the intersection of supply and demand of those bids and offers.
+An iterative auction where one can bid into the PX more than once will be offered by the PX on June 6, but the iterative auction will be accompanied by bidding activity rules.
+PX officials contend the iteration process will accelerate the convergence of the supply and demand curves, without exposing the market to increased volatility. Traders are not fully convinced that an auction market will be as effective at improving their bottom line as seen on other exchanges like NYSE, which has been enjoying the biggest bull market in its history.
+'You are looking at profit margins as small as 1% and 2%. You could get a higher rate of return from a treasury bond,' a trader said.
+Market participants say they know that there will be no immediate financial gain by playing the new California market, but that they are trying to gain market share so that when stranded costs are recovered after four years they can make their money from the projected 20% drop in costs.
+In an effort to be operational by March 31, the PX and ISO underwent a streamlining process where only essential systems for the running of both entities would be tested and worked on for operation.
+Other non-essential services to operation would be added after the scheduled PX-ISO start-up.
+Larson said the reason for the initial computer system problems that put a halt on competition was an error in developing the systems on parallel tracks instead of sequentially.
+'You cannot compress computer system development,' she said, adding that short-cuts caused the problems.
+'We developed 17 different systems. When we got to the actual testing process, there were a lot of bugs,' Larson said.
+She conceded that all the computer problems will not be solved by the projected start-up.
+'Someone asked the CEO of the ISO once, 'How long would it take to debug the system?' He said about 10 years.'
+But Larson emphasized that the systems that need to be operational will be error-free, but the computer problems that remain will be solved in the course of time.
+When the ISO and PX completed their required seven-day testing on March 11, the PX had passed with flying colors, but the ISO had not done so well.
+In the seven-day 'market simulation' the ISO completed only three days without mistakes. Most days, it did not meet minimum operating criteria set to ensure reliable grid operations.
+According to the daily progress reports issued by the ISO, in the first two days of testing there also was some trouble with real-time market availability of supplemental energy and on one occasion with hour-ahead transmission availability.
+ISO Board of Governors Chair Jan Smutney-Jones said he was confident problems will be fixed on time.
+A week after the tests were concluded, the PX and ISO notified FERC they would be open for business at the end of March.
+Larson said the ISO will work closely with the utilities that have turned over their systems to the operator to ensure reliability during the transition.
+During the coupled testing of the PX, traders watched in awe as the PX's market clearing price (MCP) seemed to be leading, if not converging, with the old direct market of bilateral contracts.
+'There is a natural market pressure for the direct market to converge with the PX,' said Jim Kritikson, the PX's director of scheduling. 'You cannot have a substantial difference in price at the same point, because arbitrageurs will buy and sell the difference until the price converges.'
+He added that after prices do converge in the California spot market, anyone who pays anything different will be reflecting the cost of long-term forward contracts that are locked in at six months to a year.
+Others disagree that the PX is leading the direct market.
+'The direct market is traded before the MCP comes out in the morning. The direct market is leading the PX price,' a trader said.
+In addition, he added, that the idea of convergence of price between the direct market and the PX price is not taking into account congestion.
+A broker said the reason prices have spiked in the direct market is increased selling into the PX.
+'People are taking advantage of the prices while the PX runs for its experimental seven days,' he added.
+George Sladoje, COO of the PX, said any futures contract will have to be tied closely to the market clearing price. Others say the New York Mercantile Exchange (Nymex) may have to de-list the Palo Verde or California-Oregon border (COB) because it doesn't take into account the new market environment.
+'The utilities do not have to hedge anything,' said Bob Levin, senior vice president for planning and development for Nymex. 'They have been provided the closest thing to business heaven. They will be in the clouds by the grace of the CPUC for the next four years.'
+'They may use the over-the-counter market. I don't know what risk [will exist] for sellers, except native customers,' Levin said.
+'The market clearing price is just a different animal than the Nymex futures contracts,' Levin said. 'The PX is slanted so that you are unable to arbitrage between other spot markets, because you don't know what the market clearing price will be until it's all over,' he said. And that's too much risk. 'You have complete guess work,' he added.
+'Nymex will be for people using PX as a residual market. People that join competitive (non-PX) markets can use COB and Palo Verde contracts effectively,' he said.
+'A strong forward market is a boon to futures trading. People active in the cash market, they all know that.'
+Levin said only crazy people looking at isolated hours would use Nymex futures to hedge against the PX. But futures contracts could be used to hedge basis in the PX, Levin said.
+However, it is not as good as being in the spot market all month and hedging with Nymex, that is a much better hedge, he added.
+'A market for swaps may be lucrative, but it will not continue forever. Sooner or later they will realize they are continually paying a higher price, because you have to outfox the person you are selling to,' Levin noted.
+In a typical commodity or price swap, parties exchange payments based on changes in the price of a commodity or market index, while fixing the price they pay for the physical commodity.
+Levin predicted the PX will not be a highly hedged market by natural gas standards and that in 1998 there will be steady growth in a competitive non-PX market, followed by panic late in the year.
+'They are going to run out of market. They are going to discover it is antiquated.'
+For the PX's part, Sladoje said, 'There is only going to be one leading institution. We expect to be in business after four years. We will grow bigger and better.' RS
+URL: http://www.platts.com
+Copyright 1998 The McGraw-Hill Companies, Inc.

@@ -1,0 +1,31 @@
+Comelec mulls contingencies for May automated election
+01/31/2010
+McClatchy - Tribune Business News*Manila Times (Philippines)
+ln
+The Commission on Elections (Comelec) assured stakeholders on Friday that various contingency measures have been put in place to address concerns about possible technical glitches that may take place during the country's first automated polls in May.
+Grilled by various representatives of advocacy groups such as the Automated Election System Watch (AES Watch) and the Alliance of Concerned Teachers (ACT) in an automation forum hosted by the ABS-CBN News Channel, the Comelec and its technology-provider Smartmatic-TIM assured that votes would only be tallied via manual counting as a last resort.
+Reverting to manual count
+'Manual count is the last resort. There are several other contingencies that can be used and utilized and should be utilized by the board of election inspectors before we start manual count,' said Comelec Commissioner Gregorio Larrazabal.
+According to Larrazabal, the election commission will undertake more tests, including an upcoming mock election on February 6. He noted that the Precinct Count Optical Scan (PCOS) Machines will still be tested three days prior to the elections where they will be subsequently sealed and opened again on election day.
+Earlier, field tests for the PCOS machines yielded poor results as glitches continue to hound the automated count facilitated by the apparatus. Problems in transmitting election results cropped up after it took three Subscriber's Identification Module (SIM) card replacements to send out data during the demonstrations held at the Maharlika Elementary School.
+Larrazabal maintained that several contingency measures have been set in lieu of possible glitches, such as using the PCOS machines of neighboring precincts for the tallying of votes. He noted that the Comelec would still be able to revert to manual counting in the worst-case scenario since only the tallying of votes will be automated.
+Not the first time
+'We should not fool ourselves. These things will happen on election day. It's not a failure. It's part of the testing that we do in order to have in place contingency measures,' said Smartmatic-TIM representative Cesar Flores.
+'This is not the first time we [Smartmatic] have done automated elections. We have done this in the Amazon jungle where it's hotter,' Flores noted in response to queries regarding the PCOS machines' reliability under humid conditions.
+Moreover, according to him, 35 percent of precincts may not have stable telecommunications capacity. Flores, however, stressed that they were originally expecting worse.
+Flores explained that around 35 percent of transmissions during election day would be done through satellite transmissions to address difficulties that may be faced by transmissions via GSM, the mode of transmission used by cell phones, which is the primary medium designed for the PCOS machines.
+Late training
+Alliance of Concerned Teachers chairperson Rolando Tinio, meanwhile, stressed that the Comelec's schedule for the training of teachers, currently set by the Comelec in March, to facilitate the automated polls may be too late for them to adequately prepare for the possible technical glitches that may occur.
+Larrazabal, however, reasoned that 'if we [Comelec] do it [training] early, they'll [teachers] forget, then we'll have to do it again.' He added that the Comelec has already signed a memorandum of agreement with the Department of Education regarding the training of teachers. The training, he stressed, will necessarily tackle the contingencies that should be done in case of glitches.
+Flores, meanwhile, maintained that teachers would not need advanced technical knowledge to operate the machines. He also assured that there will be support technicians in every precinct and a call center will also be on hand to provide support.
+Addressing fraud
+Speaking at the forum, AES Watch convenor Alfredo Pascual stressed that automated polls will not be able to address traditional forms of cheating such as vote buying, flying voters and ghost voting.
+'We should not be lulled into thinking that automation will prevent cheating,' Pascual said.
+Former Comelec Chairman Christian Monsod, meanwhile, underlined the need for a random manual audit, which is required by law in order to address a possible public distrust towards the result of the automated elections.
+'The problem is Comelec is regarding [manual] audit as irrelevant to proclamation,' Monsod said.
+He explained that a manual audit would boost confidence over the reliability of results. If there is a discrepancy between random manual count with the automated tally, the Comelec must look into the root cause, Monsod added.
+'Otherwise, audit results will just be used for [election] protest. The person cheated will have to wait three years,' the former Comelec chairman concluded.
+Streamed live over the Internet, the automation forum asked citizens to gauge whether the Comelec is adequately prepared for the automated polls. The online survey tallied 78 percent who answered in the affirmative and 22 percent in the negative.
+Copyright 2010 News Bites Pty Ltd.
+All Rights Reserved
+Global News Bites

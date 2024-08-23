@@ -1,0 +1,14 @@
+(Update) Staff Failure Aggravated Situation after TSE Glitch
+02/16/2012
+Jiji Press English News Service*Jiji Press Ticker Service
+fv
+Tokyo, Feb. 16 (Jiji Press)--The situation surrounding the Tokyo Stock Exchange's computer system glitchearlier this month was aggravated due to the failure by its staff to confirm whether a backup system would work, the exchange said Thursday.
+"There was a fundamentalproblem with the way the TSE manages its computer systems," Hiroaki Uji, chief of the exchange's stock trading system management, said at a news conference.
+The problem includes the failure by the exchange's staff to look into systems by themselves, Uji said.
+According to a report the TSE submitted to the Financial Services Agency, workers at Fujitsu Ltd. mistakenly concluded that a backup system would be able to work after a glitch hit a server in the exchange's trading data delivery system at 1:27 a.m. on Feb. 2 (4:27 p.m. on Feb. 1 GMT).
+TSE workers, after receiving a report from Fujitsu, reached a conclusion at 2:44 a.m. that trading would not be affected by the glitch, a decision they made without confirming by themselves if things would go smoothly, the exchange's report said.
+Even after the TSE found the data delivery system was not able to work at 7:38 a.m., it was as late as 8 a.m. that the glitch was reported to Yoshinori Suzuki, senior managing director in charge of computer systems, the exchange said.
+As a result, the TSE failed to make an adequate response to the glitch, leaving morning trading in 241 stocks and instruments listed suspended.
+The TSE unveiled measuresto prevent a repeat of such an incident, including requiring an immediate reporting to management when system glitches occur and beefing up inspections of backup systems.
+Atsushi Saito, presidentof Tokyo Stock Exchange Inc., the operator of the exchange, will face a one-month pay cut of 30 pct to take responsibility, while Suzuki and two other executives will see their pay cut by 20 pct for one month.
+Uji said the exchange has no plans to seek damages from Fujitsu.

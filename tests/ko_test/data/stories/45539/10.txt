@@ -1,0 +1,44 @@
+Yahoo glitch highlights 'Byzantine' tallying of shareholder votes
+08/07/2008
+MarketWatch
+ln
+Benjamin Pimentel is a MarketWatch reporter based in San Francisco.
+SAN FRANCISCO (MarketWatch) -- What was explained as a technical glitch triggered a serious embarrassment for Yahoo Inc., whose beleaguered CEO and chairman proved to have much less shareholder support than previously thought after last week's board elections.
+And the error wasn't even Yahoo's fault.
+Indeed, the mistake -- involving digits that were cut off from a printed tally submitted by a firm working for an institutional holder of Yahoo shares -- highlights what some observers portray as an error-prone and Byzantine voting system. Thrust into the spotlight by the Yahoo blunder, that system faces heightened scrutiny at a time when investor activism is leading to ever-more-heated corporate elections, analysts say.
+'You have a strange mix of rules and regulations and multiple players that come into the process,' said Patrick McGurn, special counsel at RiskMetrics Group, which advises large shareholders on proxy issues.
+'It works, but it certainly is clunky and involves so many different parts that it's almost impossibly Byzantine,' he added. 'You cannot come up with a more Rube Goldberg-type of contraption.'
+Many agencies
+The case at Yahoo (YHOO) underscored what McGurn and other experts say makes the system confusing: Too many agencies are involved in collecting and tallying votes.
+The Yahoo glitch was caused by Broadridge Financial Solutions, which works as a servicing agent that tallies the votes for institutional shareholders.
+The agency has stressed that the 'truncation error' -- in which the initial tally for some Yahoo directors erroneously contained eight figures instead of nine -- was an anomaly.
+Broadridge has played a big role in processing the votes for custodian banks that take charge of shares for institutional stockholders, such as Capital Research and Management, the fund that forced Broadridge to check the tally so that its displeasure with Yahoo's board could be registered.
+But Edward Rock, a professor at the University of the Pennsylvania Law School, said firms like Broadridge often face a daunting task in a process that he described as 'crude, imprecise and fragile.'
+Rock laid out his criticism of the shareholder voting system in a recent article in the Georgetown Law Journal. The article was titled 'The Hanging Chads of Corporate Voting,' in a reference to bitterly contested recount of the U.S. presidential election in 2000.
+'Broadridge delivers more than 1 billion communications to investors per year,' Rock wrote. 'It is an accident waiting to happen.'
+An accident did happen in Yahoo's case. Chuck Callan, Broadridge's senior vice president of regulator affairs, said the mistake has been corrected.
+Functionality
+Callan portrayed the episode as an anomaly and defended the current system, saying, 'The process works very well ... I have not seen proposed anywhere by academic or corporate governance experts or anyone any details of an alternative system that would provide the functionality that is provided today.'
+Still, he conceded that the tallying arrangement is 'admittedly complex.'
+One reason is that stock ownership has become far more complicated, with roughly 85% of shares held in street name, or brokerage, and only 15% held as registered shares.
+'In the old model you get a stock certificate and they would be known to the company,' Callan said. 'But the U.S. market has moved far beyond that in terms of sophistication and liquidity.'
+Moreover, today's complex ownership system also gave rise to a sometimes convoluted voting process. For example, lending out securities is a common practice that has on occasion led to confusion about who has the right to cast votes.
+Rock cites the example of a 'prominent institutional investor who had sponsored and campaigned vigorously for a shareholder proposal ... only to discover after the record date had passed that it had no shares to vote because it had 'lent' them out and that another institution loaned the sponsoring institution shares to prevent the proposal from being disqualified.'
+Over-voting
+In fact, corporate governance expert Claudia Allen said securities lend often leads to the more common problem of having two parties casting what are essentially the same shares in shareholder elections.
+'What you tend to hear more about is over-voting, where more shares are voted than are outstanding or someone essentially is voting who doesn't have the right to vote,' said Allen, who is chairwoman of the corporate-governance practice group at Neal Gerber & Eisenberg.
+Christopher Cox, chairman of the Securities and Exchange Commission, also noted in a roundtable discussion in May 2007 that stock ownership has become so complex that 'companies don't know a significant percentage of their shareholder base.'
+A clash on the question of share ownership triggered a legal dispute between CSX Corp. (CSX) and a group of activist shareholders seeking representation on the transportation company's board.
+The four nominees of the Children's Investment Fund and 3G Capital Partners won enough votes to prevail, the shareholders said. CSX balked. It accused the group of failing to disclose additional shares and sought to invalidate a sizeable chunk of the dissident group's votes.
+That case has been under appeal. The dissidents' four nominees were declared winners by CSX's vote tabulator, but the company has blocked two of them from sitting on the board until the matter is resolved.
+Agendas
+The process of casting votes is itself ripe for confusion.
+Unlike voters electing public officials, shareholders are allowed to change their mind and recast their vote several times up to the deadline of the voting. That's why both camps typically will keep sending proxy cards along with the campaign materials in a bid to win votes.
+Analysts say the flaws of the voting system now are more glaring as activist shareholders become more aggressive in pushing their agenda. They have been aided by new trends in corporate governance, such as requiring director nominees to win a majority of votes cast, instead of a percentage of total shares outstanding.
+Allen noted that the Yahoo glitch, thought it didn't change the outcome of the vote, was still significant because it amplified the gripes of Gordon Crawford, whose investment group is a major shareholder of the Internet company.
+'Gordon Crawford wants to make it clear that he is a big stockholder and he is not happy,' Allen said. 'Stockholder sentiment expressing dissent is markedly stronger.'
+McGurn of RiskMetrics said the issue has more weight now that corporate elections have become more hotly contested.
+'Ten years ago, even if the system wasn't pristine, it probably didn't matter much for by and large, management usually won,' McGurn said. 'But now, the votes are closer with the rise of contested board room elections and majority voting. The slippage in the process is much more meaningful today.'
+1997-2002 MarketWatch.com, Inc. All rights reserved. See details at http://custom.marketwatch.com/custom/docs/useragreement.asp.
+Copyright 2008 MarketWatch.com Inc.
+All Rights Reserved

@@ -1,0 +1,60 @@
+STUDENT TEST SCORES IMPROVE SNAFU: A DATA COMPUTATION ERROR DELAYS RESULTS FOR INDIVIDUAL SCHOOLS.
+07/01/1999
+San Jose Mercury News (California)
+ln
+California students posted modest gains across the board on the state's basic-skills test this spring, but they appear far from ready to tackle California's rigorous new academic standards, according to results released Wednesday.
+As a group, students continued to hover just below the national average on the state's annual achievement test, known as STAR. But scores crept up -- sometimes noticeably -- in nearly every grade and subject. Early elementary grade students posted some of the biggest gains, especially in math.
+'We are pleased by the strong trend in improvement,' said Delaine Eastin, state superintendent of public instruction. 'We think we're seeing some real positive signs.'
+But the upbeat mood was marred by a major technical snafu. Parents expecting to see scores for their local schools on the Internet found only statewide scores posted on the California Department of Education's Web site.
+In Santa Clara County, scores released by the county office of education showed that students continued their trend of outperforming the state as a whole. In nearly every subject and at nearly every grade level, county students scored above the national average. A notable exception was ninth-grade reading, an area in which scores suffered across the state.
+Educators attributed much of the gain to familiarity with the test, which was first given to California students last year.
+'Another year of practicing test-taking skills and getting to know the test,' said Bob Lowry, assistant superintendent for the Sunnyvale School District.
+For the second straight year, the release of the Standardized Testing and Reporting (STAR) results was hobbled by controversy.
+Last year, lawsuits held up the release of scores. This time, scores for students not fluent in English were held back because a technical glitch skewed the results.
+Harcourt Educational Measurement, the San Antonio-based test publisher used by the state, said scores for two categories of students -- those not fluent in English and those who once spoke little or no English but now are fluent -- were mistakenly mixed together when they should have been reported separately.
+Because of the problem, state officials released only statewide scores for all students. School-by-school scores, and scores broken down by language proficiency, are expected to be available by July 15.
+Harcourt President Joanne Lenke blamed human error.
+'We certainly regret the error,' she said. 'The problem is very, very serious, and we will do our best to rectify the situation.'
+Lenke said the data had been put through all the company's quality-control procedures. She blamed part of the problem on a tight time line that Harcourt was forced to follow.
+Lenke said the company was unaware the information was inaccurate until notified by state Department of Education officials late Tuesday night, the day before scores were to be posted. Department officials credited two districts, San Jose Unified and Anaheim City, with helping uncover the error.
+Harcourt said the problem affected much of the data sent to local districts, but not individual student results sent home to parents.
+Unhappy with Harcourt
+Eastin was upset with Harcourt. State officials have had repeated conflicts with Harcourt over test data. And this year many local districts complained of late delivery of testing materials.
+'I would like the state board (of education) to take some steps to make sure they give us a quality product,' Eastin said.
+The foul-up made it impossible to accurately evaluate the performance of students with limited English skills.
+Across the state, educators and testing experts had been watching closely as local districts dribbled out STAR results that appeared to show a marked, across-the-board improvement for students with limited English proficiency, known as LEP.
+But Wednesday, state and Harcourt officials said those LEP scores were most likely inflated because they included scores from students already proficient in English.
+Wednesday's news came as a blow to districts with large numbers of Englishlearners.
+'You get the feeling you're getting jerked around,' said Larry Aceves, superintendent of San Jose's Franklin-McKinley School District, where more than half of the 10,600 students speak little or no English. 'Not knowing now is very frustrating.'
+Test skills practiced
+In nearby Alum Rock Union School District, where almost half of the 16,000 students are still learning to speak English, administrators were confident that their reported rise in test scores would stand. One of the state's poorest-performing school districts, Alum Rock spent $130,000 this year to boost test preparation. In addition to hiring a testing consultant, administrators required teachers to spend three months drilling students on sample standardized test questions.
+'The real gains are still there,' Superintendent Santiago Wood said. 'We still have a way to go, but the signs are encouraging.'
+The test-score snafu also surprised bilingual education critics, who already had begun to credit the rise in achievement among limited-English students to the state's new law banning most bilingual programs.
+'Obviously this distorts all the numbers for LEP students,' conceded Ron Unz, the Silicon Valley architect of last year's campaign for Proposition 227. But Unz said the real issue is how English-only districts compare with those that kept bilingual instruction.
+This year's test gave the first glimpse of how students stack up against California's new academic standards.
+Officials reported the results from 70 new questions specifically intended to match the math and language arts standards, and 30 other test questions that officials now say reflect the standards.
+As predicted, students did not do well on the new section, answering only about half the standards-based questions correctly. But Eastin said most teaching was not yet tailored to the standards, largely because books and other materials only recently became available.
+State officials also said several standards-based test questions at each grade level were inappropriate from a testing standpoint and would have to be replaced.
+Eastin predicted that once students and teachers become familiar with the standards, scores will improve.
+'We've got a long way to go with these standards,' Eastin said. 'They're much higher than what students are used to.'
+Educators continued to be confounded by a sudden drop-off in high school reading scores. For the second consecutive year, reading scores dropped more than 10 percentage points between eighth and ninth grades.
+Many educators speculated that there is a problem with the way the California scores are calculated by Harcourt, since the drop-off is so consistent across the state's 850 high schools.
+'When you look at the questions, it's not any kind of high-level stories (that students have to analyze),' said Maribeth Smith, associate superintendent in Sunnyvale's Fremont Union High School District. 'But everybody is down, even the high achievers.'
+But Harcourt's Lenke dismissed the suggestion that the test is flawed, saying the company found a similar drop-off on other standardized tests.
+Largely overlooked Wednesday was the impact the exam is expected to have on the state's educational system.
+Yearly progress expected
+From here on, schools will be expected to show annual progress toward meeting the state's new standards. As a result, educators are predicting changes -- some minor, some major -- in the way students are taught certain subjects.
+In math, for instance, the state is now asking schools to push algebra instruction down from the ninth grade to the eighth, which will have a ripple effect throughout the lower grades. Similar changes are expected in science education.
+Some educators are not happy with the changes, arguing that certain complex subject matter is not appropriate for younger students.
+But most schools are expected to make the changes anyway, rather than risk low test scores.
+In fact, concern over low scores looms larger now than at any time in recent history. Under a school 'accountability' plan signed by Gov. Gray Davis this year, state officials will take the test scores from 1998 and 1999 and separate out the 430 lowest-performing schools. Those schools will get extra 'school improvement' money. But they will also face sanctions if they do not improve.
+'If the state education establishment from governor down to the individual teachers and parents has the stomach to view this as a long-term process over the next two or three years, I think we'll see some real improvement,' said Ralph Cohen, professor of mathematics at Stanford University and member of the California State Mathematics Framework Committee.
+CHART: MERCURY NEWS
+STAR TEST SCORES
+Subject scores reflect how well students performed compared with a national sample of students. A score of 55 means students on average scored better than 54 percent of the national sample.
+English and math standard scores represent the percent of questions linked to new state standards the average student answered correctly.
+Where there is no score, the test was not given at that level. At grades 8, 9 and 10, math tests were given according to the course in which students were enrolled.
+[Chart not in database]
+Source: California Department of Education, Santa Clara County Office of Education
+Copyright 1999 San Jose Mercury News
+All Rights Reserved

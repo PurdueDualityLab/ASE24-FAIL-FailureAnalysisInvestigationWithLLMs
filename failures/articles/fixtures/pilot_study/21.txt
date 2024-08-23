@@ -1,0 +1,46 @@
+Boeing Starliner Flight’s Flaws Show ‘Fundamental Problem,’ NASA Says
+A software glitch that could have destroyed the capsule was fixed in orbit, during an uncrewed December test flight that had already gone awry.
+
+An uncrewed test flight of a Boeing spacecraft designed to carry NASA astronauts may have narrowly avoided catastrophic failure in December. A software error that could have resulted in loss of the spacecraft was discovered and fixed while the capsule, known as Starliner, was in orbit, and not long before it returned to Earth.
+
+During a telephone news conference on Friday, Jim Bridenstine, the NASA administrator, said that the mission “had a lot of anomalies,” but that it was important that the agency continue to work with Boeing to fix them.
+
+The agency is conducting an ongoing review with the company to assess what went wrong. But Douglas Loverro, NASA’s associate administrator for human exploration and operations, said that the review had already found multiple failures in Boeing’s processes that should have caught the mistakes on the ground.
+
+“It told us that we have a more fundamental problem,” he said, not just the flaws that were identified this week.
+
+Boeing will now review 1 million lines of Starliner software code. Officials from the company declined to speculate how long that might take. Neither the agency nor the company would set a schedule for when the Starliner capsule would be ready to carry astronauts to space.
+
+But Mr. Bridenstine said that NASA needs more than one way for getting astronauts to the International Space Station. The agency has also hired SpaceX, which has developed a different spacecraft, Crew Dragon, to transport astronauts.
+
+The additional software problem, first publicly reported Thursday during a meeting of NASA’s Aerospace Safety Advisory Panel, is the second major flaw known to have marred Starliner’s trip in December, the first orbital flight of the spacecraft. During its trip to orbit, the spacecraft set its clock to the wrong time, causing it to deplete its propellant. A planned docking at the space station was called off, and the mission was cut short, to two days instead of eight.
+
+Because of the clock problem, Boeing engineers started searching to see if there were other flaws in the software. On the evening before landing, they found one.
+
+“It is our belief we wouldn’t have found it if we hadn’t gone looking,” said Jim Chilton, senior vice president of the space and launch division at Boeing, which is distinct from its segment that manufactures jet planes.
+
+The newly disclosed flaw, described by Boeing in a statement as “a valve mapping software issue,” would have bumbled Starliner’s preparations for re-entry. Had it not been corrected, the wrong thrusters would have fired as Starliner jettisoned its service module, the part of the spacecraft that carries systems that are not needed for the descent through the atmosphere.
+
+That could have caused the service module to bump into the crew module. The impact could have caused the capsule to tumble, or damaged its heat shield. Those problems could have destroyed the capsule during re-entry.
+
+Engineers on Earth were able to fix the software problem within a few hours of finding it.
+
+An investigation team has found the cause of the incorrect time problem that emerged during the December flight; Starliner gets that information from the Atlas 5 rocket that propels it to orbit. Because of the programming error, the spacecraft queried the rocket too early, before the clock had been properly set.
+
+The team is still diagnosing additional communications problems that prevented flight controllers from sending commands promptly several times during the flight. That might be associated with noise from cellphone towers on Earth that broadcast at a similar frequency.
+
+Since the retirement of the space shuttles in 2011, NASA astronauts have had to ride on Russia’s Soyuz rockets, trips that now cost more than $80 million per seat.
+
+Instead of developing and operating its own successor to the shuttles, NASA turned to commercial companies, awarding contracts in 2014 to Boeing and SpaceX. The agency hoped that the spacecraft would be ready by the end of 2017.
+
+Both companies have run into technical issues that delayed their schedules. In January, SpaceX successfully demonstrated the escape system on its capsule, Crew Dragon, that would ferry astronauts away from the rocket in the event of a failure during launch.
+
+The December flight was to be the last major technical hurdle before Boeing would be cleared for taking astronauts to space. The investigation is expected to last until the end of February, and NASA is also analyzing data gathered during the flight.
+
+Mr. Loverro acknowledged that NASA failed to identify the weaknesses in Boeing’s work. “Our NASA oversight was insufficient,” he said. “That’s obvious, and we recognize that. I think that’s good learning for us.”
+
+NASA is currently pushing for similar commercial approach for developing landers to take astronauts to the surface of the moon.
+
+“We are going to have far more insight and oversight” on those much more complicated missions, he said.
+
+NASA could require Boeing to fly another uncrewed test, and the company took a $410 million charge against its earnings last quarter in case it has to pay for that.

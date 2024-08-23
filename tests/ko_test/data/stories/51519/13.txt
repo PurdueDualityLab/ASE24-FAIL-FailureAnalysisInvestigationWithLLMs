@@ -1,0 +1,31 @@
+DBS Group CEO apologises
+07/14/2010
+TODAY (Singapore)
+fv
+SINGAPORE — At the end of his letter yesterday to customers of DBS and POSB, he signed off simply as “Yours sincerely, Piyush”.
+And right from the start of his “personal message”, DBS Group Holdings chief executive Piyush Gupta, 50 (picture), was unequivocal about the apology he owed to all those inconvenienced by the island-wide breakdown of its entire network last Monday.
+“You have every right to expect uninterrupted services 24/7, 365 days a year from us, and I am sorry we have failed you on that count,” he wrote.
+The apology, eight days after the incident occurred, is the second that DBS and Mr Gupta have offered for the massive crash. That same day, he said the bank regretted what had happened.
+Yesterday, the apologies were more profuse and, for the first time, more light was shed on what triggered the seven-hour system outage: A routine repair job that went awry.
+According to Mr Gupta, a replacement had been scheduled at the “quiet period” of 3am on July 5 for a “low severity” problem component within the disk storage subsystem connected to the bank’s mainframe.
+But IT vendor IBM, under the guidance of its Asia-Pacific team, had used an “outdated procedure” to carry out the repair.
+It triggered “a malfunction in the multiple layers of systems redundancies”, which caused the entire network to be crippled until noon that day.
+“In short, a procedural error in what was to have been a routine maintenance operation subsequently caused a complete system outage,” said Mr Gupta.
+A full-scale investigation into the breakdown — which affected more than 1,000 DBS and POSB automated teller machines, Internet and mobile banking services, as well as Nets and credit card transactions — is still in progress.
+IBM issued a statement yesterday to say it has taken steps to enhance personnel training “related to current procedures” and has brought in experts from its global team to provide further assistance.
+“Working with DBS, additional actions are underway to increase the resiliency and redundancy of this part of DBS’ infrastructure,” added the statement.
+Both Mr Gupta and IBM assured that customer data was not compromised at any time. All payments and transactions that were scheduled to be made on July 5 were completed, Mr Gupta also noted.
+But in hindsight, he added, DBS’ internal process “could have been more immediate”. The bank could also have alerted customers of the service disruption “first thing in the morning” through broadcast channels.
+“There have been valuable lessons learned and I assure you that this matter will continue to remain a top priority for me,” wrote the DBS chief, who mentioned twice that “we take full responsibility for this incident”. He described the crash as a matter “of grave concern” to the bank.
+Customers whom MediaCorp spoke to said they appreciated DBS’ gesture, but asked if the bank could have gone beyond minimising customers’ inconvenience.
+Laywer Philip Yeo, 28, said: “What has happened has happened, and DBS is right to apologise. But what about compensation for customers, such as those who have had to pay fines for not being able to top up their cash cards to pass ERP gantries?”
+Ms Cho Pei Lin, director at public relations firm AsiaPRWerkz, said: “It’s not common in Singapore for a CEO to send a personal message to apologise for a technical glitch. But the challenge for DBS is to identify those consumers who were hit by the breakdown and address their concerns.”
+In a press statement, the Monetary Authority of Singapore (MAS) said it has informed DBS’ senior management that it is “seriously concerned” with the “wide disruption” of the bank’s services last Monday.
+A spokeswoman said: “As soon as we were aware of the problem, we instructed DBS to conduct a thorough investigation to identify the cause of the failure as well as to ensure that adequate measures were implemented to rectify the failure and mitigate the inconvenience to customers.
+“We have also instructed DBS to give a full account of the incident to the public, including the actions it will take to prevent future recurrence.”
+She added that MAS has noted DBS’ explanation for the failure and will review its investigation report on the incident.
+MAS will assess the outcome of this investigation and the extent to which the bank has failed to meet the recommended standards set out in the Internet Banking and Technology Risk Management Guidelines before determining the appropriate regulatory action to take.
+This is not the first glitch with DBS’ network.
+In September 2000, its branch computers as well as 900 ATMs and Nets services broke down for over an hour.
+Last September, a glitch with the computers at its branches meant customers were unable to withdraw more than $2,000 or update their passbooks.
+The following month, its Internet banking services were down for three hours.

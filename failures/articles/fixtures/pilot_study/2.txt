@@ -1,0 +1,70 @@
+Pipeline Attack Yields Urgent Lessons About U.S. Cybersecurity
+The hack underscored how vulnerable government and industry are to even basic assaults on computer networks.
+
+For years, government officials and industry executives have run elaborate simulations of a targeted cyberattack on the power grid or gas pipelines in the United States, imagining how the country would respond.
+
+But when the real, this-is-not-a-drill moment arrived, it didn’t look anything like the war games.
+
+The attacker was not a terror group or a hostile state like Russia, China or Iran, as had been assumed in the simulations. It was a criminal extortion ring. The goal was not to disrupt the economy by taking a pipeline offline but to hold corporate data for ransom.
+
+The most visible effects — long lines of nervous motorists at gas stations — stemmed not from a government response but from a decision by the victim, Colonial Pipeline, which controls nearly half the gasoline, jet fuel and diesel flowing along the East Coast, to turn off the spigot. It did so out of concern that the malware that had infected its back-office functions could make it difficult to bill for fuel delivered along the pipeline or even spread into the pipeline’s operating system.
+
+What happened next was a vivid example of the difference between tabletop simulations and the cascade of consequences that can follow even a relatively unsophisticated attack. The aftereffects of the episode are still playing out, but some of the lessons are already clear, and demonstrate how far the government and private industry have to go in preventing and dealing with cyberattacks and in creating rapid backup systems for when critical infrastructure goes down.
+
+In this case, the long-held belief that the pipeline’s operations were totally isolated from the data systems that were locked up by DarkSide, a ransomware gang believed to be operating out of Russia, turned out to be false. And the company’s decision to turn off the pipeline touched off a series of dominoes including panic buying at the pumps and a quiet fear inside the government that the damage could spread quickly.
+
+A confidential assessment prepared by the Energy and Homeland Security Departments found that the country could only afford another three to five days with the Colonial pipeline shut down before buses and other mass transit would have to limit operations because of a lack of diesel fuel. Chemical factories and refinery operations would also shut down because there would be no way to distribute what they produced, the report said.
+
+And while President Biden’s aides announced efforts to find alternative ways to haul gasoline and jet fuel up the East Coast, none were immediately in place. There was a shortage of truck drivers, and of tanker cars for trains.
+
+“Every fragility was exposed,” Dmitri Alperovitch, a co-founder of CrowdStrike, a cybersecurity firm, and now chairman of the think tank Silverado Policy Accelerator. “We learned a lot about what could go wrong. Unfortunately, so did our adversaries.”
+
+The list of lessons is long. Colonial, a private company, may have thought it had an impermeable wall of protections, but it was easily breached. Even after it paid the extortionists nearly $5 million in digital currency to recover its data, the company found that the process of decrypting its data and turning the pipeline back on again was agonizingly slow, meaning it will still be days before the East Coast gets back to normal.
+
+“This is not like flicking on a light switch,” Mr. Biden said Thursday, noting that the 5,500-mile pipeline had never before been shut down.
+
+For the administration, the event proved a perilous week in crisis management. Mr. Biden told aides, one recalled, that nothing could wreak political damage faster than television images of gas lines and rising prices, with the inevitable comparison to Jimmy Carter’s worse moments as president.
+
+Mr. Biden feared that, unless the pipeline resumed operations, panic receded and price gouging was nipped in the bud, the situation would feed concerns that the economic recovery is still fragile and that inflation is rising.
+
+Beyond the flurry of actions to get oil moving on trucks, trains and ships, Mr. Biden published a long-gestating executive order that, for the first time, seeks to mandate changes in cybersecurity.
+
+And he suggested that he was willing to take steps that the Obama administration hesitated to take during the 2016 election hacks — direct action to strike back at the attackers.
+
+“We’re also going to pursue a measure to disrupt their ability to operate,” Mr. Biden said, a line that seemed to hint that United States Cyber Command, the military’s cyberwarfare force, was being authorized to kick DarkSide off line, much as it did to another ransomware group in the fall ahead of the presidential election.
+
+Hours later, the group’s internet sites went dark. By early Friday, DarkSide, and several other ransomware groups, including Babuk, which has hacked Washington D.C.’s police department, announced they were getting out of the game.
+
+DarkSide alluded to disruptive action by an unspecified law enforcement agency, though it was not clear if that was the result of U.S. action or pressure from Russia ahead of Mr. Biden’s expected summit with President Vladimir V. Putin. And going quiet might simply have reflected a decision by the ransomware gang to frustrate retaliation efforts by shutting down its operations, perhaps temporarily.
+
+The Pentagon’s Cyber Command referred questions to the National Security Council, which declined to comment.
+
+The episode underscored the emergence of a new “blended threat,” one that may come from cybercriminals, but is often tolerated, and sometimes encouraged, by a nation that sees the attacks as serving its interests.That is why Mr. Biden singled out Russia — not as the culprit, but as the nation that harbors more ransomware groups than any other country.
+
+“We do not believe the Russian government was involved in this attack, but we do have strong reason to believe the criminals who did this attack are living in Russia,” Mr. Biden said. “We have been in direct communication with Moscow about the imperative for responsible countries to take action against these ransomware networks.”
+
+With DarkSide’s systems down, it is unclear how Mr. Biden’s administration would retaliate further, beyond possible indictments and sanctions, which have not deterred Russian cybercriminals before. Striking back with a cyberattack also carries its own risks of escalation.
+
+The administration also has to reckon with the fact that so much of America’s critical infrastructure is owned and operated by the private sector and remains ripe for attack.
+
+“This attack has exposed just how poor our resilience is,” said Kiersten E. Todt, the managing director of the nonprofit Cyber Readiness Institute. “We are overthinking the threat, when we’re still not doing the bare basics to secure our critical infrastructure.”
+
+The good news, some officials said, was that Americans got a wake-up call. Congress came face-to-face with the reality that the federal government lacks the authority to require the companies that control more than 80 percent of the nation’s critical infrastructure adopt minimal levels of cybersecurity.
+
+The bad news, they said, was that American adversaries — not only superpowers but terrorists and cybercriminals — learned just how little it takes to incite chaos across a large part of the country, even if they do not break into the core of the electric grid, or the operational control systems that move gasoline, water and propane around the country.
+
+Something as basic as a well-designed ransomware attack may easily do the trick, while offering plausible deniability to states like Russia, China and Iran that often tap outsiders for sensitive cyberoperations.
+
+It remains a mystery how DarkSide first broke into Colonial’s business network. The privately held company has said virtually nothing about how the attack unfolded, at least in public. It waited four days before having any substantive discussions with the administration, an eternity during a cyberattack.
+
+Cybersecurity experts also note that Colonial Pipeline would never have had to shut down its pipeline if it had more confidence in the separation between its business network and pipeline operations.
+
+“There should absolutely be separation between data management and the actual operational technology,” Ms. Todt said. “Not doing the basics is frankly inexcusable for a company that carries 45 percent of gas to the East Coast.”
+
+Other pipeline operators in the United States deploy advanced firewalls between their data and their operations that only allow data to flow one direction, out of the pipeline, and would prevent a ransomware attack from spreading in.
+
+Colonial Pipeline has not said whether it deployed that level of security on its pipeline. Industry analysts say many critical infrastructure operators say installing such unidirectional gateways along a 5,500-mile pipeline can be complicated or prohibitively expensive. Others say the cost to deploy those safeguards are still cheaper than the losses from potential downtime.
+
+Deterring ransomware criminals, which have been growing in number and brazenness over the past few years, will certainly be more difficult than deterring nations. But this week made the urgency clear.
+
+“It’s all fun and games when we are stealing each other’s money,” said Sue Gordon, a former principal deputy director of national intelligence, and a longtime C.I.A. analyst with a specialty in cyberissues, said at a conference held by The Cipher Brief, an online intelligence newsletter. “When we are messing with a society’s ability to operate, we can’t tolerate it.”

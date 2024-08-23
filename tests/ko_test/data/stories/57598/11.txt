@@ -1,0 +1,18 @@
+TSE system error temporarily suspends trading of 241 issues
+02/01/2012
+Kyodo News*Japan Economic Newswire
+fv
+TOKYO, Feb. 2 -- TheTokyo Stock Exchange said Thursday it halted the trading of 241 issues or about 10 percent of all issues listed on the bourse in morning trading due to a server glitch in its market data distribution system, adding it is investigating the cause.
+The bourse resumedtrading of the issues at 12:30 p.m. after fixing the system. It will hold a news conference later in the day on the system failure.
+Trading in the 241issues, including exchange-traded funds and real estate investment trusts, was suspended from the opening of the market at 9 a.m. Of the affected issues, 153, such as Sony Corp., Tokyo Electric Power Co. and Dai-ichi Life Insurance Co., are listed on the First Section of the TSE. There are a total of 2,459 issues listed on the bourse.
+Financial Services Minister Shozaburo Jimi called on the Tokyo bourse to take steps to ensure the problem didn't happen again.
+''It is regrettable. We want the TSE to find out the cause and prevent a recurrence.''
+Although some brokerssaid the impact of the suspension on the overall market has been limited, some investors expressed anxiety since the system failure affected trading for major firms.
+An investor said the credibility of the bourse will be questioned if orders are not implemented properly.
+The 225-issue NikkeiStock Average and the broader Topix index were calculated in the morning using the closing prices on Wednesday of the affected issues.
+It is the first time thatthe bourse's high-speed trading system, called Arrowhead, has suffered system trouble since its launch in January 2010.
+Chief Cabinet SecretaryOsamu Fujimura said, ''The government will work with the Financial Services Agency and the TSE and closely monitor the situation.''
+The bourse last suffered alarge-scale suspension of trading in January 2006, when it faced massive sell orders exceeding computer capacity after Livedoor Co. was raided by prosecutors over an accounting fraud.
+Also in 2005, defects inthe trading system led then TSE chief Takuo Tsurushima to resign as Mizuho Securities Co. could not cancel erroneous sell orders of J-Com Co.
+Meanwhile, the SapporoSecurities Exchange said it temporarily halted trading for all 74 issues in the morning, as the Sapporo bourse uses the same system as the Tokyo bourse.
+==Kyodo

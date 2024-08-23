@@ -1,0 +1,44 @@
+So what really constitutes Y2K readiness for NT?(Industry Trend or Event)
+06/14/1999
+Government Computer News
+fv
+The rollover to 2000 triggers more semantic debates than President Clinton's grand jury testimony.
+Are your PCs and servers compliant? Certified? Ready? Compliant with minor issues? It all depends on your agency's point of view and that of the makers of the products it uses.
+Since the mid-1990s, GCN has used the word readiness in reference to year 2000 issues. A system is either ready or not ready to click over on Dec. 31 and continue running as before. Vendors have multiple definitions for what they define as a ready system.
+I had often advised GCN readers who run any version of Microsoft Windows NT not to worry about the real-time clock and related BIOS and hardware issues. For those lucky users, NT would--I said--take care of the century byte within the memory register of the CMOS chip.
+Not so.
+Months ago, a Microsoft Corp. year 2000 guru told me point-blank that NT will correct erroneous date information in the hardware, turning the 19 in 1999 to the 20 in 2000 when appropriate.
+But persistent testing--for which Microsoft deserves praise--has revealed that on some systems, NT will be an hour late switching from 19 to 20. So now Microsoft representatives say a 2000-ready BIOS is essential for NT systems.
+The four date-related patches recently provided in NT Service Pack 5 or available individually will make the RTC roll over correctly.
+Although Microsoft is only one of hundreds of vendors, most government users probably use some form of the company's software. Until recently, Microsoft designated its products' readiness in three categories: compliant, compliant with minor issues and not compliant.
+According to Microsoft's definition, compliant software meets five criteria:
+* It stores and calculates dates consistent with a four-digit year format throughout its operational range.
+* If a user enters a two-digit year shortcut, the software product recognizes the year consistent with a four-digit format.
+* It correctly executes leap-year calculations.
+* It does not use special values for dates within its operational range for data.
+* It will continue to function through the end of 2035.
+Microsoft lists 274 versions of its English-language software products on the Web. It says eight will not meet the above tests; one has not completed testing, and two are considered not applicable.
+That leaves 263.
+Of those 263 packages, 119 are fully compliant according to Microsoft's definition. That leaves 144 that fit into the category of compliant with minor issues, although Microsoft no longer uses that phrase.
+By request
+According to Microsoft 2000 guru Jason Matusow, the company dropped the designation because of a request from federal users. Like GCN, many government organizations have only a two-tier designation: ready or not ready. Agencies also often use the terms compliant and not compliant.
+Microsoft's three-tier nomenclature caused conflicts when government officials could not decide what "compliant with minor issues" meant, Matusow said.
+Microsoft decided that as long as a package or an operating system was considered working-capable, it was compliant, he said.
+Recently the company has introduced three new readiness designations: compliant*, compliant# and compliant+. The asterisk, the pound sign and the plus character all mean something different:
+* Of the 144 products formerly listed as compliant with minor issues, 108 get the asterisk, which means some user action is necessary. Microsoft's Web site says the. action "may include loading a software update or reading a document." Want to bet it's a patch?
+* Fifty-four products get the pound sign, which indicates what the company calls an "acceptable deviation from Microsoft's standard of compliance." An acceptable deviation is defined as an annoyance or a bug that does not affect data integrity or reliability and will not crash the system.
+Matusow gave an example: Some Novell NetWare accounts on systems running Windows NT with Service Pack 3 or earlier versions might have their expiration dates translated incorrectly after 2000. Service packs 4 and 5 fix the glitch.
+* Only one product gets the plus character. That one product happens to be Windows 98, and it will soon receive a software update.
+Any user action requirement--downloading a patch, updating internal data, fixing date codes manually and the like--or any deviation from the definition renders the product not 2000-ready.
+So Microsoft's asterisk, pound sign and plus codings all equate to GCN's designation of not 2000-ready: The user must do something.
+Overall, 155 of Microsoft's English-language products are not ready to roll over. That number now includes every single one of Microsoft's operating systems.
+As for the good news, Microsoft has patches, fixes, updates and more to make its software ready.
+Some of the downloads fix other annoying problems, too.
+Matusow said Microsoft plans to provide as many patches or updates as are required for Windows NT 4.0 and Service Pack 3 without forcing users to apply service packs 4 or 5 or any future versions to maintain readiness through Jan. 1, 2001.
+I make weekly visits to Microsoft's year 2000 section on its Web site. Almost weekly I find new updates.
+The statistics above came from a Microsoft Excel spreadsheet posted to the site on June 4. The one you download today from www.microsoft.com/year2000[http://www.microsoft.com/year2000] might be different.
+Readiness demands vigilance, and Microsoft is being vigilant. No matter what term you use--ready, compliant, confirmed or certified--readiness will remain an issue well beyond Jan. 1.
+Where to find Microsoft Y2K updates
+* Primary year 2000 site: microsoft.com/year2000
+* Windows NT service packs: www.microsoft.com/windows/servicepacks[http://www.microsoft.com/windows/servicepacks]
+* Windows 98 patches: windowsupdate.microsoft.com

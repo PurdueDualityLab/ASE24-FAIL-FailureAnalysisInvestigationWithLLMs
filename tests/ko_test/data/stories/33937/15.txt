@@ -1,0 +1,24 @@
+Navy may reroute subs' electrical cables
+06/27/2005
+The Leader-Post (Regina, Saskatchewan)
+ln
+HALIFAX (CP) -- Navy engineers are considering a design change for Canada's four Victoria-class submarines that would see high-voltage cables -- the source of the deadly fire last fall aboard HMCS Chicoutimi -- moved to higher, dryer locations.
+The change is one of several improvements on the drawing board, according to documents obtained by The Canadian Press under the Access to Information Act.
+An investigation into the fire raised concerns about the placement of wires in two areas: near Bulkhead 56 in the engine room and Bulkhead 35 underneath the commanding officers' cabin.
+Two sets of cables are located low on the sub's wall, near deck level. As a result, they face the possibility of short-circuiting if immersed in sea water.
+That's exactly what happened aboard Chicoutimi last Oct. 5 as it started its maiden voyage to Canada from Scotland in rough seas. When sea water poured through two open hatches in the sub's conning tower, the electrical lines beneath the bunk in the captain's cabin were soaked through, causing a short circuit and subsequent fire.
+The blaze claimed the life of Lieut. Chris Saunders, a combat systems engineer from Halifax.
+The documents, known as deficiency identification reports, show engineers are considering moving the lines, possibly to the ceiling, away from potential hazards.
+'This modification, if deemed feasible, would most likely be carried out during a major work period and would decrease the risk even further,' said a report prepared by the navy's Subsafe Board.
+If approved, the work likely wouldn't be done until each warship undergoes a mid-life refit, some time after 2008, said a senior member of the submarine safety board.
+'It's a multi-year exercise because it's such a huge job,' Cmdr. Bill Irvine said in an interview from Ottawa.
+'Design people are looking at that to see how big a job it is.'
+He said it remains unclear whether the cables can be moved because the lines are connected through watertight bulkheads and any changes might compromise that safety feature.
+Meanwhile, insulation around potentially vulnerable electrical junctions has been increased, which means the boats are safe to sail, said Irvine.
+All four submarines have had a history of glitches since they were acquired from Britain in a $891-million lease-to-purchase deal.
+Deficiency reports show the placement of the cables has been a source of irritation for engineers for some time.
+In 2003, repair crews aboard HMCS Windsor traced a loose connection -- or ground fault -- to Bulkhead 56 in the engine room. They had to tear apart the insulation box to get at the problem.
+A civilian contractor had to be called in to rebuild the junction. The military's inquiry into the Chicoutimi fire noted that Bulkhead 35 -- the junction beneath the captain's bunk -- was never visually inspected after the used sub was refurbished because it was in an awkward place.
+'The board also heard testimony that the joints between the cables and the bulkhead penetrators were not exposed and therefore not physically checked for tightness, as insulation around the joints would have been destroyed in the process,' said the inquiry report.
+Copyright 2005 CanWest Interactive, a division of CanWest Global Communications Corp.
+All Rights Reserved

@@ -1,0 +1,86 @@
+The M.T.A. Is Breached by Hackers as Cyberattacks Surge
+Hackers with suspected ties to China penetrated the New York transit agency’s computer systems in April, an M.T.A. document shows. Transit officials say the intrusion did not pose a risk to riders.
+
+A hacking group believed to have links to the Chinese government penetrated the Metropolitan Transportation Authority’s computer systems in April, exposing vulnerabilities in a vast transportation network that carries millions of people every day, according to an M.T.A. document that outlined the breach.
+
+The hackers did not gain access to systems that control train cars and rider safety was not at risk, transit officials said, adding that the intrusion appeared to have done little, if any, damage.
+
+But a week after the agency learned of the attack, officials raised concerns that hackers could have entered those operational systems or that they could continue to penetrate the agency’s computer systems through a back door, the document also shows.
+
+Transit officials say a forensic analysis of the attack has not revealed evidence of either and that hackers did not compromise customers’ personal information. The agency reported the attack to law enforcement and other state agencies, but has not disclosed it publicly.
+
+The breach was the third — and most significant — cyberattack on the transit network, North America’s largest, by hackers thought to be connected to foreign governments in recent years, according to transit officials.
+
+The M.T.A. is one of a growing number of transit agencies across the country targeted by foreign hackers and the breach comes during a surge in cyberattacks on critical American infrastructure, from fuel pipelines to water supply systems.
+
+A ransomware attack last month on Colonial Pipeline, one of the nation’s largest pipelines, led to a precautionary shutdown of a network stretching from Texas to New York that carries nearly half the gasoline, diesel and jet fuel for the East Coast. The shutdown caused panic buying across the Southeast as drivers scrambled to fuel their vehicles.
+
+In recent months, cyberattacks have also crippled police departments in the District of Columbia and elsewhere, as well as hospitals treating coronavirus patients in intrusions that involved criminal groups holding data hostage and seeking payments to unlock the data.
+
+The attack on the M.T.A. did not involve financial demands and instead appears to be part of a recent series of widespread intrusions by sophisticated hackers believed to be backed by the Chinese government, according to FireEye, a private cybersecurity firm that works with the federal government and helped identify the breach.
+
+The broader hacking campaign compromised dozens of federal agencies, defense contractors and financial institutions among other sectors and was discovered in late April. The Chinese government routinely denies carrying out hacking operations.
+
+It is unclear why the M.T.A. was a target of the campaign, but investigators have several theories. One focuses on China’s push to dominate the multibillion-dollar market for rail cars — an effort that could benefit from knowing more about the inner workings of a transit system that awards lucrative contracts.
+
+In recent years, China has used cyberattacks as a way to advance its economy and become the dominant global superpower, according to the Justice Department.
+
+Another more benign view is that hackers mistakenly entered the M.T.A.’s system and discovered it was of little interest, which cybersecurity experts say is not unusual.
+
+In any event, the hackers did not make any changes to the agency’s operations, collect any employee or customer information — like credit card numbers — or compromise any M.T.A. accounts, transit officials said, citing a forensic audit of the attack commissioned by the agency and conducted by IBM and Mandiant, a leading cybersecurity firm.
+
+“The M.T.A.’s existing multilayered security systems worked as designed, preventing spread of the attack,” said Rafail Portnoy, the M.T.A.’s chief technology officer. “We continue to strengthen these comprehensive systems and remain vigilant as cyberattacks are a growing global threat.”
+
+A spokesman for the Department of Homeland Security, which is investigating the breach, declined to comment.
+
+The intrusion is the latest in an escalation of cyberattacks against American transit agencies, most of which are financially strapped and can usually only afford basic cybersecurity protections.
+
+A study last year by the Mineta Transportation Institute, a research organization, found that while over 80 percent of transportation agencies surveyed believed they were prepared to manage cybersecurity threats, only 60 percent had a cybersecurity plan in place.
+
+“A lot of transit agencies don’t have chief security officers, much less cybersecurity officers,” said Scott Belcher, a consultant specializing in transportation technology who led the study.
+
+A ransomware attack on the San Francisco Municipal Transportation Agency in 2016 disrupted ticketing systems, forcing the agency to provide free service for three days. In Texas, Fort Worth’s regional transportation agency lost access to its IT systems, data and customer support in 2019 after being hacked by a ransomware group that threatened to expose public data.
+
+In October, a ransomware attack disrupted the Philadelphia transit authority’s operations for months after the agency was forced to block employees from accessing their email and stopped providing real-time travel information to riders. Sacramento’s transit agency and the state transportation department in Colorado have also been hit by cyberattacks in recent years.
+
+None of the attacks posed a physical threat to riders or drastically disrupted train service. But they have impeded operations, threatened to drain millions of dollars in ransom demands and cost hundreds of thousands of dollars in forensic analyses after breaches were identified.
+
+“Initially you might think the biggest risk is the stuff you see in movies, somebody taking over a bus remotely or taking over a train remotely and putting the passengers at risk,” Mr. Belcher said. But recovering from the attacks is expensive, he said, “which itself puts their ability to operate at risk.”
+
+The attack against the M.T.A. also comes amid growing concerns about the state-owned China Railway Rolling Stock Corporation, the world’s largest train car producer, which has aggressively pursued contracts to build rail cars for major cities.
+
+The company has won contracts in cities including Boston, Chicago, Los Angeles and Philadelphia — many competitors believe by underbidding competitors using state funds to underwrite the costs.
+
+The Chinese corporation has never produced rail cars for New York’s transit agency, transit officials say, but it was a winner of an M.T.A. challenge in 2018 soliciting ideas for upgrading the city’s aging rail network. The company had proposed investing $50 million to develop a new subway car for the agency.
+
+As the threat of cyberattacks has grown and trade tensions between the U.S. and China have intensified, the dominance of the state-owned company has raised worries among lawmakers, defense officials and industry experts that the equipment has left critical American transportation infrastructure vulnerable to cyberattacks.
+
+In 2019, Congress banned public transit agencies from using federal funds to purchase rail cars or buses from Chinese-owned companies and agreed to penalize any agencies that do so using their own funds.
+
+The latest breach at the M.T.A. — combined with the recent increase in cyberattacks on transit agencies — has raised questions about the transit agency’s cyber defenses, according to a government official with knowledge of the cyberattack and the steps the M.T.A. took to address it.
+
+To gain access to the M.T.A. and other systems, the hackers took advantage of vulnerabilities in Pulse Connect Secure, a widely used connectivity tool that offers workers remote access to their employers’ networks. The cyberespionage campaign involved two groups of China-linked hackers, one of which was likely operating on behalf of the Chinese government, according to FireEye.
+
+The M.T.A.’s systems appear to have been attacked on two days in the second week of April, and the access continued at least until the intrusion was identified on April 20, the M.T.A. document shows. The hackers took advantage of a so-called “zero day,” or a previously unknown coding flaw in software for which a patch does not exist.
+
+Hackers gained access specifically to systems used by New York City Transit — which oversees the subway and buses — and by both the Long Island Rail Road and Metro-North Railroad, according to the M.T.A. document outlining the breach. The hackers compromised three of the transit authority’s 18 computer systems, transit officials said.
+
+But, Mr. Portnoy said, there was “no employee or customer information breached, no data loss and no changes to our vital systems.”
+
+“Our response to the attack, coordinated and managed closely with State and Federal agencies, demonstrated that while an attack itself was not preventable, our cybersecurity defense systems stopped it from spreading through M.T.A. systems,” he added.
+
+Once the broad intrusions that included the M.T.A. were identified in late April, the Department of Homeland Security’s Cybersecurity and Infrastructure Security Agency, the National Security Agency and the F.B.I. issued an alert about the vulnerability.
+
+The software company that owns Pulse Connect Secure, Ivanti, provided immediate steps to mitigate the damage and released a security update to fix the vulnerabilities. New York transit officials say they implemented the fixes within 24 hours of their release.
+
+After receiving the warning from security officials, the M.T.A. quickly conducted the detailed forensics audit, which found malware in the authority’s Pulse Connect Secure applications, transit officials said. The malware included malicious software known as “web shells,” according to the M.T.A. document, that typically provide hackers a backdoor to remotely access — and in some cases control — certain servers over a long period of time.
+
+Though the hackers did not make any ransom demands, experts say it is possible that they benefited financially from the attack in other ways.
+
+“There’s a lot of avenues to monetize this access into this environment beyond the ransomware attack,” said Rob McLeod, senior director of the threat response unit at eSentire, a cybersecurity company. “Ongoing access can be interesting to many groups, even governments. Maybe there’s a strategic advantage to understanding the operating model of a transit agency.”
+
+The forensic review also found signs that the hackers took steps to erase evidence of the intrusion, raising questions among law enforcement agencies about whether there were breaches the transit agency had not discovered, according to a government official familiar with the breach.
+
+The M.T.A. required 3,700 employees and contractors — or five percent of its total work force including contractors — to change passwords as a precautionary measure, according to the transit agency.
+
+The M.T.A. also reset other digital certificates that — similar to passwords — enable access to the authority’s network and migrated its systems from Pulse Connect Secure to a different virtual private network. The response to the intrusion cost the agency an estimated $370,000.

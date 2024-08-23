@@ -1,0 +1,2 @@
+Identify: Accuracy (Percentage),Identify: Accuracy (Fraction),Identify: False Positive (Percentage),Identify: False Positive (Fraction),Identify: False Negative (Percentage),Identify: False Negative (Fraction),Identify: Wrong (Percentage),Identify: Wrong (Fraction),Identify: Total Evaluated,Identify: False Positive Rate (Percentage),Identify: False Negative Rate (Percentage)
+92.00%,46/50,8.00%,4/50,0.00%,0/50,8.00%,4/50,50,100.00%,0.00%

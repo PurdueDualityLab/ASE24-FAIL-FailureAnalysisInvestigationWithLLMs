@@ -1,0 +1,45 @@
+The Bakersfield Californian Lois Henry column: LOIS HENRY: PGandE is a study in how not to do smart meters
+01/23/2010
+McClatchy - Tribune Business News*The Bakersfield Californian
+pq
+Jan. 23--You know, for a couple billion of our bucks, you'd think PG&E would have tested the holy bejeepers out of its smart meters (ummm, even the first not-smart-enough meters they had to replace) before slapping them on our houses.
+But it's hard to say what kind of testing they did, holy or otherwise. I couldn't even get them to talk to me about it.
+All I got were a few terse emails from local spokesman Denny Boyles saying they did "1,300 field tests (Me: Out of nearly 5 million installed so far) on customers' meters and have confirmed that the technology accurately measures and bills customers for their energy use."
+Just the meters? Or the transmission systems? Or the billing software? Or all of the above?
+Other than scolding me -- "Before addressing your immediate request, first let me say that PG&E remains concerned about your prior reporting on this issue, which we feel has done a disservice to our customers by not providing the full story about the benefits, to the customer, of having an advanced metering device," -- I got very little.
+He added that PG&E buys its meters from two different manufacturers, General Electric and Landis+Gyr, who "spent more than two years rigorously testing this technology."
+Were the tests designed for PG&E's system? Or just smart meter technology in general since these meters weren't made specifically for PG&E but were "off the shelf"?
+Boyles said PG&E does random sample testing for ongoing quality assurance. But he didn't give me any numbers, nor any results. And as I recall from Sen. Dean Florez's hearing in Bakersfield last October, the sample was quite low, about 1 percent of the 250,000 meters in Bakersfield.
+I also wanted to know how another company, Silver Spring Networks, which contracts with PG&E for the communication software in the meters and back office, fits into this mix and what kinds of testing protocols were incorporated into that arm of the system.
+Nada.
+I tried to go around Boyles and speak directly to Paul Moreno, who is PG&E's designated smart meter PR guy.
+Not happening.
+"I understand you contacted my colleague Paul Moreno regarding SmartMeter information. I believe the email I sent last week is quite comprehensive. Best, Denny"
+Sigh.
+You and I both know if they truly put these meters and their entire system through the testing wringer, they'd be bragging on it from the rooftops, not shooing away pesky columnists for asking questions.
+That's what Southern California Edison did when I asked them how much testing their meter system underwent. Man, I couldn't get those guys off the phone!
+First off, it took them three years of planning, testing, changing, retesting, tweaking, triple testing, pilot programs and more before they went live earlier this year.
+PG&E got the go-ahead on smart meters from the Public Utilities Commission in July 2006 and more than 200,000 Bakersfield houses had them by fall 2007.
+A few months later, I and other local media were already getting complaints about skyrocketing bills. (No heat wave that winter and rates hadn't been hiked yet either, as a reminder of PG&E's two main excuses for stratospheric bills last summer.)
+So far, Edison has not had any of those problems, according to Kenneth Devore, director of Edison's smart meter program.
+They've installed about 175,000 smart meters, built with Itron North America, and have about 90,000 communicating over the air.
+"Without gloating, I have to say Edison has been a leader in thinking through what kind of meter can serve the customer now and into the future," Devore said.
+Not quite the way PG&E did things.
+They got $1.7 billion (repaid by us through increased rates) for their initial meters then went back to the PUC for another $500 million when they realized the first meters couldn't do things like communicate with home appliances, which was kind of key in allowing customers to remotely reduce usage depending on electricity costs -- the whole reason for the smart meter program in the first place.
+Moving on.
+Edison took their requirements (which they posted on their website, by the by) to Itron and worked hand in glove to create not just a meter, but a whole system that could be upgraded over the air so customers and the utility can incorporate new features as technology becomes available.
+They had an independent third party auditing the entire process, including the design phase, how Itron did its documentation, who its suppliers were and so on.
+"When Ken (Devore) says they went over us with a fine-tooth comb, it wasn't just testing the accuracy of the meter," Philip Mezey, Chief Operating Officer for Itron, told me. "It was much deeper, a full end-to-end investigation."
+Together, Edison and Itron subjected the meters to every kind of problem they could conceive of and tested them in a variety of different ways.
+And yes, they discovered glitches, lots of them. Which was good, because then they found ways to fix the glitches.
+When the meters finally made it to California, Edison had a team run 100 percent of them through testing again until they were satisfied they could go to random sampling. They trained their installers to use an extensive checklist and followed up every install with a supervisor's visit for another round of tests.
+Now they're having customer focus groups to gauge satisfaction.
+And they created a new protocol in the back office to check bills before and after the new meters were hooked up to look for any anomalies or spikes.
+Imagine that, a utility actually checking its own work rather than telling customers to pound sand and pay up when we call with questions about out-of-sight bills.
+The end result for Edison: "We are not seeing any extravagant out-of-cycle usage," Devore said.
+Can't say the same for us lucky PG&E customers.
+Meanwhile, I asked the PUC when those independent tests would start that they promised Florez after his October hearing.
+They hope to have an "independent evaluator" chosen by the end of this month, I was told. But they're still not sure who will pay for the tests.
+Yeah, because the $2 billion we've already paid (not counting our overinflated bills) apparently isn't enough to ensure we can get a product that works.
+Opinions expressed in this column are those of Lois Henry, not The Bakersfield Californian. Her column appears Wednesdays and Sundays. Comment at people.bakersfield.com/home/Blot/noholdsbarred, call her at 395-7373 or e-mail lhenry@bakersfield.com
+Credit: The Bakersfield Californian

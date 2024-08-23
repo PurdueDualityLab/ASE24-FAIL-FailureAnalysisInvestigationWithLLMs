@@ -1,0 +1,20 @@
+[untitled]
+02/02/2012
+Japan Economic Newswire
+ln
+The Tokyo Stock Exchange said Thursday it halted trading of 241 issues, or around 10 percent of all issues listed on the bourse, from the start of the morning session due to a server glitch in its market data distribution system, causing a decline of around 5 percent in trading value.
+While the bourse resumed trading of the issues at the start of the afternoon session from 12:30 p.m., it said it is still investigating the cause of the first major disruption to its Arrowhead high-speed trading system, which was introduced in January 2010.
+'We apologize for causing trouble to investors and market participants,' Yoshinori Suzuki, TSE chief information officer, told a news conference after the market closed. 'We are looking into the cause of the error and will take preventive measures.'
+The trouble came as Tokyo Stock Exchange Group Inc. is planning to merge with Osaka Securities Exchange Co. in January 2013, creating an entity that would handle almost all stock trading in Japan and hold a dominant share of the domestic market for trading derivative financial products.
+Atsushi Saito, the president of Tokyo Stock Exchange Group Inc., issued a statement after the press conference offering an apology and pledging to take preventive measures.
+Of the affected issues, 153, including Sony Corp., Tokyo Electric Power Co. and Dai-ichi Life Insurance Co., are listed on the First Section. The issues also included exchange-traded funds and real estate investment trusts.
+Financial Services Minister Shozaburo Jimi called on the Tokyo bourse to take steps to ensure the problem does not happen again, saying, 'It is regrettable. We want the TSE to clarify the cause and prevent a recurrence.'
+Although some brokers said the impact of the suspension on the overall market was limited, some investors expressed anxiety as the system failure affected trading of major issues.
+An investor said the credibility of the bourse will be questioned if orders are not executed properly.
+The 225-issue Nikkei Stock Average and the broader Topix index were calculated in the morning using the closing prices of the affected issues on Wednesday.
+The system was developed in collaboration with Fujitsu Ltd. at a cost of around 13 billion yen.
+The bourse last suffered a large-scale trading suspension in January 2006, when it faced massive sell orders that exceeded computer capacity after Livedoor Co. was raided by prosecutors over accounting fraud.
+Also in 2005, defects in the trading system led then TSE chief Takuo Tsurushima to resign as Mizuho Securities Co. could not cancel an erroneous order to sell J-Com Co. shares.
+Meanwhile, the Sapporo Securities Exchange said Thursday it temporarily halted trading for all 74 issues in the morning, as the Sapporo bourse uses the same system as the Tokyo bourse.
+Copyright 2012 Kyodo News Service
+All Rights Reserved

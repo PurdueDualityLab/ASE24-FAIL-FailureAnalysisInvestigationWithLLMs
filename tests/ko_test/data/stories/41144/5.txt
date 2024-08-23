@@ -1,0 +1,30 @@
+Time Warner didn't warn Web customers; Similar Internet service disruptions have plagued company in other cities
+05/02/2007
+Buffalo News (New York)
+ln
+Internet connections from Time Warner Cable were largely restored on Tuesday, but outrage continued to percolate about a two-day service disruption that was caused by a system overhaul.
+Buffalo-area customers said they're angry there was no warning before they were cut off from Internet-based banking, e-mail and stock trading -- even though similar problems have plagued Time Warner in other cities.
+'If a company is going to do something that could cause problems, they have a duty to notify [customers,]' said Jonathan M. Rosen. His computer repair business in Amherst got hit by connection problems even while it tried to help customers affected by the service disruption.
+Time Warner said not all its 130,000 area Internet subscribers experienced problems, but neither did the company know how many were affected.
+The widespread glitches began Sunday as Time Warner started to replace network equipment inherited from predecessor Adelphia Communications, which it acquired last summer.
+No warning was issued because the company expected to continue service through the switchover without interruption, spokeswoman Robin Wolfgang said.
+The company sent a letter to elected officials in advance of the changeover, she said, but not to customers. 'We didn't anticipate problems.'
+But in Los Angeles, Time Warner's takeover of former Adelphia systems has been so plagued by problems that it sparked a class-action lawsuit by disgruntled customers and caused the ouster of the company's local manager.
+In a March letter, the city's telecommunications watchdog called Time Warner's system takeover a 'near failure' because of erratic service and an eruption of customer complaints, the Los Angeles Times reported.
+The connection problems in Western New York resulted from settings on new equipment that conflicted with elements of the network in Buffalo, Lackawanna and an Internet hub in Syracuse, Wolfgang said.
+As a result, traffic to secure Web sites -- ones that require users to log in -- was blocked for many users. That problem, while short of a complete outage, affected online tasks that Internet users have come to depend on, including Web based e-mail and financial transactions.
+In addition, about 8,000 customers in the Southtowns were without Internet connections entirely on Sunday and part of Monday. And Internet-based voice phone services like Vonage ran into trouble during the disruption, customers said.
+'I am searching for a job and I missed two phone calls attempting to set up interviews,' one Time Warner customer in Western New York said in an e-mail.
+The Internet phone was also out at Rosen's computer repair business in Amherst, cutting him off from customers who were worried about their own broken connections. The few dollars of credit he can expect doesn't begin to reflect the disruption caused to his business, he said.
+Users still having problems after rebooting their computer and modem should call customer service, the company said.
+Time Warner said that the connection problems didn't affect all customers, and were mostly intermittent.
+'While we did encounter two major issues, . . . overall the transition went smoothly,' Buffalo Division President Gordon Harp said in a written statement.
+But that characterization collided head-on with the experiences reported by customers. Some users said their calls to customer service on Monday met with busy signals or were simply dropped, indicating the system was jammed with others seeking help. Callers who got through were told to expect a lengthy wait.
+Other than calling the company to request a credit for the time of the outage, customers have little recourse, officials said.
+'We have little if any control over them,' said William Kindel, an Amherst councilman on the Citizens Advisory Cable TV Committee. The cable company operates under a franchise agreement with the town, but there are no penalties for service outages, he said.
+Internet users should come up with contingency plans to weather future outages, Buffalo lawyer and telecommunications consultant Martha Buyer said. For businesses, access to a dial-up Internet service and a standard, non-Internet phone should be considered as a backstop.
+Companies have rushed to plug in cheaper Internet-based phone services without considering the higher reliability of the analog systems they replaced, Buyer said.
+'With these . . . digital systems there's risk,' she said. 'They [businesses] have to acknowledge that before making the leap to it.'
+e-mail: fwilliams@buffnews.com
+Copyright 2007 The Buffalo News
+All Rights Reserved

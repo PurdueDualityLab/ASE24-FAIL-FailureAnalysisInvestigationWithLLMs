@@ -1,0 +1,30 @@
+DBS blames IBM, braces for backlash from MAS; Botched hardware repair job caused outage; MAS to look at action against bank
+07/14/2010
+The Business Times Singapore
+ln
+(SINGAPORE) DBS Bank has squarely blamed a botched hardware repair job for causing last week's widespread service outage. But the explanation may not shield the bank from a backlash, with Singapore's financial regulator saying that it would look at what action to take.
+The Monetary Authority of Singapore (MAS) will review DBS's investigation report on the incident and assess 'the extent to which the bank has failed to meet the recommended standards set out in the Internet Banking and Technology Risk Management Guidelines before determining the appropriate regulatory action to take'.
+While DBS Group chief executive Piyush Gupta again appeared to lay the blame for the outage on IBM - which handles its network and mainframe functions - DBS may still have to take the rap.
+'A bank's responsibilities and accountabilities are not diminished or relieved by outsourcing its operations to third parties or joint-venture partners,' the MAS guidelines clearly state.
+Even so, Mr Gupta tried to shed some light yesterday on the mystery behind the malfunction on July 5 that hit the bank's ATMs, Nets and credit card payment services, and online banking for more than seven hours.
+In a letter to the bank's customers yesterday, Mr Gupta said: 'The outage last week was triggered during a routine repair job on a component within the disk storage sub-system connected to our mainframe.'
+This confirms a BT report last Friday that a mainframe-related glitch crippled key DBS services.
+Mr Gupta says IBM made a 'procedural error' while replacing a defective storage component at 3am on a Monday, the off-peak period when maintenance is usually carried out.
+The company's service crew relied on outdated procedures to carry out the repairs, he says.
+DBS outsourced its network and mainframe functions to IBM under a 10-year, $1.2 billion deal in 2002.
+Due to an oversight, what would typically have been a routine replacement eventually escalated to become a complete systems outage, Mr Gupta explains in his letter to customers.
+'On hindsight, our internal escalation process could have been more immediate. We could also have done more to mobilise broadcast channels to inform customers of the disruption in services first thing in the morning.'
+Questions remain as to why DBS's system redundancy and other fail-safe mechanisms apparently did not kick in to cushion the fallout.
+Large corporations - especially banks and government departments - typically design their key technology systems with redundancy features to spread the workload to other machines in case one fails. Some servers and mainframes even boast 'hot swap' components that can be replaced on the fly without having to restart machines.
+These features are usually complemented by a disaster recovery plan to ensure important data can be recovered and operations can resume in the event of an emergency.
+According to Mr Gupta, the bank's disaster recovery command centre was activated at 6.30am after several hiccups in the repair process were experienced.
+'By 8.30am, we knew that our branch and ATM systems could be restored from 10am onwards and therefore did not need to invoke full disaster recovery measures,' his letter says. 'All other services were progressively restored through the morning and virtually everything was back on track by lunchtime.'
+DBS was instructed by MAS to explain the outage to consumers and outline the action it would take to avoid a repeat.
+'MAS has informed DBS Bank's senior management that we are seriously concerned with the wide disruption of the bank's services on Monday, July 5, 2010,' the authority said in a statement issued on the heels of DBS's letter to customers.
+While the bank braces for a regulatory backlash, IBM could be staring at a reduction in the maintenance fees it receives from DBS.
+'In mainstream outsourcing contracts, Gartner recommends that clients identify key service levels which have a material impact on the business performance of the bank,' Jim Longwood, Gartner's research vice-president for IT sourcing, told BT.
+'Against this small number of service levels, we normally recommend a monthly rebate of fees of the order of 10-20 per cent for the affected service area, should the service provider fall well below the expected service level.'
+Phil Hassey, a vice-president with Springboard Research, said: 'They (penalties) can vary from a literal slap on the wrist to contract termination, depending upon the intensity and impact of the SLA (service level agreement) breach or violation.'
+He added: 'The focus in most mature relationships is on the cure rather than the cause . . . Having said that, in the case of DBS, the breach is significant, and IBM is the primary service provider in this instance.'
+Copyright 2010 Singapore Press Holdings Limited
+All Rights Reserved

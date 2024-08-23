@@ -1,0 +1,7253 @@
+Name,Occurrences
+nytimes,644
+pgn,631
+lauren weinstein,563
+rob slade,476
+bst,433
+wired,404
+monty solomon,382
+washpost,359
+ars technica,328
+from risko@localhost,320
+henry baker,251
+newsscan,247
+gabe goldberg,202
+amos shapir,190
+jeremy epstein,171
+gene wirchenko,150
+dan jacobson,133
+mark brader,122
+john levine,121
+pdt,119
+danny burstein,115
+envelope-from risko@csl.sri.com,115
+zdnet,113
+the guardian,107
+from mail@localhost,101
+the verge,94
+david lesher,93
+bloomberg,79
+mark thorson,78
+peter houppermans,77
+the register,76
+from root@localhost,75
+from mailnull@localhost,75
+washpo,75
+peter b. ladkin,75
+jidanni,74
+martyn thomas,74
+chris drewe,73
+martin ward,72
+techcrunch,72
+bbc,72
+the hacker news,71
+wsj,70
+fortune,67
+paul robinson,64
+cbc,62
+geoff kuenning,60
+bob frankston,58
+scientific american,58
+nyt,58
+gizmodo,57
+bbc.com,57
+pst,56
+bruce schneier,56
+of known viruses,56
+the new york times,53
+engadget,53
+bob gezelter,52
+debora weber-wulff,52
+ars,49
+cnn,49
+jonathan kamens,49
+dan goodin,48
+reuters,47
+slashdot,46
+vice,45
+kelly bert manning,44
+catalin cimpanu,44
+lucian constantin,43
+geoff goodfellow,42
+erling kristiansen,41
+rebecca mercuri,40
+eff,39
+gadi evron,38
+ken knowlton,38
+paul saffo,38
+matthew kruk,37
+steve bacher,36
+cnbc,36
+politico,36
+the boston globe,36
+lucian constantin via gene wirchenko,35
+richard stein,35
+techxplore.com,35
+dick mills,35
+david magda,35
+jim reisert,34
+the washington post,33
+nbc news,33
+dimitri maziuk,33
+michael bacon,33
+boingboing,33
+motherboard,32
+charlie osborne,32
+nick brown,31
+fuzzy gorilla,31
+npr,31
+helo mailgate.sri.com,30
+richard a. o'keefe,30
+robert schaefer,30
+forbes,30
+anthony thorn,30
+gene spafford,29
+envelope-from risko@chiron.csl.sri.com,29
+propublica,29
+alister wm macintyre,29
+peter bernard ladkin,28
+from cyrus@localhost,28
+[unix socket],28
+the nytimes,28
+fred cohen,28
+chris j brady,28
+kevin fu,28
+business insider,27
+al mac,27
+npr.org,27
+wol,27
+david farber,26
+steven m. bellovin,26
+paul wallich,25
+phys.org,25
+woody leonhard,25
+steve summit,24
+the atlantic,24
+werner u,24
+chiaki ishikawa,24
+ed ravin,24
+zack whittaker,23
+bbc news,23
+cnet,23
+drew dean,23
+woody leonhard via gene wirchenko,22
+krebs on security,22
+al macintyre,22
+barry gold,22
+bleeping computer,22
+diomidis spinellis,21
+symantec mail security,21
+declan mccullagh,21
+lw,21
+toby douglass,21
+tom van vleck,21
+dmitri maziuk,20
+jay r. ashworth,20
+diego latella,20
+chris leeson,20
+mark e. smith,20
+dave farber,19
+steve bellovin,19
+david e. ross,19
+ap,19
+lindsay marshall,19
+andrew koenig,19
+jerry leichter,19
+dcist,18
+mit tech review,18
+bob heuman,18
+dave stringer-calvert,18
+don norman,18
+the times of israel,18
+liam tung,18
+arthur t.,18
+peter mellor,18
+patrick o'beirne,18
+usa today,18
+fahmida y. rashid,17
+nicole perlroth,17
+jim horning,17
+prashanth mundkur,17
+computerworld,17
+the straits times,17
+thomas koenig,17
+steve lamont,17
+neil youngman,16
+pete mellor,16
+the hill,16
+george michaelson,16
+tony finch,16
+daniel p. b. smith,15
+geoffrey brent,15
+alistair mcdonald,15
+rob mccool,15
+ted samson via gene wirchenko,15
+david alexander,15
+ieee spectrum,15
+chuck weinstock,15
+danny palmer,15
+techxplore,15
+dave horsfall,15
+curt sampson,14
+r. g. newbury,14
+adam shostack,14
+bill hopkins,14
+slate,14
+mike hogsett,14
+the new yorker,14
+steve loughran,14
+steven j klein,14
+michael kan,14
+douglas w. jones,14
+sean gallagher,14
+helo casper.sri.com,14
+crispin cowan,14
+twitter,14
+gary mcgraw,14
+the telegraph,14
+pcmag,14
+keith a rhodes,14
+krebs,13
+craig burton,13
+jim griffith,13
+dawn cohen,13
+medicalxpress.com,13
+william colburn,13
+buzzfeed,13
+paul wexelblat,13
+threatpost,13
+rex sanders,13
+jan wolitzky,12
+straits times,12
+acm technews,12
+medium,12
+richard forno,12
+eweek,12
+jared gottlieb,12
+techdirt,12
+brian randell,12
+ben moore,12
+scott miller,12
+arthur flatau,12
+conrad heiney,12
+wendy m. grossman,12
+fredric l. rice,11
+joe thompson,11
+jeremy kirk,11
+david tarabar,11
+ross anderson,11
+mike albaugh,11
+richard bos,11
+ben rothke,11
+paul van keep,11
+daniel p.b. smith,11
+new scientist,11
+nick rothwell,11
+the intercept,11
+jonathan de boyne pollard,11
+david damerell,11
+george mannes,11
+kim zetter,11
+vassilis prevelakis,11
+dan geer,11
+rob seaman,10
+keith medcalf,10
+jeff jonas,10
+richard s. russell,10
+john colville,10
+daily dot,10
+ny times,10
+jeremy kirk via gene wirchenko,10
+merlyn kline,10
+john pettitt,10
+robert ellis smith,10
+web informant,10
+mike martin,10
+john markoff,10
+james paul,10
+atlas obscura,10
+wols,10
+google,10
+ken dunham,10
+serdar yegulalp via gene wirchenko,10
+arstechnica,10
+mother jones,10
+clive page,10
+marc rotenberg,10
+tony lima,10
+ulf lindqvist,10
+softpedia,10
+lillie coney,10
+via monty solomon,10
+ben laurie,9
+al stangenberger,9
+sciam,9
+robert l wears,9
+identity withheld by request,9
+naked security,9
+abc,9
+steve klein,9
+nature,9
+cliff kilby,9
+nbc,9
+robert p schaefer,9
+patch,9
+avi rubin,9
+andy greenberg,9
+gary hinson,9
+jeremy kirk via  gene wirchenko,9
+dag-erling sm�rgrav,9
+steve wildstrom,9
+hal murray,9
+chris d.,9
+avweb,9
+greg searle,9
+candice so via gene wirchenko,8
+yahoo!,8
+joseph brennan,8
+mit technology review,8
+the economist,8
+cyrus farivar,8
+steve ragan,8
+dewayne hendricks,8
+cnn.com,8
+axios,8
+adam laurie,8
+john gilmore,8
+latimes,8
+peter gregory,8
+techbeacon,8
+cyberscoop,8
+max,8
+nyt via monty solomon,8
+joseph lorenzo hall,8
+robert r. fenichel,8
+paul edwards,8
+phil smith iii,8
+peter ladkin,8
+steve golson,8
+richard cook,8
+zach whittaker,8
+lucas mearian,8
+steven j. greenwald,8
+bleepingcomputer,8
+ishikawa,8
+andrew klossner,8
+ron garret,8
+ars technica via lauren weinstein,8
+joe loughry,8
+afp,8
+bob wilson,8
+richard i cook,8
+jeremy ardley,8
+matthew sparkes,8
+max power,8
+jose maria mateos,8
+earl boebert,7
+jim garrison,7
+scott nicol,7
+anthony youngman,7
+macrumors,7
+kim zetter via monty solomon,7
+bertrand meyer,7
+leonard finegold,7
+doug hosking,7
+nnsquad,7
+gerrit muller,7
+lifewire,7
+shawn merdinger,7
+robert x. cringely via gene wirchenko,7
+michael kohne,7
+daniel norton,7
+msn,7
+wendell cochran,7
+hpe,7
+youtube,7
+david hollman,7
+joel garry,7
+thomas dzubin,7
+now i know,7
+steven bellovin,7
+cade metz,7
+jon brodkin via monty solomon,7
+john sawyer,7
+qz,7
+peter wayner,7
+leonard erickson,7
+a michael w bacon,7
+tech crunch,7
+defense one,7
+andrew appel,7
+sidney markowitz,7
+richard akerman,7
+via lw,7
+william brodie-tyrrell,7
+charles wood,7
+john beattie,7
+daily mail,7
+andrew duane,7
+dkross,7
+simson garfinkel,7
+richard m. smith,7
+scott peterson,7
+taipei times,7
+cbs,7
+huffpost,7
+william ehrich,7
+us-cert,6
+kent borg,6
+lucian constantin  via gene wirchenko,6
+chris smith,6
+cody boisclair,6
+chris brady,6
+nathaniel popper,6
+serdar yegulalp,6
+rogier wolff,6
+william kucharski,6
+the independent,6
+richard grady,6
+stephen fairfax,6
+attila the hun,6
+darryl smith,6
+digital trends,6
+security boulevard,6
+robert x. cringely  via gene wirchenko,6
+identity withheld,6
+dave brunberg,6
+craig s. bell,6
+craig deforest,6
+science daily,6
+lily hay newman,6
+jim geissman,6
+torrentfreak,6
+djc,6
+ian paul,6
+richard i. cook,6
+boston globe,6
+rick damiani,6
+kurt seifried,6
+rodney van meter,6
+george c. kaplan,6
+lionel garth jones,6
+vox,6
+science,6
+derek k. miller,6
+fjohn reinke,6
+times of israel,6
+harlan rosenthal,6
+jurek kirakowski,6
+m taylor,6
+bill bumgarner,6
+leon kuunders,6
+randall webmail,6
+ft,6
+walter roberson,6
+edward g. nilges,6
+consumerist,6
+hollywood reporter,6
+apple insider,6
+doug mcilroy,6
+donald mackie,6
+alexander klimov,6
+terry carroll,6
+cso,6
+peter kaiser,6
+cbc news,6
+jim haynes,6
+nickee sanders,6
+caroline craig,6
+michael marking,6
+the ny times,6
+*the guardian*,6
+lord wodehouse,6
+richard o'keefe,6
+brian inglis,6
+jonathan s. shapiro,6
+mike scott,6
+david kennedy,6
+mark lutton,5
+donald b. wagner,5
+tim panton,5
+jack christensen,5
+edward w. felten,5
+david e. price,5
+alpha lau,5
+buzzfeednews,5
+john r. levine,5
+jonathan b spira,5
+john sebes,5
+j r stockton,5
+steve holzworth,5
+makeuseof,5
+jack holleran,5
+zeynep tufekci,5
+bostonglobe,5
+peter g. neumann,5
+edward reid,5
+ian chard,5
+san francisco chronicle,5
+joyce scrivner,5
+raj mathur,5
+charles jackson,5
+adrian kingsley-hughes,5
+dan goodin via monty solomon,5
+dennis e. hamilton,5
+howard israel,5
+andrew pam,5
+android police,5
+almac,5
+bruce horrocks,5
+robert lemos via monty solomon,5
+andy walker,5
+carl fink,5
+f john reinke,5
+cso online,5
+bgr,5
+carl byington,5
+sydney morning herald,5
+peter bright,5
+mich kabay,5
+abc news,5
+devon mccormick,5
+peter zilahy ingerman,5
+kees huyser,5
+techreview,5
+craig timberg,5
+usnews,5
+seattle times,5
+lee rudolph,5
+marc auslander,5
+ted lee,5
+bill stewart,5
+the sun,5
+benoit goas,5
+larry werring,5
+len spyker,5
+carol biesecker,5
+john sullivan,5
+technology review,5
+nestor e. arellano via gene wirchenko,5
+gregg keizer via gene wirchenko,5
+bob morrell,5
+john f. mcmullen,5
+tony harminc,5
+turgut kalfaoglu,5
+markus kuhn,5
+foreign policy,5
+e-week,5
+mike rechtman,5
+fast company,5
+hackaday,5
+cory doctorow,5
+david gillett,5
+sundry sources,5
+dag-erling smorgrav,5
+cbs news,5
+erann gat,5
+rex black,5
+bernie cosell,5
+doneel edelson,5
+doj,5
+richard austin,5
+eli the bearded,5
+pete kaiser,5
+toby gottfried,5
+hiawatha bray via monty solomon,5
+thor lancelot simon,5
+time,5
+michael weiner,5
+robert i. eachus,5
+david shaw,5
+dan birchall,5
+consumer reports,5
+deborah peel,5
+galen gruman via  gene wirchenko,5
+bill snyder via  gene wirchenko,5
+paul cornish,5
+richard m stein,5
+jim schindler,5
+andrew goodman-jones,5
+rob wilcox,5
+yves bellefeuille,5
+*nytimes*,5
+charles c. mann,5
+fernando pereira,5
+jean-jacques quisquater,5
+evan schuman,5
+nytimes via monty solomon,4
+apnews,4
+amy castor,4
+coindesk,4
+rik farrow,4
+nicholas c. weaver,4
+chuck petras,4
+frank carey,4
+paul venezia via gene wirchenko,4
+scott dorsey,4
+paul venezia,4
+smh,4
+lothar kimmeringer,4
+valdis kletnieks,4
+sundry,4
+eric sosman,4
+warren pearce,4
+yahoo,4
+mark richards,4
+jeremy kirk  via gene wirchenko,4
+la times,4
+andrew yeomans,4
+richard karpinski,4
+steve schafer,4
+dan goodin via  monty solomon,4
+mark kramer,4
+ivan jager,4
+stephen mason,4
+edwin slonim,4
+infoworld,4
+david landgren,4
+ben rosengart,4
+david wj stringer-calvert,4
+d. joseph creighton,4
+danny lawrence,4
+jonathan spira,4
+mark rockman,4
+matthew hutson,4
+steven j. vaughan-nichols,4
+stephanie condon,4
+sharon gaudin,4
+rich kulawiec,4
+tanner andrews,4
+tom watson,4
+ap news,4
+rich mintz,4
+bernard peek,4
+dan wallach,4
+peter da silva,4
+chris adams,4
+boing boing,4
+susan landau,4
+nyt via  monty solomon,4
+jay ashworth,4
+adam zewe,4
+alex scroxton,4
+alister macintyre,4
+phil colbourn,4
+karl klashinsky,4
+james garrison,4
+keith price,4
+megan geuss,4
+keith rhodes,4
+john ribeiro,4
+harry hochheiser,4
+marc roessler,4
+stanislav meduna,4
+global voices,4
+barbara simons,4
+david jefferson,4
+richard karash,4
+anthony w. youngman,4
+bill gunshannon,4
+mashable,4
+business wire,4
+functionize,4
+craig s. cottingham,4
+peter gutmann,4
+bruce hamilton,4
+jacob palme,4
+roger a. grimes via gene wirchenko,4
+jared,4
+john murrell,4
+dan pritts,4
+the onion,4
+citizen lab,4
+mit news,4
+thomas wicklund,4
+john harper,4
+studyfinds,4
+the conversation,4
+buzzfeed news,4
+aahz,4
+angelica mari,4
+los angeles times,4
+tim duncan,4
+via gabe goldberg,4
+anthony,4
+sam steingold,4
+paul czyzewski,4
+chris matyszczyk,4
+john c. bauer,4
+peter sayer,4
+cyrus farivar via dewayne hendricks,4
+maggie miller,4
+david gerard,4
+infosecurity magazine,4
+bob brown,4
+s,4
+david cantrell,4
+christine wong via gene wirchenko,4
+r a lichtensteiger,4
+betanews,4
+haaretz,4
+lenny foner,4
+galen gruman,4
+paul schreiber,4
+joseph a. dellinger,4
+kevin poulsen via monty solomon,4
+david wagner,4
+david brodbeck,4
+paul karger,4
+joseph menn,4
+patrick thibodeau,4
+huge,4
+alan wexelblat,4
+derek ziglar,4
+cbc.ca,4
+newsweek,4
+tim greene,4
+james bauman,4
+marcus l. rowland,4
+david g. bell,4
+paul eggert,4
+dark reading,4
+gregg keizer,4
+tim bradshaw,4
+george sigut,4
+john stockton,4
+ars technica via monty solomon,4
+doug sojourner,4
+the nyt,4
+ian macky,4
+patrick lincoln,4
+stephen e. bacher,4
+kashmir hill,4
+sheldon,4
+robert mcmillan,4
+john bechtel,4
+acm,4
+electrek,4
+brian krebs via monty solomon,4
+jay libove,4
+robert heuman,4
+mcclatchy,3
+sam biddle,3
+mike spencer,3
+aaron m. kessler,3
+mike ellims,3
+thomas roessler,3
+richard pennington,3
+spectator,3
+abc australia,3
+david strom,3
+washington consumers' checkbook,3
+george neville-neil,3
+david lazarus via monty solomon,3
+don gingrich,3
+security affairs,3
+mit,3
+lars-henrik eriksson,3
+paul burke,3
+gary stock,3
+hanan cohen,3
+gary barnes,3
+nico chart,3
+antonomasia,3
+name withheld,3
+stewart fist,3
+cliff jones,3
+richard irvin cook,3
+s byers,3
+variety,3
+dave isaacs,3
+bbw,3
+jamie mccarthy,3
+kim alexander,3
+mathew,3
+thom kuhn,3
+straitstimes,3
+greg nichols,3
+japan times,3
+whdh,3
+cyrus farivar via monty solomon,3
+molly wood via monty solomon,3
+eurekalert,3
+bob sullivan via monty solomon,3
+mike swaim,3
+colin brayton,3
+howard m israel,3
+david kravets,3
+aaron emigh,3
+futurism,3
+wtop,3
+terje mathisen,3
+john markoff via pgn,3
+olivier dagenais,3
+stanley f. quayle,3
+david brunberg,3
+mike smith,3
+bill tolle,3
+alex walker,3
+steven klein,3
+przemek klosowski,3
+wired via lauren weinstein,3
+harvard,3
+tony luck,3
+new york times,3
+morten welinder,3
+bob schuchman,3
+caroline craig via gene wirchenko,3
+popular mechanics,3
+ian paul via gene wirchenko,3
+david kravets via monty solomon,3
+julian bradfield,3
+mabry tyson,3
+paul e. black,3
+ars via lauren weinstein,3
+phil kos,3
+rodney polkinghorne,3
+mark hull-richter,3
+fred gilham,3
+medium.com,3
+alan ralph,3
+scmp,3
+robert dorsett,3
+chris meadows,3
+charles lamb,3
+d.f. manno,3
+rich wales,3
+wapo,3
+nick bilton via  monty solomon,3
+rick gee,3
+jaikumar vijayan via gene wirchenko,3
+live science,3
+u.waterloo,3
+troy hunt,3
+citizenlab,3
+ted samson via  gene wirchenko,3
+paul d.smith,3
+b. elijah griffin,3
+ibtimes,3
+michael rosa,3
+marketwatch,3
+protocol,3
+nyiimes,3
+jonathan levine,3
+john reinke,3
+techradar,3
+steve kelem,3
+study finds,3
+apple,3
+sheri alpert,3
+*the new york times*,3
+ian jackson,3
+simon davies,3
+steven hauser,3
+nytimes via pgn,3
+john young,3
+chris norloff,3
+david crooke,3
+nicholas weaver,3
+vint cerf,3
+robert s. heuman,3
+tim chmielewski,3
+arthur j. byrnes,3
+marcus de geus,3
+krebsonsecurity,3
+bill toulas,3
+cbc-ca,3
+paul cox,3
+brian jackson via gene wirchenko,3
+susan marie weber,3
+joly macfie,3
+fcc,3
+ray todd stevens,3
+roger a. grimes,3
+david linthicum via  gene wirchenko,3
+the daily beast,3
+more,3
+ferdinand j. reinke,3
+ben lovejoy,3
+anup ghosh,3
+mike tashker,3
+nick bilton,3
+david gewirtz,3
+stuart prescott,3
+steve peterson,3
+joe durusau,3
+ars techica,3
+pekka pihlajasaari,3
+ian cuddy,3
+politico europe,3
+light reading,3
+douglas lucas,3
+kevin roose,3
+nextgov.com,3
+jim youll,3
+the center for auto safety,3
+reddit,3
+via geoff goodfellow,3
+robert woodhead,3
+crypto-gram,3
+j h haynes,3
+dirk fieldhouse,3
+m. hackett,3
+kurt fredriksson,3
+robert de bath,3
+nancy leveson,3
+euronews,3
+lauren weinstein via pgn,3
+ursula martin,3
+woody leonhard via  gene wirchenko,3
+via dave farber,3
+mark jackson,3
+andy piper,3
+lyndon nerenberg,3
+ellen nakashima,3
+michael smith,3
+robert p. schaefer,3
+richard kaszeta,3
+paul fenimore,3
+e. john sebes,3
+tom foremski,3
+dave crooke,3
+matt roberds,3
+jc cantrell,3
+don mackie,3
+simon phipps,3
+rich brown,3
+kim zetter via dewayne hendricks,3
+help net,3
+john leyden via monty solomon,3
+matt bishop,3
+cnnpolitics,3
+charles cazabon,3
+recode,3
+steve ranger,3
+harry erwin,3
+agam shah,3
+nypost,3
+bernd felsche,3
+jaikumar vijayan via  gene wirchenko,3
+nick bilton via monty solomon,3
+woody leonhard  via gene wirchenko,3
+matthew byng-maddick,3
+robert x. cringely via  gene wirchenko,3
+acm tech news,3
+jared newman,3
+paul d. smith,3
+chris drew,3
+techworm,3
+fox,3
+princeton,3
+ars technica via nnsquad,3
+wikipedia,3
+trk,3
+william p.n. smith,3
+kenji rikitake,3
+toebs douglass,3
+jason axley,3
+robert mathews,3
+ron bean,3
+ken,3
+rick smith,3
+hhs,3
+declan mccullagh via monty solomon,3
+jon seymour,3
+robert mcmillan via  monty solomon,3
+michel kabay,3
+katherine noyes,3
+thenextweb,3
+karl auerbach,3
+chronicle of higher education,3
+michael walsh,3
+cisa,3
+clay jackson,3
+john markoff via monty solomon,3
+antone gonsalves via  gene wirchenko,3
+florian liekweg,3
+ihls,3
+*wired*,3
+richard chirgwin,3
+stephen unger,3
+galen gruman via gene wirchenko,3
+dan gillmor,3
+hendrik,3
+tom russ,3
+gavin treadgold,3
+robert franchi,3
+gregory soo,3
+corinne reichert,3
+car and driver,3
+the white house,3
+peter ludemann,3
+popsci,3
+steve lohr,3
+kevin l. poulsen,3
+yvo desmedt,3
+dale hawkins,3
+statnews,3
+via monty,3
+andrew brydon,3
+klint finley,3
+matt jaffe,3
+mark feit,3
+alternet,3
+simson l. garfinkel,3
+harry crowther,3
+nick sizemore,3
+tony ford,3
+sam waltz,3
+richard a. demattia,3
+pc world,3
+broadband breakfast,3
+nyt via pgn,3
+arthur goldstein,3
+larry sheldon,3
+mit techreview,3
+paul nowak,2
+heinz m. kabutz,2
+gillian brent,2
+jim bauman,2
+greg compestine,2
+marshall clow,2
+dave hansen,2
+physics today,2
+spacenews,2
+arnt gulbrandsen,2
+les denham,2
+richard mason,2
+brent m.p. beleskey,2
+epic,2
+the stack,2
+mike o'dell,2
+bill snyder,2
+trevor timm,2
+pgn on nytimes item,2
+lian tung,2
+denver post,2
+security ledger,2
+paul roberts,2
+jack burke,2
+simon carter,2
+marcos h. woehrmann,2
+jay levitt,2
+walter dnes,2
+kyle york,2
+peter h. coffin,2
+timothy knox,2
+david j taylor,2
+joshua m bieber,2
+tiffany peoples,2
+george ross,2
+cta,2
+gunnar peterson,2
+sharon mech,2
+andre oppermann,2
+michael loftis,2
+burt kaliski,2
+marcus h. sachs,2
+fcw,2
+paul bissex,2
+robert j. woodhead,2
+claire cain miller,2
+thehackernews,2
+jonathan thornburg,2
+baltimore sun,2
+nieman lab,2
+cdt via monty solomon,2
+bob harbort,2
+mozilla,2
+papersplease,2
+craig timberg via henry baker,2
+eric de mund,2
+david becker via monty solomon,2
+via gg,2
+wired via  lauren weinstein,2
+flightglobal,2
+technews,2
+james cameron,2
+chris d,2
+ed bott,2
+jordan robertson,2
+dan gillmor via dewayne hendricks,2
+brian x. chen via monty solomon,2
+sergei patchkovski,2
+elana,2
+donald a. norman,2
+andrew king,2
+mark f,2
+louise pryor,2
+via pgn,2
+tom gray,2
+david marston,2
+peter parker,2
+mark seiden,2
+peter scott,2
+bruce stein,2
+graham reed,2
+art,2
+"henry baker, richard stein",2
+eekid,2
+cryptography,2
+weforum,2
+nasa,2
+fda,2
+nyu,2
+cgtn,2
+ron lieber via  monty solomon,2
+malcolm owen,2
+michael borek,2
+stefan lesser,2
+james h. paul,2
+olin sibert,2
+brett glass via dave farber,2
+sfstandard,2
+george roussos,2
+m simon,2
+duane thompson,2
+abc au,2
+wordpress,2
+washtimes,2
+john leyden,2
+bruce kushnick,2
+david linthicum,2
+serdar yegulalp via  gene wirchenko,2
+seth arnold,2
+william nico,2
+adam abrams,2
+devlin barrett,2
+elizabeth harrington,2
+ryan gallagher,2
+david chessler,2
+craig partridge,2
+adrian cherry,2
+vice.com,2
+david kravets via  monty solomon,2
+andrew fleisher,2
+brent j. nordquist,2
+stephen smoliar via pgn,2
+name withheld by request,2
+lindsay f. marshall,2
+yuen tak yu,2
+darkreading,2
+"john levine, john levine",2
+jerry james,2
+hawkins dale,2
+brian clapper,2
+richard glover,2
+leonard x. finegold,2
+gene berkowitz,2
+michael albaugh,2
+nanette asimov,2
+dale e. coy,2
+mike williams,2
+nick laflamme,2
+mike coleman,2
+yahoo! news,2
+woody leonhard via gw,2
+nymag,2
+cnn via monty solomon,2
+charlie shub,2
+patrick j. kobly,2
+medicalxpress,2
+ryan o'connell,2
+bob waixel,2
+bill snyder via gene wirchenko,2
+chris jewell,2
+fox news,2
+robert x. cringely,2
+stuart lamble,2
+ap via pgn,2
+ars via monty solomon,2
+ivan arce,2
+the wrap,2
+clive d.w. feather,2
+the drive,2
+ctv news,2
+john long,2
+brian fung,2
+henry crun,2
+c.y./j.e. cripps,2
+kurt thams,2
+michael black,2
+david b. horvath,2
+nyu tandon school of engineering,2
+halderman et al.,2
+dave aronson,2
+pew,2
+matt blaze,2
+robert h'obbes' zakon,2
+greep,2
+michael l. cook,2
+dave weingart,2
+alex farlie,2
+u.michigan,2
+chuck charlton,2
+metro,2
+inquirer,2
+phil nasadowski,2
+patrick thibodeau via gene wirchenko,2
+jhhaynes,2
+stellios keskinidis,2
+ars technica via bob gezelter,2
+the washpost,2
+jesus climent,2
+onthewire,2
+bank info sec,2
+theodor norup,2
+hiawatha bray via  monty solomon,2
+m. barnabas luntzel,2
+charles shapiro,2
+a j stiles,2
+william paul fiefer,2
+tony jones,2
+quantum magazine,2
+upmc,2
+charles p. lamb,2
+robert lemos,2
+a.e. siegman,2
+mcgrude,2
+robert israel,2
+mike radow,2
+philippe jumelle,2
+jon brodkin,2
+charles williams,2
+ben low,2
+john johnson,2
+jpost,2
+nytimes via jan wolitzky,2
+matt levine,2
+david schneider,2
+check point,2
+vanity fair,2
+richard forno via dave farber,2
+zak doffman,2
+sami saydjari,2
+ed felten via monty solomon,2
+ed pilkington,2
+eric geller via henry baker,2
+maria korolov,2
+richard gadsden,2
+jeremy,2
+rob warnock,2
+mike,2
+john stewart,2
+via diego latella,2
+andy greenberg via monty solomon,2
+salon,2
+pete klammer,2
+sanfranchron,2
+ionut ilascu,2
+wash post,2
+russ niles,2
+adam liptak,2
+don gilman,2
+j coe,2
+blocks decoded,2
+f. barry mulligan,2
+avi selk,2
+fortune via gabe goldberg,2
+dennis fisher,2
+network world,2
+mark j bennison,2
+george jansen,2
+peter duncanson,2
+alexandre peshansky,2
+r m crorie,2
+jonathan mayer,2
+paul festa via monty solomon,2
+john dvorak via monty solomon,2
+huffpo,2
+ycombinator,2
+espn,2
+national geographic,2
+edward rice,2
+lifehacker,2
+bob rahe,2
+stanford,2
+robert charette,2
+appleinsider via geoff goodfellow,2
+armando stettner,2
+spencer cheng,2
+mickey coggins,2
+david j. aronson,2
+tkalama,2
+anon,2
+steve singer,2
+james rundle,2
+faa,2
+inverse,2
+david linthicum via gene wirchenko,2
+ny ag,2
+r.g. newbury,2
+deadline,2
+edward snowden,2
+david collier-brown,2
+dkross via pgn,2
+rodney parkin,2
+eric murray,2
+may be forged,2
+dan goodin via gene wirchenko,2
+simon phipps via  gene wirchenko,2
+dan goodin via werner u,2
+dni,2
+rodney van meter via dave farber,2
+antone gonsalves  via gene wirchenko,2
+joe shead,2
+moscow times,2
+aaron m. ucko,2
+la county,2
+nikkei asian review,2
+somini sengupta via monty solomon,2
+charley kline,2
+dailybeast,2
+joseph cox,2
+glenn story,2
+sipri via diego latella,2
+michael ortega-binderberger,2
+james r. cottrell jr.,2
+kearton rees,2
+rebecca t mercuri,2
+paul krugman,2
+the japan times,2
+arlington va patch,2
+iflscience,2
+douglas w jones,2
+the markup,2
+pete carah,2
+gideon t. rasmussen,2
+peter fokker,2
+john dallman,2
+dan goodin via c y cripps,2
+john curran,2
+jan vorbr�ggen,2
+nbc bay area,2
+keith f. lynch,2
+richard schroeppel,2
+stephen bryant,2
+amrith kumar,2
+pertti huuskonen,2
+prorail,2
+roger a. grimes  via gene wirchenko,2
+stephanie perrin,2
+andrew main,2
+malcolm pack,2
+bernard lyons,2
+joshua levy,2
+amar toor,2
+chris beck,2
+brett mccarron,2
+dhs,2
+conor friedersdorf via henry baker,2
+ap item,2
+rand,2
+tom simonite,2
+suzanne johnson,2
+david j. farber,2
+randall,2
+brien webb,2
+medium via lauren weinstein,2
+channel futures,2
+gothamist,2
+thomas insel,2
+security week,2
+dan gillmor via monty solomon,2
+jonathan epstein,2
+ferdinand john reinke,2
+john sinteur,2
+stewart c. russell,2
+bloomberg law,2
+andy greenberg  via dewayne hendricks,2
+ars via nnsquad,2
+ted blank,2
+mike beims,2
+pere camps,2
+gene n haldeman,2
+volkskrant,2
+paul venezia via  gene wirchenko,2
+mark lomas,2
+voting news weekly,2
+lorenzo franceschi-bicchierai,2
+john leyden via  monty solomon,2
+christian sandvig,2
+joaquim baptista,2
+michael sinz,2
+camillo sars,2
+brian krebs via  monty solomon,2
+gregg keizer via  gene wirchenko,2
+terence eden,2
+goldy,2
+robert weaver,2
+chris stokel-walker,2
+facebook,2
+ben wofford,2
+ben blout,2
+martyn williams,2
+bob bramwell,2
+lauren's blog,2
+martin minow,2
+edd gent,2
+washington times,2
+tom perrine,2
+henk langeveld,2
+phys,2
+dnyuz,2
+john gilliver,2
+matthew green,2
+autoblog,2
+pallab ghosh,2
+brian jackson,2
+pete babb via  gene wirchenko,2
+t byfield,2
+reuters via lauren weinstein,2
+ian halliday,2
+stanislav shalunov,2
+herb lin,2
+lillian israel,2
+sean w. smith,2
+the new stack,2
+daily star,2
+caleb hess,2
+stephen cohoon,2
+atom 'smasher',2
+j.e. cripps,2
+sander tekelenburg,2
+cathrin schaer,2
+anne applebaum,2
+dag-erling sm?rgrav,2
+cnn business,2
+tech radar,2
+james hughes,2
+david smith,2
+toebs doouglass,2
+tom kaneshige via gene wirchenko,2
+jeff williams,2
+ieee,2
+russ perry jr,2
+andrew cunningham,2
+peter b ladkin,2
+erik mooney,2
+steve hutto,2
+john o'connor,2
+winn schwartau,2
+nyimes,2
+george ledin,2
+datacenterknowledge,2
+it world,2
+grant gross,2
+pfir,2
+bruce schneier via monty solomon,2
+shoshannah forbes,2
+naked capitalism,2
+ken shotting,2
+brian hayes,2
+foxnews,2
+itprotoday,2
+frank pasquale,2
+peter wayner via gene wirchenko,2
+mary beth quirk,2
+geo swan,2
+adam wildavsky,2
+nikkei asia,2
+openssl,2
+twitter via geoff goodfellow,2
+neal e. boudette,2
+gov info sec,2
+ms,2
+gg,2
+omri schwarz,2
+the telegraph via chris drewe,2
+jon a. solworth,2
+vindu goel,2
+brad hill,2
+mac daniel via monty solomon,2
+andrew odlyzko,2
+nik clayton,2
+roger clarke,2
+carl e. landwehr,2
+tony yip,2
+gideon sheps,2
+rebecca mercuri via pgn,2
+*the register*,2
+bill mcgonigle,2
+ian paul via jim reisert,2
+denise caruso,2
+olivier mj crepin-leblond,2
+cecilia kang,2
+houston chronicle,2
+sentinel one,2
+boyd adamson,2
+kent hartfield,2
+atom smasher,2
+simon phipps via gene wirchenko,2
+scientific computing,2
+ftc,2
+upguard,2
+slashdot via lauren weinstein,2
+jenn abelson via monty solomon,2
+gregory marton,2
+sean peisert,2
+anthony derobertis,2
+scott rainey,2
+martin cohen,2
+andrew raybould,2
+randall stross via  monty solomon,2
+mark fineman,2
+mark siegel,2
+stever robbins,2
+govtech,2
+otto stolz,2
+koos van den hout,2
+skip la fetra,2
+j debert,2
+christian science monitor,2
+lars poulsen,2
+stephen kent,2
+financial times,2
+lucian constantin via  gene wirchenko,2
+smiller,2
+cris pedregal martin,2
+elizabeth weise,2
+chris maltby,2
+gervase markham,2
+nigel metheringham,2
+jack goldberg,2
+asha mclean,2
+andrew douglass,2
+dan yurman,2
+chris duckett,2
+stephen a. boyd,2
+rick weiss,2
+klaus brunnstein,2
+zeljka zorz,2
+ravie lakshmanan,2
+san steingold,2
+donn parker,2
+thomas russ,2
+just security,2
+michael kent,2
+risks,2
+brett glass,2
+ben kamen,2
+daniel eran dilger via  monty solomon,2
+ib times,2
+don poitras,2
+kevin dalley,2
+david meyer via dewayne hendricks,2
+dan goodin via dewayne hendricks,2
+the nation,2
+ssrn,2
+devops.com,2
+fortune via  gabe goldberg,2
+rod van meter,2
+matt richtel,2
+geekwire,2
+jim finkle,2
+sky,2
+ross stapleton-gray,2
+eas,2
+fastcompany,2
+rntfnd,2
+dave gillett,2
+ralf fritzsch,2
+meine van der meulen,2
+tony toews,2
+bill lamb,2
+zygo blaxell,2
+nikita borisov,2
+techcrunch.com,2
+insights,2
+jerrold leichter,2
+timothy prodin,2
+jerry saltzer,2
+jericho,2
+r. mercuri,2
+data breach today,2
+asha barbaschow,2
+techspot,2
+avishai wool,2
+david dixon,2
+robin stevens,2
+john o long,2
+arthur kimes,2
+denis bloodnok,2
+roderick a rees,2
+i-hls,2
+paul black,2
+jay grizzard,2
+david e. sanger,2
+r.x.cringely via  gene wirchenko,2
+elon musk,2
+michael d. sullivan,2
+the washpo,2
+matt fichtenbaum,2
+u.warwick,2
+paul hirose,2
+carl g. alphonce,2
+chris warwick,2
+david harmon,2
+mark batten-carew,2
+*the boston globe*,2
+denis haskin,2
+larry hardesty,2
+arnold weissberg,2
+peter h�kanson,2
+selmin nurcan,2
+lawrence kestenbaum,2
+fema,2
+mike perry,2
+bob blakley,2
+kurt albershardt,2
+peter deighan,2
+tim storer,2
+michel e. kabay,2
+reviewed by richard austin,2
+paul alan levy,2
+yong guan,2
+marv schaefer,2
+krebs via  lauren weinstein,2
+ralf bendrath,2
+alan j rosenthal,2
+geoffrey keating,2
+richard j. barbalace,2
+nestor arellano,2
+star tribune,2
+mark,2
+john ohno,2
+jonathan leffler,2
+lloyd wood,2
+chicago tribune,2
+theguardian.com,2
+consumerist via gabe goldberg,2
+iain thomson,2
+editordavid,2
+via slashdot,2
+bob van cleef,2
+sanfranchronicle,2
+simon waters,2
+appleinsider,2
+william pociengel,2
+emil protalinski via monty solomon,2
+cipher editor,2
+chris paoli via  gene wirchenko,2
+infosecurity,2
+bob paddock,2
+quincy larson,2
+rt,2
+cisco,2
+isaac morland,2
+julia weiler,2
+john linwood griffin,2
+nestor e. arellano  via gene wirchenko,2
+nicole perlroth via monty solomon,2
+bruce r koball,2
+francisco pires,2
+bill vlasic and neal e. boudette,1
+nicole perlroth and davide e. sanger,1
+geekculture,1
+island health via kelly bert manning,1
+engadget  via lw,1
+data breaches  via danny burstein,1
+"dimitri maziuk, gabe goldberg, brian inglis,  jeff jonas",1
+"dave horsfall, kelly bert manning",1
+techonomy,1
+peerj,1
+aaron m. kessler via  monty solomon,1
+candice so  via gene wirchenko,1
+bob fitrakis via monty solomon,1
+lizette alvarez via pgn,1
+ashish gehani,1
+jason ukman via pgn,1
+grant gross via gene wirchenko,1
+pgn rebecca mercuri lauren weinstein,1
+lauren gelman,1
+ben hines,1
+john f. whitehead,1
+diamond,1
+j. lasser,1
+eliah grabbet,1
+michael j. de la merced via  matthew kruk,1
+charles stross via paul saffo,1
+dan goodin via acm technews,1
+paul ducklin  via gene wirchenko,1
+vindu goel via matthew kruk,1
+pamela jones via monica goyal  via gene wirchenko,1
+sharon kramer via  dave farber,1
+chrisf j brady,1
+paul pomes,1
+matthew wilson,1
+"dick mills, terrence enger",1
+walt strickler,1
+internet society,1
+typepad,1
+adam nossiter,1
+aida chavez,1
+zachary crockett,1
+jumbo privacy,1
+"cbs news,  dennis allison",1
+bill matthews,1
+calvin coolidge,1
+erwan david,1
+annie johnson via paul saffo,1
+martin redington,1
+warren smith,1
+emily bobrow,1
+erin keller,1
+cnn with comments from gabe goldberg and richard m stein,1
+u.s. doj,1
+washpost via jeremy epstein,1
+smart cities dive,1
+cpsc,1
+the globe,1
+mother jones via gabe goldberg,1
+smithsonian mag,1
+alex epstein,1
+kyle wiggers,1
+"david parnas, steve bacher",1
+andy greenberg via gabe goldberg,1
+andrew jacobs via  lauren weinstein,1
+tom simonite via  lauren weinstein,1
+"pgn, kevin",1
+jim laurenson,1
+t.j. griesenbrock,1
+"stanislav meduna, chris barnabo",1
+"jan ingvoldstad, sean a dunn, russ perry jr, martin ward",1
+consumer health,1
+cell.com,1
+richi jennings,1
+tom lambert,1
+scott a. hissam,1
+michael bednarek,1
+"isaac morland, nelson minar",1
+"john carlyle-clarke,  nick fitzgerald",1
+"erling kristiansen, paul van keep",1
+kentik,1
+craig timberg and paul sonne,1
+fredric rice,1
+sarah hollins,1
+matt apuzzo via  dewayne hendricks,1
+david kravets via  dewayne hendricks,1
+john cox via gene wirchenko,1
+rl mitchell via gw,1
+chris paoli via gw,1
+roger a. grimes  via gw,1
+gw,1
+"david lesher, carlos g mendioroz",1
+david a. lyons,1
+john naughton,1
+stephen balkam,1
+aliya sternstein,1
+mike stayton,1
+joel shurkin,1
+alyssa goard,1
+paul mcintire,1
+howard solomon,1
+arthur,1
+stephen luntz,1
+"john levine, r. g. newbury",1
+mary shaw,1
+colin neagle,1
+indolering,1
+steven murdoch via  prashanth mundkur,1
+akamai,1
+cringely,1
+daniel berninger,1
+porup,1
+via bbc.com,1
+franklin foer,1
+"kai stinchcombe, john levine",1
+medium via john ohno,1
+paltrow/carr via  jim reisert,1
+robert lister,1
+jon russell via gene wirchenko,1
+mark radon,1
+rick scott via david farber,1
+glenn greenwald  via gene wirchenko,1
+chris paoli via gene wirchenko,1
+richard perez-pedia  via monty solomon,1
+perlroth/sanger via  monty solomon,1
+dh kass via  gene wirchenko,1
+bill vlasic via monty solomon,1
+aclu report  via ed pilkington via monty solomon,1
+kate dailey via monty solomon,1
+fowler/schectman,1
+kurzweilai via michael cheponis via  dewayne hendricks,1
+joe weisenthal via geoff goodfellow,1
+paul nash,1
+stacey higginbotham via acm technews,1
+jordan graham via monty solomon,1
+flyer talk,1
+"john levine, gabe goldberg",1
+braband/harner via peter bernard ladkin,1
+"jeremy epstein,  gabe goldberg",1
+leanna garfield,1
+steven petrow via  geoff goodfellow,1
+dhs via al mac,1
+tad taylor,1
+tim young via donald b. wagner,1
+g.j. dekker,1
+brian ally,1
+bear giles,1
+alberto,1
+peter jeremy,1
+"barry gold, john levine, gabe goldberg, pete resiak",1
+"jonathan levine, steve bacher",1
+"steve bacher, amos shapir",1
+gareth randell,1
+a.e. brain,1
+mike bristow,1
+ian jordan,1
+"magne mandt, merlyn kline",1
+will fletcher,1
+lars kongshem,1
+andrew whitby,1
+from informit,1
+rodney hoffman,1
+kenneth r. van wyk,1
+the new yorker radio hour,1
+probably,1
+autoblog.com and ieee.org,1
+megan moteni,1
+veridium,1
+wortham/bilton via  monty solomon,1
+perlroth/wortham via monty solomon,1
+mike masnick via  monty solomon,1
+j-f blanchette via lauren weinstein,1
+slashdot  via lauren weinstein,1
+darren nix  via lauren weinstein,1
+chris cardinal via  lauren weinstein,1
+drew guarini via  jim reisert,1
+eff via lauren weinstein,1
+john standen,1
+jay caspian kang,1
+cardiff,1
+kmgh-tv,1
+trenton w. ford,1
+daniel p dern,1
+"jeremy epstein,  allan noordvyk",1
+alexandre pechtchanski,1
+marco frissen,1
+thom wysong,1
+"david hedley, lindsay marshall",1
+tramm hudson,1
+"john sullivan, peter da silva",1
+toby riddell,1
+evgeny morozov via  prashanth mundkur,1
+lisa o'carroll via gene wirchenko,1
+christopher zara via henry baker,1
+abc via gene wirchenko,1
+motherboard via pgn,1
+"peter houppermans,  amos shapir",1
+eli dourado via matthew kruk,1
+james niccolai via  paul saffo,1
+nikolaj nielsen  via peter houppermans,1
+dave mulkey,1
+fj reinke,1
+"steve schafer, r.g. newbury, dik winter",1
+"rob slade, a.lizard",1
+"jos buurman, david cantrell,  tony finch, ben hutchings, steve schafer, ray blaak, christopher c. stacy",1
+morten krog,1
+"rex black, kent borg",1
+"s miller, chris d.",1
+david bliss,1
+andres zellweger,1
+andrew hilborne,1
+martin schulze,1
+doug winter,1
+"sam garst, joel garry",1
+lance j. hoffman,1
+electrek and the sun,1
+rutgers today,1
+information is beautiful,1
+schools week,1
+peter wild,1
+etherington/perez,1
+laura corriss,1
+keremy kirk  via gene wirchenko,1
+dan goodin  via monty solomon,1
+lauren weber  monty solomon,1
+john foreman via monty solomon,1
+murat okandan,1
+dave lesher,1
+"dik t. winter, eric ferguson",1
+blanche kapustin,1
+eric lichtblau from   richard forno via dave farber,1
+cassell bryan-low,1
+eric dash  via monty solomon,1
+bruce meyerson via monty solomon,1
+business insights,1
+james somers,1
+the national,1
+brian krebs via paul fenimore,1
+bleeping computer via gabe goldberg,1
+the verge via dan jacobson,1
+qz via mark thorson,1
+chromium,1
+"michael bacon, anthony youngman",1
+john lettice via r.g. newbury,1
+samuel liddicott,1
+kyler laird,1
+aaron dickey,1
+lyle h. gray,1
+michael f. maggard,1
+brian mcwilliams,1
+norm decarteret,1
+richard johnson,1
+mike james,1
+chris j dixon,1
+mark ward,1
+americablog,1
+adam rogers,1
+corhon law,1
+nbcnews,1
+sean michael kerner,1
+scott schwebke,1
+abq,1
+infoweek,1
+beta boston,1
+john arquilla via henry baker,1
+jonah m. kessel,1
+sputnik news,1
+gadget,1
+thebostonglobe,1
+cisomag,1
+bank infosecurity,1
+robyn preston via gene wirchenko,1
+ted samson  via gene wirchenko,1
+joanna kao via monty solomon,1
+richard van noorden  via dewayne hendricks via dave farber,1
+lucian contstantin via gene wirchenko,1
+goyal/mackenzie via  gene wirchenko,1
+r.g. johnston via pgn,1
+jeff jedras  via gene wirchenko,1
+jaikumar vijayan via monty solomon,1
+the copenhagen post,1
+david horsfall,1
+times colonist,1
+ars technica via tom russ,1
+motheroard,1
+techcrunch and gizmodo,1
+the guardian via pgn,1
+fahimda y. rashid,1
+the guardian via gabe goldberg,1
+"kelly bert manning,  charles jackson",1
+mit technology news,1
+lucas laursen,1
+"henry baker, pgn",1
+laura s. tinnel,1
+jeffrey mogul,1
+david r. throop,1
+stan mazor,1
+lawrence brenninkmeyer,1
+george coulouris,1
+burt helm via monty solomon,1
+steve vandevender,1
+neal e. boudett,1
+medicalxpress.org,1
+eliott,1
+chris volpe,1
+informationweek via  gabe goldberg,1
+patrick tucker via  henry baker,1
+loz blain via  henry baker,1
+"fred cohen, pgn",1
+patrik reali,1
+david kipping,1
+andrew lynch,1
+michael weishaar,1
+roger gonnet,1
+elizabeth anne brown,1
+sam altman,1
+s. scott graham,1
+cyrus r eyster,1
+perlroth/benner,1
+"andy greenberg,  steven sprague, james hughes",1
+kirsty styles,1
+nick feamster,1
+peter dizikes,1
+ernesto falcon,1
+leah crane,1
+colyer,1
+facial personality analytics,1
+vinton cerf: computing edge,1
+business insider singapore,1
+bob fenichel,1
+"john r. levine, richard m stein, john r. levine",1
+cwmike via timothy via wendell cochran,1
+"dag-erling sm�rgrav,  cameron simpson, adrian edmonds",1
+"david phillips, arthur flatau",1
+sam posten,1
+pew via monty solomon,1
+renay san miguel via pgn,1
+sam hananel via pgn,1
+david murphy  via monty solomon,1
+oliver leistert,1
+"dimitri maziuk, nick brown",1
+david-sarah hopwood,1
+lauren weinstein pgn-ed,1
+sean hecht,1
+"steve bacher, morten welinder",1
+via matthew kruk,1
+ryan naraine,1
+risky biz news,1
+zeurkous,1
+"henry baker, steve bacher",1
+mtr,1
+coast guard,1
+federal register,1
+nsfw -- the intercept,1
+geek,1
+federal trade commission,1
+faz,1
+brian bethel,1
+secret service national  threat assessment center,1
+marc thorson,1
+wbsm,1
+daring fireball,1
+alex weinert,1
+katie hafner via pgn,1
+sarah gray via henry baker,1
+jon brodkin via lauren weinstein,1
+glenn greenwald via henry baker,1
+david mitchell via lauren weinstein,1
+ap via  david farber,1
+"nick brown, michael bacon",1
+"dave horsfall, pgn",1
+jenna wortham and nicole perlroth,1
+apple press info via monty solomon,1
+karl bode  via monty solomon,1
+"dimitri maziuk,  henry baker",1
+"rob diamond, robert p schaefer, pgn",1
+patrick j kobly,1
+"chris adams, ron garret on david bliss",1
+philippe pouliquen,1
+"cbfalconer,  sten carlsen, erling kristiansen",1
+washington state dept of agriculture,1
+kimberly wehle,1
+joseph gwinn,1
+motherboard via werner,1
+jean nowell pgn-ed,1
+allee manning,1
+gizmag via paul wallich,1
+quartz via slashdot,1
+cloudplatform,1
+bloom via  gabe goldberg,1
+purkasz,1
+b crook,1
+doug elrod,1
+patrick gustafson,1
+"kevin fu, alexandre peshansky",1
+ruth berry via max power,1
+joe wilcox via monty solomon,1
+andrew colley via keith rhodes,1
+andrew orlowski via tim finin,1
+ric cohen,1
+bob copeland,1
+edwin culver,1
+"brett glass, margie wylie",1
+"daz, robert alberti",1
+graham bennett,1
+andrew brandt,1
+"rob mccool, scott miller,  allen hainer",1
+curt sampson on james fallows,1
+tim huckvale,1
+lauren weinstein collected by pgn,1
+*the washington post*,1
+fibrecoookery,1
+"anthony thorn, dick mills",1
+jay syrmopoulos  via mark e. smith,1
+*scientific american*,1
+bbc via rob slade,1
+john fontana,1
+computer world via gregory aharonian,1
+michel bouckaert,1
+timothy j. miller,1
+robert j. berger via   dave farber,1
+sean smith,1
+"bill hopkins, bill stewart",1
+jean-louis gassée,1
+zurich insurance via  tom gray,1
+jacob weisberg,1
+bob mehlman,1
+ferris jabr,1
+eeoc warning,1
+"a michael w bacon, bob wilson",1
+c r ritson,1
+andrew gray,1
+robert graves,1
+ken hagan,1
+ketrick mcmillin,1
+clean technica,1
+lee badger,1
+kotaku,1
+kate brumback,1
+geoffrey a. fowler,1
+capecodtimes,1
+tumunich,1
+scott chipolina,1
+boy genius via dave farber,1
+kevin poulsen via jeremy epstein,1
+andrew jones,1
+douglas quenqua via monty solomon,1
+anne e. kornblut  via monty solomon,1
+james j. o'donnell,1
+"michael albaugh, jurek kirakowski,  ray blaak, martin torzewski, richard o'keefe",1
+greg barbosa,1
+lauren pack,1
+paul krill,1
+tom greene,1
+"at, lw",1
+"dimitri maziuk, arthur flatau, alexander klimov",1
+"rob slade, werner u",1
+peter howe via monty solomon,1
+nautilus,1
+intel responds,1
+sfgate.com,1
+tjci,1
+current affairs,1
+mike alexander,1
+"peter bernard ladkin, pgn",1
+"douglas lucas, chris drewe",1
+david banisar,1
+scott gregory,1
+jeff stieglitz,1
+stephen d. holland,1
+charles bryant,1
+nakashima via pgn,1
+jean dr�ze via prashanth mundkur,1
+dark reading via al mac,1
+uk ofcom report,1
+thomas könig,1
+dave philipps,1
+politico.com,1
+ntimes via matthew kruk,1
+"lars-henrik eriksson,  goldy, fritz grammer",1
+"john levine,  stanley chow",1
+"john levine, lauren weinstein",1
+jon callas,1
+cnas,1
+karl auerbach via  geoff goodfellow,1
+natasha hellberg via werner u,1
+"john levine, keith f. lynch, john levine",1
+marc ambinder via pgn,1
+adam tanner via monty solomon,1
+"klaus johannes rusch, pgn",1
+"scott peterson, pgn, scott peterson",1
+james h. haynes,1
+r h draney via mark brader,1
+"sean smith, przemek klosowski",1
+eytan adar,1
+joe pistritto via dave farber,1
+atsb,1
+tsnr,1
+nci australian,1
+loughborough,1
+heise,1
+bleeping computer  via danny burstein,1
+travisdowns via thomas koenig,1
+robert kuttner via monty solomon,1
+giorgos epitidios,1
+ui.se,1
+jay elinsky,1
+fusion via jim reisert,1
+masslive via monty solomon,1
+motherboard via  gene spafford,1
+national journal via nnsquad,1
+readwrite via  nnsquad,1
+pew in nyt via monty solomon,1
+hayley tsukayama,1
+gawker via robert schaefer,1
+james spann via dewayne hendricks,1
+fastcodesign,1
+gismodo via robert schaefer,1
+al baker via  jim reisert,1
+"john levine, amos shapir",1
+gwu,1
+iamthecheese,1
+itwbennett,1
+pat reavy,1
+ben wellington,1
+matt novak,1
+evan koblentz,1
+techdirt via mark thorson,1
+"chris drewe, dan jacobson",1
+mary bottari,1
+danny o'brien via  dewayne hendricks,1
+via steven j. greenwald,1
+david segal via matthew kruk,1
+david kocieniewski via matthew kruk,1
+eric van buskirk,1
+yahoo! news via stephen w smoliar,1
+forbes e-news,1
+manatt,1
+the caterer,1
+kwch,1
+stl today via lauren weinstein,1
+insider,1
+"chuck karish,  greg searle, douglas siebert",1
+ap item  via monty solomon,1
+patrick via richard berlin via dave farber,1
+cdn staff via gene wirchenko,1
+scienceinsider  via dave farber,1
+james madison via richard s. russell,1
+bruce kushnick via dewayne hendricks via df,1
+rxc via  gene wirchenko,1
+brian sumers via paul saffo,1
+tnr via lw,1
+"michael kohne, amos shapir",1
+edward talbot,1
+david lazarus via paul saffo,1
+robert bruce thompson  via dave farber,1
+ninghui li,1
+george monbiot,1
+gary bliesener,1
+"dick mills, jerry leichter,   amos shapir, rob seaman",1
+j. vilkaitis,1
+the stack via nnsquad,1
+eben moglen via brian randell,1
+michael mimoso  via jim reisert,1
+martyn williams via gene wirchenko,1
+serdar yegulalp  via gene wirchenko,1
+stephanie mlot,1
+jacob hoffman-andrews,1
+"suresh ramasubramanian  via dave farber, scott miller via bob gezelter",1
+"rashid motala, john levine",1
+"joseph barrett, erling kristiansen",1
+the australian via danny burstein,1
+tekla s. perry,1
+taruss,1
+lisa weintraub schifferle,1
+"john levine, eli the bearded",1
+"djc, henry baker",1
+marc schneider via deborah newman,1
+sean nealon  via geoff goodfellow,1
+david josephson,1
+robert klemme,1
+steve eddins,1
+preston de guise,1
+flying magazine,1
+matthew gault via henry baker,1
+dc patch,1
+people via steve greenwald,1
+t.m. brown via pgn,1
+dr. bob fenichel,1
+richard marlon stein,1
+"san steingold, gabe goldberg, gabe goldberg",1
+"lars-henrik eriksson, steve lamont",1
+richard dawkins,1
+jonathan mcdowell,1
+via steve bacher,1
+waqas,1
+nbc chicago,1
+ezra dyer,1
+arstech,1
+securityweek,1
+david hambling,1
+apurva venkat,1
+charlotte hu,1
+rachel gordon,1
+karmela padavic-callaghan,1
+barrons,1
+jeremy gray -- digital photography review,1
+mack degeurin -- gizmodo,1
+"gavin scott, goldy",1
+"charles cazabon, jose maria mateos",1
+"john levine, jay lobove alzina, bernie cosell",1
+elaine sciolino via pgn,1
+tony woolf,1
+charles hanes,1
+jicheng fu,1
+verge,1
+casey johnston via monty solomon,1
+roy amadeo  via monty solomon,1
+john ribeiro via gene wirchenko,1
+daily dot via chris beck,1
+michael  daniel  ed felten  and tony scott,1
+corwyn,1
+bob buxton,1
+"jerry via declan mccullagh, ulf lindqvist",1
+lucas b. kruijswijk,1
+"roland roberts, nathan sidwell",1
+rootsweb helpdesk,1
+debbie gage and john mccormick via dan scherer,1
+george w. harris,1
+a.m. passy,1
+steve tate,1
+"philippe pouliquen, bill hopkins,  john curran",1
+"phil colbourn, steven m. bellovin,  ted lemon, fred cohen",1
+david l. matthews,1
+andr�s silva,1
+william safire via monty solomon,1
+"ulf lindqvist, erling kristiansen",1
+matthew tarpy,1
+griffith,1
+s harris,1
+amos shafir,1
+"espen andersen, bob dubery, markus kuhn, stan sieler",1
+peter shriner,1
+"jim horning, tim howe, martin ward",1
+alan j. wylie,1
+bruce dawson,1
+tim moran via howard m israel,1
+sakshale,1
+elias levy via pgn,1
+william l anderson,1
+rob stein,1
+softpeedia,1
+caroline mcguire via chris drewe,1
+hackerone,1
+tadayoshi kohno,1
+"terry harris, keith f. lynch,  chris kantarjiev",1
+"keith f. lynch, craig a. finseth",1
+"john harper, russell c page",1
+"martin ward, mike ellims",1
+florian egloff via prashanth mundkur,1
+labmanager,1
+the nytimes via nnsquad,1
+andres silva,1
+john graley,1
+jeanne sheldon,1
+richard murnane,1
+gisle hannemyr,1
+amos  shapir,1
+wm randolph franklin,1
+jay kahn,1
+the week,1
+l. mark stone,1
+sam dillon / stephen labaton,1
+mike musgrove,1
+steve fenwick,1
+chris johnson,1
+what's new via dave farber,1
+allan noordvyk,1
+robert gordon,1
+uwe ohse,1
+gerard a. joseph,1
+"bob dubery, chris kantarjiev",1
+sr/institute,1
+robert crump,1
+daniel boyd,1
+"pascal bourguignon,  max teneyck woodbury",1
+robert gezelter,1
+schneier via gabe goldberg,1
+"geoff kuenning, henry baker",1
+joe gwinn,1
+jeremy kirk  via gw,1
+loek essers via gw,1
+zach miners via gw,1
+gregg keizer via gw,1
+claudiu popa  via gw,1
+jeremy kirk via gw,1
+robert x. cringely  via gw,1
+serdar yegulalp  via gw,1
+robert faturechi via jim reisert,1
+ars technica  via nnsquad,1
+  marc rotenberg,1
+nytimes editorial,1
+daphne keller and bruce d. brown,1
+fiercewireless via geoff goodfellow,1
+david sanger,1
+*the guardian* via  danny burstein,1
+ann christy via charles b. weinstock,1
+csoonline via monty solomon,1
+electronic frontier foundation via david farber,1
+"martin ward, john levine, rick steeves, matt bishop",1
+"nytimes via pgn, bruce debruhl",1
+techworker,1
+resetera,1
+paperplease,1
+pgn-collected from lauren weinstein,1
+peter amey,1
+kevin poulsen via jones-gill,1
+david lazarus via  scott miller,1
+robert lemos via ikanal,1
+anthony w youngman,1
+master blaster,1
+forensicmag,1
+gatewaypundit,1
+joshua eaton,1
+cacm,1
+rocket news,1
+help net security,1
+sarah jeong,1
+adam satariano,1
+health in au,1
+reason.com,1
+peets,1
+brian h. seborg,1
+cdt info,1
+james van bokkelen,1
+european space agency via geoff goodfellow,1
+jessi hempel,1
+jpost via amos shapir,1
+the guardian via martyn thomas,1
+the telegraph via  ian halliday,1
+scmagazine via  monty solomon,1
+andrew myers,1
+austin powell,1
+perlroth/sanger,1
+rebecca wexler  via henry baker,1
+robert wilson,1
+robert levine,1
+jc chu,1
+liz kowalczyk via pgn,1
+vito pilieci via  matthew kruk,1
+eugene miya via pgn,1
+crawley/kim via pgn,1
+savage/risen,1
+dan tynan via gene wirchenko,1
+"david hollman, lauren weinstein",1
+"alistair mcdonald, john stanley",1
+"john fouhy, joseph brennan",1
+wayne mesard,1
+david peverley,1
+tomshardware,1
+slashdot via chuck weinstock,1
+w. j. hennigan,1
+kim zetter via  lauren weinstein,1
+robert meineke,1
+joan goodchild  via monty solomon,1
+anderson/applebome,1
+gordon peterson,1
+tom spring via monty solomon,1
+android security test,1
+galen  gruman,1
+marshall d abrams,1
+jason t. miller,1
+james renken,1
+paul kedrosky via dave farber,1
+chris malme,1
+robert scheidt,1
+amy schatz via  richard m. smith,1
+stephen d. poe via dave farber,1
+john meissen,1
+"jeremy epstein, fred cohen,  jeremy epstein",1
+"david alexander, dave martin,  paul karagianis",1
+ars via bob gezelter,1
+jonathan mayer and edward w. felten  via henry baker,1
+abc via  monty solomon,1
+mike masnick via robert schaefer,1
+chron.com via monty solomon,1
+"henry baker, bob gezelter",1
+from slashdot,1
+redspin,1
+connie paige via monty solomon,1
+jessica gresko pgn-ed,1
+john schwartz pgn-ed,1
+ian urbina pgn-ed,1
+mark jewell   via monty solomon,1
+richard jay solomon via dave farber,1
+gunar penikis,1
+bo elkjaer,1
+"kelly bert manning, richard o'keefe",1
+mclean va patch,1
+yooly,1
+mike lennon via monty solomon,1
+slashdot via robert schaefer,1
+stephanie innes via  monty solomon,1
+daniel faigin,1
+guofei gu,1
+nytimes et al. pgn-ed,1
+wbng,1
+rte.ie,1
+jeremy lechtzin,1
+phil koopman,1
+jon eisenberg,1
+"jeremy epstein, pgn",1
+david talbot via jim schindler,1
+frank jimenez,1
+roger grimes via gene wirchenko,1
+polly curtis via randall,1
+"anton ertl, matt roberds",1
+brian fung via ieee cipher,1
+john e dunn via gene wirchenko,1
+brian jackson via  gene wirchenko,1
+arild f�raas via   prashanth mundkur,1
+on matt blaze via lauren weinstein,1
+*the guardian* via david farber,1
+phil smith,1
+o'reilly radar via john gilmore via dave farber,1
+christopher bing,1
+apple news,1
+sc magazine,1
+waspost,1
+the verge via monty solomon,1
+"john ballman, john levine",1
+george bernard shaw,1
+bryan ford,1
+angwin and larson,1
+lee hutchinson,1
+pc gamer,1
+federal computer week,1
+"wol, michael bacon,  chris drewe",1
+"john harper, david halliwell",1
+bart z. lederman,1
+brad stone via  monty solomon,1
+erica naone via monty solomon,1
+todd lewan via monty solomon,1
+matt richtel via  monty solomon,1
+darryl dueck,1
+roger leroux,1
+kottke,1
+decrypt,1
+vpn mentor,1
+forbes via  gabe goldberg,1
+kut,1
+telus,1
+tech xplore,1
+"r a lichensteiger, gabe goldberg",1
+nypost via geoff goodfellow,1
+cyberlab,1
+bill marczak and john scott-railton,1
+jessejones,1
+brian clark via werner u,1
+steve mccaskill via  gene wirchenko,1
+vvw via pgn,1
+deborah peel via pgn,1
+alexander furnas via david farber,1
+christine  wong via gene wirchenko,1
+eric pfeiffer via randall,1
+jacqui cheng via monty solomon,1
+gene wirchenko on ted samson,1
+david talbot,1
+terrence enger,1
+daniel wesemann in sans via  brent j. nordquist,1
+"henry baker, al stangenberger",1
+"greg fife, paul wallich",1
+faa.gov,1
+shaun o'meara,1
+josephy cox via  henry baker,1
+max fisher,1
+tunku varadarajan via henry baker,1
+ian duncan,1
+tonya riley,1
+michelle singletary,1
+amazon.com,1
+"stephen fierbaugh,   chris drew, stephen fierbaugh",1
+s. keeling,1
+dan yoder on gizmodo,1
+celine read,1
+david pogue via monty solomon,1
+roy smith,1
+marc wilson,1
+"bob frankston, john levine,  gary borba, harry crowther",1
+lee hasiuk,1
+"crispin cowan,  dag-erling smorgrav",1
+john opie,1
+anna shefl,1
+doug maughan,1
+adam hupp,1
+chris hoofnagle,1
+larry stewart,1
+"steve summit, mark brader",1
+"fernando pereira,  dimitri maziuk, tim duncan, nick malcolm, olaf seibert",1
+geoff voelker,1
+ptsecurity,1
+treasury via geoff goodfellow,1
+disruptive labs,1
+bakersfield,1
+the unstable globe,1
+wirelessestimator,1
+steven barryte,1
+thomas c greene via  fuzzy gorilla,1
+kellen browning,1
+zdnet via tom van vleck,1
+trust.org,1
+myheritage,1
+"david damerell,  martin ward, a micael w bacon",1
+"martyn thomas,  henry baker, richard stein",1
+dave austin,1
+giles todd,1
+eric greenberg,1
+keith f. lynch via russ perry jr.,1
+robert moskowitz,1
+via jonathan arnold,1
+jan hoffman via monty solomon,1
+media defense,1
+tjnaf,1
+gcluley via wendy m. grossman,1
+sc media,1
+va patch,1
+jama health forum,1
+paul krugman via pgn et al.,1
+lucy craymer,1
+leigh beeson,1
+lauren weinstein pgn-simmerized,1
+alex williams via monty solomon,1
+mary pat flaherty,1
+martin gregorie,1
+"peter rieden, ron garret",1
+"amos shapir, michael bacon",1
+"martin ward, dmitri maziuk, barry gold,  jcholleran",1
+protip via ars technica,1
+will knight,1
+rlgsc via bob gezelter,1
+heidi tworek via kimi wei,1
+don norman with appended excerpts from  john levine and michael bacon,1
+"michael bacon, john colville",1
+"anonymous, fred cohen",1
+tracy jan via  monty solomon,1
+robert n.m. watson via pgn,1
+christopher lee via monty solomon,1
+?,1
+ari ollikainen via dave farber,1
+mark ennis,1
+elinor mills,1
+kevin connolly,1
+anatole shaw,1
+stephen van egmond,1
+torrey hoffman,1
+joan l. brewer,1
+esteban gutierrez-moguel,1
+nist,1
+times union,1
+wsbtv,1
+roberto bagnara,1
+cbs boston,1
+steven tepper,1
+edri,1
+tax law prof blog,1
+consumer reports via al mac,1
+sarah knapton,1
+"al mac, john levine",1
+jeremy epstein and  rebecca wright,1
+hasan,1
+mcafee/csis,1
+arnold kim via dewayne hendricks,1
+eva galperin,1
+tessler and robertson via pgn,1
+george hulme via monty solomon,1
+kevin pfeiffer,1
+matt richtel via pgn,1
+"jonathan zdziarski via lauren weinstein, and via monty solomon",1
+"david magda, simon farnsworth,  andrew douglass, geoff kuenning",1
+jean l. palmer,1
+barry steinhardt via dave farber,1
+jube shiver jr. via monty solomon,1
+andy sullivan via monty solomon,1
+f.j. de kermadec via monty solomon,1
+fuzzy logic,1
+washpost via gene spafford,1
+gregg keizer  gene wirchenko,1
+cnbc via monty solomon,1
+stltoday,1
+cluebot via  declan mccullagh,1
+"robert meineke, rick prelinger, john dallman",1
+mike nuss,1
+stef maruch,1
+"andy newman, jay jennings",1
+jackson ratcliffe,1
+james k. huggins,1
+"jeffrey jonas, john r levine",1
+russ cage,1
+al meers,1
+nik smith,1
+alice klein,1
+facebook via dave farber,1
+winnews via danny burstein,1
+dcist via gabe goldberg,1
+wida,1
+stephanie m. lee,1
+from dkross,1
+brian x. chen  via monty solomon,1
+seth kugel via monty solomon,1
+"henry baker, dimitri maziuk",1
+mit press,1
+somini sengupta,1
+michael lee,1
+tony b atkinson,1
+kenneth c knowlton,1
+"larry jones, charlie shub",1
+"rex black, ross oliver",1
+tm,1
+steve greenwald and jeremy epstein via pgn,1
+matt simpson,1
+scott allen via   monty solomon,1
+robert weisman via monty solomon,1
+ap via monty solomon,1
+rollingstone,1
+william bader,1
+nytimes oped,1
+alfred ng,1
+malcolm,1
+epam,1
+courtney falk via gene spafford,1
+"david e. ross, terje mathisen",1
+"craig s. cottingham, bob wilson",1
+"amos shapir, david damerell",1
+michael d. shear via  monty solomon,1
+rick jervis via monty solomon,1
+erik sherman via monty solomon,1
+scott ehrlich,1
+marci alboher nusbaum via  monty solomon,1
+erik klavon,1
+"thomas wicklund, robert woodhead",1
+josef janko,1
+chuck hardin,1
+peter trei,1
+david martin,1
+sim ijskes,1
+peter thornton,1
+"les barstow, mark nelson",1
+partha,1
+"dick botting, darrell fuhriman, bill mcgonigle",1
+planned?,1
+"a time capsule containing sound, images,video and data defining life in britain",1
+very,1
+"that seemed to comefrom one of those ""dummies"" books",1
+i'm glad i don't use it for anything else!,1
+theventure capital firm funded by the cia,1
+https://www.safeweb.com/,1
+"and users don't have to log in tosafeweb, etc.",1
+maybe still is,1
+large screen,1
+and hence alter,1
+a,1
+b,1
+and only if a candidate determines he wants to have      a recount,1
+indians,1
+that's twosingle quotes,1
+"which is, i suppose, why this text has twenty two chapters.",1
+http,1
+last-modified,1
+comp.risks or equivalent,1
+dennis rears,1
+"submissions, default disclaimers, archive sites, copyright policy, privacy digests, etc.",1
+uwash,1
+dan milmo,1
+googleleapis,1
+comcast,1
+apple via gabe goldberg,1
+"mark brader, scott dorsey",1
+tom malaher,1
+tim hollebeek,1
+martin torzewski,1
+douglas long,1
+"edward reid, conor o'neill",1
+sascha mattke,1
+jack decker,1
+tom mendelsohn,1
+the washington post via eric burger,1
+bloomberg via gabe goldberg,1
+inquisitr,1
+kenneth ng,1
+john paulson,1
+matthew gast via monty solomon,1
+"paul d. walker, richard h miller",1
+daniel lance herrick,1
+john shardlow,1
+spotlight pa,1
+"peter bernard ladkin, david canzi",1
+the japan times via dave farber,1
+ifttt,1
+washpost via jan wolitzky,1
+youtube via sheldo,1
+the manifest,1
+mabry tyso vi pgn,1
+scitechdaily via lauren weinstein,1
+martin enserink/kai kupferschmidt,1
+peter de jager,1
+"r a lichtensteiger, richard grady,  jay r. ashworth",1
+rich b. astaird,1
+brennan center,1
+nakashima and peterson,1
+tech dirt,1
+calo and penuela,1
+nora doyle-burr,1
+matthew reed,1
+cybersecintell,1
+lovett in analog,1
+david robertson,1
+dig boston,1
+superuser,1
+"dimitri maziuk, wol",1
+phil carmody,1
+michael froomkin,1
+matt stupple,1
+fergus henderson,1
+gordon henderson,1
+"chris meadows, marcos",1
+k parker,1
+john m. gleason,1
+apple insider via monty solomon,1
+viralonce,1
+mpost,1
+ncsc uk via gary hinson,1
+jason blevins via paul saffo,1
+gizmodo plus nytimes,1
+texas a&m,1
+old town alexandria va patch,1
+"john levine, lars-henrik eriksson",1
+lauren weinsteain,1
+steve dunbar,1
+david graham,1
+walter regan,1
+antone gonsalves via gene wirchenko,1
+dan appelman,1
+geoff huston via pgn,1
+charles duhigg via  monty solomon,1
+joel baskin,1
+ron lapedis,1
+"leonard finegold, gavin treadgold,  gene wirchenko",1
+ben rothke via pgn,1
+thomas hamann,1
+k p,1
+andrew heasley,1
+vint cerf via lauren weinstein,1
+brent glass,1
+kim zetter via  jim reisert,1
+misty williams/joel anderson via jim reisert,1
+jack shafer,1
+declan mccullagh via joly macfie,1
+lizette alvarez via  monty solomon,1
+josh nathan-kazis via monty solomon,1
+jonathan pritchard,1
+mary ellen foster,1
+cody b,1
+david h smith,1
+healio via judith hemenway,1
+abc-au,1
+sebastian moss,1
+sec,1
+wnbc,1
+acatech,1
+voz populi,1
+"david e. ross, pete resiak",1
+"martin ward, gabe goldberg, martin ward",1
+andy greenberg via pgn,1
+claudiu popa via  gene wirchenko,1
+bella english via monty solomon,1
+john e. dunn  via gene wirchenko,1
+tessa stuart via  monty solomon,1
+"john shoch, dave crocker,  rebecca mercuri, vint cerf via lauren weinstein",1
+albert aribaud,1
+"chris j brady, dimitri maziuk",1
+mohamed kaaniche,1
+pgn on jennifer weiner,1
+josh barro   and justin wolfers,1
+robert l. wilson,1
+"baker, slonim,   baker, maziuk, baker",1
+r.a.whitfield,1
+sanfranciscochron,1
+express,1
+"dudi feuer, michael d. levi,  john lowry",1
+david winfrey,1
+knhaw,1
+jurjen n.e. bos,1
+"ben morphett, markus peuhkuri",1
+browser london,1
+korea herald,1
+"keith thompson, dmitri maziuk,  phil colbourn",1
+roger bell-west,1
+gregory travis,1
+money.cnn,1
+michael morell,1
+hp,1
+jason leopold,1
+indian express via lauren weinstein,1
+ron teitelbaum,1
+"don norman, roderick a rees",1
+michael byrne,1
+apple insider via geoff goodfellow,1
+alison denisco,1
+reuters via  suzanne johnson,1
+cathy o'neil via pgn,1
+dashboard,1
+woolsey and fox,1
+dyer oxley,1
+ian austen via pgn,1
+kay lazar  via monty solomon,1
+saul hansell via  monty solomon,1
+"donald norman, pgn,  bluejay",1
+phil hobbs,1
+richard botting,1
+middle east eye,1
+mark neisse,1
+madmesmile,1
+michelle singletary via pgn,1
+margaret sullivan via  monty solomon,1
+samantha henry via  monty solomon,1
+radware,1
+evans & shedlock,1
+it news,1
+barry meier,1
+ashley halsey iii,1
+nytimes  via monty solomon,1
+nytimes via  bob frankston,1
+melissa silmore via dewayne hendricks,1
+adage,1
+elizabeth roberts via henry baker,1
+jeremy kirk via richard forno,1
+jeff jedras,1
+john denker,1
+geoff white via  henry baker,1
+sakurity,1
+david choi,1
+paul wagenseil,1
+techtarget,1
+helpnetsecurity,1
+patently apple,1
+the appeal,1
+vtdigger,1
+thenewyorktimes,1
+john oates via kevin pacheco,1
+"david lesher, jc cantrell",1
+"robert ""bob"" waixel",1
+"andy behrens, josephkk,  dag-erling_sm�rgrav, bob frankston",1
+"curt sampson,  henry baker",1
+matt porter via jidanni,1
+starband via mich kabay,1
+scott macquarrie,1
+michael borek responding to paul schleck,1
+david bolduc via dave farber's ip,1
+peter zelchenko,1
+"paul e. black, crispin cowan",1
+"jeremy epstein, paul e. black",1
+robin fairbairns,1
+rob boudrie,1
+usni news,1
+"rob slade, dimitri maziuk",1
+d.slack/m.levenson via  monty solomon,1
+jidanni on suresh ramasubramanian,1
+jenna wortham via monty solomon,1
+anne-marie corley via monty solomon,1
+stephanie neil via pgn,1
+matt richtel via monty solomon,1
+glenn chambers,1
+john schwartz via dave farber,1
+john r. mcpherson,1
+bill brykczynski,1
+walter underwood,1
+ellen nakashima via henry baker,1
+florian grunow,1
+pavithra mohan,1
+daniel terdiman,1
+gq,1
+shapeways via henry baker,1
+caryn rousseau via monty solomon,1
+randy holcomb,1
+william jackson via lillie coney,1
+allan goodall,1
+stephen r. holmes,1
+robert lemos via jim schindler,1
+cavoukian-polonetsky via david magda,1
+josephkk,1
+fahmida rashid,1
+gallagher and greenwald,1
+mark wilson via henry baker,1
+ksl via lw,1
+gregg keizer via monty solomon,1
+mike williams via mark brader,1
+vetle roeim,1
+john kane,1
+lem bingley,1
+irfan khan,1
+tony marmic,1
+el diario,1
+charles q. choi,1
+"david strom, phil smith iii",1
+james vincent,1
+spencer ackerman and sam thielman,1
+m. e. kabay,1
+fiona macdonald,1
+hackernews,1
+"robert j. nemiroff  via dave farber, lauren weinstein",1
+deirdre fernandes,1
+nyt editorial via dewayne hendricks,1
+jacob appelbaum,1
+aclu via  richard forno,1
+gary t marx,1
+spectrum,1
+evan schuman via  gene wirchenko,1
+tara seals via geoff goodfellow,1
+dan williams,1
+via npr.org,1
+ditto,1
+hamodia  via mike rechtman,1
+talos,1
+the hindu,1
+ecns,1
+ eskandari et al.  via jose maria mateos,1
+niraj chokshi,1
+the washington post via gabe goldberg,1
+larry dignan,1
+charles wright,1
+andy steingruebl,1
+epic foia notes,1
+michael radow,1
+youtube via lauren weinstein,1
+kgw,1
+itworld,1
+mustang news,1
+travelpulse,1
+khn,1
+"chris drewe, amos shapir",1
+zdnet via genew,1
+detroit news,1
+pgn via sundry sources,1
+govcert via  peter houppermans,1
+bloomberg.com,1
+g r rhodes,1
+jacob harris,1
+david friedman,1
+"walter dnes,  jason bennett",1
+"david a. moon, richard a. o'keefe",1
+"stewart fist, andrew koenig",1
+andrew m. langmead,1
+pgn-ed,1
+the hacker news via rob slade,1
+robotics,1
+"suzanne johnson, richard stein",1
+sparse matrix,1
+"ladkin, travis",1
+niemanlab.org,1
+"john james, washpost",1
+techcrunch.com and the economist,1
+melanie lefkowitz,1
+cory doctorow via monty solomon,1
+kevin maney via monty solomon,1
+randall stross via lauren weinstein,1
+robert lemos via  acm technews,1
+jeff wise via monty solomon,1
+the diane rehm show via monty solomon,1
+nathaniel popper and christopher leonard,1
+dan gillmor via  dave farber,1
+edward wyatt via lauren weinstein,1
+nytimes editorial via pgn,1
+andy greenberg via jim reisert,1
+michael terrazas via  acm technews,1
+jay d. dyson,1
+sanger/perlroth,1
+rachel courtland,1
+"pgn, jeremy epstein",1
+mark luntzel via pgn,1
+paul saffo via pgn,1
+ronald j bottomly,1
+"chuck weinstock, jim geissman",1
+"robert graves, r a lichtensteiger, joe st sauver",1
+jason mechler,1
+josh benaloh,1
+jcr,1
+miami herald,1
+"al stangenberger, john levine",1
+xkcd,1
+thomas sowell,1
+sven henrich,1
+doug esser via paul saffo,1
+john karabaic,1
+adam liptak via pgn,1
+stephanie simon via  monty solomon,1
+slate via  lauren weinstein,1
+torrent freak via lw,1
+nicole perlroth via lw,1
+ars technica via lw,1
+cringely via gene wirchenko,1
+ted samson via gw,1
+carl zimmer  via monty solomon,1
+neil mckellar,1
+ars technica quoting alex halderman and nadia heninger,1
+australian abc,1
+us gov via almac,1
+chris v. nicholson via monty solomon,1
+siobhan gorman and shara tibken via monty,1
+casey halverson via lauren weinstein,1
+paisley dodd via monty solomon,1
+nelson d. schwartz and christopher drew via monty solomon,1
+richard moore,1
+brian seborg,1
+robert k. cunningham,1
+rt via danny burstein,1
+brooks davis,1
+the washington post via lauren weinstein,1
+"richard bos,  andrew duane",1
+ok,1
+"michael kohne, john bechtel, michael kohne",1
+privacy surgeon,1
+jack gillum via  monty solomon,1
+lewis morgan  via gene wirchenko,1
+alina tugend via  monty solomon,1
+charlie savage via  monty solomon,1
+taigman et al. via monty solomon,1
+you tube,1
+paul krugman via randall head,1
+oguh,1
+ai daily,1
+the intercept via richard forno,1
+law and crime,1
+brian r. neumann,1
+tim finin via dave farber,1
+rob walker,1
+adiran kingsley-hughes,1
+john p.a. ioannidis,1
+ca national post,1
+substack,1
+l.a. times,1
+cecelia kang via pgn,1
+markoff/barboza,1
+dancho danchev via monty solomon,1
+ferdinand reinke,1
+stephanie rosenbloom via  monty solomon,1
+albert levi,1
+datacenterdynamics,1
+collected from dan goodin and others,1
+goggle project zero,1
+nic fulton,1
+the register via arthur t.,1
+peter j. hotez,1
+reuters.com,1
+gabe goldberg with pgn comments,1
+vanessa teague,1
+newatlas,1
+eva xiao,1
+tom warren via  dewayne hendricks,1
+bbc via  lauren weinstein,1
+bill daul,1
+katie mulvaney via henry baker,1
+ron amadeo via  monty solomon,1
+casey johnston via  monty solomon,1
+cyrus farivar via gene wirchenko,1
+fred barbash via henry baker,1
+eric knorr via  gene wirchenko,1
+"gene wirchenko, michael kohne,  dave horsfall",1
+u.s. surgeon general,1
+carol peters,1
+geoff huston,1
+meetup,1
+newsguard,1
+theconversation.com,1
+rolling stone,1
+metz/isaac,1
+cybersecuritydive.com,1
+sergiu gatlan,1
+patrick lejtenyi,1
+brian krebs via david lesher,1
+david a. fulghum via paul saffo,1
+jeff rosen  via mark brader,1
+tara parker-pope via  monty solomon,1
+"henry baker, max power",1
+eric taub via  monty solomon,1
+les hatton,1
+poul-henning kamp,1
+pierre pierre blais,1
+dana a. freiburger,1
+"michael loftis, david alexander",1
+niels ferguson,1
+mike knell,1
+"dylan northrup, mike tuffs",1
+alan miller,1
+tdworld,1
+josh hawley via gabe goldberg,1
+ieee via victor miller,1
+anna kode',1
+will oremus,1
+lewis maddison,1
+u.penn,1
+rachel more,1
+bulletin of the atomic scientists,1
+bradenton,1
+insidehighered,1
+roger bell_west,1
+tim connors,1
+roland giersig,1
+markus roth,1
+hans polzer,1
+chester wisniewski via monty solomon,1
+celeste katz,1
+david k. shipler,1
+huffington post,1
+daniel a graifer,1
+mark cuban,1
+nowiknow,1
+bruce schneier pgn excerpted,1
+bob dubery,1
+eric lindsay,1
+"phil payne, ryan o'connell",1
+"jonathan kamens, mark hull-richter",1
+"philip berman, jonathan kamens",1
+david brooks via pgn,1
+joe shortsleeve via  monty solomon,1
+peter schworm via monty solomon,1
+jason roberson via pgn,1
+google via monty solomon,1
+palmer/maija,1
+theconversation,1
+circleid,1
+"henry baker, steve singer",1
+atfs director,1
+unknown source via pgn,1
+unknown source via gene spafford,1
+ron gut,1
+clive jones,1
+raphael lewis via monty solomon,1
+james morris,1
+anna leach via  gene wirchenko,1
+"andrew douglass, geoff kuenning",1
+stanley de jager via randall,1
+henry fountain,1
+william j. broad,1
+choe sang-hun,1
+"sam steingold, neil maller",1
+"dag-erling smorgrav, pk",1
+joe touch,1
+yaohoo!,1
+twtiter via geoff goodfellow,1
+annie gowan,1
+marc irl,1
+georgetown cset,1
+risks@sctb.net,1
+tron smith,1
+matthias heiler,1
+brent laminack,1
+ivan reid,1
+"anthony youngman,  michael smith, bertrand meyer",1
+nick lindsley,1
+rwolff,1
+craig timberg via acm technews,1
+review by marc rotenberg,1
+miles parks via pgn,1
+gimodo,1
+"john levine, gabe goldberg, phil smith iii",1
+psu,1
+engineering news-record,1
+shirin ali,1
+discover,1
+justin bariso,1
+nbcnews.com,1
+erlink ktristiansen,1
+xavier boyen,1
+*the atlantic*,1
+bgpmon via geoff goodfellow,1
+abelson/lichtblau,1
+readwrite via lauren weinstein,1
+"chris drewe,  scott miller",1
+soo kim via henry baker,1
+new america  via henry baker,1
+foreign policy via lauren weinstein,1
+justin c. klein keane,1
+andy greenberg via henry baker,1
+loek essers  via gene wirchenko,1
+lindsey boerma via  gene wirchenko,1
+"tom russ, henry baker",1
+dave provine,1
+hiawatha bray via   monty solomon,1
+john s. karabaic,1
+bruce sinclair via dawn cohen,1
+keith gregory,1
+pascal j. bourguignon,1
+bruce schneier/wired,1
+japan news,1
+secjuice,1
+techcommunity,1
+forbers,1
+rocco parascandola and tina moore via monty solomon,1
+taylor armerding via gene wirchenko,1
+david einstein,1
+jaikumar vijayan  via gene wirchenko,1
+lukasz lindell via  monty solomon,1
+howard solomon  via gene wirchenko,1
+pgn?,1
+paul steier,1
+jan hoogenraad,1
+consumerist via  gabe goldberg,1
+raeng,1
+steve bellovin et al. via ssrn,1
+newsweek via geoff goodfellow,1
+alice truong,1
+"lw, charlie osborne",1
+carlo shaerf,1
+backlogged,1
+zeynep tufekci via pgn,1
+pete resiak,1
+the new stack via gabe goldberg,1
+sue dremann,1
+michaek kan,1
+david bolduc,1
+*washpost* via pgn,1
+lauren  weinstein via pgn,1
+david browne  via matthew kruk,1
+jason douglass via monty solomon,1
+river tarnell,1
+bill duncan,1
+james s. tyre via david farber,1
+tim rushing,1
+paul van dijken,1
+cameron simpson,1
+henry grebler,1
+przemek skoskiewicz,1
+andrew w. appel,1
+penny venetis via pgn,1
+stephen lawson via monty solomon,1
+jon  brodkin via monty solomon,1
+marnie hunter via  paul saffo,1
+ryan singel via lauren weinstein,1
+patrick kobly,1
+washpo via gabe goldberg,1
+thomas claburn,1
+"taed wynnell, drm,  ted lee, al mac, drm, simson garfinkel",1
+"michael bacon, merlyn kline",1
+david mccandless via mark thorson,1
+neal ungerleider via gene wirchenko,1
+dennis van dok,1
+spencer e. ante via  monty solomon,1
+e-p,1
+una,1
+the intercept via geoff goodfellow,1
+meadville tribune,1
+npr via rob slade,1
+albany times union,1
+zdnet via rebecca mercuir,1
+merlyn,1
+matt blaze via lw,1
+ezra klein via lw,1
+ryan gallagher via monty solomon,1
+brian knowlton via pgn,1
+lindsey mastis via  richard forno,1
+zeeya merali via monty solomon,1
+lydersen et al. via monty solomon,1
+matt lake,1
+casey klofstad et al.,1
+lieberman/finkelstein,1
+cyberattacksquad,1
+security score card,1
+homelandsecuritynewswire,1
+fusion.net,1
+john mannes via sam wood,1
+sam wood,1
+kimpton,1
+aimee chanthadavong,1
+casey baseel,1
+amy golod,1
+nhtsa bia monty solomon,1
+llnl,1
+barbara via schewick via lw,1
+"dick mills, amos shapir",1
+jeffrey rosen via monty solomon,1
+danah boyd & eszter hargittai via  monty solomon,1
+"paul wallich, jonathan kamens",1
+leonard richardson,1
+ralph corderoy,1
+david goddard,1
+david sedlock,1
+sean eric fagan,1
+"debora weber-wulff, anthony thorn",1
+milt freudenheim  via monty solomon,1
+charles palmer,1
+russell smiley,1
+ben tudor via  declan mccullagh,1
+marion davis via monty solomon,1
+b brown,1
+casey ross,1
+israel defense,1
+bruce schneier's crypto-gram,1
+upi,1
+nih via richard stein,1
+f.j. reinke,1
+marc w. mengel,1
+markus peuhkuri,1
+ken cox,1
+audun arnesen nordal,1
+"wendy grossman, paul ward",1
+chris viles,1
+david zawislak,1
+martin ewing,1
+"gary hinson,  richard karpinski, jack ganssle, rex black, richard karpinski",1
+wired.com via monty solomon,1
+fiachra o'marcaigh,1
+lindsay abrams via bob frankston,1
+jim warren,1
+mike flacy,1
+william cox,1
+brad friedman via mark e. smith,1
+jill tucker,1
+the hill and lw,1
+natt garun via  monty solomon,1
+sherry turkle,1
+juan carlos perez via  gene wirchenko,1
+cbc docs pov,1
+nsa,1
+activistpost,1
+the white house and rob slade,1
+"r. g. newbury, amos shapir, andre carezia",1
+slashdot via  gabe goldberg,1
+dominic gates,1
+ethan zuckermann,1
+bob schaefer,1
+donovan slack via monty solomon,1
+clark family,1
+daniel graifer,1
+"seth breidbart, jan vorbr�ggen",1
+richard outerbridge,1
+tim starks,1
+gizmodo australia,1
+defenseone,1
+mary grady,1
+templarbit,1
+cyrus lee,1
+nbc dc,1
+srividya kalyanaraman,1
+andrew futter,1
+"peter ladkin, henry baker",1
+kevin poulsen,1
+craig a. finseth,1
+"michael kohne, jay r. ashworth",1
+russell n. sheptak,1
+ieee spectrum via danny burstein,1
+"""laurie"" via gabe goldberg",1
+lisa foderaro,1
+"martin ward,  terje mathisen",1
+"john levine,  gabe goldberg",1
+john markoff via  dewayne hendricks,1
+jon russell via dewayne hendricks,1
+reed hastings via nnsquad,1
+huffpost via david farber,1
+propublica  via monty solomon,1
+abelson/lichtblau via  kevin fu,1
+eric amick,1
+ctvnews via jim reisert,1
+wikileaks via werner u,1
+"kurt seifried, martin ward",1
+"dimitri maziuk, martin ward",1
+david tombs,1
+*the new yorker* via  harlan rosenthal,1
+pierre-jacques courtois,1
+zachary tumin,1
+john toon,1
+miranda moore,1
+river o'connor,1
+genoit goas,1
+gary marcus and ernest davis,1
+alex hern,1
+rt usa via dewayne hendricks,1
+john levine via nnsquad,1
+claire cain miller via lauren weinstein,1
+bortzmeyer via nnsquad,1
+jacobin,1
+ted m lee,1
+david w. brunberg,1
+steve goddard,1
+david millward,1
+eric auchard,1
+"the guardian via iang, george sadowsky",1
+"wols, chuck petras",1
+will oremus via pgn,1
+john markoff  via monty solomon,1
+john leyden via randall,1
+eekid via dave farber,1
+nick miroff via monty solomon,1
+paul mutton  via monty solomon,1
+monty solomon via dave farber,1
+robert marshall,1
+christian holz,1
+valentin razmov,1
+phil weiss,1
+audrie krause,1
+andy repton,1
+jeff nye,1
+"al macintyre, mark feit, phil smith iii,    steve lamont, marcos h. woehrmann",1
+david guaspari,1
+joy marie forsythe,1
+conrad de aenlle via monty solomon,1
+cbfalconer,1
+"steven m. bellovin, dimitri maziuk,  randy saunders",1
+de vries duane,1
+us-cert via  monty solomon,1
+eric sinrod via technews,1
+eggen and witte,1
+dan miller,1
+nick simicich,1
+scott erven and mark collao via  henry baker,1
+"trevor timm, dorothy denning, grady booch",1
+u.wash,1
+pcworld,1
+david canzi,1
+bev harris via eekid,1
+brendan kehoe,1
+espen andersen,1
+gene s. berkowitz,1
+kiley kroh,1
+politico.com via rebecca mercuri,1
+rebecca jeschke,1
+danny o'brien via dewayne hendricks via dave farber,1
+stacey higginbotham,1
+democracy now,1
+james moyer,1
+cathy hayden via kim alexander,1
+m baumeister,1
+bill thompson via  chris leeson,1
+"jay r. ashworth, sidney markowitz, paul schreiber",1
+"herndon, va patch",1
+"lars-henrik eriksson, peter bernard ladkin",1
+john levine and sam steingold,1
+misha collins via  alister wm macintyre,1
+dan schultz via al mac,1
+"kurt seifried, harlan rosenthal",1
+vocativ,1
+ncsam,1
+extreme tech,1
+matt apuzzo and michael s. schmidt,1
+globalvoices,1
+bogdan popa,1
+bruce schenier,1
+stephen h. unger,1
+christine negroni,1
+jonny evans,1
+mark gurman,1
+jason perlow,1
+big brother watch,1
+acm bulletins,1
+peter swire via henry baker,1
+matt green,1
+benjamin wittes,1
+govwatch via gabe goldberg,1
+shear and perlroth,1
+katie moussouris,1
+rbth,1
+darren pauli via  henry baker,1
+thomas fox-brewster,1
+cora currier,1
+good,1
+tom shanker via gabe goldberg,1
+graham bowley via monty solomon,1
+ryan paul via monty solomon,1
+martin heller via monty solomon,1
+robert johnson  via jim reisert,1
+daniel emery via gene wirchenko,1
+philip nasadowski,1
+david m chess,1
+kevin postlewaite    via gerrit muller,1
+"andy newman, gerard a. joseph",1
+chris dodd,1
+tony martin-jones,1
+"phil carmody, paul ward,     ken knowlton",1
+ocschwar,1
+hank nussbacher,1
+bev harris via david chessler and dave farber's ip,1
+amit asaravala via monty solomon,1
+matt gough via bob grant,1
+stephanie reitz via  monty solomon,1
+arno wagner,1
+tony bradley via gene wirchenko,1
+david segal via  monty solomon,1
+"geoff kuenning,  amos shapir",1
+kevin sack via  monty solomon,1
+don. nichols,1
+smh-au,1
+fbi,1
+the denver channel,1
+lanl,1
+nikkei,1
+"sidney markowitz, mark brader",1
+two items combined,1
+positive security,1
+scott mcfetridge,1
+heidi mitchell,1
+"jay libove, rob slade",1
+sean greene,1
+philip listowsky,1
+"robert schaefer, glynn clements",1
+roee hay via  lauren weinstein,1
+swabsox  via declan mccullagh,1
+stuart lynne,1
+teemu lepp�nen,1
+"nicholas weaver,  dan bornstein",1
+airforcemag,1
+business insider via lw,1
+datacenterknowldge,1
+the denverchannel,1
+revealnews,1
+washpo item via  ridgely c. evers,1
+alan cowell via  david farber's ip,1
+bern grush,1
+stanley,1
+duncan campbell via tim finin via dave farber,1
+via hayley davison and nancy leveson,1
+earle ake,1
+ethan benatan,1
+t panton,1
+steven n. severinghaus,1
+yvonneeskenzi via  monty solomon,1
+tim greene via monty solomon,1
+"roger hird,  george wangersky",1
+lou katz,1
+zdnet via bob frankston,1
+google via nnsquad,1
+"richard i cook, alister wm macintyre",1
+"wols, john levine",1
+matt silberstein,1
+henry skoglund,1
+"david crocker, peter b. ladkin,  fred cohen",1
+"brian reynolds, lou katz, antonomasia",1
+amy o'leary via monty solomon,1
+pear et al. via  monty solomon,1
+woolhouse and healy via monty solomon,1
+sascha meinrath via  nnsquad,1
+steve ragan via gene wirchenko,1
+medscape,1
+micah lee via  danny burstein,1
+aldo svladi,1
+security now,1
+jordan robertson via  joseph lorenzo hall,1
+brad templeton via mike hogsett,1
+"paul d. smith, erik mooney",1
+roger scrafford,1
+"chris kantarjiev, dag-erling sm�rgrav,  dag-erling sm�rgrav, peter houppermans, dag-erling sm�rgrav",1
+bill ricker,1
+mark cathcart,1
+jaclyn peiser,1
+leeds,1
+"henry baker, chris drewe",1
+"attila the hun, stanley chow",1
+paul goble,1
+gerard mccarry,1
+lynn doan via pgn,1
+adam cohen via monty solomon,1
+roger strong,1
+ed sutherland via pgn,1
+"marc auslander, andrew klossner,  scott peterson",1
+john clear,1
+paloaltoonline,1
+john p. carlin,1
+randall head via dewayne hendricks,1
+monica goya via gene wirchenko,1
+hosenball and strobel via david farber,1
+david s. isenberg via dewayne hendricks,1
+steven brill,1
+washpost via gabe goldberg,1
+richard morris -- bbc,1
+james clayton -- bbc,1
+darryl luff,1
+gareth cook via monty solomon,1
+alice k. whitfield,1
+elinor mills abreu  via monty solomon,1
+kevin g. rhoads,1
+julie boatman,1
+allegra,1
+"chiaki ishikawa,  henry baker, william brodie-tyrrell, henry baker",1
+bruce g. blair,1
+wired via gabe goldberg,1
+ryan knutson,1
+matthew champion,1
+jon swartz,1
+itif via gabe goldberg,1
+patch via gabe goldberg,1
+"sue willis, gerrit muller",1
+david a wheeler,1
+john alexander stewart,1
+ars tech,1
+anura samara,1
+"michael walsh,  achim nolcken lohse",1
+stefanie olsen via monty solomon,1
+chris lee via  dewayne hendricks,1
+anna gale via  gene wirchenko,1
+whitfield diffie,1
+ars via  monty solomon,1
+andrew cunningham via monty solomon,1
+farooq butt,1
+"henry baker, jonathan zittrain",1
+slate via monty solomon,1
+sanger and perlroth,1
+gsn,1
+mark scott via  henry baker,1
+iain thomson via henry baker,1
+chris duckett via bob frankston,1
+taylor armerding,1
+marc goodman,1
+lizette alvarez  via monty solomon,1
+erik rosales  via lauren weinstein,1
+joshua freed via  monty solomon,1
+bill snyder  via gene wirchenko,1
+vint cerf via dave farber,1
+marcia hoffman via lauren weinstein,1
+bruce schneier via matthew kruk,1
+larson and elliott via monty solomon,1
+ars technica  via david farber,1
+kashmir hill  via henry baker,1
+karl goetz,1
+john bosley via dave farber,1
+"newsscan,  david lesher",1
+carl ellison,1
+gideon yuval,1
+neil macfarquahar,1
+kate murphy,1
+herns and science  via wu,1
+jessica floum,1
+genomebiology via  patrick o'beirne,1
+gabriel goldberg,1
+reuters via slashdot,1
+"john levine, jeff s. jonas",1
+jeff s. jonas,1
+"peter bernard ladkin, al mac",1
+bruce anderson,1
+mike patnode,1
+peter corlett,1
+the aviationist,1
+john pacenti,1
+sara castellanos,1
+mikko,1
+thomas kuhn,1
+melmagazine,1
+"david alexander, erling kristiansen",1
+"john levine,  richard stein, john r. levine, steve bacher",1
+bello/fitrakis,1
+jeffrey collins via lauren weinstein,1
+edward wyatt and brian x chen  via nnsquad,1
+iain thomson via nnsquad,1
+matt prigge  via nnsquad,1
+ben cohen,1
+allan friedman,1
+npr  via nnsquad,1
+ian paul  via gene wirchenko,1
+john rivard,1
+william d. colburn,1
+colin sutton,1
+alexander dupuy,1
+stephan somogyi,1
+andy greenberg via steve goldstein via dewayne hendricks,1
+andy greenberg  via henry baker,1
+ted mann  via jim reisert,1
+"mark brader,  bill stewart, chris drewe",1
+critic-nz,1
+at&t business insights report,1
+the lancet,1
+politco,1
+martin hellman/vint cerf in the bulletin of atomic scientists,1
+kyodo news via chiaki ishikawa,1
+david f. gallagher,1
+alan brain,1
+david piper,1
+william p. n. smith,1
+scott schram,1
+aviation week via steve golson,1
+sec-consult & carnegie cert/cc,1
+android,1
+nick selby,1
+john leyden  via monty solomon,1
+scott bauer via monty solomon,1
+phipps-samson  via gene wirchenko,1
+randall stross via matthew kruk,1
+nbc via lauren weinstein,1
+paul marks via  dewayne hendricks,1
+mike bland via jidanni,1
+steve allen,1
+bryan webb,1
+anders sandberg,1
+eric topol via gabe goldberg,1
+ars via  lauren weinstein,1
+george ledin via pgn,1
+stephen via dave farber,1
+jerry and virgil gligor via david farber,1
+pc rescue,1
+paul hessels,1
+"jay r. ashworth, jurek kirakowski",1
+"peter da silva, wbh",1
+"jim horning, john rickenbrode",1
+john lettice via  alpha lau,1
+"steve taylor, simon zuckerbraun, craig deforest",1
+"jay r. ashworth, john sawyer, neil maller,  markus peuhkuri, david g. bell, amos shapir, david r brooks",1
+george robert blakley iii,1
+doug schuler,1
+marc santoram,1
+michael wilson   via monty solomon,1
+chozick/protess via  gene wirchenko,1
+chris paoli,1
+david streitfeld via  monty solomon,1
+"don hacherl, dennis f. hamilton, chris drewe",1
+"anthony thorn,  eric ferguson",1
+bernhard riedel,1
+christopher maag via monty solomon,1
+roy furchgott via monty solomon,1
+stefan alfredsson,1
+gary maxwell,1
+"chris adams, ted lemon",1
+eric ball,1
+mike snider,1
+niel savage,1
+south australia police,1
+canalys,1
+sw pilot via paul saffo,1
+kingstowne va patch,1
+military.com,1
+the vanderbilt hustler,1
+"david parnas, amos shapir",1
+glen story,1
+review by richard thieme,1
+deist,1
+applre,1
+lukas ropek,1
+stilgherrian,1
+nenry baker,1
+chuck jackson,1
+khou via  mark thorson,1
+barton gellman,1
+winston goodfellow,1
+t yip,1
+roy stehle,1
+robert j perillo,1
+"matt jaffe,  peter mellor",1
+brian chess,1
+defcon,1
+motherboad,1
+backchannel,1
+mark hachman,1
+anne armstrong-cohen via pgn,1
+kim zetter via pgn,1
+david ian hopper  via dave farber,1
+alain picard,1
+susan mcgregor,1
+digby,1
+g.w. schultz,1
+tam harbert,1
+jeroen van der ham,1
+wexelblat,1
+"rodney van meter, rashid motala",1
+bill olds via forno and farber,1
+andrew morton,1
+peter gutmann via monty solomon,1
+neil mcmanus via monty solomon,1
+graham mainwaring,1
+"scott nicol, tony finch, colin andrew percival,  nick rothwell, david crooke",1
+henry selvaraj,1
+elisabeth bik,1
+patrick coffee,1
+northeastern,1
+rice u.,1
+switch-plan,1
+"lauren w., pgn retitled",1
+afp via danny burstein,1
+enterpriseinnovation,1
+alt-facts,1
+jack nicas,1
+amanda seitz,1
+krausefx,1
+msnbc.com,1
+sharperimage via gabe,1
+my heart is still in risks.,1
+jim motavalli,1
+texastribune,1
+jagan jagannathan,1
+david mills,1
+ari schwartz,1
+senator warren,1
+devorah fischler,1
+joe hernandez,1
+jeffrey d. sachs,1
+jurjen n. e. bos,1
+eric d. lawrence,1
+u.n.,1
+national review,1
+ted,1
+consumer information,1
+lynda ellis,1
+hiip,1
+kevin lee  via gene wirchenko,1
+charles arthur via dave farber,1
+"theodore ts'o, dimitri maziuk",1
+"bob morrell, paul mech",1
+dylan stableford,1
+dv henkel-wallace,1
+ladar levison,1
+joe touch via dave farber,1
+dan vergano via harry crowther,1
+jason d. o'grady via monty solomon,1
+dan foster via richard m. smith,1
+"scott nicol, ray blaak",1
+r. geoffrey newbury,1
+connel fullenkamp,1
+rest of world,1
+mathew kruk,1
+louis dipietro,1
+olga koksharova via  michel kabay,1
+pat lincoln and jeremy epstein via pgn,1
+a subscriber,1
+robert `jamie' munro,1
+david du,1
+vdoo,1
+car and driver magazine,1
+ax sharma,1
+dylan byers,1
+msn.com,1
+cdt,1
+kyodo news,1
+peter dunn via acm technews,1
+edward vielmetti,1
+"ars technica via bob frankston, farooq butt",1
+"dimitri maziuk, jonas m luster",1
+jetpack,1
+usc,1
+james fallows,1
+jon nash,1
+matthew green via david rosenthal and dewayne hendricks,1
+mike masnick via  dewayne hendricks,1
+nate anderson via  dewayne hendricks,1
+siobhan gorman via gene wirchenko,1
+torrent freak  via lauren weinstein,1
+edward wyatt  via jim reisert,1
+michael kaplan  via monty solomon,1
+arik hesseldahl via monty solomon,1
+"martyn thomas,  glynn clements, steve loughran",1
+"ken knowlton, spencer cheng",1
+ralph barone,1
+allen hainer,1
+kevin way,1
+"richard i. cook, geoffrey brent",1
+"michael loftis, david lesher",1
+"dimitri maziuk, king ables",1
+"jidanni, martyn thomas, scott miller",1
+anton lak,1
+daniel kahn gillmor,1
+larry sudduth,1
+jon lingard,1
+ngssoftware via monty solomon,1
+"hendrik, matthew holmes",1
+brian reynolds,1
+judith hemenway,1
+kira peikoff via  monty solomon,1
+marilynn marchione via monty solomon,1
+nejm via monty solomon,1
+john markoff via jidanni,1
+kurt opsahl  talk via dewayne hendricks,1
+zach miners via  gene wirchenko,1
+claudiu popa via gene wirchenko,1
+"john gilmore, doug humphrey, pgn",1
+eos via danny burstein,1
+jpost via pgn-ed,1
+npr via mark brader,1
+new scientist  via lauren weinstein,1
+jim fitzgerald,1
+"steven bellovin, ed mirmak",1
+steven hertzberg,1
+"pgn, rebecca mercuri",1
+wsj via ross anderson,1
+focus taiwan,1
+cdc,1
+sabine hossenfelder,1
+pgn-ed from lauren weinstein,1
+charles b weinstock,1
+benjamin jun,1
+babington/tse via monty solomon,1
+the street,1
+jan libove alzina,1
+"dan astorian, steve bacher, henry baker, dmitri maziuk",1
+hrgrapevine via monty solomon,1
+dian schaffhauser,1
+saarlandu,1
+violet blue  via monty solomon,1
+lucian constantin via monty solomon,1
+darlene storm via monty solomon,1
+robert l. mitchell  via gene wirchenko,1
+matt prigge  via gene wirchenko,1
+jon gold via  gene wirchenko,1
+jeffrey alexander,1
+andrew brooks via gene wirchenko,1
+alwyn scott and joseph menn,1
+joe keane,1
+prakash panangaden,1
+jeffrey sunseri,1
+sergioch,1
+"peter b. ladkin, rod van meter, david guaspari",1
+"jaanus kase, crispin cowan",1
+mark bergman,1
+steve cody,1
+tesla deaths,1
+xda,1
+itechpost,1
+brian berstein via monty solomon,1
+"ben moore,   keith price, kent borg",1
+douglas maughan,1
+paul a below,1
+james meade,1
+kathy gill,1
+the stand,1
+zerohedge,1
+bob woodward via glenn story,1
+andrew appel via pgn,1
+d. mckirahan,1
+harry neumann,1
+douglas barnes,1
+d g. rossiter,1
+valerie insinna via richard stein,1
+theage,1
+engadget via dave farber,1
+charlie warzel via monty solomon,1
+scotusblog via  monty solomon,1
+`anonymous',1
+zdnet via  bob frankston,1
+tom kaneshige,1
+julian assange via henry baker,1
+john carr,1
+gigaom via nnsquad,1
+james dao  via monty solomon,1
+david goldman via gene wirchenko,1
+debra l tekavec,1
+ars technica  via jeremy epstein,1
+jeffrey walton,1
+paul bernal via lauren weinstein,1
+wolfgang gruener via jim reisert,1
+the verge via gabe goldberg,1
+the register via john levine,1
+george n. white iii,1
+bradley wood,1
+justin macfarlane,1
+"mike hogsett, stephen poley",1
+"jeremy ardley, martyn thomas, merlyn kline,  miro jurisic, jordin kare",1
+documentcloud,1
+googleblog,1
+jr raphael,1
+usatoday,1
+on jenna wortham via hb,1
+lite via rob slade,1
+thehackernew,1
+bochum,1
+fight for the future via  paul cornish,1
+skeptical inquirer,1
+a friend via gabe goldberg,1
+wxyz via david lesher,1
+christopher gavin,1
+al jazeera  via dan jacobson,1
+washpost with pgn comments,1
+bitcoin.com,1
+susan bradley,1
+li gong,1
+dan hurley,1
+ed prochak,1
+"arthur t., bob gezelter",1
+robert mcmillan  via ben moore,1
+joseph b. white via eli the bearded,1
+joe mullin,1
+eli pariser via  monty solomon,1
+joe mandak via matt roberds,1
+john brandon via gene wirchenko,1
+lite,1
+janosch delcker,1
+keloland,1
+"radoslaw moszczynski, amos shapir,  dimitri maziuk",1
+brooklyner,1
+rod wilcox,1
+ross anderson via pgn,1
+michal pavlovic,1
+paul owen via  dave farber,1
+al gore,1
+friedbadger,1
+james lewis,1
+gabriel dance,1
+molina and snider  via jim reisert,1
+bbc news via brian randell,1
+profits of,1
+u.s. house  science committee,1
+inman harvey,1
+jonathan krim,1
+suw charman,1
+chsmajoritypress,1
+greg beck via monty solomon,1
+"urban fredriksson,  claes t, nani isobel",1
+the daily dot,1
+framinghan source,1
+the register and ars technica,1
+george sicheman,1
+"michael kohne, bernie cosell",1
+chaos computing club via pgn,1
+itke via gabe goldberg,1
+startribune,1
+dewayne hendricks via ip,1
+keith c. ivey,1
+cory doctorow via ip,1
+dennis g rears,1
+"alistair mcdonald, ed ravin,  massimo dal zotto",1
+"peter riocreux, huge",1
+"david j. farber, suresh ramasubramanian, steve crocker",1
+ed bott via gene wirchenko,1
+mike masnick,1
+lindsey turrentine via  monty solomon,1
+dave parnas,1
+lieven desmet,1
+kenneth d. mandl and arjun k. manrai,1
+chicko stuneoka,1
+tom gardner,1
+graeme wearden via keith a rhodes,1
+andrew collier,1
+"bernard w joseph, carl fink",1
+jake boyd,1
+geoff keunning,1
+richard c. paddock,1
+colbert/gervais via lauren weinstein,1
+"martin ward, john levine, barry gold",1
+here and now,1
+chuck karish,1
+"keith medcalf, gabe goldberg,  jose maria mateos",1
+ted nelson,1
+jonathan a. marshall,1
+haughney/perlroth via  dewayne hendricks,1
+bruce schneier via  dewayne hendricks,1
+joe mullin  via dewayne hendricks,1
+emin gun sirer,1
+nate hoffelder via gene wirchenko,1
+brian benchoff via henry baker,1
+andy patrizio,1
+lorena o'neil via henry baker,1
+matt hines via monty solomon,1
+ed bruce,1
+paul e. bennett,1
+john borland via monty solomon,1
+"eben king, jonathan smith",1
+joseph p. kahn via monty solomon,1
+james verini via pgn,1
+earl nolan,1
+michael kowalchuk,1
+"randal l. schwartz, gene wirchenko",1
+chris kantarjiev,1
+sharon gaudin via gene wirchenko,1
+eriks ziemelis,1
+"kurt fredriksson,  mark kramer",1
+"zach despart, houston chronicle",1
+jan l,1
+philip berman,1
+edelson doneel,1
+glenn c. lasher jr.,1
+peter neumann,1
+daniel theunissen,1
+patrick p gelsinger,1
+gary lawrence murphy,1
+monica ortiz,1
+giovanni vigna,1
+cliff saran,1
+cisac via backgroundbriefing,1
+northwestern news,1
+adyashanti -- and cicero,1
+nisargadatta,1
+chiki ishikawa,1
+andrew higgins,1
+patrick kingsley,1
+robert hackett,1
+henry farrell,1
+kabc,1
+kirk mitchell via jim reisert,1
+*nytimes* via monty solomon,1
+jeff marganteen,1
+techdirt via kenneth r. mayer jr.,1
+carrell/shepherd  via monty solomon,1
+nakashima/tate via acm technews,1
+acm bulletin,1
+gregg keizer via  acm technews,1
+liz kowalczyk via monty solomon,1
+heather m. bell,1
+cbsnews,1
+npr+pgn,1
+drm,1
+ned potter via pgn,1
+nick weaver via pgn,1
+james cook via henry baker,1
+sam thielman,1
+bob eager,1
+richard l. hasen,1
+kurt sheffer,1
+danielle keats citron via robert schaefer,1
+iea,1
+medixlxpress,1
+whistleblower via henry baker,1
+kristina herrndobler via james bauman,1
+jonathan krim via monty solomon,1
+micah altman,1
+dr. david alan gilbert,1
+peter ha*kanson,1
+tudor bosman,1
+andrea peterson,1
+paul gittins,1
+ariha setalvad,1
+streetsblog new york city,1
+dyani lewis,1
+schneier via lw,1
+bitchute,1
+medical press,1
+ephrat livini,1
+ben arnoldy,1
+dronedj,1
+rlgsc,1
+auspost,1
+wfmj,1
+mohl/bray via monty solomon,1
+caskey l. dickson,1
+dennis mullin,1
+ed taft,1
+alan d. zimmerman,1
+jim jewett,1
+mark a. biggar,1
+proprivacy,1
+rob pegoraro,1
+commonsense md,1
+rowena mason via dewayne hendricks,1
+vice via nnsquad,1
+sharecast,1
+"geoffrey keating,  steve lamont, geoffrey keating",1
+"john rivard,  geoff kuenning, scott miller",1
+phil porras,1
+"mike scott, michael smith",1
+fenello,1
+world netwide online via rob slade,1
+straits times via richard m stein,1
+hightechforum,1
+flipboard,1
+paritytech,1
+christopher malmo,1
+amazon grace,1
+hackread,1
+searchsecurity,1
+joe uchill,1
+eric newcomer,1
+security intelligence,1
+trustwave,1
+globenewswire,1
+techcrunch via gabe goldberg,1
+npr via  richard m stein,1
+the state  via steve golson,1
+the tribune india via prashanth mundkur,1
+nytimes et al.,1
+money via barry gold,1
+mike chinni,1
+lightning network,1
+bbc via  mark thorson,1
+noam cohen via  monty solomon,1
+"don norman, dick mills,  nick brown",1
+fortune via lillie coney,1
+buzzfeed via joly macfie,1
+"john levine, anthony youngman,  mark e. smith",1
+"anthony youngman, al mac, david brodbeck",1
+peter miller,1
+william allen simpson,1
+hugo tyson,1
+doug sibley,1
+bodo moeller,1
+kevin mcgill via  henry baker,1
+chris matyszczyk via monty solomon,1
+ellen nakashima via acm technews,1
+leslie maltz,1
+jeremiah grossman  via monty solomon,1
+nate cardozo eff press,1
+the next web via nnsquad,1
+gawker via nnsquad,1
+sarah kneip,1
+dagens nyheter via debora weber-wulff,1
+ny magazine via jeremy epstein,1
+daily mail via mark thorson,1
+shaun nichols,1
+robert burns,1
+ronen,1
+sheera frenkel,1
+the telegraph via  chris drewe,1
+bloomberg via pgn,1
+eyeoncanada,1
+brandon carter,1
+privateinternetaccess,1
+al mac wheel,1
+on,1
+protocol.com,1
+bbc via jeremy epstein,1
+usouthflorida,1
+justice.gov,1
+gaming,1
+watchdog annandale and va patch via gabe goldberg,1
+eth zurich,1
+kyodonews,1
+cnn via jeremy epstein,1
+martin d kealey,1
+king ables,1
+statement by apple's tim cook,1
+ars technica via william brodie-tyrrell,1
+c. titus brown,1
+"gene wirchenko, al mac",1
+henry baker on nyt item,1
+mobihealthnews,1
+runner's world,1
+searchengineland,1
+trendmicro via henry baker,1
+josé maría mateos,1
+firemountain via jmm,1
+ms via gg,1
+spaf,1
+nicolai e m plum,1
+john schwartz via monty solomon,1
+rob skedgell,1
+"mark lutton, steve taylor, jan vorbr�ggen,  olivier dagenais, paul d.smith, steven hauser, dimitri maziuk,  bill royds, tom swiss, ross lonstein, dave budd, geoff kuenning,   dan jacobson",1
+lily hay newman via werner u,1
+james covert,1
+kelly fiveash,1
+andy greenberg via  werner u,1
+google via  dan jacobson,1
+motherboard via suzanne johnson,1
+stanley chow,1
+j.f.bonnefon,1
+mcafee,1
+tony doris,1
+matthew miller,1
+zap katakonk,1
+youtu,1
+andrew rae,1
+richard weir,1
+tony wright,1
+brian gladman,1
+steven hoober,1
+travis andersen,1
+universal hub,1
+toward data science,1
+leslie lamport,1
+evan schuman via monty solomon,1
+thomas l. jones,1
+the standard via  chris drewe,1
+sur-behoffski,1
+david undercoffler  via monty solomon,1
+joseph lorenzo hall with  leslie harris,1
+scott shane via  monty solomon,1
+ron nixon via  monty solomon,1
+bob gezelter on dan goodin,1
+david berlind via  lauren weinstein,1
+salvador rodriguez via monty solomon,1
+"henry baker, amos shapir",1
+elizabeth cooney,1
+ian wells,1
+"paul wallich, harvey fishman",1
+rupert moss-eccardt,1
+"walter roberson, chris drew, gene s. berkowitz,  al macintyre, fred cohen",1
+matthew wald,1
+ed foster via monty solomon,1
+scot drysdale,1
+drew lentz,1
+john timmer  via monty solomon,1
+alex wilkins,1
+john timmer,1
+babylon bee,1
+twitter item via geoff goodfellow,1
+"andrew j, stewart, reviewed by sven dietrich",1
+colleen jenkins via monty solomon,1
+karl schoenberger via monty solomon,1
+kurt doppelbauer,1
+"geoff kuenning, jon a. solworth",1
+"pgn, david magda",1
+carolyn y. johnson via monty solomon,1
+deborah gage via pgn,1
+alec muffett,1
+maura dolan and jason felch  via monty solomon,1
+chris pirillo via david farber,1
+james barron via pgn,1
+chris murphy via gabe goldberg,1
+aman sethi via gene spafford,1
+sebastian anthony via monty solomon,1
+jack shafer via lw,1
+james fallows via monty solomon,1
+huffington post via lauren weinstein,1
+eileen aj connelly,1
+"peter bernard ladkin, robert meineke",1
+cnn travel,1
+the mirror,1
+steve nasis mit news,1
+oliver roeder wsj,1
+gabriella coleman via pgn,1
+tom adams,1
+cathy horiuchi,1
+eric remy,1
+josh polette,1
+kragen,1
+perry pederson,1
+thompson ii/jaikaran,1
+muckrock,1
+spencer ackerman,1
+jcarlosnorte,1
+"kristen clark, pgn",1
+dan foster,1
+tom race,1
+irena szrek,1
+merc,1
+via the statesman/asia news network published in the straits times,1
+bbc au,1
+dw,1
+epic games,1
+mainichi,1
+it pro,1
+geert jan van oldenborgh,1
+ron erwin,1
+"derek ziglar, sean sosik-hamor, arthur t",1
+jhaynes,1
+l. p. levine,1
+kirrily skud robert,1
+"zygo blaxell, christian bartsch",1
+peter chuck,1
+"craig s. cottingham, paul hessels",1
+"julian white, jay r. ashworth",1
+darcy henton,1
+marc ferranti,1
+joshua brustein,1
+*the telegraph* via  gabe goldberg,1
+woody leonhard via gene wirchenko compiled by pgn,1
+josh lederman via  acm technews,1
+nytimes via matthew kruk,1
+"david brodbeck,  geoffrey keating",1
+pinto/nemorin  via henry baker,1
+corrected,1
+roger willcocks,1
+chris barnabo,1
+duke robillard,1
+ben scott,1
+kieren mccarthy,1
+sans via  monty solomon,1
+jill treu,1
+network solutions via pgn,1
+meng weng wong via dave farber,1
+jan c. vorbrueggen,1
+graham smith,1
+bill higgins,1
+phil reed,1
+lee page,1
+stephan ibarki,1
+daily dot via lauren weinstein,1
+nytimes via  monty solomon,1
+james geissman,1
+jeff makey,1
+linda geddes,1
+engadget.com,1
+pgn via mabry tyson,1
+cryptography engineering,1
+russ cooper,1
+trevor zacks,1
+"steve taylor,  richard karpinski",1
+"mike martin, richard a. o'keefe, dik winter, pgn",1
+market screener,1
+ncstate,1
+christoph pelzl,1
+cornell chronicle,1
+washable,1
+unherd,1
+daniel fasterberg,1
+pgn-collected,1
+carolyn said,1
+david e. sanger et al.,1
+sam schechner,1
+jay libowe,1
+eurnews,1
+"john levine, toebs douglass",1
+simon higgs via dave farber,1
+brian roemmele via pgn,1
+blomberg,1
+reuters via stephen j. greenwald,1
+a.j. vicens,1
+ember-climate,1
+gutnews,1
+jon brodkin via  monty solomon,1
+wolfgang bruener via mark j bennison,1
+risen-lichtblau via monty solomon,1
+"olivier mj crepin-leblond, huge",1
+"david e. ross, randy saunders,   rob seaman",1
+"debora weber-wulff, martin virtel, peter b. ladkin",1
+peter d. junger,1
+alan sipress via pgn,1
+peter-lawrence montgomery,1
+christoph schuba,1
+jeanne shaheen,1
+nicole perlroth et al.,1
+caroline o.,1
+dominic fracassa,1
+milt freudenheim and  robert pear via monty solomon,1
+paul ferguson,1
+hafiz abdur rahman,1
+john kolesar,1
+"peter bernard ladkin, cbfalconer,   william bader, dan franklin",1
+andrew blankstein  via henry baker,1
+yan timanovsky via pgn,1
+marc rotenberg & khaliah barnes via pgn,1
+jason zweig via  henry baker,1
+"henry baker, michael kohne,  david b. horvath",1
+jay wylie,1
+marcus j. ranum,1
+daniel p. faigin,1
+marc caputo and patricia mazzei,1
+gunnar peterson via jeremy epstein,1
+dewayne hendricks via dave farber,1
+stephen benavides,1
+tri-city herald  via clay jackson,1
+eff's effector,1
+"a michael w bacon, david alexander",1
+"wols, bruce hunter",1
+dewayne hendricks via  dave farber,1
+ellen messmer,1
+arxlight  via john gilmore via dave farber,1
+carolyn said via pgn,1
+john wildermuth,1
+vox via lauren weinstein,1
+harriet sinclair,1
+pamela ng,1
+qz.com,1
+cnn via rob slade,1
+robert hackett via prashanth mundkur,1
+scripps via almac,1
+knujon,1
+nz,1
+ibtimes et al. via almac,1
+ian bogost,1
+julia reda,1
+dan goodin via henry baker,1
+geoff newbury,1
+rich mogull via  monty solomon,1
+bbc news via steve lamont,1
+mary grady via gabe goldberg,1
+smh via gabe goldberg,1
+the guardian via dave crocker,1
+svedic via gabe goldberg,1
+v.,1
+jacqueline mroz via monty solomon,1
+jaikumar vijayan  via acm technews,1
+toby,1
+jeff james via  monty solomon,1
+kashmir hill via monty solomon,1
+douglas a. kellner,1
+larry hardesty via acm technews,1
+kate murphy via monty solomon,1
+tamar lewin via  acm technews,1
+kathy uek via monty solomon,1
+justin glawe  via henry baker,1
+jordan golson via henry baker,1
+umut uras,1
+ftc via henry baker,1
+isaac/perlroth,1
+brian benchoff,1
+"mike liebhold,  ross stapleton-gray",1
+mark scott,1
+the register via alister wm macintyre,1
+bbc via john murrell,1
+"barry gold, mark jackson",1
+vice/motherboard,1
+information security newspaper,1
+ray dillinger in rec.humor.funny via dawn cohen,1
+jsx,1
+att,1
+eliezer yudkowsky,1
+catherine barzler,1
+gary marcus,1
+nextdoor via phil smith iii,1
+stan brown,1
+daniel lemire via  henry baker,1
+loek essers via  gene wirchenko,1
+david shamah via olin sibert,1
+paul venezia  via gene wirchenko,1
+scott helman  via monty solomon,1
+"security curmudgeon, tony finch,  craig burton",1
+ntsb via alister wm macintyre,1
+*wapo via pgn,1
+john markoff via  monty solomon,1
+gary mcgraw via pgn,1
+mark armbrust,1
+r.a. tremonti,1
+uk.telecom.voip via pete mellor,1
+michael tandy,1
+bruce o'dell,1
+jim bruce,1
+tom nimitz,1
+ron avitzur,1
+pat place,1
+cogg,1
+robin wheeler,1
+derek harnett,1
+harald hanche-olsen,1
+ronan farrow via pgn,1
+the record by recorded future,1
+the record via washpo,1
+kiara hay via steve stroh via dewayne hendricks via dave farber,1
+cbc canada,1
+craig cottingham,1
+joe davidson  via henry baker,1
+slashdot  via werner u,1
+lisa vaas,1
+rskbasedsecurity.com via slashdot,1
+dave lee,1
+the tech portal,1
+michael winser,1
+propublica via  suzanne johnson,1
+andra lim,1
+michael s. schmidt,1
+john napier tye via henry baker,1
+dennis fisher  via henry baker,1
+lindsay harris,1
+john mainwaring,1
+code.org via jim reisert,1
+adam stone,1
+cary doctorow,1
+thenextweb via  henry baker,1
+"kurt seifried, bob frankston, kurt seifried,  bob frankston",1
+"jamie mccarthy, knhaw",1
+malcolm cohen,1
+"ray todd stevens, alun jones",1
+"gene spafford, ray blaak",1
+sanner,1
+isaac hollander,1
+simon pickin,1
+"tyler, mike cepek",1
+"lawrence k. chen, nick brown",1
+"derek ziglar, brian clapper,    andres zellweger, harlan rosenthal, peter houppermans",1
+ornstein/weber  via monty solomon,1
+tobin maginnis,1
+chris kanaracus via gene wirchenko,1
+errata security via  lauren weinstein,1
+brian prince,1
+karen haslam via gene wirchenko,1
+fuller/drew via  lauren weinstein,1
+jane hesketh,1
+alister william macintyre,1
+eric burger,1
+nowsecure,1
+appy-geek,1
+glenn fleishman,1
+lisa rein via henry baker,1
+aerospace.org,1
+yahoo finance,1
+europa via diego latella,1
+malware bytes,1
+david mccabe,1
+"john levine, martin ward",1
+kari paul,1
+"jeremy epstein, r. g. newbury",1
+krebs via geoff,1
+joshua newman,1
+j.d. baldwin via gary g. taylor,1
+sergei lewis,1
+"james moyer,   michael bednarek",1
+evan mclain,1
+nathan brindle,1
+dan ellis,1
+andrea galleni,1
+jama,1
+peter holley,1
+scribd.com,1
+offspring,1
+mark norem,1
+beth roberts,1
+john c haselsberger,1
+joab jackson via jim innes,1
+"mark e. smith, pgn",1
+ben worthen via monty solomon,1
+earl truss,1
+steve taylor,1
+anton setzer,1
+graystreak,1
+moz,1
+sarr blumson,1
+bruce e. wampler,1
+"richard schroeppel, christophe augier,     pekka pihlajasaari, michael nelson, bill stewart, wm. randolph franklin",1
+"steven j klein, drew dean, scott nicol",1
+philip elmer-dewitt via monty solomon,1
+brad stone via monty solomon,1
+"peter houppermans,  jim haynes",1
+david chau,1
+"chris smith, mark lutton,  amos shapir",1
+"andy piper, amos shapir",1
+"dag-erling sm�rgrav,  ron garret",1
+omer zak,1
+via paul saffo,1
+"peter bernard ladkin, keith medcalf, henry baker",1
+aclu+ via almac,1
+ryan haggerty via monty solomon,1
+matt holdrege,1
+ross kerber via monty solomon,1
+guy dawson,1
+robert mcmillan via gene wirchenko,1
+freep,1
+shm-au,1
+laurens cerulus,1
+"chris meadows,  craig deforest",1
+david goll,1
+bob tedeschi via monty solomon,1
+don colton,1
+gillian m brent,1
+"henry baker,   diomidis spinellis",1
+greg bacon,1
+stefan kelm,1
+paul henry,1
+paul green,1
+"dennis parslow, peter b. ladkin",1
+"martin jost, andrew jackson",1
+doug mink,1
+paul a.s. ward,1
+robin crorie,1
+gizmodo via almac,1
+the guardian  and ars technica,1
+smb via pgn,1
+nextweb,1
+nytimes pgn-ed,1
+the globe via david tarabar,1
+geek via gg,1
+unidentified author via gabe goldberg,1
+vice via lauren weinstein,1
+sarah perdue,1
+and perhaps deductible -- bbc and techxplore.com,1
+roderick  rees,1
+"david lesher, al stangenberger",1
+dave parnas via pgn,1
+barry munns,1
+john hatpin via mark brader,1
+mike flacy via monty solomon,1
+"john kemp, dag-erling sm�rgrav,  richard pennington",1
+cameron scott via  gene wirchenko,1
+david marshall via gene wirchenko,1
+jeff vance via  gene wirchenko,1
+ted samons via  gene wirchenko,1
+gw today,1
+citylab,1
+amitel,1
+nytimes tech,1
+thelocal.ch,1
+zack budryk/the hill,1
+open privacy research society,1
+nick weaver,1
+mary branscombe,1
+monty solomon via david farber,1
+tim christman,1
+stephen steel,1
+bozhidar bozhanov via henry baker,1
+stephen lawson,1
+kathryn brenzel via gene wirchenko,1
+will oremus via dewayne hendricks,1
+don a. bailey via  henry baker,1
+mlb via jim reisert,1
+anne flaherty via  monty solomon,1
+*the atlantic* via lauren weinstein,1
+vindu goel via lauren weinstein,1
+"jonathan kamens,  amos shapir, rogier wolff",1
+"carlos g mendioroz, alexander klimov",1
+steve mcintyre,1
+"peter bernard ladkin,  dag-erling sm�rgrav, guy dawson, chris kuan",1
+ralph jacobs,1
+"dimitri maziuk, klaus johannes rusch",1
+adam pasick   via jim reisert,1
+jad mouawad via  jan wolitzky,1
+andrea peterson via lauren weinstein,1
+*the guardian via  devon mccormick,1
+*the new york times* via monty solomon,1
+restofworld,1
+peter knoppers,1
+"back and forth with shapir, ward, shapir, ward, shapir, ward, shapir",1
+bacher,1
+mark seecof,1
+alex burr,1
+cristina serban,1
+dres zellweger,1
+ihls via alister wm macintyre,1
+cpj,1
+*the telegraph,1
+fraser nelson via chris drewe,1
+ron lieber,1
+santora et al.  via monty solomon,1
+hong kong free press,1
+"arthur flatau, mikea",1
+liam tung via gene wirchenko,1
+alan powell,1
+andrew law,1
+hackaday via lw,1
+neil savage,1
+deity,1
+data breaches,1
+prpl,1
+"martin ward, lw",1
+"dan jacobson, lauren weinstein",1
+twitter viz geoff goodfellow,1
+exodus,1
+chron,1
+maddie stone,1
+via lauren w.,1
+"martin ward, martin ward",1
+daily beast via lw,1
+computerworld via lw,1
+arshad mohammed and joseph menn plus conor friedersdorf via henry baker,1
+michael s. schmidt via gabe goldberg,1
+susan crawford via  lauren weinstein,1
+susan perschke via gene wirchenko,1
+matt hamblen via  gene wirchenko,1
+carlos g mendioroz,1
+*the economist* via mohammad al-ubaydli,1
+theo markettos,1
+paul breed,1
+john schwartz via john f. mcmullen,1
+midwest express,1
+tom worthington,1
+nancy jo sales via monty solomon,1
+greg miller,1
+mit via pgn retitling,1
+nj tech weekly,1
+mark d. griffiths,1
+edmonton journal,1
+texchdirt,1
+mayank sharma,1
+q-ctrl and.sydney,1
+richard thieme,1
+eric ferguson,1
+perry bowker,1
+rcooper,1
+graham bell,1
+thomas maufer,1
+james ryan,1
+eric nickell,1
+serguei patchkovskii,1
+polly mosendz,1
+vindu goel and scott shane,1
+morgan chalfant,1
+menaka guruswamy,1
+via henry baker,1
+tjstebbing,1
+slisghtly redacted by pgn,1
+nttimes,1
+marco marcelline,1
+texas observer,1
+phylum via monty solomon,1
+babylonbee,1
+matt hiller,1
+solveig singleton via hanah metchis,1
+"peter b. ladkin, allan goodall",1
+risks@orwellian.org,1
+brig c. mccoy,1
+gene lambson,1
+c. cartledge,1
+jeffrey w. baker,1
+r.a. whitfield,1
+ken winters,1
+"henry baker, al mac",1
+sorta,1
+mary schacklett,1
+bob violino,1
+cphpost via donald b. wagner,1
+steven schear,1
+milton j. valencia via monty solomon,1
+gene wirchenko  on bill snyder,1
+alina tugend via monty solomon,1
+gavin clarke via  gene wirchenko,1
+tina bird,1
+ivor hewitt,1
+"andrew koenig, dag-erling sm�rgrav",1
+tim greene  via jim reisert,1
+g.f. via dewayne hendricks,1
+"bob frankston,  steve loughran",1
+phoronix,1
+chesterfield county va,1
+michael barclay,1
+nowiknow via gabe goldberg,1
+iacr paper via rob slade,1
+yahoo! item via lauren weinstein,1
+nicola slawson  via henry baker,1
+sean_gallagher,1
+la times via henry baker,1
+ieee spectrum via bob frankston,1
+griff witte via monty solomon,1
+pete krawczyk,1
+peter pankonin,1
+katie hafner via monty solomon,1
+andrew malakoff,1
+allan engelhardt,1
+urban fredriksson,1
+security wire digest,1
+tim meehan,1
+mark white via dave farber,1
+"david olsen, leonard erickson",1
+corky siemaszko,1
+mark tyson,1
+u.essex,1
+jennifer chu,1
+ars technica and precursor note,1
+the atlantic via steve bacher,1
+rob lemos,1
+statesman,1
+tiffany hsu,1
+david brooks,1
+metz/weise,1
+reza montasari book reviewed by sven dietrich,1
+"john levine, wol",1
+una smith,1
+bob green,1
+christian reiser,1
+"terry brugger, joe thompson,  john m. hayes",1
+doug kellner,1
+john markoff via jim schindler,1
+"jim youll, atom 'smasher'",1
+peter g capek,1
+mike a,1
+matthew schie,1
+ben galehouse,1
+"jonathan de boyne pollard,  dan wallach",1
+universalhub,1
+davide castelvecchi,1
+matt o'brien,1
+jule pattison-gordon,1
+poynter,1
+hiroko tabuchi,1
+reveal news,1
+alyson klein,1
+david w. hodgins,1
+diego.latella,1
+esquire,1
+michael levine,1
+jonathan chadwick,1
+benedict carey,1
+cooley,1
+dana liebelson via  david bolduc,1
+cnn via  jeremy epstein,1
+tod hagan,1
+shannon mcelyea,1
+somini sengupta via  dewayne hendricks,1
+*the guardian* via david j. farber,1
+zach miners via gene wirchenko,1
+ben heubl via peter bernard ladkin,1
+avweb.com,1
+independent,1
+joseph menn via henry baker,1
+what's new via david farber,1
+carl page,1
+tin tin,1
+john mccalpin,1
+roy sinclair,1
+"tor-einar jarnbjo,     dave aronson",1
+spinoza,1
+lee pender via monty solomon,1
+trip gabriel via monty solomon,1
+miguel helft via monty solomon,1
+"merlyn kline, paul schreiber",1
+john haselsberger,1
+drew harwell,1
+toi and uk mirror,1
+kaspersky,1
+azfamily,1
+peter sayer  via jim reisert,1
+"leo kelion,  brian randell, eric burger",1
+casey johnston via dewayne hendricks,1
+verge via lauren weinstein,1
+sean gallagher on  jack goldsmith,1
+steve brack,1
+via lauren weinstein,1
+lmg security,1
+medscape  via fr. stevan bauman,1
+harold fel,1
+don stokes,1
+christophe augier,1
+patrick mcgeehan via pgn,1
+alicia chang via pgn,1
+mark m. newton,1
+mark bartelt,1
+trevor paquette,1
+mary shafer,1
+jerome svigals,1
+dale gombert,1
+peter ryan,1
+jessica e. vascellaro via monty solomon,1
+"peter r cook, arthur flatau",1
+"rob seaman, ken knowlton",1
+"martyn thomas,  michael smith, geoffrey brent, dimitri maziuk",1
+mark rockwell,1
+alexandre kampouris,1
+mark h. johnson,1
+frank,1
+alice silverberg,1
+farhad manjoo via monty solomon,1
+michael caloyannides,1
+bruce grierson,1
+amnesty international,1
+sean lyngaas,1
+don pittis,1
+andy maxwell,1
+james cloos,1
+"michael grant,  phil nasadowski",1
+wtop via jeremy epstein,1
+macworld,1
+"john rivard,  steven sprague",1
+ethan ackerman,1
+munir kotadia via pgn,1
+erik larkin via george ledin,1
+mark barnabas luntzel,1
+lynn via dave farber's ip,1
+matthew d. healy,1
+"clive d. w. feather, amos shapir",1
+dan keating via   lillie coney,1
+"paul czyzewski, mark brader, dan riley",1
+"richard pennington, dave harris, mark brader",1
+talmon,1
+kyle wiens  via prashanth mundkur,1
+torrentfreak  via david farber,1
+nyt via nnsquad,1
+stu sjouwerman via  gene wirchenko,1
+seth johnson,1
+yuval noah harari via henry baker,1
+cracked,1
+ieee spectrum item via werner u,1
+politico via d kross,1
+jon oltsik via  werner u,1
+geektime via amos shapir,1
+simon sharwood via henry baker,1
+jackie dove,1
+science via pgn,1
+zdnet via  gene wirchenko,1
+scientific american via richard stein,1
+naked security via rob slade,1
+coindesk via rob slade,1
+washpost via  monty solomon,1
+claire duffin via chris drewe,1
+gizmodo via arthur t.,1
+garry trudeau,1
+pgn-culled from lauren weinstein,1
+ars technica via henry baker,1
+"rebecca mercuri, pgn",1
+epic news,1
+aristos georgiou,1
+jacklin kwan,1
+penn state,1
+global witness,1
+the bureau investigates,1
+govinfosecurity,1
+jan woliltzky,1
+christian fuchs,1
+lucas mearian  via gene wirchenko,1
+salon.com via  david farber,1
+martin delgado  via henry baker,1
+joab jackson  via gene wirchenko,1
+joab jackson via  gene wirchenko,1
+"dimitri maziuk,  paul schreiber",1
+"b.j. herbison, larry sheldon, paul robinson",1
+zach dorfman,1
+sam levin,1
+katharine seelye   via pgn,1
+jim wagner,1
+dan laidman via pgn,1
+david pescovitz  via monty solomon,1
+paul e. ford,1
+esther dyson via dave farber,1
+dawn onley via  pete mellor,1
+angelos d. keromytis,1
+peter v. cornell,1
+jeff savit,1
+eric hanchrow,1
+matt curtin,1
+paul terwilliger,1
+pete mcvay,1
+kevin rolph,1
+tomas sander,1
+theodore s. norvell,1
+john arundel,1
+ami abraham silberman,1
+ron,1
+enrique g. sauer,1
+eric j. korpela,1
+jack whittaker via gabe goldberg,1
+trk via gabe goldberg,1
+think progress,1
+the weekly standard,1
+google via dan jacobson,1
+wolfstreet,1
+terena bell,1
+tech times,1
+dxc,1
+star advertiser,1
+paul roberts via jeremy epstein,1
+"martin ward,  peter houppermans, dimitri maziuk",1
+ynetnews via mark thorson,1
+john r levine,1
+erik hollnagel,1
+david weil,1
+"john levine, ted lee,  simson garfinkel",1
+robert mcmillan via pgn,1
+walt bogdanich,1
+via ross anderson,1
+"john levine, jonathan kamens",1
+the hour,1
+"amos shapir,  chris drewe",1
+"richard stein,  craig s. cottingham",1
+john pearley huffman  via monty solomon,1
+hiawatha bray  via monty solomon,1
+bob desilets,1
+digital  bond via nnsquad,1
+thor olavsrud via  gene wirchenko,1
+craig forman via monty solomon,1
+austin considine via lauren weinstein,1
+bill snyder via   gene wirchenko,1
+"dave farber,  john fricker",1
+paul ferguson via gregory hicks,1
+"jacob appelbaum, declan mccullagh",1
+steven overly,1
+john adams,1
+steven cheung,1
+daily mail via geoff goodfellow,1
+the nytimes  via gabe goldberg,1
+tenable,1
+catalin cimpanu via  henry baker,1
+meritalk,1
+"john levine,  mark kramer",1
+"pete disdale,  richard s. russell, joe keane",1
+"unoda, stanley center,  stimson center",1
+sipri,1
+ars technica via hb,1
+slate via lw,1
+cory doctorow via hb,1
+sean gallagher via hb,1
+paul alan levy via dave farber,1
+mike masnick via hb,1
+chris rock via hb,1
+"alister wm macintyre,  geoff kuenning",1
+wim heirman,1
+c greenock,1
+feldman-halderman-felten via pgn,1
+hawaii news now,1
+brian barrett,1
+paul vixie,1
+"david a. graham, dave crocker",1
+"dmitri maziuk, john levine",1
+alexandra wolfe wsj,1
+ray dalio,1
+nih via geoff goodfellow,1
+rich klawiec,1
+friedrich knauss,1
+markus fleck-graffe,1
+matti huuhtanen via monty solomon,1
+sol j. greenspan via gene spafford,1
+lynn,1
+"hamish marson, jurek kirakowski,  george c. kaplan",1
+john mcdermott,1
+jock gill via dave farber,1
+"tom poe, jei",1
+"michael bacon, klaus brunnstein,   mike albaugh, merlyn kline, dave williams",1
+"rob slade, greg searle,  george c. kaplan, michael bacon",1
+"nick simicich, peter b.",1
+vim,1
+spamcop,1
+"hal murray, ken knowlton",1
+eaid-berlin,1
+russell stewart,1
+arthur smith,1
+dave katz,1
+"r.s. heuman, rob slade",1
+marcus didius falco,1
+"rob bailey, clay jackson",1
+mark wilkins,1
+allan hurst,1
+diana neuman,1
+brian berg,1
+carlos villalpando,1
+ellen messmer via jeremy epstein,1
+paul f. roberts via gene wirchenko,1
+tim harford via  wendy m. grossman,1
+boingboing via lw,1
+suit,1
+catalin cimpanu  via werner u,1
+"john sebes, mark kramer,  michael kohne, mark e. smith",1
+brian krebs via george sherwood,1
+jonathan a. zdziarski via  monty solomon,1
+brian r. fitzgerald,1
+eric e. schmidt and jared cohen,1
+george sadowsky,1
+the wharf rat,1
+adrian chen,1
+googleonline via lauren weinstein,1
+haley mlotek,1
+abc via lw,1
+betaboston via bob frankston,1
+patch watchdog audit,1
+foxbusiness,1
+fox business,1
+digital nation,1
+la review of books,1
+jonathan drummey,1
+rick downes,1
+phillip musumeci,1
+dorothy graham,1
+ryan naraine via fuzzy gorilla,1
+c't via markus kuhn,1
+matthew bloch,1
+christopher allen,1
+natasha singer  and brian x chen via dave farber,1
+the verge via lauren weinstein,1
+"devlin barrett via dewayne hendricks,    lauren weinstein, david s. h. rosenthal, rich kulawiec",1
+"dimitri maziuk, wols",1
+mike godwin via dave farber,1
+john connor,1
+"diomidis spinellis, chris smith",1
+mark m bennison,1
+william reitwiesner,1
+david kesmodel via monty solomon,1
+alan fitch,1
+kevin kadow,1
+gregg keizer  via gene wirchenko,1
+kevin g. barkes,1
+timothy on slashdot via  lauren weinstein,1
+miguel bustillo via monty solomon,1
+ali zerdin via george ledin,1
+dean takahashi via george ledin,1
+"valdis kletnieks,  michael smith",1
+christopher ketcham via pgn,1
+the boston globe via john day,1
+kim zetter via  acm technews,1
+darren pauli,1
+cnn.co,1
+usao-dc department of justice,1
+cnbc.com,1
+"john levine, brian inglis",1
+"terje mathisen, brian inglis",1
+arrl via  ed ravin,1
+john horgan,1
+chris weller,1
+simon denyer,1
+"lw, al mac",1
+kyle york pgn-ed,1
+"mark brader, paul edwards,  david brodbeck",1
+charles preston,1
+peter williams,1
+andrew o' baoill,1
+julian thomas,1
+carson harding,1
+"john hines, john a. stewart, ed ravin, chris smith,  matthew delaney, david cantrell",1
+sarah clark via monty,1
+phil yacuboski  via monty,1
+ed fletcher via monty,1
+somini sengupta via monty,1
+ernesto via  dewayne hendricks,1
+swanni via dewayne hendricks,1
+cindy waxer,1
+"martin ward,  jc cantrell",1
+ap via gabe goldberg,1
+nsf,1
+science alert,1
+casey newton,1
+"yeshiva world, geoff kuenning",1
+"bella, michael bacon",1
+"john levine, gabe goldberg, john levine, gabe goldberg",1
+pete morgan-lucas,1
+gregory f. march,1
+joan brewer,1
+james orton,1
+emmie martin,1
+zack whittaker via  gene wirchenko,1
+consumer reports via gabe goldberg,1
+troyhunt,1
+allen/chan via diego latella,1
+george swan,1
+ross stapleton-gray via dave farber,1
+ryan block via  dave farber,1
+mythdraug,1
+dave glicksberg,1
+carl f,1
+andre kramer,1
+zero day initiative,1
+entrepeneur,1
+foreign affairs,1
+techxplorre,1
+bklyner,1
+car and driver via richard stein,1
+north jersey,1
+nicola davis,1
+"jose maria meteos,  amos shapir",1
+udo de haes,1
+jeff yan and ahmad salah el ahmad  via monty solomon,1
+greg sandoval,1
+"john sullivan, bill hopkins",1
+ed kilgore,1
+medianama,1
+matt taibbi,1
+devin coldewey,1
+nvteh,1
+daily bruin,1
+jonathan m. smith,1
+aaron poof matthews,1
+roger h. goun,1
+ethan mckinney,1
+austin donnelly,1
+michael sims,1
+bennett haselton,1
+mitch james via dave stringer-calvert,1
+"lloyd wood, ken garlington",1
+robert rossa,1
+"finucane/lazar  via monty solomon, jim reisert",1
+bob herbert via monty solomon,1
+peter van allen via monty solomon,1
+kane/sheth via monty solomon,1
+klug/shimpi via monty solomon,1
+"al macintyre,  kelly bert manning",1
+rubio,1
+telegraph.co.uk,1
+"dan jacobson, thomas koenig",1
+"martin ward,  martin ward",1
+"richard stein, martin ward",1
+garry allen,1
+pat st-arnaud,1
+mike lewis,1
+j.d. abolins,1
+rodger whitlock,1
+samuel gibbs,1
+adam vaccaro,1
+local ghost,1
+malware?,1
+chris williams via  henry baker,1
+ron nixonaug,1
+jeffrey carr via henry baker,1
+ben popken via davide restivo and dave farber,1
+justin scheck via monty solomon,1
+mike m. ahlers via pgn,1
+tim jones via monty solomon,1
+henry baker with  excerpts from ellen ullman's oped,1
+ellen huet via paul saffo,1
+annalee newitz via dave farber's ip,1
+mat honan via marv schaefer,1
+steve crocker via dave farber,1
+phil holden,1
+alex davies  via gabe goldberg,1
+economic times via alister wm macintyre,1
+gking,1
+greg hadley,1
+ronald s. ross,1
+david wittenberg,1
+andrew jacobs,1
+brian mosley,1
+phil johnson,1
+howard solomon via gene wirchenko,1
+john bohannon via henry baker,1
+michael d. shear via henry baker,1
+antone gonsalves,1
+david rowan,1
+alex krutov,1
+hamburger abendblatt,1
+wsj+,1
+wsj + nyt  item,1
+michelle thompson,1
+carole cadwalladr,1
+conde-nast,1
+healthcare it,1
+"ed dewath, grady booch",1
+kristin houser,1
+freefall,1
+j.r. raphael,1
+michael savage,1
+james h fisher,1
+luly friesdat,1
+adam segal,1
+brisbane times  via henry baker,1
+koehntopp,1
+android guys,1
+zeb eckert and others via gabe goldberg,1
+carl straumsheim,1
+*thenytimes*,1
+blookberg via henry baker,1
+robert lemos  via monty solomon,1
+"ken shotting,  john stanley, mike jeays, jay ashworth",1
+"ivan jager, anthony",1
+the institute alert,1
+enqadget,1
+adrian lightly,1
+joan lee brewer,1
+randal l. schwartz,1
+"anthony w. youngman, nick brown,    marc horowitz, robert woodhead",1
+"j.d. abolins, danny lawrence",1
+hollen barmer,1
+pgn editorial,1
+greg wood,1
+william gibson,1
+"alexis madrigal via monty solomon, lauren weinstein",1
+sven dietrich,1
+broder vs musk via pgn,1
+catherine rampell,1
+joji hamada via  jim reisert,1
+"al macintyre, tom van vleck",1
+"lauren weinstein,  dossy shiobara, david pollak",1
+will douglas heaven vis henry baker,1
+"dave blake, brent kimberly",1
+stacey on iot,1
+walter williams,1
+rob slade. craig cottingham,1
+kevin kostolo,1
+"peter b. ladkin, dwikstrom",1
+john markoff and claire cain miller,1
+review journal via gene wirchenko,1
+steven kurutz via monty solomon,1
+ars  via sean peisert,1
+loek essers,1
+tim hornyak,1
+tim wum,1
+steve henn,1
+huffpost via  dave farber,1
+"bob frankston,  walter bushell",1
+fred,1
+"anthonys lists,  bill gunshannon, john r. levine, bob frankston, chris drewe",1
+govinfosec,1
+detroit free press,1
+healthcareblog,1
+matt mcfarland,1
+malwarebytes,1
+cathy farmer,1
+luther weeks,1
+recode via lw,1
+justin jouvenal via henry baker,1
+ryan o'hare,1
+anthony gockowski,1
+"jeremy epstein, john levine",1
+jxm,1
+skylightcyber,1
+cshub,1
+comms alliance,1
+derwesten,1
+investorplace,1
+libercus,1
+eileen brown,1
+inews,1
+peter h. gregory,1
+fortune magazine email,1
+via geoffg,1
+via gabeg,1
+fauquiernow,1
+stalebot,1
+oxford,1
+scientific american blog network,1
+fiercewireless,1
+andrew griffin,1
+makeuseof via  gabe goldberg,1
+andrew rose,1
+"ron bean, peter b. ladkin",1
+cnbc and bloomberg via geoff goodfellow,1
+brian krebs,1
+samuel axon,1
+notalwaysright,1
+bob blakley iii,1
+vin mclellan,1
+"pete klammer, jay r. ashworth",1
+"geoffrey brent, richard gadsden",1
+kim severson via monty solomon,1
+virginia heffernan via monty solomon,1
+george adomavicius,1
+olav langeland,1
+lillie coney via pgn,1
+tom zeller via pgn,1
+julia silverman via pgn,1
+"michael bacon,  andrew koenig, rob bailey",1
+jonathan hayward,1
+merrill lynch ric,1
+sigcomm paper and joseph cox via henry baker,1
+"jeremy epstein, henry baker",1
+kressel and winarsky via pgn,1
+linda gorman,1
+rohan sullivan,1
+henry lee  via ari ollikainen,1
+bart thielges,1
+ecrts,1
+fox/johnson via paul saffo,1
+politico via  jeremy epstein,1
+jim o'donnell,1
+william langewiesche via  bob frankston,1
+megan geuss via monty solomon,1
+katie collins via monty solomon,1
+colin lecher via monty solomon,1
+michael jordan via prashanth mundkur,1
+jason mick via gene wirchenko,1
+"kurt seifried, dick mills",1
+chelsea conaboy via monty solomon,1
+tom hackett,1
+nathan neulinger,1
+"dan fandrich, malcolm pack",1
+nicolai langfeldt,1
+bo elkjaer and jay d. dyson via declan mccullagh,1
+ed walker via declan mccullagh,1
+joe manfre,1
+rachel slatkin,1
+jef poskanzer via dug song,1
+dave kinswa,1
+brian mcwilliams via dave farber,1
+david chaum,1
+"doug mcilroy, walter roberson,   roger burton west, jonathan kamens, russell smiley, sander tekelenburg",1
+steven branigan,1
+interisle,1
+philip l. lehman,1
+fedscoop,1
+"steve golson, dan jacobson",1
+"dan jacobson, pgn, dan jacobson",1
+sam garst,1
+timothy b. lee,1
+"edwin slonim,  dimitri maziuk",1
+masslive,1
+tom donilon,1
+simon wright,1
+christine van dusen via  monty solomon,1
+marty leisner,1
+john oram,1
+pgn-ed from dan swinehart,1
+vassili prevelakis,1
+grant bayley,1
+len lattanzi,1
+jon p,1
+joe faber,1
+qmul,1
+omark thorson,1
+light commands,1
+dco,1
+"amos shapir,  roderick rees",1
+colin stamp,1
+clive d. w. feather,1
+"joel maslak, dag-erling sm�rgrav, paul saffo",1
+shear and shane,1
+nicole perlroth  via monty solomon,1
+tania branigan,1
+david willman,1
+eugene h. spafford,1
+nicky l sizemore,1
+adolphius st. clair,1
+iain thomson via al mac,1
+ap item via the boston globe,1
+gizmodo via lauren weinstein,1
+steve bittenbender,1
+"serguei patchkovskii,   ron rivest",1
+thehill via david farber,1
+theresa juva-brown  via gene wirchenko,1
+techcrunch via nnsquad,1
+*the white house* via dave farber,1
+symantec item via henry baker,1
+herb lin via dave farber,1
+youtube via  nnsquad,1
+"adam shostack,  rob bailey",1
+specter and halderman with andrew appel's comments via pgn,1
+swissinfo,1
+darpa via  richard stein,1
+skullcap savant via goodfellow,1
+ron wyden via cnn,1
+medical express,1
+nejm,1
+"atilla, wol, amos shapir, rob slade",1
+intego,1
+gazettenet,1
+swj,1
+kevin poulsen via  dewayne hendricks and david farber,1
+"hamish marson, phil kos",1
+risks list owner,1
+thomas kristmar,1
+"dale pennington, pgn",1
+fritz whittington,1
+the economist via ross anderson,1
+techology review,1
+paul krugman via richard stein,1
+the logic of science,1
+university of houston,1
+npr via lauren weinstein,1
+nyu tandon,1
+happy holidays and a peaceful new year,1
+oona mcgee,1
+whnt,1
+ieee spectrum via gabe goldberg,1
+ronald l. rivest,1
+bbc via brian randell,1
+bbc via jose maria mateos,1
+wbtv,1
+tami abdollah,1
+joel achenbach via jim geissman,1
+elliott,1
+cathy o'neil via diego latella,1
+ellen nakashima karoun demirjian and philip rucker,1
+andy borowitz in *the new yorker*,1
+andrew e. kramer,1
+ellen barry,1
+kevin carey,1
+shaun nichols via geoff goodfellow,1
+kathryn haun and eric j. topoljan,1
+hipaa via  mark trumpler,1
+labs.rs via jim forster,1
+straits times  via mark thorson,1
+the guardian via  henry baker,1
+weber-wulff,1
+michael e. goldsby,1
+craig mautner,1
+brett harmond,1
+"ian entecott,  jonathan thornburg, curt sampson, jeff jonas, jacob sparre andersen,  anthony w. youngman, andrew roberts, jens braband, jerrold leichter",1
+"david brooks, james morris",1
+torrentfreak via monty solomon,1
+"steve wildstrom, martyn thomas",1
+jim gettys,1
+"gregory carvalho, amos shapir,  julian bradfield",1
+stephen lawson via gene wirchenko,1
+william green via  henry baker,1
+paul wilcock,1
+nicole perlroth via matthew kruk,1
+johnson/greenhouse  via monty solomon,1
+"phil smith iii, andy cole, dag-erling smorgrav, jim geissman",1
+bbc via  duncan gibson,1
+rubinkam/bajak,1
+david streitfeld,1
+bankinfosecurity via  al mac,1
+ars technica via zdnet,1
+michael simon,1
+geek wire,1
+michael vanputte,1
+andy cole,1
+via glenn s. tenney,1
+ap via jim reisert,1
+nytimes.com via bob frankston,1
+david kravets with  comments from chris beck,1
+jones/hoyos via henry baker,1
+zdnet via pgn,1
+the register via werner u,1
+the cyberwire,1
+wharton knowledge,1
+"martin ward, dmitri maziuk",1
+washpost editorial,1
+cbc news via jose maria mateos,1
+"chris drewe, paul edwards",1
+forbes.com,1
+nbc-ny,1
+topic box,1
+edweek,1
+joe gould,1
+market watch,1
+idle words,1
+quillette,1
+"ladkin, karish, ladkin",1
+karish,1
+kelly kennedy via  monty solomon,1
+david strom via  gabe goldberg,1
+takingnote,1
+ben sasse via  henry baker,1
+norsecorp via alister wm macintyre,1
+"macintyre, o'keefe",1
+"brian inglis,  bob frankston",1
+eric geller,1
+vox.com,1
+roderick rees,1
+"peter b. ladkin, nancy leveson",1
+ngiam shih tung,1
+nathan good,1
+"martin wheatman, scott nicol",1
+trammell hudson,1
+tim finin,1
+jay anantharaman,1
+john noble,1
+edwin m. culver,1
+jan verbrueggen,1
+norman gray,1
+tagesschau,1
+bob poortinga,1
+reetika khera,1
+thepointsguy,1
+william egginton,1
+jurek,1
+charles mann on naked capitalism,1
+cjr via prashanth mundkur,1
+healthcare it news,1
+"john levine, dimitri maziuk",1
+rick kuhn,1
+george white,1
+gary marx,1
+r. jagannathan,1
+martin wheatman,1
+mario hendricks,1
+"paul van keep, greg searle",1
+a. harry williams,1
+hal lewis,1
+michal rosa,1
+uspto,1
+analog,1
+keith naughton,1
+theguardian via ashish gehani,1
+nasdaq item via robert schaefer,1
+malwarebytes & help net,1
+stephen doig,1
+doug montalbano,1
+william langewiesche,1
+dck via lauren weinstein,1
+bruce covert via  dewayne hendricks,1
+"david farber, peter trei, gene spafford",1
+snowden via  henry baker,1
+brian donohue  via gene wirchenko,1
+martine powers via  jim reisert,1
+"max timchenko,  jeremy epstein",1
+"dimitri maziuk, mark fineman",1
+click,1
+daniel dern,1
+lauren kirchner via judy clark,1
+hasm,1
+tim libert,1
+usnews via lauren weinstein,1
+"dimitri maziuk, david e. ross",1
+eric lichtblau via david lesher,1
+ryab naraine via  monty solomon,1
+david strom via gabe gold,1
+peter baker,1
+don nichols,1
+washpo  via jeremy epstein,1
+peter longeray via jim reisert,1
+coker and sonne,1
+mark wilson,1
+ted byfield,1
+reel and robertson,1
+dan goodin via hb,1
+clint chaplin,1
+james oberg via  pat flannery,1
+stuart woodward,1
+elisabeth bumiller,1
+dana hull via paul saffo,1
+oprah winfrey via monty solomon,1
+"fredric l. rice, arthur flatau",1
+jeff grigg,1
+multiple authors,1
+politics,1
+science alert via lauren weinstein,1
+bae systems via werner u,1
+mctaylor,1
+inthenews,1
+fred e. ballard,1
+chuck falconer,1
+"scott k. ellis, skip la fetra",1
+paul rosenzweig,1
+kaylee fagan,1
+ianmsc,1
+"lindsay marshall, john levine",1
+cordis news,1
+laura donnelly,1
+tk,1
+torrentfreak/slashdot,1
+*metro* via chris drewe,1
+"notatla, arthur flatau",1
+david lamkin,1
+andrew watkins,1
+"stephen poley, darryl smith",1
+myajc,1
+volz,1
+help net & heimdal,1
+dfs.ny via the conversation,1
+gao & gov info security,1
+free beacon,1
+s candice hoke,1
+techdirt via al mac,1
+softlinkweb,1
+jon grinspan,1
+jeremy merrill,1
+lw's blog,1
+bigstory,1
+wired via al mac,1
+ian sample,1
+c. michael holloway,1
+dan eggen via pgn,1
+kevin n haw,1
+joe smith,1
+david b. lewis,1
+"chris smith, doug burbidge",1
+james w. adams,1
+chase/mcmahon via monty solomon,1
+favot/hailey via monty solomon,1
+l.l brasier via monty solomon,1
+joseph bonneau  via monty solomon,1
+jon borland  via monty solomon,1
+"stanley f. quayle, barry gold",1
+everett w. howe,1
+simon chesterman,1
+stanley a. klein,1
+yaron davidson,1
+bob axtell,1
+mark newton,1
+tom van vleck via ars technica,1
+dot,1
+khari johnson,1
+kjzz,1
+m.k.mcgee,1
+the register via ben moore,1
+leo hermann,1
+bayerischer rundfunk,1
+joe weiss,1
+richard sandomir via pgn,1
+steven vaughan-nichols,1
+digitaltrends,1
+huffpost.com,1
+dmv report,1
+space rogue,1
+david skillicorn,1
+cameron wilson,1
+mahlon,1
+william c bonner,1
+sten carlsen,1
+taz daughtrey,1
+peter rieden,1
+"jim horning, norman gray",1
+siobhan roberts,1
+davidger,1
+stuart russell,1
+cliff kilby redux,1
+miguel a gallardo,1
+michael hogsett,1
+dave ahmad,1
+aryeh goretsky,1
+david learmount via chris drewe,1
+nytimes via  nnsquad,1
+vijay via prashanth mundkur,1
+wsj via nnsquad,1
+reuters  via richard i cook,1
+reuters via nnsquad,1
+david perera via henry baker,1
+julie hirschfeld davis  quoting megan j. smith,1
+wired via matthew kruk,1
+"leonard finegold,  chris drewe",1
+david mehegan via  monty solomon,1
+"henry baker, jerry leichter",1
+helen wright and ben zorn,1
+cade massey and joseph simmons,1
+jean dugger,1
+phil rose,1
+john david galt,1
+douglas siebert,1
+bruce wampler,1
+bernard weinraub via monty solomon,1
+"martin cohen,   andrew dalke",1
+ted bridis via  monty solomon,1
+phillip swann via monty solomon,1
+anick jesdanun via dave farber to pgn,1
+david p. reed,1
+thomas a. russ,1
+mark t.b. carroll,1
+brock n. meeks via david farber,1
+rich kulawiec via ip,1
+rick moen,1
+bonnie packert,1
+ross younger,1
+"tim diebert, pgn",1
+ellen messmer  via gene wirchenko,1
+smolloy via david bolduc,1
+nick bilton via matthew kruk,1
+stephen c. webster via lauren weinstein,1
+"chris barnabo,  richard s. russell, r. g. newbury",1
+"phillip rogaway, *the atlantic*",1
+propublica via suzanne johnson,1
+help net via al mac,1
+dslreports via  lauren weinstein,1
+*ibtimes* via bob frankston,1
+*nytimes* via henry baker,1
+"amos shapir, simon wright, henry baker",1
+jerome ravetz,1
+philipp hanes,1
+danya hooker via dana a. freiburger,1
+dallman ross,1
+hans greimel excerpt,1
+"martyn thomas,  tom watson, noone, eric t. ferguson",1
+"paul terwilliger,  ralph barone, richard stein, edward reid, bob dubery",1
+"paul ward, geyser admin",1
+rebecca wright,1
+david cake,1
+techdirt via alister wm macintyre,1
+eric lichtblau,1
+lorenzo franceschi-bicchierai via richard forno,1
+christopher brooks,1
+slashdot via dan jacobson,1
+mike crawford,1
+"michael kohne,  al mac",1
+cnn politics,1
+sarah boseley,1
+"bernie cosell, martin ward",1
+h.l.hausen,1
+andrew greene,1
+steve schear via dewayne hendricks,1
+zach miners  via gene wirchenko,1
+businessweek  via david j. farber,1
+"chris drewe, martyn thomas",1
+"jonathan kamens, chris j brady, jonathan kamens",1
+sundry sources merged by pgn,1
+craig timberg and ellen nakashima,1
+christina pazzanese,1
+susan casey in vanity fair,1
+via simson garfinkel,1
+euro,1
+finance,1
+"david lesher, lauren weinstein",1
+nathan popper via dave farber,1
+katharine q. seelye via monty solomon,1
+ny post,1
+healio,1
+lockdownprivacy,1
+jonathan m. gitlin,1
+"richard outerbridge, steve schafer",1
+ashlee vance,1
+alex papadimoulis via joe loughry,1
+"peter b. ladkin, don norman",1
+the jerusalem post,1
+tech review,1
+waymo.com,1
+john wunderlich,1
+"richard stein,  carlos vilalpando",1
+juergen fenn,1
+tom philp,1
+charlie wertz,1
+ari ollikainen,1
+walt daniels,1
+fred bone,1
+nancy bogart,1
+peter r cook,1
+ken nitz,1
+abigail,1
+joseph bergin,1
+les weston,1
+asa bour,1
+ann tsai,1
+dmagda,1
+leigh blankenship,1
+john christoffersen via monty solomon,1
+dan shoop,1
+art t.,1
+joyce k scrivner,1
+dan graifer,1
+m.s. jaffe,1
+"dave aronson, randy davis",1
+"george c. kaplan,    mary schafrik",1
+david weiss,1
+m. heffernan via sharon kramer,1
+howard blume via lauren weinstein,1
+george dvorsky via randall,1
+david kravets via lauren weinstein,1
+tech freedom via lauren weinstein,1
+david linthicum  via gene wirchenko,1
+dan goodin via  dewayne hendricks,1
+click and clack,1
+via david farber,1
+steve corrick,1
+david larue,1
+william k rashbaum  via monty solomon,1
+aaron,1
+thomas harrington,1
+verdict,1
+usa today and others,1
+nist.gov,1
+inc.,1
+scrounger,1
+"chris adams, gary mcgraw",1
+ray randolph,1
+nicky l. sizemore,1
+"perry bowker, zygo blaxell",1
+army times via gene spafford + pgn,1
+dr. robert r. fenichel,1
+eventbrite/wipo via gabe goldberg,1
+army times,1
+big in the voting business,1
+french gourmet,1
+"race, age, gender, zip code, etc.",1
+rdp,1
+the cybersecurity firm declinedto identify the bank,1
+you can find ourcomplete guide to limiting google's tracking here.,1
+gfr,1
+egfr,1
+mostly,1
+"forexample, when to begin hemodialysis",1
+ms. johnston declined to comment.,1
+"apparently if nobody is providing free coffee anddonuts, we won't go.",1
+and recruit students in technical areas *into* our profession,1
+"submissions, default disclaimers, archive sites, copyright policy, etc.",1
+nicole perlroth et al. via pgn,1
+richard m. stein,1
+deborah weisman,1
+"david petrou, fred cohen",1
+"bill weitze, david gillett",1
+geoffrey leeming,1
+alphalau,1
+kimmo,1
+tim culpan,1
+pew trusts,1
+sarah n. lynch,1
+herb booth,1
+susmit jha,1
+mateos,1
+"john levine, arthur flatau",1
+myce,1
+bbc via  prashanth mundkur,1
+tiffany trader,1
+kyle orland,1
+brett mahar,1
+reviewed by pgn,1
+tobin fricke,1
+"john slimick, kevin g. rhoads",1
+josh taylor,1
+cpo magazine,1
+cellebrite,1
+dominion energy,1
+sendgrid,1
+dam jackson,1
+joseph shead,1
+andrew nicholson,1
+paul tomblin,1
+"philip nasadowski, martin ward, derek p schatz",1
+joanna glasner via monty solomon,1
+peter coy,1
+rita rubin via pgn,1
+gerry smith via pgn,1
+"e. john sebes, rebecca mercuri",1
+steven cherry,1
+sharon lafraniere,1
+paul marks  via lauren weinstein,1
+amy chozick via monty solomon,1
+francis moran via gene  wirchenko,1
+john biggs via  monty solomon,1
+tidbits,1
+robin harris,1
+medium via arthur t,1
+fly&dine,1
+rocketnews,1
+pam boyd,1
+kelly manning,1
+rob graham,1
+dave bank,1
+s. llabres,1
+richard snider,1
+"david martin, edward nilges",1
+noah shachtman via monty solomon,1
+tom yager via gene wirchenko,1
+"fred cohen, steve wildstrom",1
+"kees huyser, amos shapir",1
+elizabeth a. harris  via henry baker,1
+ryan gorman via  monty solomon,1
+david wheeler via henry baker,1
+himanshu arora via dewayne hendricks,1
+sean gallagher via monty solomon,1
+tom brewster via  gene wirchenko,1
+"scott miller,  martyn thomas",1
+"leonard finegold,  dimitri maziuk, glynn clements",1
+bob hinden,1
+charlie firestone,1
+ashley carman and others  via henry baker,1
+epic and the nytimes via pgn,1
+ashley carman,1
+sacbee,1
+alex luhn roundabout via geoff goodfellow,1
+irish examiner,1
+patrick nelson,1
+gabe goldberg on fortune item,1
+kstp via  gabe goldberg,1
+amos shapir on bbc item,1
+prlog via  steve lamont,1
+news observer via danny burstein,1
+rick falkvinge,1
+"david alexander, rob slade",1
+melandrob searle,1
+mathew lodge,1
+lauren lyster via  geoff goodfellow,1
+suzanne johnson via  dave farber,1
+clay wells via dave farber,1
+archive,1
+googleapis,1
+eekid via david farber,1
+barnaby feder  via monty solomon,1
+catherine m horiuchi,1
+jon van and becky yerak via paul saffo,1
+matt zapotosky and  ellen nakashima via cipher,1
+krebs via al mac,1
+the atlantic via bob gezelter,1
+"al mac, rogier wolff",1
+geoffrey sinclair,1
+"richard bos, duncan gibson",1
+cbs via monty solomon,1
+david lazarus via mark brader,1
+elizabeth dwoskin via jim reisert,1
+mazzetti/schmidt via matthew kruk,1
+dan raywood via  dewayne hendricks,1
+joe mullin  via lauren weinstein,1
+reform government  surveillance,1
+dara kerr  via dewayne hendricks,1
+woody leonhard via gene w.,1
+mcconnell/chertoff/lynn,1
+ntyimes,1
+"john levine, bob frankston",1
+"gadi evron, gadi evron",1
+eff via david farber,1
+"steven m. bellovin,  r. g. newbury",1
+"michael black, steve schafer",1
+ian staines,1
+"al stangenberger, erik mooney",1
+chris williams,1
+sarah jacobsson via gene wirchenko,1
+china daily,1
+ike delorenzo via monty solomon,1
+robert searle,1
+steve king,1
+eric nalder via jim haynes-pgn,1
+paul levy,1
+jack spine via pgn,1
+eric lichtblau and james risen,1
+andrew waugh,1
+carl hewitt,1
+iain thomson via keith a rhodes,1
+robin burke,1
+"paul tomblin, alan j rosenthal",1
+"d. joseph creighton, david hollman",1
+terry a. ward,1
+laura zuckerman via gene wirchenko,1
+denver nicks via  steve goldstein,1
+perlroth/gelles  via monty solomon,1
+tice deyoung via df,1
+kevin poulsen via herb lin,1
+"michael kohne, michael kohne  replying to herb lin",1
+"gene spafford,  fredric rice",1
+marty,1
+"tom goltz, john noble",1
+thomas c greene via dave farber,1
+benjamin robinson,1
+alan p,1
+klaus johannes rusch,1
+karsten m. self,1
+"simson l. garfinkel, jonathan kamens",1
+martin pool,1
+polly curtis via tom heathcote,1
+fu/xu/yan,1
+securityaffairs,1
+chris samuel,1
+michael schmitt,1
+pgn via john markoff,1
+"amos shapir, john levine",1
+channing joseph via  prashanth mundkur,1
+fox via lauren weinstein,1
+chris strohm  via henry baker,1
+shane harris  via  prashanth mundkur,1
+bbc  via lauren weinstein,1
+jenna wortham via  monty solomon,1
+russell brandom via dewayne hendricks,1
+"richard a. o'keefe,  dimitri maziuk",1
+inside higher ed,1
+katharein gemmell,1
+law gazette,1
+lww,1
+alan suderman,1
+"steve klein, michael kohne and others included",1
+"paul bennett, pete mellor",1
+"gary g. taylor, dan jacobson, sean dunn,   alex colvin",1
+"dag-erling sm�rgrav, dave bell",1
+rick jones via pgn,1
+david wheeler via curt sampson,1
+white house ostp,1
+vorausschau,1
+matt burgess,1
+ktvu,1
+common dreams,1
+"richard stein, stanley chow",1
+egghead.com,1
+richard m. smith  via brian,1
+"jeremy epstein, barry margolin,    bill stewart",1
+"todd wallack, kevin l. poulsen,    jonathan thornburg",1
+jim cook,1
+meridith levinson via  gene wirchenko,1
+howard webb,1
+barry jaspan,1
+david shambroom,1
+"john stanley,  larry sheldon",1
+michael lloyd and yuxing zheng,1
+david e. sanger and eric schmitt,1
+candice so,1
+gwen ackerman,1
+patrick tucker  via acm technews,1
+rick falkvinge via dewayne hendricks,1
+rich schroeppel,1
+"gene wirchenko, al macintyre, pete kaiser,  mike coleman, linda gorman",1
+martin virtel,1
+randall via dewayne hendricks,1
+christian kuhtz via dave farber,1
+david de leeuw,1
+"andrew morton, pgn",1
+"henry baker,  peter mellor",1
+joe bednorz,1
+pew internet,1
+htxt,1
+pekka pihlajasaari  via martyn thomas,1
+scott wlaschin,1
+peter hanecak,1
+lynn landes via  rebecca mercuri,1
+chris riggall via  donald r. calabro jr.,1
+kate knibbs,1
+security news media,1
+damian paletta,1
+the age,1
+martin schaef,1
+kaleigh rogers,1
+trust alliance,1
+dave kristol,1
+mike hearn,1
+dave parnas channeled via pgn,1
+wired via werner u,1
+dan bilefsky,1
+clarence williams via henry baker,1
+sean havey,1
+dustin volz,1
+"wols,  john levine",1
+markoff/vance via pgn,1
+kelly jackson higgins via pgn,1
+david kravets via jim reisert,1
+but in-flight systems off limits,1
+dbir,1
+hrw,1
+s;ate,1
+kyle barr,1
+"martin ward, richard stein",1
+"jan wolitzky, amos shapir, steve bacher",1
+timothy egan,1
+austin american statesman,1
+the guardian et al.,1
+yahoo.com,1
+tina nazerian,1
+"barry margolin, steve wildstrom,    gene wirchenko, r.g. newbury",1
+tai,1
+"excimer, scott peterson",1
+der spiegel,1
+henry k lee,1
+john e. dunn via  steve goldstein,1
+elinor mills via  monty solomon,1
+"steve loughran, peter houppermans",1
+stephen bounds,1
+pedt scragg,1
+"bill stewart, conor o'neill",1
+jonathan,1
+websense via monty solomon,1
+jeff zeleny  via monty solomon,1
+sharon gaudin  via pgn,1
+robert hall,1
+david alan gilbert,1
+"martin ward, theo bucher",1
+"terje mathisen, al macintyre, richard o'keefe",1
+chuck messall via dave farber,1
+stuart staniford,1
+global times,1
+statnews via wendy grossman,1
+the hacker news bia robert mathews,1
+the martha's vineyard times,1
+linkedin,1
+newser,1
+review geek,1
+hagai bar-el,1
+"beth mole, ars technica",1
+project veritas,1
+"ross anderson, reviewed by sven dietrich",1
+"eli the bearded, kaufmann, john levine",1
+detroit cbs,1
+alex tapscott,1
+walter hunt,1
+tv news via al mac,1
+"david brodbeck, rob slade,  jim hickstein, paul edwards",1
+derek j decker,1
+markotime via geoff goodfellow,1
+techtimes,1
+holly ober,1
+john hall,1
+joon ian wong,1
+"keith medcalf, gene wirchenko, john levine",1
+john carreyrou,1
+amar toor via dewayne hendricks,1
+roberto a. ferdman via allan davidson,1
+*time* via  lauren weinstein,1
+nap van zuuren,1
+lauren weinstein and peter neumann,1
+rob kling,1
+nyt editorial summarized by pgn,1
+timothy l. o'brien via monty solomon,1
+nik barron,1
+"martin hepworth, mike causer",1
+j.h. haynes,1
+mark niesse,1
+the next web,1
+science times,1
+rollcall,1
+steve and micki bacher,1
+abc.au,1
+breaking alpha,1
+govexec,1
+jon porter,1
+the telegraph via henry baker,1
+youtube via david tarabar,1
+unep,1
+google via lw,1
+ieee computer,1
+umass,1
+brian p. dunleavy,1
+neil macfarquahar and andrew rossback,1
+monty solmon,1
+multiple items from monty,1
+"dimitri maziuk,  lothar kimmeringer",1
+"john levine, william brodie-tyrrell",1
+chess.com,1
+"f. rugge, ed.",1
+im garrison,1
+cap,1
+snopes via gabe goldberg,1
+randall monroe via jan wolitzky,1
+amw bacon,1
+gabe gpldberg,1
+"stefan lueders, keith medcalf",1
+liana heiten,1
+rob jackson,1
+adi robertson,1
+adi robertson  via monty solomon,1
+danny yadron connect,1
+krebs via bob gezelter,1
+adrianne jeffries via monty solomon,1
+sanger/shanker,1
+stuart levy,1
+"rob diamond, robert p schaefer",1
+konstantin /kosta/ beznosov,1
+"marc rotenberg, pgn",1
+sanger/perlroth via prashanth mundkur,1
+simon phipps  via gene wirchenko,1
+"john levine,  david e. ross, kelly bert manning",1
+brian yates,1
+bruce mcconnell  and pamela smith,1
+lucian constantin  via monty solomon,1
+daniel ellsberg via  janos gereben,1
+german finance watchdog,1
+pew research,1
+science news for students,1
+the atlantic via bob frankston,1
+ksnt,1
+martin cooper,1
+"john levine, andrew pam",1
+prospect,1
+davey winde,1
+icann,1
+typer durden,1
+areu,1
+shtfplan,1
+inc,1
+"henry baker, bob wilson, martin ward",1
+lali-larrauri via pgn,1
+auto express,1
+"dmitri maziuk, henry baker",1
+pgn-pruned from lw and retitled,1
+david broadbeck,1
+dave burstein via dave farber,1
+"arthur t., david hollman, no-name",1
+lisa fernandez and  julia prodis sulek via monty solomon,1
+eric a. taub via monty solomon,1
+geoff duncan via monty solomon,1
+marc,1
+erich neuhauser,1
+wjla via jeremy epstein,1
+joe nocera via pgn,1
+kevin poulsen via  henry baker,1
+*forbes* via lauren weinstein,1
+john gruber via  henry baker,1
+"stanislav meduna, steve loughran, nick brown,  robert scheidt, ray todd stevens, mark brader",1
+"dave brunberg, bob morrell, richard cook",1
+phil agre,1
+kris carlier,1
+mick topping,1
+s. alexander jacobson,1
+morten norman,1
+scott e. preece,1
+"bear giles, lshaping",1
+jonah lehrer via pgn,1
+tom ashbrook via monty solomon,1
+mlcook,1
+pgn via nicole perlroth,1
+sam biddle via lw,1
+kevin j. o'brien via  bob frankston,1
+vint cerf via lw,1
+nanette asimov via  jim reisert,1
+sfchronicle.com,1
+electrek},1
+thirdway,1
+vinton cerf,1
+jack h cable,1
+nathan munn,1
+kate sheridan,1
+thom hartmann/sam sacks,1
+michael kranish via monty solomon,1
+ken olthoff via pgn,1
+susan crawford via dave farber,1
+law,1
+rance delong,1
+nextgov,1
+mercurynews,1
+erik honda,1
+bugzilla,1
+jay caspian king,1
+"michael kohne, amos shapir, neil youngman",1
+ae,1
+christopher mims,1
+nsf via acm technews,1
+shane harris via henry baker,1
+mark fraser,1
+darlene storm via drew dean,1
+michelle goodman via dh,1
+chad terhune,1
+santiago tiongco,1
+sundry sources via al mac,1
+acm/infosys foundation,1
+via susan marie weber,1
+laurent guerby,1
+joseph kiniry,1
+"simon waters, danny burstein, gordon zaft",1
+"nicholas c. weaver, dan franklin,  kent borg, jerrold leichter, henry baker",1
+"david lesher, john murrell via  john f. mcmullen",1
+ed lowry,1
+ian botham,1
+"john markoff  on w. brian arthur, via pgn",1
+malcolm purvis,1
+joe stoy,1
+matteo hce valsasna,1
+betsy schwartz,1
+dave,1
+massimo felici,1
+brad chacos,1
+nicky woolf,1
+jack goldsmith,1
+pro publica,1
+anime,1
+"roger strong, pgn,  al mac, us ntsb via al mac",1
+"eric sosman, alexander klimov",1
+matt larson via monty solomon,1
+john leyden via lindsay marshall,1
+phil thornley,1
+"gerrit muller, craig s. bell",1
+chris j. brady,1
+robert x. cringely via dave farber,1
+stephen d.b. wolthusen,1
+*wired* via nnsquad,1
+pc-magazine,1
+mark vandevelde,1
+eurogamer,1
+stereogum via gabe goldberg,1
+beaujd,1
+foreign policy via suzanne johnson,1
+paul rubens,1
+david mitchell,1
+"gary barnes,  amos shapir",1
+ellen nakashima  via monty solomon,1
+mike porter,1
+ellen nakashima via  monty solomon,1
+g.m.sigut,1
+andre carezia,1
+maria korolov via gene wirchenko,1
+brian jackson  via gene wirchenko,1
+david e. sanger and nicole perlroth,1
+macdailynews,1
+dailydot,1
+russell brandom,1
+scientific american republishing,1
+circleid via almac,1
+"almac, clint chaplin,  dan geer",1
+doug humphrey,1
+"carl byington, chris drewe",1
+cynthia chen,1
+david ellis,1
+werner u.,1
+sarah wheaton,1
+chris vickery,1
+anthony cuthbertson,1
+earl boebert and james m. blossom,1
+third way,1
+mobileworldlive,1
+phil martel,1
+mclaughlin/froomkin,1
+michael,1
+beauhd,1
+sci am via  lw,1
+ryan francis,1
+softpedia via editordavid on slashdot,1
+boingboing via gabe goldberg,1
+bjorn carey,1
+sam machkovech,1
+gary t. marx,1
+itrc,1
+tom's,1
+todd weiss,1
+matthew wright,1
+matt swayne,1
+"michael bacon, craig burton",1
+emil protalinski  via monty solomon,1
+forest mars,1
+h d moore via monty solomon,1
+philip bragg,1
+scott renfro,1
+aaro j koskinen,1
+alex wexelblat,1
+jed graef,1
+daniel chalef,1
+phil anderson,1
+jacob ofir,1
+ami a. silberman,1
+howard lipson,1
+liam stack  and sapna maheshwari,1
+andrew krok,1
+matthew humphries,1
+tim johnson,1
+"geoff kuenning, lauren weinstein",1
+joel achenbach via  dewayne hendricks,1
+thomas dzubin plus others,1
+sagepub,1
+contentsharing,1
+thomas macaulay,1
+unnamed via twitter,1
+tom fishburne -- marketoonist,1
+"steve klein, john levine, alan ralph,  craig s. cottingham",1
+michael kassner,1
+ageinplacetech,1
+"martin ward, amos shapir",1
+bart perkins,1
+brian j. pedersen   via monty solomon,1
+antti vaha-sipila,1
+maxim weinstein  via monty solomon,1
+spencer s. hsu via monty solomon,1
+david chartier  via monty solomon,1
+"dimitri maziuk, tony finch, jay carlson",1
+kevin poulsen via pgn,1
+marty brenneis,1
+linkedin et al. via klaus brunnstein,1
+nsc,1
+raso et al.,1
+endgadget,1
+the los angeles times,1
+michael krigsman,1
+p.m. lee,1
+alan louis scheinine,1
+ryan singel,1
+david caley,1
+borborugmus,1
+emil protalinki  via monty solomon,1
+bojan zdrnja via monty solomon,1
+derek p schatz,1
+randall roberts,1
+gregory hicks,1
+"peter houppermans, jtaylor",1
+john hillabin via  brian westley,1
+jonathan d. moreno via  john f. mcmullen,1
+agam shah  via gene wirchenko,1
+michael cooney via  monty solomon,1
+"roderick a rees, andrew douglass",1
+joe mccauley,1
+fred ballard,1
+"chris adams, michael loftis",1
+george weaver,1
+jon millen,1
+elliott hannon,1
+"herb lin,  richard obrien",1
+"michael marking, lw, craig burton, lw, cb, lw",1
+alan barclay,1
+oleg broytmann,1
+chatan mistry,1
+"scot wilcoxon,    richard i cook",1
+arthur marsh,1
+"jurek kirakowski,    merlyn kline",1
+nellie bowles,1
+pew research center,1
+david dao,1
+motherboard,1
+brett arends,1
+the daily gazette,1
+san antonio business journal,1
+tacticaltech,1
+sora news,1
+jennifer granick via monty solomon,1
+audrey hudson via monty solomon,1
+herbert kanner,1
+magical via mark brader,1
+ulf hedlund via declan mccullagh,1
+"daniel p. b. smith,    ian young, paul bowers",1
+"william kucharski, carl maniscalco",1
+bangerter et al.,1
+ben sisario via  monty solomon,1
+steve stecklow and paul sonne,1
+various,1
+tom keane via  monty solomon,1
+mike andrews,1
+barbara zanzig,1
+ligh et al. review by richard austin,1
+ezra klein via dewayne hendricks,1
+caroline craig  via gene wirchenko,1
+chris welch via jim reisert,1
+"jim horning, rick russell, kurt fredriksson,  fred cohen, jay r. ashworth, ray blaak, richard karpinski,  geoff kuenning, dimitri maziuk, stephen bull, george jansen",1
+jenna wortham via pgn,1
+manny fernandez via monty solomon,1
+"martyn thomas, george jansen, andrew brydon,  paul edwards, rob seaman, devin moore, nick keighley, martin cohen",1
+michael geist,1
+sir bernard hogan-howe  quoted via chris drewe,1
+zdnet via nnsquad,1
+ms via bob gezelter,1
+nyt via matthew kruk,1
+"dimitri maziuk, steven jay klein",1
+stephen  lawson via gene wirchenko,1
+emil protalinski via  monty solomon,1
+"steven j klein, ken knowlton",1
+david alexandero,1
+gregor ronald,1
+"dimitri maziuk, henry baker,  jonathan kamens, arthur t.",1
+"zach tudor, jeremy epstein",1
+"jeremy epstein, graham reed",1
+christine wong  via gene wirchenko,1
+russ furze,1
+fred guterl via monty solomon,1
+kay lazar via monty solomon,1
+"ron leuty via monty solomon, pgn",1
+"jonathan thornburg,  chris drewe",1
+barnaby feder,1
+bob brewin via  gabe goldberg,1
+"r.s. ""bob"" heuman",1
+"d. mckirahan,  philip nasadowski, john deltuvia, devon mccormick",1
+josh parris,1
+faa via clive d.w. feather,1
+aopa,1
+semiengineering,1
+nicole perlroth and matthew rosenberg,1
+cbc web,1
+pixel envy,1
+cointelegraph,1
+marketoonist,1
+ars technica via jeremy epstein,1
+ifixit,1
+carl straumsheim via acm technews,1
+tamar lewin via acm technews,1
+genkin/shamir/tromer via lauren weinstein,1
+soltani/peterson/  gellman,1
+anssi via lauren weinstein,1
+joshua kopstein,1
+stewart baker,1
+roger grimes via  gene wirchenko,1
+paul kafasis,1
+"don lindsay, vince mulhollon, toby gottfried",1
+heather hollingsworth via  monty solomon,1
+markoff/perlroth via  monty solomon,1
+sender anonymized by request,1
+steve lohr via monty solomon,1
+mark mazzetti via monty solomon,1
+csmonitor,1
+various sources,1
+stiennon's security scorecard,1
+teresa tritch,1
+bellingcat,1
+the register   via tom van vleck,1
+georgetown,1
+enterpriseai,1
+nova via henry baker,1
+david roman,1
+daniel oberhaus,1
+latimes.com,1
+japantimes,1
+olivia stein,1
+dmitiri maziuk,1
+tfb,1
+dirk the daring,1
+cheryl hoefelmeyer,1
+steve friedman,1
+chris brand,1
+ftc via geoff goodfellow,1
+tpr,1
+post -- swiss,1
+"martin ward, wol",1
+sheldon sheps,1
+jen daskel via marc rotenberg,1
+"matt richtel via  ed lazowska, pgn",1
+paul krill via gene wirchenko,1
+lisa rein and josh white,1
+mark neely,1
+johan peeters,1
+karen w. arenson via pgn,1
+karen w. arenson via  monty solomon,1
+mark liberman,1
+evant,1
+"walter dnes, tanner andrews,  rex black",1
+"martyn thomas, jerome ravetz, perry bowker,  richard karpinski",1
+sduniontrib,1
+bruce schneier pgn-ed,1
+marissa higgins,1
+martin fong,1
+nyclu,1
+harper's,1
+james titcomb,1
+acm learning center,1
+"dick mills,  henry baker",1
+george sicherman,1
+yan timanovsky,1
+ars via  richard i cook,1
+privacy,1
+mark thorson,1
+found at slashdot,1
+kyle newport,1
+charles perrow via martyn thomas,1
+chris hodge via dave farber,1
+"nick bender, john levine, joseph barrett",1
+tal garfinkel,1
+andy neff,1
+henry petroski via pgn,1
+chris baynes,1
+trend micro,1
+roger fingas,1
+gary mortimer,1
+aeon,1
+ieee spectrum via  gabe goldberg,1
+david randolph,1
+horst goertz inst,1
+antony savvas via gene wirchenko,1
+stephen lawson via gw,1
+jim ausman,1
+robert lemos via gw,1
+dewayne hendricks via dave farber's ip,1
+joshua l. weinberg,1
+peter campbell,1
+barry hurwitz,1
+david mediavilla ezquibela,1
+maj. john robinson,1
+"danny burstein, jerrold leichter",1
+evelyn brown,1
+vincent conitzer,1
+mcsweeneys via mark thorson,1
+the indian express,1
+paul russell,1
+"olivier mj crepin-leblond,  chuck_petras",1
+sonoma news,1
+"kelly bert manning, amos shapir",1
+michael j harrison,1
+"bill schackner via monty solomon, bob heuman",1
+chiaki,1
+stefek zaba,1
+jeffrey waters,1
+"jonathan lewthwaite, kurt raschke",1
+dan scherer,1
+derek j. balling,1
+zoom blog,1
+janet morrissey,1
+joh hight,1
+rbc,1
+nick bastone,1
+laura hautala,1
+"mark thorson, richard stein",1
+business insider via nancy leveson,1
+techcrunch via richard stein,1
+alexandria virginia news,1
+"wol,  andrew duane",1
+didi tang via rodney van meter,1
+brendan sasso via dewayne hendricks,1
+drew fitzgerald via  monty solomon,1
+roger hird,1
+"martin ward, chris d.",1
+bob fitrakis/harvey wasserman,1
+healthcare tech review,1
+stephan burschka via lauren weinstein,1
+emily taylor via diego latella,1
+malwarebytes labs,1
+mike elgan,1
+jennifer hassan,1
+gavin scott,1
+will middelaer,1
+massimo dal zotto,1
+"todd jonz,  mitch collinsworth",1
+dick karpinski,1
+ben hutchings,1
+r.s. heuman,1
+peter simpson,1
+sandy antunes,1
+john clarke,1
+hpcwire,1
+jason livingood,1
+scott galloway,1
+yuval noah harari,1
+nytimes  via david tarabar,1
+john wenzel,1
+ars via pgn,1
+"bloomberg via gabe goldberg, lauren weinstein",1
+thinkprogress,1
+"peter houppermans, tom gardner",1
+gerhard eschelbeck,1
+d. victoria baranetsky,1
+stef aupers,1
+wired via  badi irshid,1
+governmentattic via  don gilman,1
+pentestpartners,1
+alex stamos,1
+the  straits times,1
+william fleshman,1
+tiernan ray,1
+yakov shkolnikov,1
+fred von lohmann via declan mccullagh,1
+corrected with accidentally deleted text,1
+sue halpern,1
+handelsblatt,1
+the record,1
+rob slade with url from lauren weinstein,1
+frank sudia,1
+"martin ward, dave russo",1
+david weitzel,1
+terry labach via alan wexelblat,1
+ben wright,1
+jonathan d. amery,1
+"duncan macgregor,  bennet s. yee",1
+r. a. hettinga,1
+consumer watchdog,1
+charles dunlop,1
+athima chansanchai,1
+soghoian/stamm,1
+peter z ingerman,1
+anne-marie oostveen,1
+tom sherak,1
+"tramm hudson, colin mcewen",1
+"jay d. dyson, gene spafford,   jay d. dyson, james graves, gene spafford",1
+j f hitches,1
+"martha t, moore via acm technews",1
+jaxon van derbeken via  paul saffo,1
+mark piesing  via monty solomon,1
+dan gillmor via lauren weinstein,1
+brandon butler via gene wirchenko,1
+larry press,1
+rebecca carballo,1
+uc riverside,1
+andrew paul,1
+greg hardesty,1
+brandon hill,1
+bob smith,1
+"henry baker, martyn thomas, john levine",1
+naomi oreskes,1
+stuart a. thompson,1
+evgeny morozov,1
+douglas hofstadter,1
+sciencealert,1
+"declan a rieb, edward reid, jonathan kamens",1
+matt anderson,1
+jamie zawinski,1
+michael riley on bloomberg,1
+john carney via henry baker,1
+columbian,1
+david parnas via pgn,1
+randall neff,1
+john p. mello jr. via gene wirchenko,1
+"mark thorson,  pgn",1
+eduard kovacs,1
+michael grant,1
+the register  via neil youngman,1
+austin burt via henry baker,1
+mike isaac  and buster hein via henry baker,1
+westhawk,1
+dan skwire,1
+cnet japan via chiaki ishikawa,1
+richard i. cook via pgn,1
+via john gilmore,1
+jebruner,1
+flanders today,1
+"daily wtf, pgn",1
+sydney lupkin,1
+new yorker,1
+"richard stein, erling kristiansen",1
+"sergio gelato,  julian bradfield",1
+alan blinder and nicole perlroth,1
+chicago sun times,1
+ttnews,1
+"ian jackson,  paul fenimore",1
+cyberscoope,1
+warbyparker,1
+wsn/nbc poll,1
+chikai ohazama,1
+kiplinger,1
+"wol, amos shapir",1
+"toby douglass,  chris drewe",1
+sam'l bassett,1
+deborah a. frincke,1
+h.r. arabnia,1
+attila ...,1
+"bob wilson, atilla ...",1
+"martin ward, henry baker",1
+paste,1
+erratasec,1
+"john levine, joseph brennan",1
+faiz siddiqui,1
+jose mateos,1
+rob slde,1
+david cay johnston,1
+chris foresman via monty solomon,1
+marcus rowland,1
+matt,1
+mike conley,1
+david,1
+concerned parent,1
+michael barkoviak via monty solomon,1
+randy cohen via monty solomon,1
+"steven m. bellovin,  rick dickinson, david lesher",1
+"d.f. manno, mark brader",1
+comparitech,1
+outcomehealth,1
+federal news network,1
+art mellor,1
+irene klotz via  paul saffo,1
+jonathan zittrain,1
+john e. dunn via gene wirchenko,1
+jaikumar vijayan,1
+"gabe goldberg,  phil smith iii",1
+"richard i cook, erling kristiansen",1
+techdirt via  lauren weinstein,1
+cigital,1
+reuters via pgn,1
+craig whitlock via pgn,1
+jonah newman,1
+physorg,1
+"scmp via  lauren weinstein, gordon peterson via dave farber",1
+wm,1
+alan boritz,1
+dan farmer,1
+sean gallagher via henry baker,1
+christian huitema via  dave farber,1
+tampabay news,1
+jim wayner,1
+"geoff goodfellow, gabe goldberg",1
+matthew d green,1
+chrome releases,1
+gizmodo and techdirt,1
+eli griffin,1
+david rose via harry crowther,1
+daniel thomas via  paul rummell,1
+charles j. wertz,1
+russell page,1
+dave sill,1
+"marc auslander, mike pritchard",1
+backlogged.  good trip to vancouver for secure usenix and evt.,1
+lauren weinstein  with included analysis by seth finkelstein,1
+harald vogt,1
+brad malin via dave farber's ip,1
+christopher stacy,1
+bob sullivan via  henry baker,1
+henry k. lee via paul saffo,1
+pam fessler,1
+cameron scott  via gene wirchenko,1
+daniel berninger via dave farber,1
+robert x cringely  via dewayne hendricks and dave farber,1
+wfla,1
+rob hull,1
+"richard m stein, john r. levine, david waitzman",1
+p.j. huffstutter via monty solomon,1
+hafner-flynn via monty,1
+scott granneman via monty solomon,1
+john elsbury,1
+laura miller via monty solomon,1
+sylvia hui via acm technews,1
+bob charette via ed levinson,1
+tim cushing  via monty solomon,1
+tim cushing via  monty solomon,1
+philipp winter/jedidiah crandall  via pgn,1
+wired via dave farber,1
+frederick t. sheldon,1
+richard hesketh,1
+newatlas  via geoff goodfellow,1
+the register  via werner u,1
+juhn leyden,1
+alisha rouse,1
+"djc, don gingrich,  andrew pam, richard bos",1
+ralf ertzinger,1
+"keith gobeski, michael levine",1
+curtis karnow,1
+gps,1
+india times,1
+nytimes articles via pgn,1
+charles oppenheimer,1
+el-mhamedi via prashanth mundkur,1
+richard m stein via straits times,1
+techdirt via richard forno,1
+kashmir hill and surya mattu,1
+bruce schneier via pgn,1
+npr.org via richard m stein,1
+nytimes  via richard m stein,1
+"michael bacon, john beattie",1
+james prescott,1
+tim aidley,1
+justin mason,1
+george dinwiddie,1
+matt giger via  ben laurie,1
+tom walker,1
+kirt dankmyer,1
+jon hilkevitch via david lawver,1
+aaron emigh via pgn,1
+john carlyle-clarke,1
+russ nelson,1
+philip gross,1
+nelson h. f. beebe,1
+yerry felix,1
+elinsky,1
+reinhard kopka,1
+eugene miya,1
+phaneendranath,1
+fred reinke,1
+a. marc passy,1
+"lauren weinstein, nick brown,  paul schreiber",1
+phil pareas via max,1
+al rizutto,1
+michael cook,1
+bishopfox,1
+irish news,1
+mykawartha,1
+orange county register,1
+"henry baker, michael bacon",1
+david evans,1
+kalin tyler,1
+max fischer,1
+david chazan,1
+russell goldman,1
+pagan kennedy,1
+katherine haenschen and paul ellenbogen,1
+neil genzlinger,1
+ntia,1
+"adam shostack,  jeremy epstein, mark thorson",1
+ftc via alister wm macintyre,1
+simon avery via pgn,1
+"martyn thomas, peter b. ladkin, jay r. ashworth,  mike ellims, daniel p. b. smith, ben galehouse, roderick a. rees,  david g. bell, raj mathur",1
+stephen d. b. wolthusen,1
+archiveprogram via dan jacobson,1
+f-secure,1
+"henry baker, andy walker",1
+tom krisher via pgn,1
+congressional budget office,1
+"amos shapir, terje mathisen",1
+ballou and ellement via monty solomon,1
+kay lazar via  monty solomon,1
+billy baker  via monty solomon,1
+michelle rosa via gene wirchenko,1
+megan geuss  via monty solomon,1
+john kemp,1
+cyrus farivar  via monty solomon,1
+josh fruhlinger via gene wirchenko,1
+david axe via  acm technews,1
+"peter b. ladkin, mike beims",1
+nathan k. pemberton,1
+aydin edguer,1
+mike palmer,1
+"'o-dzin tridral, paul van keep",1
+"terje mathisen, steve fenwick",1
+marius minea,1
+"chris j brady,  tricia cole",1
+roger a. grimes via  gene wirchenko,1
+ted samson,1
+joe mandak via  jim reisert,1
+"e. john sebes,  gene wirchenko",1
+j. alex halderman,1
+kim willsher  via henry baker,1
+jon kuroda via al stangenberger,1
+dan gillmor via dave farber,1
+tony wasserman,1
+tom abate,1
+paul szoldra,1
+thomas friedman via monty solomon,1
+"thomas brooks, larry sheldon",1
+maureen dowd via monty solomon,1
+"peter bernard ladkin, lauren weinstein",1
+robert o'harrow jr. via lauren weinstein,1
+johannes ullrich via lauren weinstein,1
+jeffrey r. young  via dave farber,1
+robbie brown via  monty solomon,1
+scott brim,1
+"geoff kuenning, john stanley",1
+john stanley,1
+cio,1
+ajc,1
+sebastian anthony,1
+bbc via ken olthoff,1
+uk national crime agency *via the new york times*,1
+uk national crime agency via  lauren weinstein,1
+cjr,1
+kate palmer via chris drewe,1
+ira rubenstein,1
+tech dirt via paul robinson,1
+"fred cohen, al mac",1
+"john levine, al mac",1
+thomas leavitt,1
+quealy and sanger-katz via charles c mann,1
+networkworld,1
+staceyoniot,1
+gao critical infrastructure protection,1
+timothy b. lee  via monty solomon,1
+cringely via  gene wirchenko,1
+david talbot via jim reisert,1
+schmidt/perlroth  via monty solomon,1
+ben okopnik,1
+sam anderson,1
+randall stross via erwin gianchandani,1
+eric lichtblau via  matthew kruk,1
+wsj item via lauren weinstein,1
+john oram via monty solomon,1
+mike tibbetts,1
+mark kantrowitz,1
+colin andrew percival,1
+kevin c stevens,1
+brian campbell,1
+sean sosik-hamor,1
+adrian perrig,1
+gwyn topham via pgn,1
+john lichfield via nnsquad,1
+alison langley via  nnsquad,1
+shear/fandossept via  henry baker,1
+bbc via mark trumpler,1
+"peter houppermans, bob frankston,  fred cohen",1
+david kravets  via dewayne hendricks,1
+jon brodkin via dewayne hendricks,1
+chris kanaracus via monty solomon,1
+dante d'orazio via dewayne hendricks,1
+"david weinberger  via david farber, andrew lippman",1
+david sanger and  nicole perlroth via lauren weinstein,1
+ap item  via lauren weinstein,1
+emptywheel via david s. h. rosenthal,1
+darren pauli via gene wirchenko,1
+epic via harry hochheiser,1
+kjetil torgrim homme,1
+matt wilbur,1
+ed felten via pgn,1
+s hutto,1
+phil singer,1
+apple daily,1
+"cooper quintin, the new york times",1
+bmj,1
+w.a. griffin on wiiliam kerr,1
+gc,1
+colin percival,1
+randall via dave farber,1
+john leyden via pgn,1
+michael hackett,1
+robert tanner via monty solomon,1
+sam roberts,1
+frederick.klein,1
+charles p schultz,1
+chris jakeman,1
+robert andrews,1
+paul nelson,1
+mark frauenfelder via  dewayne hendricks,1
+stephen lawson  via gene wirchenko,1
+"john p, mello jr. via  gene wirchenko",1
+anton troianovski via monty solomon,1
+"peter bernard ladkin,  diomidis spinellis, john levine, pbl, dds",1
+tony rajakumar responding to others,1
+alan fullilove,1
+eric ulevik,1
+ian mitchell,1
+simon hogg,1
+carly page,1
+arwa mahdawi,1
+via tom van vleck,1
+washpo via jeremy epstein,1
+fusion via charles mann,1
+the atlantic via nnsq,1
+cnbc via almac,1
+larry higgs via  henry baker,1
+randy livingston via paul saffo,1
+chuck collins,1
+severo ornstein,1
+rupert neate and david smith,1
+wsj via wapo,1
+arxiv.org,1
+cleve r. wootson jr.,1
+innocence lost -- the economist,1
+talking points memo,1
+"r a lichtensteiger, gabe goldberg",1
+the guardian via paul cornish,1
+ouraynews,1
+:auren weinstein,1
+tom's hardware,1
+"stanley chow, steve klein",1
+turgut kalfaglu,1
+gabe golding,1
+belfer center et al.,1
+fpf,1
+"anthony youngman, martin ward, anthony youngman",1
+"geoffrey keating, ivan jager, kelly bert manning",1
+"dave horsfall, amos shapir",1
+"finn poschmann,   sander tekelenburg",1
+michael degusta,1
+pgn on  lenstra et al. and john markoff,1
+john markoff on ross anderson  et al.,1
+david ignatius,1
+mark e jeftovic via peter houppermans,1
+cybernews,1
+lauren weinstein pgn-culled,1
+nicolas flamant yotti,1
+the register via tom van vleck,1
+ephrat livni,1
+microsoft browser vulnerability research,1
+tzah pahima,1
+the hacker new,1
+eva frederick,1
+alexandra skores,1
+cliff kilby with tomhvv,1
+two nytimes items pgn-ed,1
+hiawatha bray,1
+avclub,1
+"amos shapir, steve bacher",1
+ssteve bacher,1
+lois yoksoulian,1
+"john levine,  monty solomon",1
+"jim daley, bill cheswick",1
+mark johnson,1
+ray arsenault,1
+rod davison,1
+karen arenson via monty solomon,1
+"peter b. ladkin,  dirk fieldhouse, sergio gelato",1
+"mark thorson,  michael marking",1
+kevin bankston  via david farber,1
+jonathan saltzman via monty solomon,1
+gregory chapelle,1
+ian urbina via pgn,1
+william neuman via pgn,1
+cap/cdt  item via monty solomon,1
+michael barrett,1
+hamish marson,1
+michael lewchuk,1
+b.k. delong,1
+"geoff kuenning, rob searle, brian hayes,  bob buxton",1
+cbs via pgn,1
+the straits times and financial times,1
+dhs/fbi via  ars technica,1
+tony healy,1
+justine roberts,1
+peter deutsch via roger z,1
+tom hayhurst,1
+d g rossiter,1
+"russ cooper, elinor mills abreu via   lillie coney",1
+"dave brunberg, pgn",1
+eric dobbs,1
+daniel suthers,1
+ted lemon,1
+william langewiesche via monty solomon,1
+vjolt,1
+hans a. von spakovsky,1
+u.s. vote foundation,1
+joseph marks via joly macfie,1
+afr,1
+christine wong,1
+david l. dill,1
+mike godwin,1
+keith marzullo,1
+benjamin weiser via monty solomon,1
+beth healy via monty solomon,1
+colleen shannon,1
+bob langford,1
+peter h,1
+erka koivunen,1
+hamilton richards,1
+jmeissen,1
+safer highways,1
+ucsf news,1
+defense.gov,1
+"sheldon, andrew douglass, amos shamir",1
+noted by gabe goldberg,1
+jonathan hunt,1
+science news,1
+steve johnson via  richard forno,1
+jonathan larmour,1
+roger needham,1
+benjamin elijah griffin,1
+rodger donaldson,1
+brett,1
+david blakey,1
+alexandra posadzki,1
+channel news asia,1
+natasha singer,1
+cloudsek,1
+wholemarsblog,1
+vaxxedfox,1
+apnic blog,1
+sundry sources abridged,1
+mspo,1
+adi shamir via matt blaze,1
+don wagner,1
+computer.org,1
+university of buffalo,1
+brian wang,1
+ieee.org,1
+"john levine, paul burke",1
+walter schilling,1
+peter gutmann via  gunnar helliesen and dave farber,1
+"ted lee, ken knowlton, gene spafford",1
+jeremy kahn,1
+techrepublic,1
+science diplomacy via diego latella,1
+konrad putzier,1
+sam bankman-fried,1
+"andrew waught, john beattie",1
+cloudflarechallenge via monty solomon,1
+candice so via  gene wirchenko,1
+casey johnston,1
+huffpost via geoff goodfellow,1
+dan simmons,1
+gigaom  via lauren weinstein,1
+nathaniel popper via monty solomon,1
+"amos shapir, tony finch",1
+cieply and barnes via monty solomon,1
+"david lewis, dick mills",1
+byu,1
+patrick cain,1
+the atlantic via  bob gezelter,1
+smh via dave horsfall,1
+robert allan zeh,1
+jack m dominey,1
+bob heuman from  newsscan,1
+john,1
+"nick brown,  curtis karnow",1

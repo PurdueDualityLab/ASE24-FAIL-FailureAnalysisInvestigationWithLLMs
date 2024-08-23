@@ -1,0 +1,21 @@
+New freemail bug uses Java to steal passwords
+08/27/1998
+ZDNet News from ZDWire
+fv
+Free e-mail providers have been beefing up their filters this week, after a Canadian Web programmer published a bug that used a few lines of JavaScript to steal users' passwords.
+Thursday, the same programmer, Tom Cervenka, of Specialty Installations, a networking reseller in Alberta, Canada, said he found that a Java applet attached to an e-mail message could produce the same effect as his earlier so-called "Hot" Mail trick. And the applet sneaks right past the filters of many e-mail providers.
+"This exploit allows people to steal an unlimited number of passwords, depending only on how many messages they send out," Cervenka said.
+Cervenka said that as of Thursday afternoon, the applet, which he calls Trojavan Horse, was effective on the mail services of WhoWhere? (a division of Lycos Inc.), iName (a division of GlobeComm Inc.) and others.
+He posted a demonstration of Trojavan Horse on because-we-can.com, a Web site that publishes non-profit work by employees of Specialty Installations and other programmers.
+As of Thursday afternoon, WhoWhere?'s MailCity and iName appeared vulnerable to Trojavan Horse.
+Cervenka's demonstration was written for Yahoo! Mail, but shortly after the Java applet was posted to the Web, it stopped working -- presumably because Yahoo! Mail had upgraded its filters to block such applets.
+Phony error message
+To take advantage of the security loophole, a malicious user would have to send a message with an HTML attachment. The attachment includes a pointer to a Java applet on the user's server. This applet alters the interface of the e-mail service, replacing the links on the control panel.
+When the Web-mail user clicks on any of those links, he sees a phony error message asking him to re-enter his password and user name. Once those are entered, he returns to the normal e-mail interface, but the user information is sent to the malicious programmer.
+"A lot of these services are still vulnerable to this exploit, or to far simpler versions," Cervenka said. "You have to wonder how many people already live in a state where they're not the only ones rifling through their e-mail."
+Cervenka said Trojavan Horse works simply because Web-based e-mail providers do not screen incoming mail finely enough.
+Web-based e-mail services, used by millions of subscribers, are vulnerable to attacks by Java, JavaScript and even HTML code because their interfaces are simply HTML Web pages.
+Tip: Turn off Java
+Cervenka recommends that users turn off Java capabilities while using the affected Web-mail sites until the glitch is permanently fixed.
+In the meantime, Hotmail on Thursday patched its service well enough that the bug discovered Monday, "Hot" Mail, no longer works.
+Hotmail also screens out attacks such as Trojavan Horse. USA.net also appeared Thursday to be immune to attacks by "Hot" Mail and Trojavan Horse.

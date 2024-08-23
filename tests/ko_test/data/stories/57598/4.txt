@@ -1,0 +1,21 @@
+Glitch Hits Tokyo Share Trading --- Server Problem Forces Morning Trading Halt for 241 Securities; Back to Normal in Afternoon
+02/03/2012
+The Wall Street Journal Asia
+pq
+TOKYO -- The Tokyo Stock Exchange suspended trading of 241 securities for its Thursday morning session, including blue-chip stocks such as Sony Corp. and Hitachi Ltd., because of a computer problem.
+The suspension, which lasted for 2 1/2-hours, was the first major trading disruption at the world's third-largest exchange since it upgraded its dealing system in early 2010. An earlier series of embarrassing technical errors had forced the exchange to replace its outdated trading platform.
+The halt, announced just before market open, affected 222 companies, a group that also including retailer Aeon Co. and Konica Minolta Holdings. The trouble hit other instruments as well, including exchange-traded funds, real-estate investment trusts and convertible bonds. Overall, about 10% of the exchange's 2,459 listed securities were affected.
+A problem at one of the eight servers the TSE uses to distribute stock data was to blame, the exchange said.
+"If I describe the cause of the trouble in simple terms, a switching of servers didn't take place properly following a hardware problem at the information-distribution system at our bourse," said Hiroaki Uji, who is in charge of information-technology development at the exchange.
+Employees were still investigating why the switching didn't take place and it remains unclear why the first server failed, he said.
+Trading in all the suspended shares resumed for the afternoon session. The Nikkei Stock Average closed up 0.8% at 8876.82 on the third-heaviest trading volume of the year.
+Some market analysts said the trouble may raise fresh concerns about the TSE's planned merger with rival Osaka Securities Exchange Co. in January 2013. One hurdle there is the integration of the different trading platforms.
+Traders were given little time to warn clients, both before the market opened and the restart of trading. Moreover, the problem hit during the earnings season, a particularly active period for trading.
+"Within a short time my team scrambled to give multiple update announcements about the market data outage to many clients," said Michael Mollemans, head of advanced execution services for Japan at Credit Suisse Securities.
+TSE President Atsushi Saito apologized for the glitch, saying steps have been taken to ensure smooth trading in the future.
+Japan's Financial Services Agency, which oversees the stock exchange, said it would monitor the exchange's actions.
+It was the first major system trouble for cash trading since the TSE installed its Arrowhead high-speed trading platform in 2010, which has had generally favorable reviews from the investment community. Before the upgrade, the TSE was dogged by a string of disruptions in 2005, 2006 and 2008.
+The problems at the TSE aren't unique. Trading halts have periodically hit most of the world's major exchanges.
+---
+Brad Frischkorn, Andrew Joyce, and Hiroyuki Kachi contributed to this article.
+Credit: By Kana Inagaki and Kosaku Narioka

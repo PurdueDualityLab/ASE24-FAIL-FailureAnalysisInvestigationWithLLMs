@@ -1,0 +1,32 @@
+White House e-mail system becomes less user-friendly
+07/18/2003
+CNN.com*New York Times
+ln
+Do you want to send an e-mail message to the White House?
+Good luck.
+In the past, to tell President Bush -- or at least those assigned to read his mail -- what was on your mind it was necessary only to sit down at a personal computer connected to the Internet and dash off a note to president@whitehouse.gov.
+But this week, Tom Matzzie, an online organizer with the A.F.L.-C.I.O., discovered that communicating with the White House had become a bit more daunting. When Mr. Matzzie sent an e-mail protest against a Bush administration policy, the message was bounced back with an automated reply, saying he had to send it again in a new way.
+Under a system deployed on the White House Web site for the first time last week, those who want to send a message to President Bush must now navigate as many as nine Web pages and fill out a detailed form that starts by asking whether the message sender supports White House policy or differs with it.
+The White House says the new e-mail system, at www.whitehouse .gov/webmail, is an effort to be more responsive to the public and offer the administration 'real time' access to citizen comments.
+Completing a message to the president also requires choosing a subject from the provided list, then entering a full name, organization, address and e-mail address. Once the message is sent, the writer must wait for an automated response to the e-mail address listed, asking whether the addressee intended to send the message. The message is delivered to the White House only after the person using that e-mail address confirms it.
+Jimmy Orr, a White House spokesman, described the system as an 'enhancement' intended to improve communications. He called it a 'work in progress,' and advised members of the public who had sensitive or personal matters to bring up with President Bush to use traditional methods of communications, like a letter on paper, a fax or a phone call.
+He said the White House, which gets about 15,000 electronic messages each day, had designed the new system during the last nine months in partnership with a private firm that he would not identify.
+'It provides an additional means for individuals to inquire about policy issues at the White House and get a personalized response in 24 to 48 hours,' said Mr. Orr, the Internet news director at the White House.
+It is still possible to send a traditional e-mail message, he said, but the sender will receive the automated reply and there is no guarantee it will be read or responded to.
+Some experts in Internet usability think the new method for sending messages is not doing much to enhance communications between the White House and the public.
+'Over all, it's a very cumbersome process,' said Jakob Nielsen, an authority on Web design who helps run a consulting group, Nielsen Norman Group, in Fremont, Calif. 'It's probably designed deliberately to cut down on their e-mail.'
+The White House said it was taking its Web usability critics in stride.
+'When it comes to a Web site, it's a bit like a movie,' Mr. Orr said. 'Some will say it's a tour de force; some will say it fell flat.'
+He said the new procedure provided a straightforward way for a citizen to let an opinion be known and at the same time receive a quick, tailored response from the White House.
+Acknowledging that there had been glitches in the first few days, Mr. Orr said the new system was being improved. 'Having tried it myself,' he said, 'I would say it's pretty user-friendly.'
+But Dr. Nielsen said he found a variety of shortcomings in the White House system, including what he called a deeply buried privacy policy and a lack of indicators marking one's progress in traversing each of the multiple Web page steps. He complained as well about a poorly designed approach to confirming that a message had actually been sent.
+The various categories for describing a message's subject are also a big muddle, Dr. Nielsen said.
+'One of the categories is 'National ID Card,' ' he said. 'Does it mean you're in favor of national ID or in favor of the president's position, which it doesn't describe?'
+Mr. Matzzie, the A.F.L.-C.I.O. organizer, discovered the new White House e-mail system when he started a campaign to protest the administration's proposals to change the way overtime pay is to be calculated.
+He said he particularly disliked being forced to specify whether he was offering a 'supporting comment' or a 'differing opinion' to President Bush.
+'Can't I just say something or ask a question?' he said.
+Mr. Matzzie said he was also upset that none of the many categories listed included either 'unemployment' or 'jobs.'
+'This is the most ridiculous Web form for contacting someone I have ever seen,' said Mr. Matzzie, who is a professional Web site designer.
+Having sent his e-mail message on Tuesday, Mr. Matzzie said he was still waiting for a response.
+Copyright 2003 Cable News Network
+All Rights Reserved

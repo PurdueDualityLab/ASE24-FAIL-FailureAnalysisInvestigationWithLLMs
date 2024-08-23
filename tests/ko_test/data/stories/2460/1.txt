@@ -1,0 +1,16 @@
+Spacecraft in Orbit Around Jupiter Loses Data; Scientists Expect Galileo's Latest Glitch to Be Fixed Before Next Week's Ganymede Flyby
+08/27/1996
+The Washington Post*The Washington Post (pre-1997 Fulltext)
+pq
+The spacecraft Galileo, in orbit around Jupiter, lost some of its research data Saturday when it shut down nonessential systems because of a problem in one of its computer processors, the project team revealed yesterday.
+Project manager William O'Neil said he expects to have the craft restored to normal operations by Sunday, when it is scheduled to begin preparations for its Sept. 6 flyby of Jupiter's moon Ganymede.
+"We were pretty concerned at first," he said, "but I feel much better now."
+The latest glitch occurred at about 9 a.m. PDT (noon EDT) Saturday, O'Neil said. At the time, the spacecraft was playing back low-priority data from the first encounter at Ganymede earlier this summer. That data was lost, he said, but "it was in the category of things we didn't really expect to get anyway."
+He said the more significant loss involves data from the spacecraft's continuous study of Jupiter's magnetic field, which had commenced on Aug. 5. If the spacecraft is restored as expected on Sunday, that stream of data will have "a hole in it" of about a week's observations. O'Neil said the gap is "disappointing but not catastrophic."
+O'Neil said engineers feared at first that this was the recurrence of a fault pattern that had plagued the craft during its six-year cruise to Jupiter, causing it to go into its protective "safe mode" nine times between 1991 and 1993.
+But they were relieved, he said, when subsequent analysis showed that the problem was a different one, apparently caused when a computer processor "didn't get to finish what it was doing" within the allotted time and triggered an automatic computer response.
+The fault occurred in one of two fully redundant onboard computers, and the spacecraft switched to the backup computer. The craft entered what is known as "safe mode," a power-saving, automatic computer response to potential emergencies.
+He noted that the software in use was installed on the computers just last March, to help cope with the craft's stuck main antenna. The team is constantly sending complex playback commands to the craft and may have inadvertently transmitted "something we shouldn't," he added.
+The playback function that was underway when the problem occurred last Saturday won't be needed during the Ganymede flyby. "We have about three weeks," he said, to fully understand and correct whatever caused the problem.
+The craft's tape recorder -- which has also had problems along the way -- is functioning well and is not a suspect in the current investigation, O'Neil said.
+Credit: Washington Post Staff Writer

@@ -1,0 +1,21 @@
+Votes against Yahoo board much higher than first reported
+08/05/2008
+MarketWatch
+ln
+Benjamin Pimentel is a MarketWatch reporter based in San Francisco.; Dan Gallagher, MarketWatch mailto:dgallagher@marketwatch.com.
+Dan Gallagher is MarketWatch's technology editor, based in San Francisco.
+SAN FRANCISCO (MarketWatch) -- Yahoo Inc. said Tuesday afternoon that its inspector of elections revised the vote count of shareholders from last week's annual meeting, resulting in a much higher percentage of votes withheld from certain directors, including more than twice as many for Chief Executive Jerry Yang.
+In a statement, Yahoo (YHOO) said that based on the revised figures, nearly 34% of votes cast at the meeting were withheld against Yang - up sharply from the 14.6% figure originally reported by the company. About 40% of votes were withheld from Chairman Roy Bostock - nearly twice the figure that was previously reported.
+The error does not change the outcome of the election, but it does illustrate a much wider level of frustration with Yahoo's management after the company failed to consummate a merger with Microsoft Corp. (MSFT) . The software titan offered to buy Yahoo for as much as $47 billion before pulling the bid in early May, after the two companies failed to come to agreement on price.
+The problem was caused by a tabulation error by Broadridge Financial Solutions, which was representing Capital Research and Management Co. - the Web portal's largest shareholder.
+Earlier in the day, Broadridge confirmed that a technical glitch had led to the undercounting of votes that were effectively cast against incumbent directors at last week's annual meeting. The firm said some printed vote tallies for specific directors that it submitted to Yahoo had only eight digits, instead of nine.
+'In essence, it was a truncation error in the final printout,' said Chuck Callan, the processing services firm's senior vice president of regulatory affairs. 'The problem was identified, and it was fixed. ... The error did not change the outcome.'
+Capital Research is led by fund manager Gordon Crawford, who has publicly chastised Yahoo and Yang for failing to nail down the Microsoft deal. According to reports, Crawford recommended that funds represented by the firm withhold their votes on Yang and Chairman Roy Bostock.
+The firm had asked Broadridge to double-check the votes the agency transmitted on behalf of Capital Research Global Investors, which owns roughly 6.2% of Yahoo's outstanding shares, said spokesman Chuck Freadhoff. Another Capital Research fund, Capital World Investors, owns 9.84% of the portal's shares.
+Freadhoff emphasized that each fund votes independently, but would not disclose how they voted. He also clarified that the questions the fund raised on the vote count were not based on any allegation of wrongdoing.
+'We're not alleging improper behavior,' Freadhoff said. 'We're just trying to get information at this point.'
+In addition to Yang and Bostock, the revision added a large number of 'no votes' against three other Yahoo directors. The vote against supermarket magnate Ron Burkle jumped from 18.8% to 37.9%. Votes against Arthur Kern jumped from 22.1% to 31.7% while votes against Gary Wilson went from 18.2% to 27.7%.
+Kern, Bostock and Burkle are members of the board's compensation committee and had been targets of a 'Vote No' campaign by a group that criticized the group's decisions.
+1997-2002 MarketWatch.com, Inc. All rights reserved. See details at http://custom.marketwatch.com/custom/docs/useragreement.asp.
+Copyright 2008 MarketWatch.com Inc.
+All Rights Reserved

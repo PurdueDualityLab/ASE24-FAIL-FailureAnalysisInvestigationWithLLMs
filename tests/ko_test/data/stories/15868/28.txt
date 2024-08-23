@@ -1,0 +1,15 @@
+FAA was aware of radar glitches AVIATION: Technicians say the software that failed Thursday was fast-tracked.
+10/21/2000
+Orange County Register (California)
+ln
+The Federal Aviation Administration knew its new air traffic control software contained programming errors because of previous problems during installation at other radar centers nationwide, according to two technicians who sat in on FAA briefings.
+But the agency's software specialists pressed ahead with installation at the Los Angeles Control Center on Thursday because of pressure from administrators to convert all 21 of the nation's air traffic control centers by November, said Ron Rahrig, a technician who serves as vice president of Professional Airways Systems Specialists, which represents 10,000 FAA technicians.
+The operating system stumbled and the Los Angeles computers crashed three times early Thursday when a controller tried to amend the flight plan of a jet from Mexico.
+Eventually, the technicians had to reinstall the old operating system, snarling air traffic across the West Coast for more than four hours.
+I believe they blundered. They didn't fully test out this system before they put it online,'' said Rahrig. They created some risk out there for the flying public.''
+FAA spokesman Jerry Snyder said late Friday that there were other minor errors that were worked out'' during previous installations and safety was not compromised Thursday.
+But Harry Fisher, a systems specialist and PASS representative at the Los Angeles center, said the Miami Control Center had so many problems with the new software last month that it switched back to the old operating system.
+Once the bugs are worked out, the new software will enable controllers to use more modern equipment.
+chris_knap@notes.freedom.com
+heather_lourie@notes.freedom.com
+Copyright 2000 Orange County Register

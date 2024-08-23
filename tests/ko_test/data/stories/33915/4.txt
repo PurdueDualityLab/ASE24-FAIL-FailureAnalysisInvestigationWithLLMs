@@ -1,0 +1,22 @@
+NEWS; OMBUDSMAN CONDEMNS TAX CREDITS SYSTEM.
+06/23/2005
+Computing
+ln
+'Inflexible' IT-based process prompts demand for overpayments write-off.
+The Parliamentary Ombudsman has criticised the government's tax credits system as 'inflexible', and has called for overpayments of GBP 2bn to be written off.
+The system was introduced in April 2003 and suffered considerable teething problems. By the end of its first tax year a third of all awards had been overpaid, amounting to GBP 1.9bn.
+According to the Ombudsman's report, published this week, assurances of improvements from HM Revenue and Customs (HMRC) were 'over-optimistic', and in the first two months of this year complaints about tax credits accounted for almost a quarter of cases referred to the Ombudsman.
+The design of the tax credits system is the root of the problems, says the report.
+Because tax credits are paid to those on low incomes, overpayments automatically deducted from the next year's payment can leave recipients unacceptably short of money. Any technical glitches that result in overpayments exacerbate the problem.
+The tax credits process is entirely automated, to maximise efficiency. However, it does not take into account the needs of claimants, says the report.
+'The system appears unable to provide an immediate, responsive and appropriate service, particularly when things go wrong,' it says.
+The tax credits experience offers valuable lessons for public sector IT programmes, it adds.
+'It demonstrates the importance of making consideration of all potential customers a central element from the start.
+'The intelligibility of information to customers, good communication, and effective mechanisms to deal with things that go wrong should not be afterthoughts but central and built into the system design,' it says.
+A spokesman for HMRC says that the vast majority of the six million families and 10 million children claiming tax credits have not had any problems.
+'While there were much-publicised IT and processing errors when the system was introduced two years ago, HMRC now has a new IT partner and the system is stable,' he said.
+FURTHER READING
+www.computing.co.uk/2137677
+sarah_arnott@vnu.co.uk
+www.computing.co.uk.
+Copyright 2005 VNU

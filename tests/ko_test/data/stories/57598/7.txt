@@ -1,0 +1,15 @@
+(Update) TSE Suspends Trading in 241 Issues due to Glitch
+02/01/2012
+Jiji Press English News Service*Jiji Press Ticker Service
+fv
+Tokyo, Feb. 2 (JijiPress)--The Tokyo Stock Exchange suspended trading in a total of 241 stocks, exchange-traded funds and corporate bonds throughout Thursday morning due to a computer system glitch.
+Trading in the affectedsecurities resumed at the opening of the afternoon session at 12:30 p.m. (3:30 a.m. GMT) after being halted from the start of the morning session at 9 a.m.
+The trading halt affected 222 stocks, including Sony Corp. , Hitachi Ltd. , Komatsu Ltd. , Tokyo Electric Power Co. , Aeon Co. and Tokyo Gas Co. .
+A problem occurred in oneof the eight servers used in the TSE's market data distribution service, while the exchange's core system to process buy and sell orders operated as usual, TSE officials said.
+The TSE decided to halttrading in the 241 issues because it became unable to distribute information on their prices and order status to brokerage houses and data venders, the officials said.
+The TSE has not identified the cause of the glitch, but the affected system has been recovered, the officials said.
+This is the first majorcomputer system problem the TSE has experienced since it shifted to the "arrowhead" advanced trading system in January 2010.
+Speaking to reporters,Financial Services Minister Shozaburo Jimi expressed his deep regret over the system failure. He said he will order the TSE to find out the cause of the glitch and devise measures to prevent any similar problem.
+Elsewhere in Japan, theSapporo Securities Exchange in Hokkaido suspended trading in all issues listed there throughout Thursday morning. The exchange uses the same system as the TSE's.
+But trading on the otherJapanese exchanges of Osaka, Nagoya and Fukuoka was not adversely affected. Officials of the Nagoya Stock Exchange said there has been no problem with trading in shares listed both on the NSE and the TSE.
+In November 2005, a computer system glitch suspended trading in all of the 2,500 stocks and other financial products listed on the TSE.

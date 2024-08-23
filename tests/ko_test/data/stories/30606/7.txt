@@ -1,0 +1,7 @@
+Toronto-Dominion Bank (The) - Post says TD Bank hit by computer hiccup
+08/25/2004
+Canada Stockwatch
+fv
+The Financial Post reports in its Wednesday edition that Toronto-Dominion Bank suffered a computer glitch Tuesday, this time preventing some of its customers in Ontario and British Columbia from receiving updated account balances. The Post's Chris Sorensen writes that the breakdown, which affected face-to-face bank teller transactions, is the second network problem the bank has suffered in less than a month and comes on the heels of a string of software and technical problems at Canada's major banks this summer. Jeff Keay, a TD spokesman, said the "software application problem" was discovered at about 8 a.m. on Tuesday. The glitch did not impact telephone, on-line or automated bank systems, he said. "The disconnect is between the teller platform and the mainframe, for lack of a better term," said Mr. Keay.
+"All the information is safe." The glitch, which the bank said was caused by an unexpected increase in system capacity, rendered its automated tellers and on-line banking services inoperable for about three hours. Other banks and financial institutions that have suffered from software or technical problems this summer include CIBC, ING Direct and Royal Bank of Canada.
+Toronto-Dominion Bank (The) TDShares issued 654,695,101 Aug 24 close $46.00 Wed 25 Aug 2004 In the News

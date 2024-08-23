@@ -1,0 +1,19 @@
+[untitled]
+08/06/2008
+The San Francisco Chronicle (California)
+ln
+Yahoo Inc. on Tuesday revised the number of votes cast in the Sunnyvale Internet company's board elections last week after learning a technical error by an independent vote-processing firm exaggerated the results.
+Although it did not change the outcome of the election, Broadridge Financial Solutions Inc.'s transmission error resulted in overstating investor support of some directors, including Chief Executive Officer Jerry Yang.
+Yahoo released corrected figures for Friday's election, in which investors voted to reseat the current board despite shareholder frustration over its rejection of Microsoft Corp.'s $47.5 billion takeover bid.
+Under the revised count, Yang's support dropped to 66.3 percent from 85.4 percent and Chairman Roy Bostock had 60.4 percent of the vote instead of the previously stated 79.5 percent.
+Broadridge officials explained the error by saying they underreported share numbers that exceeded eight digits.
+Capital Research Global Investors, a firm that held a 6.2 percent stake in Yahoo according to the most recent public figures, alerted Broadridge on Monday to the potential error. Capital World Investors, another Capital Research fund, owns nearly 10 percent of the portal's shares.
+One of Capital Research's portfolio managers has been publicly critical of the board's handling of Microsoft's offer.
+'We felt the vote totals reported by Yahoo did not reflect all the votes that should have been cast,' said Chuck Freadhoff, spokesman for Capital Research. 'We asked Broadridge Financial to double check the votes transmitted to Yahoo on our behalf.'
+'It was just in this one incident with one investor and did not change the outcome of this election,' said Chuck Callan, senior vice president of regulatory affairs for Broadridge, which is based in Lake Success, N.Y.
+Broadridge immediately fixed its systems to avoid such errors in the future and has found no similar mistakes in a review of meetings during the past 18 months, Callan said.
+Yahoo shares gained 44 cents to close Tuesday at $19.82 per share.
+'It was just in this one incident with one investor and did not change the outcome of this election.' '
+Chuck Callan vote-processing firm official
+Copyright 2008 San Francisco Chronicle
+All Rights Reserved

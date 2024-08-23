@@ -1,0 +1,16 @@
+U.S.: Some Aencies Ulikely To Fix Year 2000 Problem
+03/18/1998
+Dow Jones International News
+fv
+WASHINGTON (AP)--Contingency plans are imperative for federal agencies struggling to meet a Jan. 1, 2000, deadline for fixing a potentially disruptive computer glitch, a government investigator says.
+Some probably won't be ready in time and agencies currently on schedule could be thrown off track by last-minute foulups, said Gene L. Dodaro, assistant comptroller general for the General Accounting Office, Congress' investigative arm.
+That could mean trouble for anyone who receives government checks, pays taxes, flies in an airplane, receives student loans or manages the military, he said.
+'Financial transactions could be delayed, airline flights grounded and national defense affected,' he told a joint meeting of two House technology subcommittees Wednesday.
+Government computer systems that perform calculations involving dates may begin generating incorrect data after Dec. 31, 1999, because for several decades computer systems have used two digits to represent a year to save electronic storage space and reduce computing costs.
+This means that after 1999, 2000 will be shown as 00, indistinguishable from 1900.
+As of Feb. 15, about 35% of the roughly 7,850 computer systems labeled as 'mission critical' were ready for 2000, according to the White House Office of Management and Budget.
+Forty-five percent are being fixed, 14.6% are being replaced and 4.6% are being retired.
+Costs already have jumped. In February 1997, the OMB estimated fixing the problem would cost $2.3 billion. Its most recent estimate was $4.7 billion.
+To help the government head off trouble, President Clinton appointed a council last month to oversee a government-wide effort to reprogram or replace computers systems.
+(END) Dow Jones Newswires 19-03-98
+0725GMT

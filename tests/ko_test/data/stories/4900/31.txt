@@ -1,0 +1,28 @@
+Management
+03/25/1998
+THE JOURNAL (Newcastle, UK)
+ln
+BILL SNAITH and VICKY MEAKIN, of Durham University Business School, highlight the management issues related to the 2000 problem, over which there are many misconceptions which need correcting. They provide answers to some serious questions.
+Misconceptions about Year 2000
+It only affects large, old computer systems: Wrong, any system can be affected. For example, your spreadsheet may not be compliant - try it!
+We have two years to fix the problem: Wrong, some errors can be seen now if contracts or leases run over the year 2000. You need to test now.
+Someone else will fix it for me: Wrong, you and only you are responsible for making sure your systems are checked.
+It only affects large organisations: Wrong, all organisations have systems with the date change problem. Smaller companies may face high consultancy payments to fix the problem later.
+It's an IT problem: Wrong, IT may be the cause, the effect is on your business.
+Ignore it and it will go away: Wrong, one estimate is that 20pc of companies will do nothing and that several major firms will fail as a result.
+It's the end of the world as we know it: Wrong, safety critical systems are being addressed as a priority, so planes may not fall from the sky, etc. The real calamity is if your business fails to act now.
+Who and what does it affect?
+Who - is you, your business, your value chain, your suppliers and customers, your bank, the stock market and the world economy.
+What - is most computers, software, process controllers and 'embedded chip devices'. These include global positioning systems [navigation], telecommunications, emergency services, fire alarms, warning systems, air conditioning, PABX, voice recording, telex machines, surveillance, security, lift controllers, photocopiers, date/time machine stamps, radio control systems, some video and audio equipment, some vehicle ignition systems, hospital apparatus, power supply, telemetry and meteorological equipment.
+Plus, unexpected areas such as staff using non-standard software, IT and chip-based assets not recorded or with lack of documentation.
+How do you fix it?
+You must look in detail at everything but also take a wider view of the business operations. Your business will suffer just as much from a minor programme glitch as from a computer shutdown at your major suppliers.
+One approach to fixing the problem is CASCADE:
+Compile an inventory of all computers, hardware and software that might be affected.
+Analyse this inventory and prioritise on a business-critical basis.
+Schedule and budget for action, identifying the resources needed.
+Consider contingency plans for circumstances you cannot manage.
+Appoint a project team with the managing director as leader.
+Decide what are your strategically important options.
+Execute - take action now!
+Copyright 1998 Newcastle Chronicle & Journal Ltd

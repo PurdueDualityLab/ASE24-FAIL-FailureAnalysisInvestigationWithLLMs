@@ -1,0 +1,18 @@
+Year 2000 remediation well under way in natural gas industry
+09/28/1998
+The Energy Report
+ln
+At least 22% of natural gas and oil companies expect to have completed Year-2000 (Y2K) remediation by the end of this year, according to a recent survey conducted by a coalition of industry groups.
+All survey respondents plan to be Y2K ready by December 1999, the Natural Gas Council found. The council is made up representatives of the industry's four leading associations, each of which is also working with its membership separately on the issue of preparing their systems to guard against computers failures from the change of the Millennium.
+The baseline survey, along with testimony from various oil and gas industry officials, was presented during a Y2K conference before the Federal Energy Regulatory Commission. Conference attendee John Koskinen, who heads President Clinton's 'Council on Year 2000 Conversion,' said the survey results illustrate what the council had in mind when creating task forces on Y2K.
+Survey results show, as of September 1998, 55% of survey respondents have either completed, or are in the process of fixing their computer software. Forty percent of those surveyed say the remediation of embedded hardware systems is underway -- 14% have completed remediation.
+In conjunction with the American Petroleum Council, the Natural Gas Council surveyed more than 800 gas and oil companies to examine industry progress on Y2K. Industrial hardware and software applications are currently incapable of recognizing the date 2000, prompting fears of a global shutdown of computer networks upon the turn of the century.
+Interstate Natural Gas Assn. of America Senior Vice President Skip Horvath called the survey 'the most significant collaborative effort between the oil and gas industry' to date.
+Though optimistic about the industry's progress on Y2K, Horvath noted a cautious optimism among industry representatives. The survey results 'underscore the amount of work we have before us,' he said.
+FERC Chairman James Hoecker echoed Horvath's hesitancy. 'I plan to look hard at those results and I hope that adequate progress is being made through the compliance and readiness efforts that we have found,' Hoecker said.
+Energy industry companies have employed a complicated and time-consuming process of identifying and assessing specific Y2K problems in their computer equipment, rectifying the problems, and validating their readiness to industry officials, the council said.
+Similarly, the North American Electric Reliability Council said results of a recent survey of the electric industry show it is unlikely there will be widespread system failures due to the computer glitch. But, the council said, industry has to accelerate its preparation to complete readiness plans in time (TER 9/21, p. 785).
+The computer glitch arises from the lack of four digit codes for years. Many computers currently only require that the last two digits of a year be entered into memory banks. While using only the two-digit codes represented a short cut for programmers, it also may make remedial work necessary on many systems because of possible widespread technology failures when '2000' arrives and computers read the year to be '1900.'
+The American Gas Assn. (AGA), which is participating in Year 2000 Conversion's Energy Working Group, notes that surveys will be mailed out quarterly until 2000. Along with the Edison Electric Institute, the association will sponsor a major 'Information Technology Conference' Nov. 1-4 in Houston, officials said.
+URL: http://www.platts.com
+Copyright 1998 The McGraw-Hill Companies, Inc.

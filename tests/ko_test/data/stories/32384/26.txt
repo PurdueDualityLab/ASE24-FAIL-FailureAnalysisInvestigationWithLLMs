@@ -1,0 +1,24 @@
+Canadian glitch puts U.S. trade deficit out $2B: [National Edition]
+02/01/2005
+National Post
+pq
+dberman@nationalpost.com
+A technical glitch at the agency that collects Canada's trade data not only contributed to a surge in the Canadian dollar, it also took a dramatic -- if temporary -- bite out of the U.S. economy.
+The trade data, released in January, showed a large drop in imports from the U.S. to Canada in November, pointing to a possible recession here and lacklustre economic growth in the United States. But the numbers, it turns out, were bogus.
+"It's creating quite a stir," said Marc Levesque, chief fixed income strategist at TD Securities. "It's pretty obvious that there are going to be substantial revisions to the U.S. gross domestic product data as a result of this."
+The error began with routine maintenance at the Canada Border Services Agency on Nov. 25.
+The agency, which collects data on imports, was upgrading its computer system that day and shut off the automatic transmission of data.
+"Unfortunately, someone forgot to manually turn that process back on once the maintenance was complete," said Chris Kealey, a spokesman for CBSA.
+When the agency transmitted the trade data to StatsCan at the end of the week, one day's worth of imports was missing.
+StatsCan originally reported that Canada's trade surplus in November had surged to $7.3-billion, more than $2-billion higher than October's trade surplus and very close to a record high.
+But more importantly, the original data showed Canada's imports had plummeted unexpectedly in the month by an alarming 10%.
+That was seen as the biggest monthly drop in almost 20 years and a sign the Canadian economy might have fallen into recession.
+The mistake reverberated through financial markets when the figures were released on Jan. 12. The loonie soared by as much as US1.6 cents during the day as currency traders abandoned the greenback on the news the U.S. trade deficit had increased more than expected.
+At the time, economists were wary of the data because of its inconsistency with previous figures. But analysts at StatsCan stuck by the report. They issued a correction only yesterday.
+With the revision, Canada's trade surplus for November was nudged down to $5.4-billion, while imports were bumped up by about $2- billion -- still a 4% decrease over October.
+"We know in November that the Canadian dollar hit a spike, so that reduces the Canadian-dollar cost of imports," said Michael Gregory, senior economist at BMO Nesbitt Burns.
+"Nevertheless, it does generally suggest that the economy is weakening a bit because of the high Canadian dollar."
+The United States uses Canada's import data in calculating its own preliminary GDP figures, since the figures mirror U.S. exporting activity. With the revised data, U.S. economic growth could be considerably higher than early estimates.
+Ian Shepherdson, chief U.S. economist at High Frequency Economics, now estimates the revised data should add half a percentage point to U.S. GDP growth in the fourth quarter of 2004, bringing annualized growth to about 3.5%.
+Although the initial figures from StatsCan in January appeared to shock currency markets, yesterday's revisions appeared to have little impact. The Canadian dollar ended the day essentially unchanged, at US80.6 cents, as currency traders focus on whether the U.S. Federal Reserve continues to jack up interest rates.
+"In the United States, there is a whole slew of data releases coming out. And the key to the U.S. dollar over the very near term is expectations of Fed policy," Mr. Levesque said.

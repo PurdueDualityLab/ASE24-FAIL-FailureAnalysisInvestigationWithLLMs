@@ -1,0 +1,20 @@
+Slow road to WIn 2K benefits;Phased rollouts delay directory, security use
+06/14/1999
+Computerworld
+ln
+By Sharon Gaudin
+Corporate users and analysts say the long, steady migration to Windows 2000 recommended by Microsoft Corp. is the safer course to take but warn that large companies following that lead won't see any key benefits for up to 18 months after they dive in.
+That's because major features in Windows 2000, such as Kerberos security and Active Directory, won't be available unless the new operating system is sitting squarely on every desktop and server. So users who take the slow road to Windows 2000 will face a long haul before the cost of software, new hardware, information technology training and deployment are paid off in big benefits, analysts said.
+Moreover, observers also predict that such migrations might not begin until late next year, or even 2001, as corporations wait to get past year 2000 problems and for initial glitches to shake out.
+Up-Front Planning
+Karan Khanna, a Windows NT product manager at Microsoft, told Computerworld last week that the vendor is telling big customers they will need to do more up-front planning than ever before and to take their time moving from Windows NT 4.0 to Windows 2000, which is slated to ship some time between October and year's end.
+In other words, analysts said, this will be the largest and most difficult migration Microsoft customers have ever undertaken.
+'Plan long and hard,' said Eric Hemmendinger, an analyst at Aberdeen Group Inc. in Boston. 'Don't be the first one on the block to do it. And, oh, by the way, this is not going to be fun. This is going to be like an earthquake for a lot of organizations.'
+That's giving some users pause. 'It may be hard to justify the cost,' said Pat Ryan, a software engineer at Hobart Corp., a Troy, Ohio-based manufacturer. 'Usually, when we go to our managers and try to get approval for a big purchase, we have to be able to justify it financially. And if we're not going to see that justification for a while ... we'd probably have to put it off until it's absolutely necessary.'
+Windows 2000, which has been on Microsoft's drawing board for about five years, has about 35 million to 45 million lines of code, compared with about 15 million in its predecessor, Windows NT 4.0. The new operating system is architecturally quite different from NT 4.0 and offers a new directory, new security and various tools, such as Microsoft Message Queue and Microsoft Transaction Server, that had been separate tools.
+Khanna said Microsoft is telling users to migrate in stages, starting by putting Windows 2000 Workstation on desktops. He countered critics by saying users will see 'incremental benefits,' like local encryption capabilities and power management, from the move.
+'In terms of risk to the operation, the desktop move only affects that desktop machine. But if anything happens, the network is still fine,' Khanna said. 'You go to a few servers next. See how they function, and do a few more. ... Changing the domain controller, which is where the user name and password authentication is kept, is last because it affects a lot more people and the whole network. You want to be a lot more comfortable here.'
+Khanna said a lot of the Windows 2000 benefits won't take effect until the domain controller is in place. That's because the new directory and the new security can't do their jobs unless they can reach out to every Windows-based server and desktop. Old versions simply won't function with the new architecture.
+Isaac Applbaum, CEO of Concorde Solutions, the development subsidiary of Bank of America in Concord, Calif., said he expects the move to Windows 2000 to be a much more difficult migration than his team is used to.
+'We're planning on it being difficult,' he said, adding that he's going to wait for a few service packs to hit the streets and then do the migration -- desktops and servers -- in one fell swoop. 'I'm a patient guy, but I want to be able to touch and see some of the benefits relatively soon. I'm not going to see benefits out of the gate doing it in stages.' w
+Copyright 1999 Computerworld, Inc.

@@ -1,0 +1,25 @@
+Space telescope will chart star history:: [Final Edition]
+04/16/2003
+The Vancouver Sun
+pq
+Ultra-sensitive device will probe chemical composition of depths of universe
+CAPE CANAVERAL, Fla. -- The launch of a powerful space telescope, a $1.2-billion US mission that marries high technology, innovative design and sheer determination, has been delayed for at least a week by a technical glitch.
+However, for a project 20 years in the making, what's another few days?
+Boosted into orbit around the sun and chilled to a few degrees above absolute zero, the Space Infrared Telescope Facility --Sirtf - - will focus on the faint heat emitted by stars and planets in the making, targets that until now have been, literally, shrouded in dusty mystery.
+The compact 860-kilogram observatory, so sensitive it could detect the pulse from a TV remote control 16,000 km, will probe the chemical composition of enigmatic brown dwarfs, would-be suns that lack enough mass to trigger nuclear ignition, and peer through intervening clouds of dust to map the hidden heart of the Milky Way.
+Cooled by liquid helium, the telescope also will peer into the depths of space and time, capturing the faint glow of the first ragged galaxies that coalesced in the aftermath of the big bang, as well as emissions from the cooler outer regions of quasars powered by black holes.
+Closer to home, the super-chilled 85-cm mirror and a trio of detectors promise to give astronomers an unprecedented view of the outer reaches of our solar system, from where comets and icy chunks of debris slowly swarm about in the faint flicker of the distant sun.
+Starting about two months after launch, the telescope will begin collecting its bounty of data, beaming back eight gigabytes of data per day -- a staggering 20,000 observations a year -- over its five- year life. If all goes well, it will deliver a scientific windfall to astronomers who have been waiting since the project began in 1983.
+"I believe Sirtf will significantly increase our understanding of the universe and will probably rewrite astronomy textbooks, just like the Hubble space telescope did," said NASA program executive Lia LaPiana.
+Michael Werner, project scientist at NASA's jet propulsion laboratory in Pasadena, Calif., said, "Sirtf will be a factor of a hundred to a million times more capable than any previous facility for infrared astronomy."
+The instrument is the fourth and final of NASA's vaunted Great Observatories, following in the footsteps of the Hubble telescope, the now-defunct Compton gamma-ray observatory and the recently launched Chandra x-ray observatory.
+The idea was to build a fleet of telescopes sensitive to different portions of the electromagnetic spectrum because "many cosmic objects produce radiation over a wide range of wave- lengths," said NASA science chief Edward Weiler. "It's important to get the whole picture."
+This telescope is designed to capture infrared emissions from objects and processes that generate temperatures of just a few hundred degrees or less, what Werner calls "the old, the cold and the dirty."
+"We can look with Sirtf at things that are old because we're using the telescope as a time machine," he said, referring to faint emissions from galaxies that formed shortly after the big bang.
+The expansion of the universe over the past 12 billion years or so has stretched that light into the infrared, making such objects difficult to observe with ground-based telescopes because of Earth's obscuring atmosphere.
+Garth Illingworth, an astronomer at the University of California at Santa Cruz, said galaxy formation is one of the hottest topics in modern astronomy, and one Sirtf is uniquely suited to study.
+"Learning about how galaxies formed, when they formed, how they come together and assemble and grow with time is really and truly one of the great quests of the next decade," he said.
+The telescope will also probe the cold regions between the stars "where new stars are forming, dust around stars which may be giving birth to planetary systems, cold things at the outer fringes of our solar system," he said.
+"Finally, we can look with Sirtf at things that are dirty, because of the ubiquitous interstellar dust that blocks our view of things at optical wavelengths but are transparent in infrared."
+Mounted atop a Boeing Delta 2 rocket, the 14.5-foot-long instrument will be boosted into space from the Cape Canaveral Air Force Station on Florida's east coast. Illustration
+Graphic/Diagram: NASA, JPL Caltech, Washington Post / (Sirtf (left).) Visible light (top, center) reveals only part of what's happening. Sensors designed to detect infrared light can detail areas otherwise cloaked by dust -- or plastic bags (top, right) The constellation Orion in the visible night sky (bottom, center). The same area photographed by an infrared satellite (bottom, right).

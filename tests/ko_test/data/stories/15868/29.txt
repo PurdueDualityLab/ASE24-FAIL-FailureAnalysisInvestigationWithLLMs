@@ -1,0 +1,13 @@
+Software glitch in LA snarls western air traffic
+10/19/2000
+United Press International
+ln
+A software problem at a Federal Aviation Administration control center outside Los Angeles caused a major failure of the radar that controls air traffic in Southern California on Thursday, grounding dozens of regional flights and leaving thousands of travelers stranded.
+Technicians corrected the problem at the Los Angeles control center in Palmdale -- 60 miles east of the city -- by midday, however the problem had already caused a spate of flight delays and cancellations at Los Angeles International Airport and airports in Las Vegas, San Francisco and other western cities.
+The FAA said on Thursday that flights bound for Los Angeles were still facing delays averaging 1 hour, 23 minutes and as long as nearly three hours.
+Many air travelers who arrived at LAX bright and early Thursday morning were forced to cool their heels in the terminal for much of the day in hopes of getting off the ground before nightfall.
+The software malfunction caused radar screens at Palmdale to not display altitudes and speeds of airliners traveling through the region. The glitch occurred after upgraded software was installed at Palmdale Wednesday night.
+The airports' low-altitude radars continued to function allowing planes to land, however the FAA ordered Los Angeles-bound planes on the ground to remain there for more than four hours until the problem was corrected.
+Flights leaving LAX were slowed in order to allow greater distances between the planes.
+'The departures that were normally 5 miles apart were 20 miles apart,' said airport spokeswoman Nancy Castles. 'That was to make sure the safety margin was insured.'
+Copyright 2000 U.P.I.

@@ -1,0 +1,27 @@
+Pacific Bell Offers Self-Installation Kit for High-Speed Internet Service
+07/06/2000
+Sacramento Bee
+ln
+Deluged with orders for its new superfast Internet service, Pacific Bell unveiled a self-installation kit Wednesday for consumers wanting to connect at home -- an alternative that company officials said is 'easier, faster and more convenient' than waiting for a technician.
+That wait, due in large part to the service's popularity, can reach 20 business days, Pacific Bell said.
+The kit alternative isn't instantaneous: Waits can still be 10 business days.
+But the $ 39.95 kit does help consumers avoid installation and equipment fees, which can run as high as $ 198 when the company isn't running promotions.
+The announcement comes as Pacific Bell and its rivals race to attract residential customers for digital subscriber line (or DSL) service. The new technology is 10 to 100 times faster than the common dial-up modem connection.
+DSL technology allows simultaneous telephone and Internet use from a single phone line and jack. The kit Pacific Bell is offering includes a special modem, filters, software, a network interface card and an instruction manual.
+Pacific Bell estimates installation will take customers less than one hour. But it has set up a toll-free help desk anyway, staffed with specialists available seven days a week. Technicians also will make house calls.
+'People are demanding faster connections, so we've almost tripled the number of technicians we've hired (statewide) since the beginning of the year strictly to handle DSL installations,' said company spokesman Shawn Dainas.
+The company said the expanded crew of technicians should prevent any delays in installation.
+Pacific Bell's rollout of the self-installation kit follows a few high-tech mishaps last month at the giant telecommunications firm.
+In addition to growing waits for DSL installation, the company alienated, however temporarily, more than a 100,000 of its Northern California e-mail subscribers when software problems prompted a 20-hour backlog of undelivered mail.
+The company has since installed more software to fix that overload, said Heather Alexander, a Pacific Bell spokeswoman in Sacramento.
+Similarly, glitches with a circuit in downtown Sacramento affecting a Pacific Bell customer -- Internet service provider Intercite -- halted e-mail and Web page services for eight hours for some Intercite subscribers.
+Though far faster than dial-up modem connections, DSL has its limitations. Residential and business customers who wish to sign up for the service must live within a fairly short radius of a central switching office equipped to handle the service, typically three miles.
+That's one limitation, however, that a major competitor, using different technology, doesn't face. Comcast, Sacramento's largest cable television service provider, is set to begin offering its version of high-speed Internet service within the next 60 days using its cable lines.
+Comcast delivers Internet services through the same cable that it transmits movies and programming to a customer's television.
+'When we launch, we'll launch 100 percent without geographic limitations,' said Greg Bell, general manager of Comcast Online, a division of Philadelphia-based Comcast Corp.
+The company already sells its service in some 20 markets nationwide including Washington, D.C., Detroit and Baltimore.
+Pacific Bell, the local market leader, said proximity to one of its hubs will matter less in the future as it rapidly lays more fiber optic lines. However, the company is seeing its rivals multiply. So far, six firms have announced plans to build ultra-high speed Internet connections to reach homes in the Sacramento area.
+-----
+To see more of The Sacramento Bee, or to subscribe to the newspaper, go to http://www.sacbee.com
+Copyright 2000 Knight Ridder/Tribune Business News
+Copyright 2000 The Sacramento Bee

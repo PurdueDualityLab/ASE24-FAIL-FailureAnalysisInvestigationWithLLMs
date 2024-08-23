@@ -1,0 +1,18 @@
+Computer crash halts flights for 4 hours
+10/20/2000
+USA Today
+fv
+LOS ANGELES -- A computercrash at one of the nation's busiest air hubs grounded hundreds of flights and cut off travel to the southwestern part of the country for more than four hours Thursday.
+The failure of the radarsystem that guides planes into the region forced the Federal Aviation Administration to halt flights bound for much of California, Arizona, Nevada and Utah. By the time the embargo was lifted, thousands of fliers were stranded at gridlocked airports.
+The computer glitchoccurred shortly before 7 a.m. PT while technicians were installing an upgrade to the radar system that allows traffic controllers to monitor flights at other airports. "When the systems were being brought back up on line, it failed," FAA spokesman Jerry Snyder said. "We've installed the same software in 17 other systems, and it's always worked. This time, it didn't accept the software."
+The glitch forcedair traffic controllers to use a backup system, which requires that they relay flight information to one another over the phone instead of by computer. Though planes in the air were permitted to land, runways were shut down at airports in dozens of cities, including Los Angeles, Phoenix, Las Vegas and San Diego.
+The FAA reported nosafety problems, although there were tense moments for controllers. At one point, there was no more room on the ground at Los Angeles International Airport, and flights from Australia were sent to Las Vegas. Snyder said the FAA had no estimates of how many flights were canceled, "but hundreds were affected, across the country."
+Though the problems were extensive, FAA officials say, a bad summer storm on the East Coast can cause worse delays.
+"It's been pretty crazy,"said Garth Koleszar a spokesman for the National Air Traffic Controllers Association. "Every flight in and out of our sector was affected." Asked whether there were safety concerns, he said, "Any time you use a system that isn't the best that we have, I feel there is a degradation."
+The radar system at theFAA's Los Angeles Center, 60 miles north of downtown in the Mojave Desert community of Palmdale, covers a huge section of the Southwest, including most of California, parts of Nevada, Arizona and Utah, and out to sea 250 miles.
+"This was a standardupgrade. It was new software. Something is corrupting the system," Snyder said, adding, "There was nothing wrong with the old software."
+Southwest Airlinescanceled 70 flights, airline spokeswoman Melanie Jones said from Dallas. Other flights experienced delays up to four hours.
+United Airlines canceled at least 63 flights into the area.
+Such computer crashesaren't unique. Last year, a new air traffic control computer system on Long Island, N.Y., crashed three times in a month, delaying hundreds of flights.
+"It's one thing if badweather cancels your flight," said traveler Jesse Wilcox, whose flight from Los Angeles to Denver was delayed more than three hours. "There's nothing you can do about that. But when it's a computer bug, that's scary."
+Contributing: Blake Morrison

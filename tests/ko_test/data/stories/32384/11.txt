@@ -1,0 +1,27 @@
+Upgrading computers? Make sure time is right
+02/01/2005
+The Globe and Mail
+pq
+Statscan feels pain from data feed
+The Canada Border Services Agency is going to think twice about upgrading its computers on the 25th of the month again.
+Turns out that tends to be the busiest day for importers and exporters to file key monthly paperwork with the agency, which electronically forwards the data to Statistics Canada once a week, a CBSA spokesman said.
+However, a goof the border agency made in restarting its systems on Nov. 25, following an upgrade, has forced Statscan to issue a massive $1.9-billion upward revision -- a little more than Tajikistan's entire gross domestic product -- to trade figures for the month, damaging its credibility with Bay Street in the process. The debacle will also likely force a restatement of key U.S. data.
+Statscan said yesterday that instead of plunging by a startling 10.2 per cent to $27.4-billion in November -- a drop whose accuracy many economists challenged at the time -- imports actually fell by 4 per cent to $29.3-billion.
+Those from the United States, in particular, came in at $19.5-billion, rather than $18.2-billion, as the agency reported Jan. 12.
+Even more embarrassing, there were strong hints yesterday that the foul-up also may force Statscan's U.S. counterpart, which shares import and export data with the Canadian agency, to revise fourth-quarter gross domestic product figures it released last week, perhaps by as much as 0.5 per cent, several economists estimated.
+"If there was a mistake by Statistics Canada, which does appear likely, then that would have an impact on BEA's estimates of [U.S.] gross domestic product for the fourth quarter," Ralph Kozlow, associate director for international economics at the U.S. Bureau of Economic Analysis, said when reached in Washington. The bureau said Friday that U.S. economic growth slipped to 3.1 per cent on an annualized basis in the fourth quarter from 4 per cent in the third, bitten hard by a record trade deficit that included a widening trade gap with Canada.
+Mr. Kozlow said the bureau had received many calls regarding the error's potential impact.
+Statscan disclosed the revision as it reported that Canada eked out a 0.2-per-cent increase in gross domestic product -- to $1.056-trillion -- in November, after stalling in October.
+CBSA spokesman Chris Kealey said that, when the agency was upgrading its systems Nov. 25, it was forced to suspend the tabulation of a batch of data that was to be sent to Statscan.
+"Unfortunately, when the systems were restarted, we failed to notice that data for that day . . . did not make it into the [weekly] report," he said.
+Worse, the 25th of the month is typically the day when importers file papers on the nature and value of the goods they are bringing in to the country.
+"They wait till that day and that day's worth of information is much larger than any other day of the month," he said.
+An official from the Canadian Association of Importers and Exporters said the 25th is the favoured filing date -- providing it does not fall on a weekend -- because payments of all taxes and duties are due a little less than a week later, by the last business day of the month.
+Asked if the border agency will refrain from doing computer upgrades at this time of the month, Mr. Kealey said: "Well, we've put in a few alarms in the event that we do routine maintenance just like everybody does on their computers when they upgrade systems and so on, so that we catch these things."
+Statscan spokeswoman Diana Wyman said the massive data glitch has "resulted in significant discussions occurring between the two agencies and we've been assured that it has been resolved."
+However, the error has not done the federal number cruncher's reputation any good.
+Stfane Marion, assistant chief economist at National Bank Financial Inc., for example, said fluctuations in trade statistics have "wreaked havoc" with the Bank of Canada's monetary policy, erroneously triggering its move to start raising interest rates last September only to suspend the campaign at its December rate-setting meeting, and again standing pat at the most recent setting a week ago.
+"The revisions Statscan has done on the trade front have been very significant and have had some very tangible impacts on the conduct of monetary policy, given that the trade sector is such a huge component of our economy," Mr. Marion said.
+A Bank of Canada official would not comment on this yesterday. However, the central bank itself has cautioned observers -- most recently last Thursday in an update of its Monetary Policy Report -- not to set too much store by Statscan's initial cut at trade figures because revisions are so frequent.
+Meanwhile, Marc Lvesque, chief fixed income strategist for North America at TD Securities Inc., said in an interview that it was clear when they were released Jan. 12 that Statscan's November trade numbers were wrong.
+"I mean, my god, 10 per cent of Canada's imports evaporating in one month? Sure, right, and I'm Shrek."

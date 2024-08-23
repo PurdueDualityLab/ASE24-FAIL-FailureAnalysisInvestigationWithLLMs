@@ -1,0 +1,35 @@
+Tech Test Drive: How to create three floors of digital-TV goodness
+06/05/2009
+St. Paul Pioneer Press (Minnesota)
+ln
+I've become a penny-pinching HD snob, and I blame Uncle Sam.
+Ever since the feds prodded U.S. television stations intogoing digital with their over-the-air broadcasts, I've become aconnoisseur of high-definition TV transmissions. I have lost allappetite for anything of lesser quality (including all thestandard-definition channels that make up the bulk of my cable-TVlineup).
+And all this HD goodness is free. Attached strings? None.
+This means I was prepared for the much-ballyhooed digital-TVtransition more than a year in advance of Friday's deadline, andI have loved every minute of it. I've made every floor of mythree-story residence digital TV-ready. So, this column is a tourof the place -- and the various ways I pull in all thatover-the-air HDTV.
+Be warned: Over-the-air digital TV isn't always a smooth ride.
+Living room. My trusty 32-inch HDTV in the first-floorfamily room has been hooked to a terrific RCA antenna for awhile. The tuning device, which has a flattened shape thatrenders it all but invisible atop the entertainment center, haspulled in all available local digital channels (about 20 of them,including some from as far away as Big Lake).
+I'm stunned by the visual quality of HD shows, such asprimetime series and local newscasts (channels 4, 9 and 11 allhave high-def news programs now, with Channel 5 coming soon).
+But I keep running into a bizarre glitch: The picture on my TVfreezes every so often, which forces me to unplug the set fromthe outlet, plug it back in and turn it back on. This happensonly when I'm watching over-the-air digital TV, not when I'mwatching cable TV, a DVD movie or anything else.
+This has happened for a while -- and I suspect somethingabout the TV is to blame since I've duplicated the problem withmore than one antenna. I have not found a fix for this yet.
+So, I've circumvented the issue by unplugging the antenna fromthe TV and connecting it to a supercompact Apple computer, theMac Mini, which I am using as a media center. Unlike the HDTV,the Mini doesn't have a built-in digital tuner, so I have addedan Elgato digital tuner that plugs into a Universal Serial Busport on the back of the computer; the antenna's coaxial cablelinks to the tuner.
+I'm then able to view over-the-air HD shows on my TV via theMac Mini, and even to schedule recordings in a TiVo-like fashionusing Elgato's terrific software for this purpose. My only minorcomplaint is playback of such recordings is sometimes a bitherky-jerky due to brief reception interruptions.
+For more on using a Mac Mini as a media center, see mydetailed column on the topic at www.twincities.com/ci_12211373 .
+Home office. My wife and I don't always agree on whatto watch, so I've made a tactical decision to let her have thebig-screen TV whenever she wants to watch something on the Homeand Garden Television channel.
+I'm fine with this since I've retrofitted the Apple iMaccomputer in my second-floor home office as an HDTV. An Elgatotuner is connected to this Mac, as well, along with a cheapoRadio Shack antenna, which makes for a fab viewing experience onthe all-in-one computer's 24-inch display.
+With a comfy high-backed chair and a fine set of iFrogzheadphones on a long audio cable (so I don't wake up my son inthe nearby bedroom), I am all set.
+Since the Mac Mini downstairs and the iMac upstairs havedifferent sets of high-definition recordings, I network themachines so I can easily move HD-video files from one computer toanother. I've accomplished this using powerline-networking gear,which allows file sharing over the electrical wiring in my house.This sounds weird but really works.
+With powerline adapters from Cisco or Belkin plugged into wallpower outlets upstairs and downstairs, and the Macs plugged intothe adapters, I can even play video files off one Mac whilewatching it on another; there is no stuttering.
+As with the Mac Mini, though, I'm plagued by receptionglitches that make for a less-than-seamless HD experience.
+Third-floor play area. The finished third-floor atticis my son's domain for PlayStation 2 gaming with his friends onan old tube TV. It's a nice but ancient set that will be reducedto static on Friday unless it's outfitted with adigital-converter box, so I've done just that.
+I'm using what has long been my favorite converter, a DigitalStream model sold at Radio Shack. As I've mentioned before, thisis an extra-swell box partly because of its remote, which is muchnicer to use than the abysmal ones that come with mostconverters. A good clicker makes all the difference.
+I've seen the best reception with this setup (includinganother Radio Shack antenna), perhaps partly because it's on thetop floor, and perhaps partly because it is simple. As I haverepeatedly found, sometimes basic digital-TV gear will work thebest.
+Julio Ojeda-Zapata can be reached at jojeda@pioneerpress.com and 651-228-5467. Get more personal tech at twincities.com/techtestdrive and yourtechweblog.com .Follow twitter.com/jojeda .
+MORE INFO Digital Stream DTX9950 converter
+http://tr.im/njvj RCA ANT1500 flat digital antenna
+staytuned2tv.com Radio Shack 15-1868 digital antenna
+tr.im/njvd Elgato digital tuners for Macintosh
+elgato.com Cisco powerline-networking gear
+tr.im/njwm Belkin powerline-networking gear
+tr.im/njwB
+Copyright 2009 St. Paul Pioneer Press
+All Rights Reserved

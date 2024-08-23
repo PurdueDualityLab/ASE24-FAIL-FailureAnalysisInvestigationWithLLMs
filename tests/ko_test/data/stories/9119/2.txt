@@ -1,0 +1,14 @@
+MICROSOFT ON TRIAL: Draft contract's effects weighed.: [MORNING Edition]
+06/10/1999
+Orange County Register
+pq
+The U.S. Justice Department and 19 states - including California - are accusing Microsoft of illegally exploiting its operating-system domination to kill competition. The antitrust trial began Oct. 19.
+WEDNESDAY'S DEVELOPMENTS
+Though Microsoft Corp. never explicitly proposed that International Business Machines Corp. stop installing a competing operating system on its personal computers, a draft contract between the companies would have sent IBM's OS/2 product "to the grave," an IBM manager testified.
+Under cross-examination, government witness Garry Norris acknowledged that a proposed Windows 95 marketing agreement did not specifically prohibit IBM from installing its OS/2 operating system. Still, a series of provisions in the market development contract would "have the effect of killing OS/2 in the marketplace," Norris told Microsoft defense lawyer Richard Pepperman.
+IBM ended up installing both operating systems on most of its PCs.
+OTHER DEVELOPMENTS
+In a separate trial in Utah, Caldera Inc. lawyers will argue today that Microsoft created both deliberate glitches and the perception of incompatibilities between Caldera's computer operating system, DR- DOS, and Windows. The small Orem software company has accused the industry giant of violating antitrust laws, arguing Microsoft employed a broad range of illegal tactics to quash competition for its operating system, MS-DOS.
+NEXT
+Princeton professor Edward Felten will testify for the government today in Washington.
+Source: Register news services

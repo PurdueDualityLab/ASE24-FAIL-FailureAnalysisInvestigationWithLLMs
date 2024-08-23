@@ -1,0 +1,36 @@
+FIRE ALARM SYSTEM A $25M FLOP.
+08/23/1998
+Sunday Star-Times*The Sunday Star-Times (Auckland)
+fv
+Commander may quit in calls chaos
+NATIONAL Fire Commander Bob Sampson is considering quitting after a new 111 computer system has been found to be a $25 million flop.
+Hundreds of people have complained about fire appliances being sent to the wrong address and the wrong stations being notified, causing huge delays.
+Problems are so extensive fire bosses are considered ditching it in favour of returning to the old system in what may prove the most expensive error in the service's history. They are also seeking compensation from the Australian computer company which supplied it.
+The brigade switched to the police's national communications system (CARD) on July 30, hoping the new technology would reduce response times.
+The Sunday Star-Times understands bosses were wary about switching at a time when the police system was being criticised for delays, but were tied into a contract.
+In a leaked report, firefighters who monitored it over a two-day period last week at the Auckland centre found:
+* Staff dedicated to answering Fire Service calls didn't know how to properly use the system. Many of the delays were caused by human error.
+* Computers aren't compatible, creating confusion. Previously, locations of fires were manually input. Now, using Telecom's caller ID, addresses automatically flash up on a screen. But when the operator tries to verify the information with the police database they find addresses are classified differently and many roads, including Auckland's Harbour Bridge, aren't listed.
+* Emergency calls from the brigade requesting backup aren't answered because of a software glitch.
+* The system was never tested before it went online.
+Before all fire 111 calls were answered by the brigade's own teams at centres in Auckland, Hamilton, Palmerston North, Wellington, Christchurch and Dunedin.
+The computers were 15 years old and couldn't handle calls involving more than 20 appliances. But the majority of calls were attended to within seven minutes.
+Now firefighters say delays of up to 10 minutes are being experienced as calls are answered from just three centres: Auckland, Wellington and Christchurch. Examples include:
+* Ten people from Hamilton hanging up after their calls weren't answered when a sleepout on a property caught fire in early August.
+* A six-minute delay in attending a house fire in Ponsonby, increasing damage to property.
+* On August 1, appliances attending a motor accident were sent to Awhitu Peninsula near Waiuku instead of Tuakau.
+* A Balmoral appliance was sent to an Avondale car fire. An Avondale engine was standing idle.
+* On July 28, a caller had to drive to his nearest fire station after being told the computer didn't recognise Jellicoe Ave, Tuakau, as an address.
+* On August 14, a rescue tender was sent to Otara instead of a motor accident in Drury.
+* On August 20, an appliance attending a car accident was sent to Mt Eden instead of Mt Albert.
+* Last Friday, appliances from North Shore were despatched when a fire alarm went off in central Auckland. The nearest engine was standing idle just 200m away.
+The contract with Australian computer company Intergraph was negotiated before Fire Service commissioner Roger Estall was appointed last July. It is understood he had reservations from day one and told Mr Sampson the buck stopped with him (Mr Sampson).
+"I have considered resigning - it is always on my mind," said Mr Sampson, whose term in office soon comes to an end, regardless.
+"One of the problems is that data on street names etc hasn't been transferred over, despite the fact I was assured in May it had been.
+"We are experiencing problems and have a team of people working on it non-stop to resolve matters," he said.
+"If the technology works well this is a far superior system, but it's fair to say we are experiencing more problems than anticipated.
+"We contemplated going back to the old system but it is flawed and liable to collapse at any stage."
+Mr Sampson is pushing for $7000 a day compensation from the Melbourne-based computer company and may look at legal action.
+The same system is also used by Melbourne fire and ambulance services, which have been besieged by problems.
+Mr Estall refused to comment. Police Minister Jack Elder said he was being briefed regularly.
+(c) Sunday Star Times, INL 1998.

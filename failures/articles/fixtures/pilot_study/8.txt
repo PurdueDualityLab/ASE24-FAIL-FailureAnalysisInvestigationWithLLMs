@@ -1,0 +1,76 @@
+Tesla Says Autopilot Makes Its Cars Safer. Crash Victims Say It Kills.
+A California family that lost a 15-year-old boy when a Tesla hit its pickup truck is suing the company, claiming its Autopilot system was partly responsible.
+
+Benjamin Maldonado and his teenage son were driving back from a soccer tournament on a California freeway in August 2019 when a truck in front of them slowed. Mr. Maldonado flicked his turn signal and moved right. Within seconds, his Ford Explorer pickup was hit by a Tesla Model 3 that was traveling about 60 miles per hour on Autopilot.
+
+A six-second video captured by the Tesla and data it recorded show that neither Autopilot — Tesla’s much-vaunted system that can steer, brake and accelerate a car on its own — nor the driver slowed the vehicle until a fraction of a second before the crash. Fifteen-year-old Jovani, who had been in the front passenger seat and not wearing his seatbelt, was thrown from the Ford and died, according to a police report.
+
+The accident, which took place four miles from Tesla’s main car factory, is now the subject of a lawsuit against the company. It is one of a growing number of crashes involving Autopilot that have fueled concerns about the technology’s shortcomings, and could call into question the development of similar systems used by rival carmakers. And as cars take on more tasks previously done by humans, the development of these systems could have major ramifications — not just for the drivers of those cars but for other motorists, pedestrians and cyclists.
+
+Tesla, founded in 2003, and its chief executive, Elon Musk, have been bold in challenging the auto industry, attracting devoted fans and customers and creating a new standard for electric vehicles that other established carmakers are reckoning with. The company is worth more than several large automakers combined.
+
+But the accidents involving Autopilot could threaten Tesla’s standing and force regulators to take action against the company. The National Highway Traffic Safety Administration has about two dozen active investigations into crashes involving Autopilot.
+
+At least three Tesla drivers have died since 2016 in crashes in which Autopilot was engaged and failed to detect obstacles in the road. In two instances, the system did not brake for tractor-trailers crossing highways. In the third, it failed to recognize a concrete barrier. In June, the federal traffic safety agency released a list showing that at least 10 people have been killed in eight accidents involving Autopilot since 2016. That list does not include the crash that killed Jovani Maldonado.
+
+Tesla’s credibility has taken a hit, and some experts on autonomous driving say that it is hard not to question other claims made by Mr. Musk and the company. He has, for example, said several times that Tesla was close to perfecting Full Self Driving, a technology that would allow cars to drive autonomously in most circumstances — something other auto and technology companies have said is years away.
+
+Mr. Musk and Tesla did not respond to several requests for comment.
+
+Autopilot is not an autonomous driving system. Rather, it is a suite of software, cameras and sensors intended to assist drivers and prevent accidents by taking over many aspects of driving a car — even the changing of lanes. Tesla executives have claimed that handing off these functions to computers will make driving safer because human drivers are prone to mistakes and distractions, and cause most of the roughly 40,000 traffic fatalities that occur each year in the United States.
+
+“Computers don’t check their Instagram” while driving, Tesla’s director of artificial intelligence, Andrej Karpathy, said last month in an online workshop on autonomous driving.
+
+While Autopilot is in control, drivers can relax, but are not supposed to tune out. Instead, they’re supposed to keep their hands on the steering wheel and eyes on the road, ready to take over in case the system becomes confused or fails to recognize objects or dangerous traffic scenario.
+
+But with little to do other than look straight ahead, some drivers seem unable to resist the temptation to let their attention wander while Autopilot is on. Videos have been posted on Twitter and elsewhere showing drivers reading or sleeping while at the wheel of Teslas.
+
+The company has often faulted drivers of its cars, blaming them in some cases for failing to keep their hands on the steering wheel and eyes on the road while using Autopilot.
+
+But the National Transportation Safety Board, which has completed investigations into accidents involving Autopilot, has said the system lacks safeguards to prevent misuse and does not effectively monitor drivers.
+
+Similar systems offered by General Motors, Ford Motor and other automakers use cameras to track a driver’s eyes and issue warnings when they look away from the road. After a few warnings, G.M.’s Super Cruise system shuts down and requires the driver to take control.
+
+This spring, Tesla told owners of some of its cars that a camera will begin to “detect and alert driver inattentiveness.” But auto safety experts said the cars only sometimes issue warnings and do not appear to dependably turn off Autopilot if drivers stay distracted. The system sometimes continues operating even if drivers have their hands on the steering wheel for only a few seconds at a time.
+
+“This monitoring system is fundamentally weak because it’s easy to cheat and doesn’t monitor very consistently,” said Raj Rajkumar, a professor at Carnegie Mellon University who focuses on autonomous driving technology.
+
+Consumer Reports said in May that one of its engineers had been able to turn on Autopilot in a Tesla and slip into the back seat while the car kept going. The California Highway Patrol said in May that it had arrested a man who got out of the driver’s seat of his Model 3 while it was moving.
+
+Autopilot can also be used on city roads, where intersections, pedestrians and oncoming traffic make driving more difficult than on highways. G.M.’s Super Cruise works only on divided highways.
+
+Still, Mr. Musk has often defended Autopilot. The company has cited its own statistics to claim that cars driving with the system turned on are involved in fewer accidents per mile than other cars.  Last Thursday, he wrote on Twitter, that “accidents on Autopilot are becoming rarer.”
+
+The National Highway Traffic Safety Administration has not forced Tesla to change or disable Autopilot, but in June it said it would require all automakers to report accidents involving such systems.
+
+Several lawsuits have been filed against Tesla just this year, including one in April in Florida state court that concerns a 2019 crash in Key Largo. A Tesla Model S with Autopilot on failed to stop at a T intersection and crashed into a Chevrolet Tahoe parked on a shoulder, killing Naibel Leon, 22. Another suit was filed in California in May by Darel Kyle, 55, who suffered serious spinal injuries when a Tesla under Autopilot control rear-ended the van he was driving.
+
+The crash that killed Jovani Maldonado is a rare case when video and data from the Tesla car have become available. The Maldonados’ lawyer, Benjamin Swanson, obtained them from Tesla and shared both with The New York Times.
+
+Mr. Maldonado and his wife, Adriana Garcia, filed their suit in Alameda County Superior Court. Their complaint asserts that Autopilot contains defects and failed to react to traffic conditions. The suit also names as defendants the driver of the Tesla, Romeo Lagman Yalung of Newark, Calif., and his wife, Vilma, who owns the car and was in the front passenger seat.
+
+Mr. Yalung and his lawyer did not respond to requests for comment. He and his wife, who were not reported injured in the accident, have not yet addressed the Maldonado family’s complaint in court.
+
+In court filings, Tesla has not yet responded to the allegation that Autopilot malfunctioned or is flawed. In emails to Mr. Swanson’s firm that have been filed as exhibits in court, a Tesla lawyer, Ryan McCarthy, said the driver, not Tesla, bore responsibility.
+
+“The police faulted the Tesla driver — not the car — for his inattention and his driving at an unsafe speed,” Mr. McCarthy wrote. He did not respond to emails seeking comment.
+
+Mr. Maldonado works for PepsiCo, delivering beverages to retailers. The family, which includes two other children, lives in San Lorenzo, about 15 miles north of Fremont.
+
+In written answers to questions, Mr. Maldonado said he and his wife were too devastated to talk in an interview. “We are living day by day,” he said. “There is so much sadness inside. We take family walks and try to do things together like going to church. There is a massive hole in the family.”
+
+Mr. Maldonado described his son as an outgoing high school sophomore who liked to sing and planned to go to college. His dream was to become a professional soccer player and buy his parents a house. “Like any grateful child, he wanted to take care of his parents like they did for him,” Mr. Maldonado said.
+
+The data and video allow a detailed look at how Autopilot operated in the seconds before the crash. Tesla vehicles constantly record short clips from forward-looking cameras. If a crash occurs, the video is automatically saved and uploaded to Tesla’s servers, a company official said in emails included in exhibits filed by Mr. Swanson.
+
+The video saved by the car Mr. Yalung was driving shows it passing vehicles on the right and left. Four seconds before impact, Mr. Maldonado turned on his blinker. It flashed four times while his Explorer was in its original lane. A fifth flash came as his truck was straddling the lanes. In court documents, Mr. Maldonado said he had noticed the Tesla approaching rapidly in his rearview mirror and tried to swerve back.
+
+In most of the video, the Tesla maintained a speed of 69 miles per hour, but just before impact it briefly increased to 70 m.p.h. then slowed in the final second, according to data from the car.
+
+Mr. Rajkumar of Carnegie Mellon, who reviewed the video and data at the request of The Times, said Autopilot might have failed to brake for the Explorer because the Tesla’s cameras were facing the sun or were confused by the truck ahead of the Explorer. The Tesla was also equipped with a radar sensor, but it appears not to have helped.
+
+“A radar would have detected the pickup truck, and it would have prevented the collision,” Mr. Rajkumar said in an email. “So the radar outputs were likely not being used.”
+
+Mr. Maldonado’s truck rolled over and slammed into a barrier, the police report said. It had a shattered windshield and a crumpled roof, and the rear axle had come loose. The Tesla had a crumpled roof, its front end was mangled, its bumper was partly detached, and its windshield was cracked.
+
+Jovani Maldonado was found lying face down on the shoulder of Interstate 880, his blood pooling.

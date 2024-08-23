@@ -1,0 +1,25 @@
+Bay Area Air Traffic Disrupted;Flights grounded after radar broke down
+10/24/2000
+The San Francisco Chronicle
+ln
+A radar malfunction in a Bay Area flight-control center grounded flights into and out of Northern California yesterday morning, the second time in less than two weeks that radar troubles have plagued West Coast travelers.
+Hundreds of early-morning flights were delayed or canceled after the Federal Aviation Administration ordered a nationwide 'ground stop,' halting Bay Area-bound planes that were sitting on runways all over the nation. The radar failed after overnight maintenance on new software installed last week.
+'The equipment had been running flawlessly for that period and this time, when they tried to bring it back online, it would not respond,' FAA spokesman Jerry Snyder said.
+The problem occurred at the FAA's Oakland Center in Fremont. The center tracks flights across Northern California and parts of Nevada.
+'At one time, we had 86 aircraft sitting on the ground ready for departure,' said Ron Wilson, spokesman for San Francisco International Airport.
+SFO's largest carrier, United Airlines, canceled 33 outbound flights because of the radar trouble, Wilson said. Overall, more than 100 flights were delayed.
+At Oakland International airport, 38 flights were delayed an average of 45 minutes, with the longest delay at 78 minutes, spokeswoman Cyndy Johnson said.
+More than two dozen flights at San Jose International airport were affected. Flights at Sacramento and Reno airports were also delayed.
+The ground stop began at 7:15 a.m. and ended at 8:45 a.m., after the software was reinstalled successfully.
+Planes were not lost from radar screens, and safety was not in jeopardy, Snyder said. But the system lost the ability to transfer information such as speed and altitude to controllers as planes were handed off, forcing controllers to pass along data by telephone.
+Yesterday's breakdown came less than a week after flights across the United States were canceled or delayed because of a glitch in an FAA radar computer in Southern California. That problem, which began Thursday morning, was traced to new software unable to read data typed manually by Mexican controllers.
+Snyder said yesterday's problem at Oakland Center appeared unrelated to Thursday's malfunction, although the cause was not known as of yesterday afternoon. Technicians were checking if yesterday's problem had been caused by the software, a maintenance error or a glitch in the computer hardware, he said.
+The software used to upgrade each regional center is written specifically for that particular center and is developed by the FAA, Snyder said. Seventeen regional FAA centers have successfully received upgrades, and three more are scheduled, he said.
+The repeated problems highlighted concerns about the reliability and safety of the nation's air traffic control system.
+'There are obvious safety issues involved when you lose your radar,' said Kevin McGrath, regional vice president for the Western Pacific region of the National Air Traffic Controllers Association. 'You have less room for error. You have less margin for error.'
+Michael Barr, director of the Aviation Safety Program at the University of Southern California, said improving air traffic control is a difficult task and credited the FAA with taking steps to modernize the system.
+'When you're talking about integrating software into a system as complicated as the air traffic control system, that takes a lot of time and money,' he said. 'When one major center goes down, it has a ripple effect throughout the United States.'
+Snyder said the FAA is responding to calls for improving air traffic control.
+'Obviously, we are having problems,' Snyder said.
+E-mail Marshall Wilson at marshallwilson@sfchronicle.com.
+Copyright 2000 The Chronicle Publishing Co.

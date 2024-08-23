@@ -1,0 +1,24 @@
+LONE CONTROLLER TRIGGERED WOES IN AIR SLOWDOWN;ONE TYPED COMMAND PROVED TO CONTAIN TOO MANY LETTERS FOR THE NEW SOFTWARE, AND ULTIMATELY MORE THAN 2,000 FLIGHTS WERE AFFECTED
+10/27/2000
+Contra Costa Times (California)
+ln
+WASHINGTON A lone air traffic controller, sitting in the darkened confines of the Palmdale, Calif., Air Route Traffic Control Center, shut down much of the air traffic across the Southwest last week by merely typing in a few too many characters on his computer.
+The glitch happened because of an odd combination of a major flaw in the Federal Aviation Administration's newly upgraded computer software and an antiquated flight information system used by Mexico.
+But the computer snafu spotlights a Digital Age malady familiar to many home and business computer users: a computer done in by faulty software code.
+Although everything from telephone switches to desktop PCs are at the mercy of software written by engineers, in aviation it can be a life and death matter.
+The shutdown ultimately grounded or delayed more than 2,000 flights at Los Angeles International Airport, plus hundreds more in Nevada, Arizona, Utah and Northern California, and its ripple effect delayed other flights across the country.
+'Software glitches come with the territory as automation becomes very complex,' said Lee A. Hollaar, a professor in the School of Computing at the University of Utah, who has conducted research on hardware and software trade-offs in computer system designs.
+Hollaar faulted the FAA for not testing its new software for a longer period before putting it online. He also said the agency should give more frequent training to controllers to refresh their skills both on the upgraded and old backup computer system.
+'If you never have to go back to the backup system, you forget how to use it,' Hollaar said.
+Though FAA officials were quick to absolve the air traffic controller of any fault, some aviation specialists say the agency could improve training and other procedures related to the software upgrades.
+'The people (using) the software just didn't seem to have the right training and they are supposed to be the experts' guiding the flights through the skies, said Ron Rahrig, vice president of the southwest region of the Professional Airways Systems Specialists. The Washington, D.C.-based aviation labor union represents computer systems specialists and safety inspectors.
+The problem at Palmdale one of the nation's busiest air hubs stemmed from an previously unknown bad instruction among the 250,000 lines of computer code in the multi-million dollar FAA software program.
+About 100 engineers, working in Atlantic City, N.J., created the program, which is part of a massive nationwide effort to upgrade the nation's aviation facilities.
+The software an update of the FAA's existing air traffic control program has been installed at 17 of the 21 air traffic control facilities and used without incident until last week.
+Because the software is customized for each air hub, FAA officials suspect the bad instructions exist in the portion of the software customized for Palmdale.
+The FAA installed its new software into an IBM G3 computer in Palmdale between midnight and 3 a.m. Thursday of last week.
+About 6 a.m. that day an unidentified air traffic controller took a routine call from Mexican authorities passing along routing data for flights en route from that country.
+The air traffic controller rotated the track ball on his keyboard so he could align his cursor to type in nine characters of flight information, which turned out to be four more characters than the flight center's software could handle.
+The software glitch made the entire system vulnerable to a crash simply because of the entry of the extra characters.
+Copyright 2000 Contra Costa Times
+All Rights Reserved

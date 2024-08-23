@@ -1,0 +1,53 @@
+Y2K COMES ONLINE PROBLEMS AT THREE MAINE COMPANIES DEMONSTRATE THE GLITCH SHOULD BE TAKEN SERIOUSLY Series: This is another in a continuing series of stories about the year 2000 computer problem.: [CITY Edition]
+02/12/1999
+Portland Press Herald
+pq
+The Year 2000 problem first became real for Unum Corp. in 1995 when the computer bug ate part of a list of brokers with whom the insurance company does business.
+For Consumers Maine Water Co., the Year 2000 problem showed up last year in a different kind of system. The bug infested 18 microprocessors hidden inside the panels that control water quality and monitor treatment systems. At Valcom, a computer training and consulting company, the millennium bug has been found in yet another place -- the hardware of personal computers it tests for businesses and individuals. More than 80 percent of the machines Valcom tested failed to handle the date change to 2000 without help.
+The experiences of these three Maine companies help demonstrate different aspects of the Year 2000 problem. Collectively, the experiences also demonstrate that the Year 2000 problem is real, as some people continue to doubt, but more amenable to detection and repair than some others fear.
+When the general public first started hearing about the Year 2000 problem a couple of years ago, many people laughed. The whole thing sounded silly.
+Computer programmers, we learned, often used only two digits -- such as "99" -- to represent years like 1999. The century was assumed to be 1900. That assumption was doomed to fall apart in 2000, when many computers would think the year was 1900.
+This could cause problems, such as tricking the IRS into sending out big tax refunds.
+Since then, we've learned that the problem affects not only old mainframe computers, but also personal computers and a huge range of devices that contain microprocessors. Organizations have spent billions of dollars fixing the problem.
+Some people now have begun to stock up on food because they fear that society will devolve into chaos early next year. Others continue to doubt there is any real issue at all.
+But few people -- blase or frightened -- really understand the nature of the problem or how it is being addressed. This unfamiliarity lingers even though it's not all that complicated.
+The problem falls into three basic categories represented by the experiences of Unum, Valcom and Consumers Maine Water -- software problems, hardware glitches and bugs in the chips that are embedded in everything from microwave ovens to systems that regulate the flow of electricity.
+The most straightforward manifestation of the problem is in software programs, such as the one that affected Unum.
+The Unum program was designed to purge brokers' names from a database three years after the expiration date of their licenses. If a broker's license was good through 1994, the software would delete the name in 1997. The software recorded those dates as "94" and "97" respectively.
+This program kept old names from choking the database. It also allowed brokers a three-year cushion to renew their licenses before they were purged.
+The Year 2000 bug bit, though, when the licensing dates started to hit 1997, or "97," and the purge date read "00." The program assumed that the purge year was 1900 and that the brokers' licenses had expired 97 years ago.
+The computer program purged 700 names from the database.
+"The records were backed up, and it was discovered in a few days and restored," said Michael Norton, a spokesman for Unum. "It's a good example, though, of how all these things are not going to wait on Jan. 1, 2000 to happen."
+In South Portland, Valcom has been seeing a different kind of Year 2000 problem. This one deals not with software, but with two pieces of hardware included in personal computers.
+These hardware components are called the "BIOS" and the "real time clock." Both are computer chips within desktop computers. And each keeps track of the date.
+Many pieces of software, including the computer's operating system, rely on these chips for the correct date. Operating systems, such as Windows and Macintosh, allow users to perform basic functions like opening a computer file.
+"The real problems with hardware could be seen most severely in the software," said Eric Smith, a vice president at Valcom.
+For example, programs that help people manage their money can start performing inaccurate calculations, based on a confusion about which transaction happened on what date.
+Or the date stamp on computer files might be wrong, meaning that a word processing program might replace a new version of a document with an older draft.
+To some programs, the date just won't make sense; these programs will fail completely. Many programs have been designed not to work if they get conflicting information about the date.
+Valcom began testing Intel-based personal computers 18 months ago, to determine whether they can survive the date change without help. Essentially, Valcom uses a computer program to trick the computer into thinking it's New Year's Eve.
+If hardware cannot handle the date change, a red warning message flashes on the computer screen a couple of seconds after the mock New Year's Eve has arrived.
+Valcom has given this test to thousands of computers.
+"Better than 80 percent of them have failed in one way or another," said Dave O'Donnell, service manager at Valcom.
+That does not mean the hardware problems will make all these computers into big paperweights next year. Many can make the leap to 2000, provided someone enters the correct date manually through the keyboard.
+Some chips can be reprogrammed, often for less than $100. And some others can be replaced with inexpensive chips that understand dates beyond 2000.
+"For the most part, most workstations are survivable," O'Donnell said.
+The final Year 2000 problem -- the one affecting chips embedded within electronic devices and systems -- is clearly the hardest to identify and, often, to fix.
+"When you're dealing with software, you are looking at (programming) instructions or code," said David Bettinger, a computer consultant at CST 2000 in Portland.
+"When you have a chip, there are no instructions," he said. "You've only got the chip to look at. What's on it is anybody's guess."
+Bettinger has developed a checklist of six questions that people should ask to see if an embedded chip is at risk. In an article for the Year 2000 Journal, Bettinger said they all boil down to one question: Does the device use a calendar to schedule events?
+Some analysts caution that this may not cover every contingency. Chips not used in date-related ways might fail because they contain internal clocks that might register the current time as a negative, causing them to fail.
+That assertion is still unproven, Bettinger said. However, chips should remain on the list for review, even if they do not schedule events, if they perform a vital function such as monitoring a hospital patient's heartbeat, he said.
+Consumers Maine Water Co. confronted a more typical Year 2000 problem with embedded chips in a system that handles water treatment and data collection at its facilities in Millinocket, Greenville and Camden/Rockland.
+This is the system that helps determine when chemicals or water should be added. It also collects data for regulators and plant operators on drinking water quality. And each of these systems operates with a microprocessor as its computer brain.
+"They're in a sealed box, and they chug (along)," said Richard Knowlton, vice president of operations at Consumers Maine Water.
+The utility found that the system manufacturer had never tested the computer chips in this equipment. So, the utility had to connect the equipment to a laptop computer and run a test similar to the one done by Valcom.
+In this respect, the utility was lucky. Many devices with embedded chips have no way to connect to a computer that can test its Year 2000 compliance.
+Consumers Water found that 18 chips would think the date was 1900, instead of 2000.
+"The process control component would continue to plod along," Knowlton said. "The water would continue to be treated."
+However, the inaccurate date would create havoc with the data that is electronically collected, and with other automated systems.
+Measurements of chemical levels would receive the wrong electronic date stamp. Backup generators that are turned on automatically each Monday for 15 minutes might go on at the wrong time. And because the system is tied to personal computers, which have the right date, some programs might freeze up because of the conflict in dates.
+The company has replaced all 18 chips with compliant processors. The change cost $300 per chip in hardware and labor costs.
+Not all fixes are so cheap, Bettinger said. In some cases, the entire machine or system must be replaced.
+"In some cases, the chip may be soldered to the board," he said. "Then it does become an expensive situation." Illustration
+PHOTO: color; Caption: Staff photo by John Patriquin Dave O'Donnell, service manager at Valcom, is finding plenty of computers that are having trouble with Y2K tests. "Better than 80 percent of them have failed in one way or another," he says.

@@ -1,0 +1,13 @@
+Hotmail glitch tricks users into revealing passwords
+08/24/1998
+ZDNet News from ZDWire
+fv
+Canadian Web programmers have uncovered a security glitch that could fool users of Microsoft Corp.'s Hotmail e-mail service into revealing their passwords.
+The glitch allows a malevolent user to send malicious Javascript code to a Hotmail user. The code, which runs as soon as the e-mail message is viewed, alters the Web-based user interface of the Hotmail account, creating a false timeout message, and asking the user to re-enter his or her password in order to use the account. Once Hotmail users re-enter their password, they return to the normal Hotmail interface -- but the password is mailed to the malicious user.
+Canadian Specialty Installations, a reseller, posted a demonstration of the exploit, which it calls "Hot" Mail, on the Web site "Because-we-can," which publishes the work of Specialty Installations Web programmers.
+"The security problem is easy to take advantage of," said the programmers in a message posted on because-we-can.com. "A would-be hacker needs only to embed the JavaScript code into the body of an e-mail message using a standard e-mail program such as Netscape Mail."
+Hotmail officials did not immediately return telephone calls.
+Once a user has someone's password, he or she can not only alter that Hotmail account, but can also alter or delete messages on an Internet service provider e-mail account, through the POP-mail feature on Hotmail.
+Exploits Javascript
+The glitch works on any JavaScript-enabled browser, according to Specialty Installations.
+The programmers recommend users turn off JavaScript on their browsers while using Hotmail, until the problem is fixed.

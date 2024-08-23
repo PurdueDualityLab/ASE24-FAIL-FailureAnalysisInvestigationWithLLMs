@@ -1,0 +1,145 @@
+IQ Interactive Report: Q&A with Norman Pearlstine of Time Inc.
+09/04/2000
+ADWEEK
+ln
+The editorial gatekeeper of Time Inc.'s content talks about the challenges of being all things digital.
+
+The stroke of midnight may have signalled the dawn of the new millennium, but it was a handshake in early January between America Online chairman Steve Case and Time Warner chairman Gerald Levin that heralded the true start of the 21st century. By melding AOL's 20 million subscribers and Time Warner's motherlode of content, which includes Warner Bros., CNN and Time magazine, the combined companies are poised to become a portal to the future of media.
+
+For Time Warner, and specifically Time Inc., arriving at this juncture was no small task. Millions of dollars over the years had been invested to map out a coherent Web play, and there was little to show for it. The promise of Pathfinder, which launched in 1994 as a mega-brand portal for Time Inc. magazines (an update on Time Inc. magazine sites follows on page 26), ultimately proved a branding fiasco, with Web users going directly to individual magazine sites, and the confusion was compounded by technical problems. In April last year, Time Inc. scrapped Pathfinder and shifted to a so-called hub strategy that would combine magazine sites such as Money.com with Web sites of other Time Warner properties such as CNNfn. Since January, however, that strategy has been on ice as Time Inc. execs and AOL hammer out their next move as a unified company.
+
+Now with AOL in the fray, questions arise within Time Inc. as to how its Web strategy will play out. How will the content be delivered? And who will control it? Toeing the party line, Norman Pearlstine, Time Inc.'s editor-in-chief for five years, dismisses talk of an Aber-editor'one who would oversee all synergistic endeavors within AOL-TW'as 'a nutty idea.' Rather, he advocates for editorial independence, striking partnerships with other divisions where they make sense.
+
+Though a print guy, Pearlstine, 57, is no stranger to the Internet, having simultaneously overseen Time Inc.'s new media division from 1997 through 1999. Prior to joining Time Inc., Pearlstine spent 22 years with Dow Jones & Company, where he rose through the ranks to become the first managing editor of The Asian Wall Street Journal in 1976. After a two-year stint from 1978 to 1980 as executive editor of Forbes magazine. Pearlstine returned to The Journal, where he was credited with making the content more relevant as the go-go '80s created a new business culture. In 1991 he became executive editor of The Journal, then moved to Time Warner.
+
+As the line blurs between traditional and new media, Pearlstine must grapple with a new paradigm of editorial responsibilities that ultimately raises questions about the next wave of new media and the future of church and state.
+
+IQ: Four years ago, in a speech to the American Society of Magazine Editors, you were quoted as saying, 'I think it's worth acknowledging at this point that none of this stuff works.' You were referring to the 'Netscapes of the world,' and presumably America Online. Has the technology improved?
+
+Norman Pearlstine: Well, some stuff works. AOL clearly has more than 20 million people who are willing to give it $240 a year or $250 a year. I think you'd have to say that there's a lot at Yahoo! that works. From a broad consumer perspective, there are a lot of cool things and approaches [to] be intellectually curious about, but [there still are] incredible technology glitches'whether it's just waiting to get online or your server is crashing'that make it not really ready for prime time. This is still the early days in this business and the technology is still more promise than performance. When the technology starts delivering then we'll know much more about what the true products are.
+
+Briefly, what are the lessons of Pathfinder?
+
+At its worst, it seems to me Pathfinder was a useful, legitimate and appropriate investment for a division like Time Inc. It certainly got us thinking about new media faster and got more people thinking about it than would have otherwise been the case. And in the years when Pathfinder was the key viable strategy, it never lost an amount of money that to me was inappropriate for a company this size if you look at it essentially as R&D. It never lost the kind of money that Rupert Murdoch lost with Delphi, for example.
+
+On the other hand, arguably it was the first portal and we did understand that a search and directory was something you'd want to do with it. We had lots of conversations about whether content would be aggregated from sources outside of Time Inc. and Time Warner. We tried some things with paid subscriptions that were not successful, but with very few exceptions nobody else has been either. You have to have pretty specialized content and a pretty specialized kind of audience for subscription-based content to work.
+
+There has always been and will [continue to] be vigorous debate about whether each brand needs to have a site that is precisely tailored to its own needs or whether you have to have some organizing principal that both controls and drives cost plus content. And it all depends on where you sit.
+
+Has the hub strategy also been scrapped in light of the merger with AOL?
+
+It is the subject of intense discussions. We're in a little bit of a funny position because until the merger is approved you can talk about a lot of this stuff, but you can't actually do it, and until you do it, you don't really know what works. I think pretty clearly, if the merger stands for anything, it stands for AOL taking a lead position in figuring out a strategy for the digital content of Time Inc. [It could result] in a hub strategy or in continued focus on individual brands or in creation of a new portal; I think you've got to say it's up in the air at this point.
+
+AOL president Bob Pittman [who will become AOL-TW co-COO] and AOL interactive services president Barry Schuler [who will become AOL CEO] are meeting with every division and are looking at the digital assets we've got and trying to think some of this through. They've indicated they're pretty excited by the prospect of working with a lot of these assets and they clearly have a fixed cost-based that can take on more stuff, which would be encouraging to all of us.
+
+Is there concern, when the two companies merge, about whether AOL will interfere with Time Inc. edit?
+
+I have no concerns in that area. Frankly, with Time Inc. having survived a merger with Warner [Communications in 1990] and a merger with Turner [Broadcasting Systems in 1996], AOL seems not all that threatening or frightening. We've known the AOL people for a long time. When [Time managing editor] Walter Isaacson was running Time Inc. New Media in '94, he made the decision to put Time on AOL when I think it was the fifth-largest online provider. Bob Pittman worked at Time Warner. There is a comfort level with these people. I have known people like Ted Leonsis [AOL interactive properties group president] and Barry Schuler almost 10 years. Lewis D'Vorkin [former Forbes executive editor, now AOL vp of content strategy], who's there in a content position, was somebody I worked with at The Journal.
+
+Secondly, they are really smart and they understand that the editorial independence and editorial integrity of the magazines is not only something that we worry about in terms of words and pictures in the magazines, but obviously something we have to worry about anytime we put the brand out anywhere. I have no concerns about editorial independence or about editorial integrity.
+
+Negotiating with Warner Bros. on entertaindom.com very quickly got to issues of what do you do with critical reviews of Warner Bros. movies. And it was clear to everybody that if you didn't have the same level of editorial independence and integrity on enter taindom.com [as you do on] an Entertainment Weekly review, the damage to the core product would be too great to go forward. So, if you look at enter taindom.com you'll see the reviews with the ratings that appear in EW, including reviews of Warner Bros. movies. The same will obviously happen here. We have that commitment from them and I have no reason to doubt it.
+
+There's been talk in recent months about a content czar overseeing and coordinating all editorial activities at AOL-TW. Time Warner chairman [and future AOL-TW chief exec] Gerald Levin has said no way. Wouldn't such an Aber-editor make sense?
+
+I don't think so. I don't think you could divorce content from the revenue stream. [Time Inc. CEO] Don Logan and I have worked hard, in fact, to go in the other direction. When I [first] came here, I reported to the board of Time Warner and when the merger with Turner went through and it was clear that CNN would remain a part of Turner and not become a part of Time Inc., Don and I went to the board and changed that so that I report to him here, because we thought there was no logic to having somebody with a title that suggested editorial responsibility that went beyond a specific area of revenue. To change that now just makes no sense.
+
+Secondly, if we understand anything it's simply [that] television and print are radically different businesses and what works in one doesn't [necessarily] work in the other. The idea that somehow you get some benefit from one person thinking about both of them doesn't make any sense at all and certainly within AOL, in fact, there's a certain attraction to having, if you will, some of their neutral players managing those sites in terms of what makes the most sense for the users of those sites.
+
+We clearly do need either one or more than one person within Time Inc. with the ability to negotiate for the division with other divisions, and they need the idea of having an editorial interface here. But that's really just a question of how you manage your relationship.
+
+[An Aber-editor] is a nutty idea that doesn't make sense and one that has never been seriously discussed.
+
+What is your role in terms of Time Inc.'s digital endeavors and what will it be in the new world order?
+
+My primary function is the words and pictures in our magazines, and that's what I spend most of my time on. I do work with both the people in Time Inc. New Media and Time Warner Digital Media pretty closely. What they clearly want to be able to have access to is the editorial content of the magazines or variations of it. I do spend a fair amount of time trying to think through the implications for editorial on some of these new products. If InStyle.com is going to be primarily an e-commerce play, how do you make sure and protect the fact that the decisions made by editors about what is going to be in In Style the magazine are not based on what's for sale on the [site] but the other way around?
+
+Beyond that there's a fair amount of discussion, obviously, that a number of us are engaged in, which is how much of your content becomes part of some other site as opposed to your own.
+
+What changes do you envision at Time Inc. with AOL on board?
+
+We owe it to ourselves and to them to explore whether there are some new magazines that we ought to be creating, either because the AOL audience creates some opportunities or because doing some stuff together might make some sense. I don't think there are any active plans right now to start another newsweekly, but if you did you could do worse than to call it CNN or AOL, right? If so much of the trend is it's easier to go from a TV program to a magazine then the other way around, you might look at that. I don't want to suggest that we're having active negotiations in these areas, but alternatively if AOL could clearly identify through its bulletin boards, through its chat, through its usage that there's high interest in specific areas, the idea of niche publications trying to serve those audiences is something we ought to be taking a look at.
+
+I don't know of any discussions that have gone in that direction, but that's certainly one of the things. I've mentioned more then once, I mean I have not actually talked about it with AOL, but there's [the teen market to look at, for instance]. We have Teen People, but given that almost every teenage kid I know is on Instant Messenger and the Buddy System, you at least have to ask the question whether, for instance, a magazine for teenage boys that focuses some on that AOL experience isn't worth an exploration.
+
+At this point, there are a lot of things that go into starting new magazines. It's not just an editorial vision and it isn't just identifying a market sector of popular interest. But I would think after the merger that would be one of the things we would want to explore.
+
+Would you consider starting a magazine purely online?
+
+So far you have to say that an investment in Salon or TheStreet.com doesn't look all that brilliant this week, and I have no idea what Microsoft's investment in Slate has been, but I think it's a pretty safe bet that they're not making money, [it seems that there] aren't great models out there'but that doesn't mean it couldn't be done.
+
+For example, we develop a huge amount of international content outside of the United States and we have not been able to make a strong argument for doing an international news magazine. Is that something you could deliver to a select audience online? Well, look at broadband and so forth'it's not a crazy idea. On the other hand, I'm still not convinced that online is the place to go [for the experience of reading] longform journalism articles.
+
+Should content be free or do you think there is a model out there now that works?
+
+I don't think it's a question of free or paid. I think it's a question of the experience. If you look at the new compact competitor of the Palm with the Microsoft software, the color and even the sound on it are getting close enough that you can imagine that there might actually be some content you'd want to read. Some of the smaller reading-tablet type devices at least suggest that there's a time when you could download Sports Illustrated pretty easily overnight into something that could be a readable experience. Now whether you still want to do that or whether it would be faster or more convenient to just take the magazine'I don't think the lines are anywhere near crossing at this point.
+
+When you say free, I'm assuming that there's advertiser support for it or something. It certainly isn't free to create. And so to the degree that there's certainly pressure on us, and probably other companies, too, to create something a customer is willing to pay for or support, I don't see that. The beauty of new media to me is the interactive experience and the fact that there are people talking to each other about stuff'and that's a different kind of content and a different kind of experience. And maybe that kind of stuff should be free. Even when we put up our archival material'this is not a business you'd want to bet your life on.
+
+Not yet?
+
+No, I don't think so. I think archival is interesting. Personalization certainly gets more and more interesting as we pick up better and more efficient ways to use AI [Artificial Intelligence]. But timeliness and information that leads to a transaction still take precedence over archival material.
+
+Are there print companies that have done an exceptional job on their Web sites?
+
+There are some very attractive Web sites that are fairly easy to navigate, but I don't think they're exceptional.
+
+What are some of your bookmarks?
+
+I don't bookmark much, actually. What I often do is read about something and then go to it. I use Amazon.com. I haven't been in a bookstore in a year-and-half. One-click shopping is probably the thing that distinguishes it from other places I can go to do the same transaction.
+
+With content, [what] I found is there's not a whole lot of stuff during the day that I have to know that's truly as important as the stuff I'm doing with our own magazines.
+
+An interesting question is, how much timely information do people really need? I went on AOL yesterday morning and saw that a Russian sub was at the bottom of the ocean and I was curious enough to want to go to that news site where I saw an AP piece. But did I really need to know that at 2 p.m. yesterday? Or would it have been alright to have found it out on the 11 o'clock news last night? I think that's what a lot of people have to ask.
+
+If you're a day trader in options, then in fact what the Net is doing is commoditizing information that used to be proprietary and, if you will, allowing what used to be a rather exclusive business to be much more broad-based. But I don't play the market so it's not something that I do. I look at some of the news sites and I find it kind of interesting. The Journal, for example, clearly is holding stuff off of the Wall Street Journal interactive site. I think not so much for fear of cannibalizing the paper as fear of cannibalizing the much more expensive Dow Jones News Service. Bloomberg.com has fewer of those hang-ups. I don't particularly care whether a stock quote is 20 minutes late, but if I wanted current information I'd probably go to Bloomberg.
+
+What do you really need to know on a timely basis? You might like to know the weather if you're going someplace, or you might want some gossip about your business, but there isn't that much stuff you really have to know instantly, is there?
+
+How often do you check out service sites?
+
+If I'm going to make a trip I may want to go to Expedia. I mean, how often do I go to eBay to see what's for sale? Most of us have busy lives. I'm looking at sites every day that are really about work. I'm not using it as a tool during the day because I have stuff to do. That at some point just becomes a limitation on how broad-based the medium is going to be.
+
+I have a T1 line here and I have one in my apartment, and even with that speed and that reliability it's not the way I want to download a movie for live action to watch'and if it were wireless I know I wouldn't. I still use 'week at a glance' rather then a Palm and I'm actually convinced that it's faster. I'll put myself up in a contest against any user of a Palm in terms of what I have to do at 11 o'clock next week.
+
+Do you seek out talent on the Web for writers and editors?
+
+Well, I delegate the hiring of talent to individual titles. We don't use monster.com to advertise for job applicants, but clearly Time magazine has hired people from a couple of sites. The television writer James Poniewozik came from Salon. I know they've used reviewers from Slate. Fortune has a columnist who also works for TheStreet.com'Adam Lashinsky. And we have some of our people doing some stuff occasionally for some of them. So that's worked. I think when some of these content-driven sites crash, as they inevitably will over the next year, some of these people will want to come back to print and will be better for having had that experience.
+
+If you were just starting out today as a journalist, would you go to the Web or would a print publication be your first choice?
+
+I think for me the question is would I be going into journalism or would I want to be a [venture capitalist] for content or something.
+
+I still think that print and journalism have an extraordinary future. We may be delivering content differently, but there will still be a demand for the kind of stuff that we do best. If anything, the Net has created such a surfeit of data that synthesis and analysis and making sense of information remain or become, if anything, even more important.
+
+I still think there's work to be done on the business-model level. Lots of newsletters that were charging hundreds of dollars a year, it seems to me, can be or are being replaced by sites that either are free or are relatively low cost. So people are going to have to figure that out.
+
+I guess if I were looking for a job today in journalism, setting up my own site and trying to sell my content at a penny a page is not what I'd do. Five years from now that may not be the case, but right now it seems to me a tough way to do it.
+
+Could you ever see yourself years from now working entirely on the Web?
+
+No, I don't. But that sounds more negative than I mean to be. There are some things that have really changed in my life because of it. I'm a slave to e-mail. If people really want to get a quick reaction from me they know that's the best and fastest way. And I would say 95 percent of what I read prior to publication [is on] our own proprietary system. That means I'm in the office a lot less then would otherwise be the case, but I'm reading at hours I actually can't believe I'm doing this. So it's kind of a mixed bag.
+
+New media, in terms of the intranet, has changed my life extraordinarily from what I was doing 10 years ago. I don't have the direct day-to-day responsibility for any of the magazines in terms of closing pages. But I'm probably reading significant amounts of content every week prior to publication and I do almost all of that online.
+
+Do you get the same experience by reading online?
+
+It depends. I get all covers sent to me in a JPEG format that's close enough for my purposes. I'm not the art director worrying about the tint. On large features, I'll have them send them and then we have an edit review system that when I have access to broadband is really quite good for seeing whole pages. Unless you want to leave your machine on all night to download stuff, that's not the best. In narrowband I'm really just reading the words and not focusing much on pictures. But I do a fair amount of that. We did this whole thing on the 'Innovators' a few weeks ago in Time and I was on a T1 and actually went into the area where I could see every page. In terms of my personal efforts, the things that I'm able to do are totally different from what they were a decade ago, and that you have to get excited about.
+
+To go back to the question about moving over to the Web full time, why such a definite 'no'?
+
+While I'd say I have strong interests in the Net and I'm a believer in its future, just for personal satisfaction what I love is a long story well told. I find magazines satisfy that urge and that interest more than anything I've seen anyplace else. As interested as I am in Silicon Valley, the Fortune piece on Bill Lerach, the [class-action suit] lawyer out in San Diego, that's more fun for me to work on than trying to find a great online magazine for a niche audience.
+
+Can you predict where AOL-Time Warner will be a year from now?
+
+I believe that [the merger] is the transforming transaction that Jerry Levin was looking for that really brings the company at every level into the Digital Age.
+
+You make it sound so easy. But it's no secret that the Time Inc. merger with Warner and Turner was anything but smooth.
+
+How could you say that? [Laughs] I don't think any of these things are ever seamless. I mean, these are independent divisions that in their own right are huge and have cultures and traditions of their own, and invariably there's stuff you don't want to throw out.
+
+What I think is that the merger of Time and Warner, I'm saying this more, frankly, as a business reporter having focused on that deal than as somebody who resides in this place, but the merger of Time and Warner obviously created synergies in cable. It created some opportunities for synergy between HBO and television and motion pictures. It did not create huge differences for the magazine part of Time Inc., which just meant we had to cover ourselves more. Turner has a very strong journalistic tradition and there's been some stuff we've been able to do together, but print and television are really different.
+
+I think in this case, the online world is a place we all know we have to be, and none of us have been doing it as well as AOL. The idea of figuring out ways to get the best of their infrastructure and their understanding of what the customer wants online is wonderful from our perspective. Editorially, I think there are going to be some real chances to do some good stuff with them. From a distance, one would at least assume that there ought to be a way to sell subscriptions online and to sell subscriptions to AOL in our magazines. So, we can assume at that level at a minimum there's going to be some stuff we're going to want to do with them. n
+Copyright 2000 A/S/M Communications, Inc.
+Used with permission from Adweek

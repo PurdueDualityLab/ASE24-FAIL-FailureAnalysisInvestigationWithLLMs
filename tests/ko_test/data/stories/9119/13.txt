@@ -1,0 +1,20 @@
+Judge May Dismiss Caldera Case
+06/10/1999
+Associated Press Online
+ln
+A federal judge signaled again Thursday that he likely will allow Caldera's David vs. Goliath lawsuit against Microsoft to go forward largely intact.
+Microsoft attorneys had convinced U.S. District Judge Dee Benson to break the case into nine separate pieces, then tried to convince the judge to dismiss each claim piece by piece.
+But on Thursday, both sides conceded that the judge was leaning toward denying Microsoft's requests for summary judgment, and allowing Caldera's attorneys to argue that the pieces of the case _ while not indicative of illegal activity themselves can be cobbled together to make the case against Microsoft.
+Benson likened the bits to the O.J. Simpson murder trial, where prosecutors used an assortment of evidence blood, physical evidence and expert testimony to persuade jurors.
+''That's all (Caldera's attorneys) want to do here,'' Benson said.
+Caldera claims that Microsoft built in technical glitches to keep the Windows 3.1 software from working on the DR-DOS operating system Caldera purchased from Novell in 1996. Microsoft argues the company merely improved its Windows 3.0 software.
+Caldera attorney Parker C. Folse III said that Windows 3.1 so revolutionized the computer world that the suggestion that the software might not work on DR-DOS devastated its sales.
+An operating system controls the computer's basic functions, and is needed to execute program management software, such as Microsoft's Windows.
+Essentially, Microsoft used its monopoly in the Windows program management software to strengthen a monopoly for its MS-DOS operating system, Caldera argued. Caldera is seeking damages which Microsoft attorney Jim Jardine has said would reach $1.6 billion.
+But Microsoft attorney Richard H. Klapper argued that Microsoft was under no obligation to make sure Windows 3.1 worked on any operating system other than its own. Nor, he argued, was Microsoft required to provide Caldera with an advanced copy of the program so Caldera could make sure it was compatible with DR-DOS.
+(PROFILE
+(CO:Microsoft Corp; TS:MSFT; IG:SOF;)
+(CO:Novell Inc; TS:NOVL; IG:SOF;)
+)
+Copyright 1999 Associated Press
+All Rights Reserved

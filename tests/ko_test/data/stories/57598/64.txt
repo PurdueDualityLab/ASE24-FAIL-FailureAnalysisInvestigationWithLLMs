@@ -1,0 +1,12 @@
+Tokyo Exchange Error Causes Problems
+02/02/2012
+AdvisorOne
+fv
+The Tokyo Stock Exchangesuffered its first major technical problem in six years on Thursday morning, causing an inability to trade during earnings season. Traders were very much put out by the glitch, which was resolved by 12:30 Tokyo time.
+Reuters reported that theproblem, the cause of which is still under investigation[http://www.reuters.com/article/2012/02/02/us-markets-japan-stock-tse-idUSTRE8110RR20120202], was with a server for the data distribution system. Trades in a number of issues were unable to be processed, including Sony, just one day after it announced a new chief executive and before its release of quarterly results set for later in the day.
+At a news conference,Hiroaki Uji, director of IT development at the Tokyo Stock Exchange, said that cyber terrorism had been ruled out. Some 240 issues were shut out by the glitch, which included 153 Topix shares, some ETFs, REITs and convertible bonds.
+One trader was quotedcomplaining, "This is absolutely ridiculous. Absolutely ridiculous. On a day like today, it's earnings season for god's sake."
+The problem did not seem to affect later trading on the Nikkei, which was up 0.9% an hour into the afternoon session.
+Toshiyuki Kanayama, senior market analyst at Monex Inc.,was quoted saying, "It's difficult to understand broader market moves without seeing some of these major blue chips [in the morning session], although the Nikkei gains seem in line with futures prices."
+According to traders, theproblem was the largest for Tokyo cash shares since Nov. 1, 2005; on that date, trading in 2,520 instruments were suspended due to system problems.
+A trader at a Japanese brokerage said of this latest glitch, "The TSE has damaged confidence as it has caused trouble at the peak of earning season."

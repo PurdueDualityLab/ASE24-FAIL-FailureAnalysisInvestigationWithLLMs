@@ -1,0 +1,10 @@
+No Error Signal Blamed for TSE Trading Halt
+02/09/2012
+Jiji Press English News Service*Jiji Press Ticker Service
+fv
+Tokyo, Feb. 10 (JijiPress)--The Tokyo Stock Exchange failed to avoid suspending share transactions last week because no error signal was sent to backup server computers, it was learned Friday.
+The largest Japanesestock exchange's transaction data distribution system, which comprises eight sets of a main server and two backup machines, went down on early Feb. 2 morning due directly to a memory collapse in a main server, TSE officials said.
+Usually, an error signalwill be sent to backup servers if a main server breaks down. But the TSE's investigation found that no such emergency signal was transmitted to the two standby units, the officials said.
+Though the backup machines woke up automatically after detecting the glitch,the absence of the signal prevented them system from functioning properly and, at the same time, delayed responses to the trouble by the TSE and Fujitsu Ltd. , the developer of the system, they said.
+As a result, the TSE suspended the entire morning trading of 241 stocks, including Sony Corp. and Tokyo Electric Power Co. , that were covered by the server set in question.
+The exchange is expected to make public its investigation results next week.

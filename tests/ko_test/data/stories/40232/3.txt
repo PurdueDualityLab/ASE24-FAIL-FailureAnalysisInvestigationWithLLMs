@@ -1,0 +1,38 @@
+Space Station Rebounds After Power Loss; Mars Orbiter Glitches Arise
+02/12/2007
+Space & Missile Defense Report
+ln
+The International Space Station (ISS) yesterday experienced an electrical power loss, an unwelcome early-morning event that posed no danger to the three ISS crew members, NASA reported.
+About 1 a.m. ET, one of the power channels of the P4 solar array electrical system went down because of a glitch with a device known as a direct current switching unit.
+The P3/P4 truss was installed on the ISS just last year, during a mission to the space station by Space Shuttle Atlantis.
+That direct current switching unit controls power distribution from the solar array to the battery systems and other hardware.
+The glitch resulted in a temporary loss of communications, and shut down some equipment, including a few science facilities and heating units and control moment gyroscope #2.
+The station never lost orientation control, but it operated most of the day with two of four gyros. Control moment gyroscope #3 previously had been powered down.
+Flight controllers were poised to restore power rapidly. They still are investigating what caused the glitch, but they believe it was an isolated event.
+Mars Orbiter Glitches
+The NASA Mars Reconnaissance Orbiter spacecraft has experienced glitches in two instruments that at times are not meeting expectations.
+At the same time, the orbiter this month is set to surpass the record for the most science data returned by any Mars spacecraft.
+Engineers are examining why two instruments intermittently don't perform entirely as planned. All other spacecraft instruments are operating normally and continue to return science data.
+Since beginning its primary science phase in November 2006, the orbiter has returned enough data to fill nearly 1,000 CD-ROMs. This ties the record for Mars data sent back between 1997 and 2006 by NASA's Mars Global Surveyor mission.
+In late November 2006, the spacecraft team operating the High Resolution Imaging Science Experiment camera on the orbiter noticed a significant increase in noise, such as bad pixels, in one of its 14 camera detector pairs.
+Another detector that developed the same problem soon after launch has worsened. Images from the spacecraft camera last month revealed the first signs of this problem in five other detectors.
+While the current impact on image quality is small, there is concern as to whether the problem will continue to worsen.
+In-flight data show more warming of the camera's electronics before taking an image reduces or eliminates the problem.
+The imaging team aims to understand the root cause of the worsening over time and to determine the best operational procedures to maximize the long-term science benefits. The camera continues to make observations and is returning excellent images of the Martian surface.
+The second instrument concern aboard the Mars Reconnaissance Orbiter is related to an instrument designed to scan routinely from the surface across the atmosphere above the Mars horizon.
+That Mars Climate Sounder maps the temperature, ice clouds and dust distributions in the atmosphere on each of nearly 13 orbits every day. In late December, the sounder appeared to skip steps occasionally, so that its field of view was slightly out of position. Following uplink of new scan tables to the instrument, the position errors stopped and the instrument operated nominally.
+But in mid-January, the position errors reappeared. Although still intermittent, the errors became more frequent, so the instrument has been temporarily stowed while the science team investigates the problem.
+Spacewalks Set Mark
+That space station power loss came at a time when the space station crew is setting an extraordinary work pace. ISS crew members are about to set a singular mark for spacewalks.
+Commander Mike Lopez-Alegria and Flight Engineer Suni Williams finished a 6-hour, 40-minute spacewalk last week.
+Their completed tasks will allow attachment of a cargo platform during the STS-118 mission this summer and relocation of the P6 truss during STS-120 later this year.
+The crew now begins to review Russian procedures for the next spacewalk set for Feb. 22.
+Lopez-Alegria and Flight Engineer Mikhail Tyurin will work on an antenna on the Progress 23 cargo ship docked at the aft port of the Zvezda service module.
+The three spacewalks from the Quest airlock in U.S. spacesuits and a Russian spacewalk on Feb. 22 will be the most ever done by station crew members during such a short period, and will mark five spacewalks in all for Expedition 14.
+That will set a record for any expedition.
+Work outside the space station, often involving hard labor in confining space suits, is needed if the ISS construction job, now well along, is to be completed by a deadline of 2010.
+That is when the space shuttle fleet is to be retired.
+Space shuttles, with their enormous cargo bays and gargantuan external fuel tanks, are the only transporters sufficiently muscular to hoist huge, heavy structural components into orbit for attachment to the space station.
+Last year, a long series of spacewalks during space shuttle missions saw the ISS greatly expanded. As well, it shifted from a temporary electrical wiring setup to one which will allow the powering of large new facilities to be added to the artificial moon.
+Copyright 2007 Access Intelligence, LLC.
+All Rights Reserved

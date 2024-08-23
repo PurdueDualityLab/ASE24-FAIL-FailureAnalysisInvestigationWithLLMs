@@ -1,0 +1,349 @@
+Personal Tech: The DTV Transition
+06/12/2009
+Washingtonpost.com
+ln
+The Washington Post's Rob Pegoraro was online Friday, June 12 at Noon ET for a special edition of his Web chat.
+The Washington Post's Rob Pegoraro was online Friday, June 12 at Noon ET for a special edition of his Web chat.
+He was joined by Post staff writer Kim Hart who helped take your DTV questions.
+More information about the DTV Transition is available in our special report.
+Read Rob's latest tech tips in his blog Faster Forward.
+____________________
+Kim Hart: Hello, digital TV pioneers! Kim Hart here to start answering the large number of questions we're getting on this complicated transition. Rob Pegoraro will be joining us shortly. We'll be around until 1:15 or so.
+So let's get started...
+_______________________
+Anonymous: How do I scan TV stations? I have cable and a converter box. Do I need to scan?
+Kim Hart: If you have a converter box, use the remote to find the menu. There will be an option that says 'scan' or 'tune.' Run that option, and the box should scan the airwaves for all the available digital stations.
+If you're watching on a digital TV, follow a similar process. Go into the menu and find the 'scan' function. It may take a few minutes for the TV's tuner to find all the stations.
+In either case, re-scan every few weeks. Stations will continue to make adjustments to their signals and you'll need to keep scanning every so often to be sure you're getting the best possible reception.
+To the reader who posed this question, if you have cable service, you shouldn't need a converter box at all. Most cable subscribers shouldn't have to do anything to keep getting stations, unless your cable provider is going through it's own digital upgrades, in which case you may need a new cable box.
+_______________________
+Olney, MD: Nobody is disputing that the picture provided by DTV is clearer, but will the switch bring anything that is actually worth watching?
+Kim Hart: One of the benefits of the switch is that TV stations will be able to air up to four addition 'sub-stations.' That's because the digital signals use less bandwidth, so each station has room on the airwaves to broadcast additional channels.
+Pretty much every station currently airs a substation with around-the-clock weather information. In the Washington area, the NBC affiliate airs sports on one of it's stations (channel 4-3) and the ABC affiliate airs classic shows like the 'A Team' and 'Knight Rider' on one of it's substations (channel 7-3). PBS has a station (26-3) that has kids programming.
+_______________________
+Boston, Mass.: I have an attic antenna and a new digital TV. The past few days I have noticed problems with picture quality. Is this likely to go away after the transition, or should I look for a new antenna?
+Kim Hart: Good question. I would wait to do anything until after the transition is completed this weekend. Stations are likely still tinkering with the exact power levels of their signals and settling into their new frequencies. Be sure to keep rescanning
+If you're still having trouble come Sunday or Monday, it may be time to re-evaluate your antenna situation. Before you buy any new equipment, though, experiment with different locations and pointing the antenna toward the broadcast towers.
+_______________________
+Rob Pegoraro: Hey, Rob here. Sorry I'm late (please don't tell me how many times you've heard me say that before!), but I had to stop for a minute to pour one out for analog TV. Now, let me get going on your questions...
+_______________________
+Rockville, MD: We connected our converter box last night but don't receive any channels with quality at all (none are watchable). We called the box's company and got a recording saying our antenna needs to be repositioned. We live in a condo community in which we don't have control over when the antenna might be adjusted and our management company is very slow to act on anything. Is there anything else we can try to get reception?
+Kim Hart: Have you scanned for channels? Keep trying to scan until after the stations have completed their signal change. Reception may improve.
+I've heard from a lot of readers that their apartment or condo buildings don't allow outdoor antennas. If it's a persistent problem, find other residents who are experiencing issues and bring it to your condo board. There's strength in numbers!
+_______________________
+Arlington, Va.: Given that I have fios HD cable, I haven't concerned myself with this, but this week my 'non-HD' channels (style, fine living) have not been working properly--is this related to the switch? I figured I'd rather ask here than be on the phone with Verizon for any amount of time.
+Rob Pegoraro: Nope, there's no connection there. Everybody repeat after me: Any changes you might see in your cable, satellite or fiber service have nothing to do with the over-the-air DTV switch. (No matter what some clueless customer-service rep might tell you if you call to ask about it.)
+_______________________
+Riverdale Park, MD: Hello Rob and Kim,
+In what sense is digital TV digital?
+The electromagnetic waves that carry the digital TV signal vary smoothly in time and space---that is, they are analog, not digital.
+Rob Pegoraro: It's *how* the information goes across the airwaves (the 'transport layer,' if I'm remembering my networking jargon correctly). In digital, you encode the signal as a stream of ones and zeroes instead of as a linear representation--same basic difference between storing music on a CD and on vinyl.
+_______________________
+washington, d.c.: I live close in to a major metropolitan area, and have connected a digital converter to my rabbit ears antenna. The reception over the area often stutters and pixilates. Is this digital conversion meant to encourage people to subscribe to cable or satellite- a boon for those companies?
+Kim Hart: That's a conspiracy theory I've heard many times before -- that this transition was cooked up by the cable companies just to force more people to subscribe.
+It's not the case. But it is true that some viewers may have to subscribe to a basic cable package in order to get all the stations they used to receive. If you live close to the city, you should be able to receive pretty much every available station if you fiddle with the antenna. Try some new positions for the antenna. Sometimes placing it somewhere up high--on top of a bookshelf, for example, could improve your reception. You could try taping it to a window in the direction of Washington. It's not the most attractive option, but it could help. You may need a more powerful antenna than your rabbit ears.
+Cable companies are offering very cheap basic cable packages, some starting at $10 a month, for people who can no longer get all the over-the-air channels they want.
+_______________________
+Vienna, Va.: Those of us who use portable TV band radios in the shower, at work and in the car will lose access to local weather, news and traffic with the change to DTV. Why don't the local TV stations switch to broadcasting their audio signals on one of the multiple AM frequencies that are unused and possibly owned by the same companies? Also, has anyone started selling a DTV-band portable or shower radio?
+Rob Pegoraro: Good question--but I'd guess the answer has something to do with how few people, out of the wider TV audience do that, and the fact that a lot of TV ads lose their punch when you only hear the soundtrack. There's just not much of a business model there.
+As for the lack of DTV-band portable radios--there aren't that many portable DTVs, period. You're looking at a niche market inside a niche market, and I don't expect that to change anytime soon. Might I suggest you check out AM and FM radio, which carries all that information you describe and which works on any old radio?
+(Don't mean to sound harsh, but I just don't get the appeal of listening to the audio of a TV broadcast. Never have.)
+_______________________
+Washington, DC: How do you see the DTV conversion affecting mobile devices and mobile access? Does the conversion mean people may be able to watch DTV on their smartphones and BB's and iPhones?
+Rob Pegoraro: There are a couple of initiatives afoot on mobile devices. Some carriers use a Qualcomm-developed technology called Flo TV to delivery a stream of video to a phone; this, however, isn't the same as what you'd get over the air and it costs extra. There's also a newer effort to allow for mobile DTV reception, based on some Samsung technology, but that's not on any shipping devices.
+_______________________
+silver spring, md: I currently view comcast cable w/o converter boxes on multiple tv sets; each set can tune a different channel, allowing freedom of choice. comcast has moved channels to a digital platform which requires a digital converter in order to tune those relocated channels. however, each tv set will require its own dig-conv to enable different viewers to watch different channels. the first dig-conv is w/o charge, subsequent ones are a extra cost per tv set. is this part of the analog to digital switch? in essence, i will pay more to have the viewing capability i had previously for the one line charge (and w/o the nuisance of the box sitting atop the set).
+Kim Hart: Comcast's upgrades to digital channels is not part of this government-mandated transition. Cable companies across the country --Comcast, RCN, etc.-- are making their own network upgrades, which is purely a business decision. Cable companies are trying to make the most of their bandwidth, which digital signals help with. And they hope their customers will like the new channel offerings.
+But the fact that cable companies chose to undergo their own digital transition at the same time as broadcasters has been very confusing for customers. It's also frustrating for customers to have to get a separate digital cable box for every TV.
+I hear you, and it's unfortunate, but it's a completely separate process than the transition that's happening today.
+_______________________
+Hampton, SC: We have Comcast analog cable (I appreciate your sympathy). They aggregate local channels from four cities more than 60 miles away, using antennas. These signals are always bad because the turkey buzzards destroy the antennas. (It's true; you can't make stuff like that up!) Bottom line: will Comcast be able to do a better job with those local channels now that they're going digital(I'm already seeing bad digital on 1 channel.), or will it just be all digital turkey buzzard droppings? We don't switch to satellite because the local channels you get with satellite here are from Savannah...it's not the ones we want. That's TV in the rural south, I guess.
+Rob Pegoraro: This is the first time I've ever had turkey buzzards figure into a tech chat. In some cases, digital TV reception can be affected by flying objects--but the only ones that I've heard people report cause problems were manufactured by Boeing and Airbus.
+That's a longwinded way of saying 'I don't know.'
+_______________________
+Washington, DC: I'm tangentially in the business, so I don't have a question, but a suggestion:
+How about volunteering through a church or other civic organization to help cable-less and satellite-less senior citizens get their adapter boxes installed and TV's scanned to locate the new signals? -This may also apply to satellite subscribers in rural areas who are not able to receive their 'local' stations except over-the-air.
+I've heard that in some communities this is being done through Meals on Wheels or church groups.
+And, they'll probably need help to understand that they may need a new upgraded rooftop antenna, too . . . .
+Kim Hart: That's a great suggestion. In some cities, firefighters are going to homes for this purpose and use the opportunity to check smoke detectors.
+Even if you don't know of an organized group, just helping a few people in your neighborhood would go a long way.
+_______________________
+Crystal City: Rob, what can you suggest when looking for a digital antenna? Do I really need to spend 60 dollars for one?
+Rob Pegoraro: Absolutely not--certainly not that close to D.C. I've seen people report excellent results with $12 antennas; a lady in Reston just e-mailed to say that a $20 Radio Shack indoor model has been working fairly well for her (although at her distance, she should be using an outdoor or at least attic-mounted model).
+BTW, there's no such thing as a 'digital' antenna, since it's the same airwaves; the antenna doesn't care how the data is formed and encoded over them.
+I'd suggest starting with a cheap model, bought from a store with a returns policy that doesn't stick you with any restock fees. If that doesn't work, try the next best model. Also, see last week's Help File for links to a couple of sites that review antennas: http://www.washingtonpost.com.offcampus.lib.washington.edu/wp-dyn/content/article/2009/06/07/AR2009060700056.html
+_______________________
+Kingstowne, VA: A reader in Olney asked this: 'Nobody is disputing that the picture provided by DTV is clearer, but will the switch bring anything that is actually worth watching?'
+I kind of liken the digital TV transition to the hype over the compact disc back in the 1980s. Lots of people acted as though if music were on a CD, it HAD to be great (although in retrospect we all now know of the CD's inadequacies), but bad music is still bad music. Bad TV shows are still bad TV, regardless of whether the picture is clearer! Doesn't matter whether you can see an 'American Idol' contestant's nose hairs more clearly with a digital signal--you still wouldn't ever convince me to watch that show! :-)
+Rob Pegoraro: Don't forget the extra, digital-only channels local stations can now air. The local blog DCist did a good roundup of them a few months ago: http://dcist.com/2009/03/ode_to_the_tv_transition_dcs_digita.php
+_______________________
+Arlington VA: Is is true that expired converter discount cards can be reissued? If so, how? Thank you.
+Kim Hart: Yes, it's true. Simply order a new coupon the same way you did before. As long as supplies last, you shouldn't have a problem getting a new coupon. You can visit www.dtv2009.gov. The coupons will be available through the end of July.
+_______________________
+Gainesville, VA: Kim-- suggest you mention to folks that they can try an amplified indoor antenna. Folks in Mount Vernon and Annandale, for example -- and particularly with leaves on their trees -- are having difficulty pulling in stations, such as Ch. 4. An amplified antenna that has a lot of amplification (db) is the RCA-125l which I have recommended with about 80-90% success.
+Kim Hart: Another good suggestion.
+_______________________
+Alexandria: Hi Kim and Rob,
+I have a TV hooked directly from the cable in the wall to the TV (no box), I'm fine right?
+THANKS!
+Kim Hart: You should be OK, but you should check with your provider just to be sure. If your cable company is upgrading some channels to digital-only, you will need a digital cable box to get those channels.
+_______________________
+Remsen, N.Y. 13438: What about those of us that live in rural areas that gets spotty reception at best on digital TV. I have a large outside UHF/VHF antenna and rotor and a converter box but every time the wind blows, rains or snows the picture is gone, even highway traffic affects the signal. This is pretty much the same story for everyone else in this area. I am 71 years old and on a small fixed pension and can not afford a new antenna system for 5 or 6 hundred dollars that may or may not improve the reception. With the analog TV I received nine channels with very few problems. This transformation should have been thought out before setting deadlines to implement it and should have had a trial run in different areas. Is there anything this government does correctly? I think not. I hope you have some good answers for those of us who are going to loose our TV. I forgot to mention I can not afford satellite and there is no cable here.
+Rob Pegoraro: First, there's no way a new antenna system should cost $500 or $600. Second, the FCC's predictions say you should have pretty good reception after the analog switchoff, as per this map:
+http://www.fcc.gov.offcampus.lib.washington.edu/bureaus/mb/engineering/maps/index.html?zipCode=13438
+It could be that some of these stations will be moving to new frequencies tonight or making other adjustments--you'll just have to see what will happen over the next week or so.
+As for the equity issue: Look, a *lot* of people didn't get any worthwhile analog reception and do get good digital reception now. Analog reception was especially bad in cities, what with all the ghosting effects caused by signals bouncing off buildings. Is it necessarily unfair to improve reception for many people at the loss of reception for fewer people?
+That's more of an ethical issue than a technological issue, and so perhaps beyond the scope of this chat.
+_______________________
+Alexandria, VA: Hi guys,
+Thanks for the chat. How do I tell if an antenna is better or more powerful than one I have now? Is there some specification on the box I should pay attention to?
+Kim Hart: There isn't a particular specification you should look for. Unfortunately, it's all about trial and error. Get an antenna that can receive both UHF and VHF signals. Other than that, all you can do is try it on your set and see how it goes. It may take some experimenting to find the 'sweet spot' for best reception.
+_______________________
+(Don't mean to sound harsh, but I just don't get the appeal of listening to the audio of a TV broadcast. Never have.): I didn't either, until for a week after Hurricane Charley the TV stations simulcast their all-day news on the AM channel. Pretty helpful.
+Oh, wait that's radio. You're right.
+Rob Pegoraro: Exactly!
+_______________________
+Portland, Oregon: Aren't these 'extra' digital channels actually the result of broadcast networks splitting up bandwidth allocations given to them to provide over-the-air HDTV channels?
+Rob Pegoraro: Not necessarily. Each station has enough over-the-air bandwidth to handle on HD channel and a few other SD channels (for instance, WETA, the PBS affiliate here, has one channel in HD and three in SD).
+_______________________
+Arlington, VA: Of the local digital broadcast stations, do you know how many are switching from VHF to UHF? As I understand that may affect reception as antennas pick up the signals differently?
+Rob Pegoraro: WUSA and WJLA, the ABC and CBS affiliates, are moving their digital signals to their old VHF airwaves. You will need to rescan to pick up their new signals--see, for instance, WJLA's cheat sheet: http://cfc.wjla.com/external.cfm?p=dtvnotworking
+_______________________
+Washington, D.C.: My TV -bought 2007- has a digital filter -- that's NOT a digital tuner, is it?
+Kim Hart: I'm not entirely sure what a digital filter is. But if your TV is larger than 25 inches and only two years old, it should have a digital tuner. All TVs shipped after March 2007 are required to have digital tuners.
+_______________________
+Washington, DC re: recording from DTV: What options do I have now for recording more than two hours of programming, without subscribing to something like TiVo? My VCR could tape 6 hours on one VHS tape, but I am told that the quality will really stink if I use it with a DTV. And DVDs seem to be limited to 120 minutes max. I'm thinking I must have missed some other option that does not involve a monthly charge. Many thanks!
+Rob Pegoraro: See my review of the no-subscription-needed DTVPal DVR from last month: http://www.washingtonpost.com.offcampus.lib.washington.edu/wp-dyn/content/article/2009/04/25/AR2009042500123.html
+You could also look into getting a DVD recorder, or a hybrid DVD recorder/VCR (last time I went into Costco in Pentagon City, they had dozens of Panasonic DVD-recorder/VCRs on sale).
+_______________________
+Baileys, x-roads. : just a suggestion, website for tv antenna reviews. http://www.hdtvantennalabs.com/amplified.php
+Strongly consider buying a UHF/VHF antenna with an amplifier about $40, cheapest deals online. New $40 antenna made a huge difference for my uncle keeping everything else the same. Also orient your antenna in the direction of the TV stations clustered in NW DC. My location I can pick up 11 channels before the switch with a $13 dollar UHF/VHF antenna without an amplifier.
+Kim Hart: Glad you found a solution. Could be useful to others with the same reception issues.
+_______________________
+DC: Many folks have probably used the digital revolution as an excuse to go out and buy new TVs (yes, I know that if you get cable or satellite or buy a converter a new TV isn't necessary). Do old TVs have any trade-in or recycling value? It seems odd to put something like that out with the trash. Even old computers have some value to somebody, but TVs just disappear.
+Rob Pegoraro: You shouldn't put TVs out with the trash--they've got a lot of toxic components inside them. See this Help File for info on safe disposal of old electronics: http://www.washingtonpost.com.offcampus.lib.washington.edu/wp-dyn/content/article/2008/12/27/AR2008122700068.html
+I'm told that old TVs can still fetch some minimal resale value on Craiglist--I mean, the Post classifieds!--and you can also try unloading it via Freecycle. I guess I'll find out; I've got a couple of old CRTs that I need to get rid of. (Anybody want a 19-inch Magnavox or a 25-inch Zenith? Make me an offer!)
+_______________________
+Columbia, Md.: I understand that we may not be able to receive signals when it rains or even if there is a tree in the wrong place. If we aren't permitted to have roof antennas, will we just be unable to watch TV in the future?
+Kim Hart: It all depends. It's likely that you may just have spotty reception during bad weather or when there's a lot of leaves on the trees (if they're in the path of the TV signal). That doesn't mean you won't get TV at all. If you can't get a rooftop antenna, try getting a more powerful table-top antenna and positioning it up high and near a window, pointing in the direction of Washington, where the broadcast towers are. Hopefully you'll be able to get at least some stations.
+_______________________
+Chantilly, VA: OK, call me naive... But is there any reason why the digital signals need to be broadcast from the middle of a city? Couldn't they have multiple locations like the cell phone network does to allow people better coverage?
+Rob Pegoraro: DTV transmitter towers aren't cheap structures to build; given the expense, it's historically been simpler to plant all the transmitters on the highest point in town. (See the antennas in Tenleytown in D.C., the transmitters on the Empire State Building in NYC, the Sutro Tower in San Francisco, etc.)
+There are low-power relay stations that rebroadcast the signals of broadcasters into rural areas; it may be that we'll have to set up digital relay transmitters to cover the farther reaches of some markets. See http://en.wikipedia.org.offcampus.lib.washington.edu/wiki/TV_Translator for some background on these.
+_______________________
+Gainesville, VA: Actually, there is a better answer for the fellow from Remsen, NY with a rooftop antenna. Get a good TV signal amplifier for about $40. Radio Shack sells one (no, I don't work for them). It is worth a try BEFORE spending any more money. The inexpensive, small in-line amplifiers ($10-15) are another option, although not quite as good. Scotty
+Rob Pegoraro: Good suggestion. Thanks, Gainesville!
+_______________________
+Washington DC: To Hampton SC - It's me (the one tangentially in the business) again.
+The fact that via satellite you don't get the 'local' broadcast networks you really want has nothing to do with being located in the South per se - and everything to do with the difference in cable and satellite rules vis-a-vis importation of distant signals.
+Rural people all over the country live in so-called 'unserved' areas - you don't really have a 'local' TV station - what's local to you might be 60 or so miles away.
+There are two kinds of TV 'market' - one created by the FCC when a TV signal goes on the air - and one created by Nielsen (called a DMA - or demographic market area). DMA is typically much larger than an FCC broadcast market, which is a 35-mile radius around a TV station's city of license.
+You might be just outside a TV station's 35-mile zone - but located within a DMA of a city that's 60 some odd miles away (and possibly even in another state if you live near a state border).
+Your satellite provider will have to give you the broadcast network that is 'local' based on DMA - they can't import the nearer 'distant' signal. Cable can import the distant broadcast signal - but they might have to pay higher copyright fees for it - which will determine how willing they are to do that for rural customers.
+Rob Pegoraro: This is another good point. The rules for this category of local-broadcast carriage are set by Congress; if you don't like how they work now, you need to write your Congresscritter.
+_______________________
+Banner Elk, NC: I live on top of a mountain in NW NC at 4500' elevation. Cable is not available in the neighborhood. I have lived happily with OTA analog for years, watching PBS (UNC-TV) almost exclusively. I had a good, clear analog signal from their antenna 10 miles away. Naturally, with the digital transition, the new digital signal is blocked by 200' of the taller mountain that lies between me and the PBS antenna. I get nada. I've upgraded my antenna, moved it around, added a signal amplifier. Nada.
+As I type this, the satellite guy is installing my new dish antenna and I have bitten the bullet and signed up for the most basic package on offer, $15/mo. I, for one, am no fan of the digital transition.
+Kim Hart: Residents of more rural areas will likely be most adversely affected by the transition.
+The FCC is encouraging stations to install 'repeaters' that can extend their signal further. But those repeaters are expensive and will take some time to install. If you live in mountainous regions, there's a good chance that even repeaters won't get the signal to you. You'll have a better shot if you live in a flatter area.
+_______________________
+Bowie: How much difference is there in the quality of converter boxes? Are they such passive devices that the kind at drug stores for $20 net-after-card are as good as more expensive kinds?
+Kim Hart: There aren't many differences between the boxes in terms of quality. The main thing to look out for are the boxes with the 'analog pass-through' feature. This will let you keep watching the low-powered stations -- they typically air local programming -- in your area that are not required to make the switch today.
+The fanciest boxes include DVR players and other snazzy features. But if you're just looking for a decent box, you shouldn't have to spend more than $20 (when redeeming a $40 coupon).
+_______________________
+Washington, DC: I don't have (or want) cable and I don't want to drop the big bucks on a new TV. What are my options for hooking my laptop up to an old TV (circa 1993 Sony) so I can watch Hulu.
+Rob Pegoraro: That old Sony may only have a composite input (small yellow plug) or, at best, an S-Video input (bigger black plug). A minority of laptops have S-Video outputs, but I haven't seen any lately with composite outputs. You'd probably need to buy an adapter for your laptop.... but bear in mind that 22-inch HDTV will itself cost less than $300, even at a name-brand store. Does that count as 'big bucks'?
+_______________________
+Atlanta, GA: The 'rescanning' everyone keeps talking about - to pick up more channels. Does not apply to those of us with satellite or cable, right?
+Kim Hart: If you have cable or satellite, you shouldn't be affected by this switch. The scanning ONLY applies to people who receive over-the-air signals.
+_______________________
+Washington, DC: I have an old set and hooked up my converter box, but i'm trying to figure out how to hook up my existing DVD or VCR. The problem is i only have one set for my hook-ups, the red, yellow and white jacks. Is there hope. These jacks are already occupied by the converter box to the TV.
+Thanks.
+Rob Pegoraro: Your TV also has a round coaxial-cable post that a TV antenna's cable will screw onto. The converter box will also have a coax output; run a coax cable from the box's output to the post on the TV, and you can keep those composite (red-white-yellow) inputs free for the DVD or VCR.
+_______________________
+Jacksonville, Fla.: Previous to the switch, the local network affiliates weren't broadcasting anything in HD even when, for example the NBA playoffs, the programming was clearly available in HD. Will these stations now have HD as part of the digital change, or is that a separate decision?
+Kim Hart: That's up to the stations. Some are already airing HD broadcasts over the air. They aren't required to air programs in HD, but many will. It will vary from market to market.
+_______________________
+Arlington, VA: As I understand it, there are also digital radio broadcasts. Are we going to have to go through this transition again if the government sells that spectrum too? Has there been any talk of that?
+Rob Pegoraro: Absolutely not. Digital radio--aka 'HD Radio'--doesn't involve any new spectrum assignments. The stations broadcasting in HD are using the same airwaves as before.
+_______________________
+Dale City, VA: We have been paying extra for years to receive digital programming from Comcast? Do you know if that extra charge will stop now?
+Kim Hart: This switch doesn't affect subscribers to digital cable. You'll most likely still have to pay that fee as long as you are a cable subscriber. The only way you wouldn't have that fee is if you dropped cable and relied exclusively on digital over-the-air signals.
+_______________________
+Philadelphia, Pa.: Rob, you said: 'As for the equity issue: Look, a -lot- of people didn't get any worthwhile analog reception and do get good digital reception now. Analog reception was especially bad in cities, what with all the ghosting effects caused by signals bouncing off buildings. Is it necessarily unfair to improve reception for many people at the loss of reception for fewer people?' Actually, I live in a city, specifically in a ground-floor apartment in a converted rowhouse, in a neighborhood where everything's three stories high. I hooked my adapter up (yes, with the rabbit ears) and get not one channel. Not one. Analog wasn't perfect either, but it was watchable. Perhaps a roof antenna would help, but the roof's not mine. So...
+My personal opinion of the ethical question is if any significant number of people experience a loss or degradation of what is after all a taxpayer-owned service, then it's not an improvement. But even if we take the improvement-for-the-many-versus-decline-for-the-few view, I'm not sure it's a valid assumption that urban viewers will experience an improvement.
+My two cents.
+Rob Pegoraro: I think you'd have a stronger argument if the government owned the TV stations. It doesn't. We the people own the airwaves--though TV and radio broadcasters have never had to pay for access to them, unlike wireless carriers and satellite TV and radio services--but that's as far as it goes.
+I'd also note that I've heard from a lot of people living in this city who get much better reception via digital than over analog.
+_______________________
+Washington, DC: Rob -
+A new version of the Satellite Home Viewer Extension and Reauthorization Act (SHVERA) must be passed by Congress this year - and certain Congresspeople (whose constituents live near state borders) are, indeed, trying to change the rules re importation of distant broadcast signals via satellite. So the time for consumers to write those letters is RIGHT NOW!
+Your friend in the tangential business.
+Rob Pegoraro: Appreciate the reminder!
+_______________________
+Not a technophobe, but...: How hard is it, really, to use, for example, a 2004 HP laptop to view Hulu-type programming on a living-room HDTV? Will the picture quality be good enough on a 52' set?
+Kim Hart: I've tried that in my own living room -- it's not hard as long as you have the right cables to connect your computer to your TV. On a 52-inch TV, the quality probably won't be as good as watching it on your laptop screen because the picture will be stretched to fill up your huge TV screen. But it's watchable.
+_______________________
+Woodbridge, VA: Not a question..just a comment. I thought that it was classy how WTTG Ch 5 signed off their analog transmission today with the old black and white DuMont test pattern. Also, how they have kept their call letters WTTG after Tom T Goldsmith the engineering pioneer. He died at age 99 in March of this year and he just about lasted as long as analog TV which he helped to create.
+Rob Pegoraro: So that's what those call letters stood for... I'd always wondered about that. Thanks, Woodbridge.
+_______________________
+Costa Mesa, Calif.: Where can I find the old and new carrier frequencies for the broadcast TV channels in a particular area? I can answer my own questions with access to that data. None of the web sites I have seen will divulge this data.
+Kim Hart: Look at the reception map feature on www.dtv.gov. You should be able to find all the stations that will be available in your location. If you scan for the stations, your converter box or digital TV should find all the frequencies automatically.
+_______________________
+Watching over-the-air TV: Channels 4 and 5 did a countdown before noon, and now their analog stations are showing the infomercial about rescanning or getting a converter box. I wasn't looking at 7 and 9 right at noon, but after that all of their locations (7, 7.1, etc.) were black, so you definitely need to rescan.
+Rob Pegoraro: I wish I'd been able to watch their analog signals go off the air myself--after covering this story for so many years, I would have enjoyed the experience. I'll have to make sure I'm in front of a TV at midnight tonight (no, I'm not a complete nerd :)
+_______________________
+Pemberton, N.J.: I have a TV converter box coupon which has expired.
+Can I still use it?
+Rob Pegoraro: No, but you can reapply. The two-coupons-per-household rule only covers *redeemed* coupons; if you don't use yours, it's as if it never existed. See https://www.dtv2009.gov/FAQ.aspx for more on this.
+_______________________
+Herndon, VA: Hi Guys, When will we start to see the benefits of this spectrum being freed up? For instance, when will the emergency providers be able to use the new spectrum, or when would consumers have access to new internet providers?
+Thanks
+Kim Hart: That's a good question. Once this transition is completed today, the old analog airwaves will be empty and the wireless companies like AT&T and Verizon Wireless will have access to them in order to roll out the new services and faster networks they're developing. But I can't tell you when that will actually be available to consumers--probably next year at the earliest. As for emergency responders, that's still up in the air. Public safety agencies and the FCC are still negotiating the best way to build a nationwide network with these airwaves. Now that the switch is over, maybe that process will speed up.
+_______________________
+Ontario, Canada: How did the USA make the transition to digital TV in under three years while their transition to the metric system is still underway after fifty years?
+Rob Pegoraro: We spell 'color' with one fewer letter than you all do. That means that every single memo, e-mail, story and FAQ file about digital TV that happened to use that word used a little less ink or electrons and took a little less time to download, print or read, and so everybody got the hang of it that much quicker.
+As for the metric system--last I checked, you could still get a pint of beer at any bar in Canada, eh?
+_______________________
+Germantown, Md.: Should the antenna for digital reception be UHF or VHF type? Is a 'bowtie' enough? How do I determine if a highly directional antenna is needed or not needed?
+Kim Hart: In many cases a 'bowtie' antenna will be enough. You need to have a antenna that receives both UHF and VHF signals. If you can't get any stations or have really bad reception, you can consider getting a directional antenna. But experiment with the cheaper models first. There's no reason for you to spend money you don't have to.
+_______________________
+Deltona, Fla.: I get all the major and many smaller TV stations with my DTV converter (about 18 stations total) in the Orlando FL area but NOT the local NBC affiliate. Is there more than one type of DTV transmission that could make this happen?
+Rob Pegoraro: According to the estimated-coverage map I brought up at DTV.gov, your NBC affiliate is predicted to lose some coverage (with other NBC stations picking up the slack) northwest of Orlando, but you should be fine. It doesn't look like that station is moving to any new frequencies, but that doesn't mean it might not make other adjustments to its signal.
+Folks: I'm going to stick around a little longer to make up for my late start, and also to answer any questions you might have about today's column on the Palm Pre smartphone.
+_______________________
+Arlington, Va.: I subscribe to Verizon's FIOS Basic Cable service - local stations only, which is all I want - to get a better picture than possible with an antenna. Sometime in the last twelve months, Verizon installed a digital converter on my TV set. But I still do not get the sub digital channel's referred to in Paul Farhi's 6/10/09 article on the 'Digital Dream.' However, on another set I have that is not connected to cable, I recently added a digital converter to my indoor antenna, and now get just as good a TV picture as with FIOS, plus ten additional digital channels (for channels 4, 7, 22, and 26). When I called Verizon twice this week to find out why, the answer I got each time was that the franchise agreements Verizon signed with the various area localities did not include digital channels, and there was no plan that the responders knew of, to change that pattern. Seems like I should just say goodbye to Verizon, although I plan to wait until after June 12 to see what happens to my non-cable signals.
+Any ideas?
+Gerald
+washingtonpost.com: Broadcast TV Never Converted Its Digital Dream
+Kim Hart: You won't receive those substations on your TV hooked up to FIOS. The substations will be over-the-air, which is why you can get them on your TV hooked up to an antenna. If you get good reception on that TV and you won't miss any additional features you get through FIOS, then you could probably get by with over-the-air broadcasts and save some money. The benefit of FIOS is that you won't have to worry about reception glitches.
+_______________________
+St. Louis, MO: There are few options for people with HD ready TVs. The converter boxes work, but do not provide the HD picture my TV is able to display. Any ideas?
+Rob Pegoraro: That's why I wasn't a fan of 'HD-ready' TVs back in the day (though it turns out that a lot of the early DTV tuners in so-called integrated sets don't work as well as current models). Here's the advice I gave for people in your situation back in December:
+http://www.washingtonpost.com.offcampus.lib.washington.edu/wp-dyn/content/article/2008/12/20/AR2008122000080.html
+_______________________
+Gainesville, VA: Kim, just a thought for your next article. Some people have asked me what to do if they lose electricity and need power for their converter boxes in order to hear the news, esp. in emergency situations. First answer is: you can by a 'converter' that plug into your car cigarette lighter that will deliver AC power. Just plug in your TV and converter box, using a multi-end extension cord. Useful for emergencies. Don't run your battery down too much, though. Second option is to buy one of the new hand-held portable digital TVs for about $150-$190. Third option is, even with old so-called 'portable' analog TVs, there are ways to still use them. The easiest way is if they have an RF cable connections. The second is, if they have a white-and-yellow video game connection. And the third is, there are ways to connect an antenna coax cable from a rabbit-ears, even if there is no antenna port. Strip back the coax, wrap the inside copper wire on to the existing fixed antenna, and use alligator clips to 'ground' the coax copper sheathing to part of the TV chasis (metal). This third alternative may be too techie for most folks, though. But the first two or three suggestions are quite workable. When a bad storm comes through, it is nice to have a lifeline...like the power converter. Scotty
+Kim Hart: Lots of good information there. Thanks so much for the tips.
+_______________________
+Antennas: Someone commented earlier about buying an antenna amplifier at Radio Shack. On the whole, which do you think is better--buying an amplified antenna as a one-piece unit or buying an unamplified antenna and then, if needed, buying a separate amplifier? (My girlfriend has this ancient 1981-vintage TV in her kitchen that she doesn't want to replace because it fits the space well, but the only way to get a signal in there is via an antenna....)
+Rob Pegoraro: Depends on where she lives. Remember, the general rule is that if you're too close--say, within 8, maybe 10 miles--a signal booster will only screw up things and introduce too much noise in your signal.
+Assuming you are, in fact, farther out from your local stations, and since you're in a space-constrained situation in that kitchen, I'd get a one-piece unit.
+_______________________
+UHF v. VHF: To underscore, Channel 4 here in the DC area will continue to broadcast as a UHF channel (using Channel 48) following the switchover, whereas Channel 7 and Channel 9 will move their digital broadcasts to their traditional VHF locations. Don't take the risk--just get an antenna that pulls it all in if you need one.
+(How funny is it that now in the days of HD broadcasts and all the new technology we're talking about UHF and VHF again, terms that many viewers had long forgotten? Anyone else remember as a kid when you turned it to 'Channel U' and then fiddled with the dial to try to find 'Sesame Street'?)
+Rob Pegoraro: That is correct.
+_______________________
+Temple Hills, MD: Are y'all sure folks in condos or homeowners associations aren't permitted to have antennas? This topic came up when I moved into my home in 1999. FCC rules (at least at that time) allowed people to put up antennas. Homeowners association rules may actually be wrong.
+Rob Pegoraro: The FCC's regulations are clear on this: Unless you live in a historic district, no HOA, condo board or other local authority can stop you from putting up a TV antenna--or satellite dish or radio antenna--on your share of the property. That includes balconies and courtyards and anything else not counted as common property.
+Here's the FCC's page about this: http://www.fcc.gov.offcampus.lib.washington.edu/mb/facts/otard.html
+_______________________
+Herndon, Va.: Is there a measurement device that you can get to tell you the strength of the DTV signals coming from your antenna?
+Rob Pegoraro: Every HDTV and DTV tuner that I've seen includes some sort of signal-strength meter, but it's not always obvious how you display it. You'd probably have to read the manual to figure that out.
+_______________________
+For the FIOS viewer in Arlington: DirecTV doesn't carry the substations either. If you want to keep FIOS but still receive those channels, you could try getting a cheap OTA antenna and hooking it up to your TV (you might need a box if the TV is more than a few years old). Most TVs manufactured within at least the last 10 years have multiple sets of inputs such that you could connect the OTA antenna to the coaxial antenna input and the FIOS box to your component or HDMI input (or S-Video or whatever you're using....most FIOS customers are unlikely to be using a coaxial connection, I think). Then you just use the 'input' button on your TV remote to switch between the different signals--sort of like how if you have a video-game system you're probably already used to switching between inputs. Same idea.
+Rob Pegoraro: Yup. Thanks!
+_______________________
+Washington, DC: Did the three month extension given to 'non-conformists' really do any good? If there are still an estimated 3 million households still without access to new digital OTA television, was the hundred of million of dollars spent to delay these extra 3 months really worth it?
+Rob Pegoraro: Apparently, the delay did help a lot--and not just with people who hadn't gotten the memo earlier, but with people who did know what they had to do but couldn't get a converter-box coupon because the coupon program ran out of money. The delay may have also spared a few people from having to try to mount a rooftop antenna in the middle of winter.
+_______________________
+Rockville, MD: Watched the DC and Baltimore stations sign-off their analog broadcasts one by one on a eighties vintage B/W Sony Watchman handheld portable. It was very nostalgic and a little sad. NBC 4 and Fox 5 are now running a DTV PSA continuously. I know somewhere, there's some oblivious person who just turned on their set who's going through a War of the Worlds style panic as we speak.
+Rob Pegoraro: No doubt! I haven't gotten any panicked phone calls, but the day is still young...
+_______________________
+Alexandria, VA: If you have an attic antenna, don't forget to put a surge protector between your antenna and your digital TV, in case of a lightning strike.
+Rob Pegoraro: Good tip...
+_______________________
+Damascus, Md.: Several weeks ago, you had a column about the move to free anti-virus checkers. What is the status of these? My subscription to Microsoft's Live OneCare is about to expire (in a month). While I liked the idea of using one product for my desktop and laptop, this program has been a nightmare. On at least three occasions, MS techs have had to take over my machine. And it frequently bombs (as it's doing at the moment) so that its 'tune-up' does not complete. (BTW, I was unable to find this past article. I think this is problematic of the print media, when one is unable to find and build upon the accumulated wisdom of columns like yours.)
+washingtonpost.com: A Little Economic Stimulus: Free Antivirus (Fast Forward, Feb. 12, 2009)
+Rob Pegoraro: Here's a non-DTV question. I've had Avira running on one test computer without any problem; on another, I put a free AV program that I didn't review, Comodo, and that seems to be working well too. (Not that I'd recommend Comodo: It's kind of a pest, in terms of wanting to regulate everything you do on the computer.)
+Microsoft is close to rolling out a preview of its own anti-virus app, which it's calling Morro for now. Here's the writeup I did when it announced this move (which will mean the end of its OneCare product): http://voices.washingtonpost.com.offcampus.lib.washington.edu/fasterforward/2008/11/microsoft_zeroing_out_onecare.html
+Rest assured that I'll review this Morro app when it ships.
+_______________________
+'Depends on where she lives.': West End of Alexandria near Landmark Mall.
+Rob Pegoraro: Not sure that a signal booster would be needed there. OTOH, if she's farther down in the valley there it might help.
+_______________________
+Gainesville, Va.: I am also advising folks to buy a six or ten-foot coax extender cable (two ends male plus a barrel connector, or one end male and one end female) to get the extra length to get their antenna nearer a window, if possible. Although as I have said, an amplified antenna like the RCA-1251 is another dood bet. Or both in combination. (I get all the digital channels all the way out in Gainesville.) Scotty
+Rob Pegoraro: One of the people I've been talking to lately, HDTVexpert.com blogger Pete Putnam, likes to say that he can get DTV to work anywhere with the right setup (check that site to see how he was able to lock in the local signals at a house in Vermont that's about 50 miles away, and on the wrong side of a hillside, from any transmitters). Sounds like you and him should compare notes sometime!
+_______________________
+Madison, Wisc.: For the apartment or condo owners who may have digital reception issues - the FCC has a regulation that preempts any restrictions the building owners or condo board may impose for erecting antennas in locations the single resident has control over, like a balcony.
+I agree it is always best to try to work things out with the group/board first before depending on this preemption.
+Rob Pegoraro: But please, tell me about any of these conflicts as well. I'd like to hear about any condo or HOA boards that are still pretending they haven't heard about this decade-old regulation.
+_______________________
+Herndon, Va.: The old sci-fi programs often showed alien races watching decade old tv programs carried into space. Now that we have switched to digital, will the broadcast signals still be broadcast into space or will the aliens have to assume we destroyed ourself causing the signals to end?
+Rob Pegoraro: The signals are still going out there, but it's unclear whether the aliens have adopted the same digital encoding as us. Worst-case scenario, their tuners pick up the signal and translate it as a stream of insults, and then the flying saucers arrive and start blowing up cities here.
+_______________________
+Power outage: A reader commented on options for powering the converter box in a power outage. You could also buy a backup power supply at any computer store. Of course it won't run forever, but they're very useful to have, and I think anyone who has a DVR box ought to have a backup power supply for every DVR in the house.
+Rob Pegoraro: But if you really want to be able to know what's going in a power outage, I don't think there's any substitute for a battery-powered radio, or maybe one of those hand-cranked radio.
+_______________________
+Martinsburg, W.V.: I can receive the DC and some Baltimore stations with an outdoor antenna with amplification. But, since all those stations were transmitting their digital signals in the UHF band, I purchased a UHF-only antenna a few years ago.
+DC's channels 7 (ABC) and 9 (CBS) are changing their digital signal to their VHF number. Any idea how or if I can add VHF capability to my existing UHF antenna?
+Thanks.
+Rob Pegoraro: I don't know nearly enough about broadcast engineering to know if that's possible. Anybody have any ideas?
+_______________________
+Alexandria, Va.: In the DTV transition the federal government auctioned off the VHF airwaves that were used for analog TV broadcast. Are the auctioned airwaves now held under lease? How many bidders/companies now have use of those VHF airwaves?
+Rob Pegoraro: The auctions happened about a year and a half ago in a few different stages, but the airwaves themselves are only starting to become available. The TV stations have to vacate those airwaves, and then the winning bidders--mostly wireless carriers--can get to work setting up their own services. So can the cops, firefighters, paramedics who are getting their own chunk of the vacated analog spectrum. In either case, though, it'll take a while for new services to go online. You need to set up transmitters, buy receivers, test the network, etc.
+_______________________
+Baltimore: Did you answer this part of the a previous posters question:
+The reception over the area often stutters and pixilates.
+And sometimes it just freezes up! The conditions above and the freezing up happens to my new Digital TV that I have in the kitchen with a flat style antenna whenever I open the refrig door, move around the room, open the bathroom door. Is it the antenna or the signal? It's annoying.
+And before the converter was attached to my upstairs TV I had MPT and WETA, now I don't get either, but get the major DC multi-stations that I never received before with any picture quality. They look very clear now. Should I just keep rescanning to get the Public TV stations? or is there something not up and running with the public stations yet.
+Rob Pegoraro: They're up and running--WETA was one of the first digital stations to go on the air, back in the previous decade. But rescanning would be advisable tomorrow and maybe again next week. Some folks are suggesting that you do this every few weeks for the next month--not that I'll remember to rescan that often.
+_______________________
+Fairfax, VA: I've been using a converter box for months with good results but since noon, I am getting no signal from Channel 7. The other channels are still okay. Is this temporary or are they having problems?
+Rob Pegoraro: Again, this is why you need to rescan. WJLA's signal is now on a different frequency; rescan, and your converter should pick it up right away.
+_______________________
+Laguna Niguel, Calif.: I get reception through a directional outdoor antenna with a powered amplifier. I am 50+ miles south of the transmitters North of LA. The federal antenna site shows that I should get a strong signal from all the stations in my area with the antenna pointed as it is. Usually, I have no problems.
+Once in a while, however, seemingly when it's windy, the signal for KABC breaks up or even gets too poor to receive. Curiously, this only occurs on one of the two LCD TV's we have - the CR top-rated Samsung. The Toshiba in the kitchen still gets the signal fine. The cable run from the amplifier to the TV with the problem is shorter than that to Toshiba. The signal should be the same, so the problem must be in the Samsung TV, I'm guessing. Any thoughts on this?
+Rob Pegoraro: I think your theory is correct, that the Samsung's tuner isn't quite as sensitive as the Toshiba's. That's likely to be the case if the Samsung set is older. FWIW, I don't think Consumer Reports tests DTV reception in its reviews; all the ones that I've read focus on picture quality from various sources.
+_______________________
+New Orleans, La.: I get broadcast TV with rabbit ears. I tried once to set up the converter box in conjunction with my VCR but couldn't get the system to record, so I took the converter off again. I've looked online for fix for this problem but haven't seen a solution. Is there one, or are we now forced to cable or satellite with a DVR?
+Thanks very much. Kerry
+Rob Pegoraro: You can use a VCR with a converter--but only if you set the VCR to either channel 3 or whatever video input the converter's hooked up to--i.e., stop using the VCR's tuner (which you'll have to anyways once there are no analog signals for it to receive). Then you can only record on whatever channel the converter is tuned to; you can schedule recordings all you like, but you've gotta remember to change the channel on the box first.
+_______________________
+Gainesville, VA: Yes, you can add VHF to your antenna. Just google for antenna combiners or joiners.
+Rob Pegoraro: You are a font of DTV knowledge today, Gainesville!
+_______________________
+Frostburg, Md.: West Virginia Public Television will no longer be offered as part of Comcast's basic cable subscription. The station blames Comcast, while Comcast blames the way the station converted to digital. What's going on?
+Rob Pegoraro: Comcast has to offer 'your' local stations in basic analog cable, but I'm guessing that they don't consider WV's PBS affiliate local to you--is some other public station, like MPT, on basic cable instead? If so, Comcast is acting within their rights. But if they're blaming it on WVPT's digital switch, that doesn't make any sense.
+_______________________
+Washington, DC: Hi Rob,
+I've got a non DTV question for you. I have a Mac Book with Tiger as my OS (10.4.11). I was prompted to update to Safari 4 this week so I went ahead and did it.
+The weird thing is that if I use the Safari icon in my Dock Safari 3 opens. However if I use Spotlight to search for Safari and open it that way Safari 4 opens (using a different Safari icon). I'm assuming that having 2 versions of Safari running isn't a good idea. How do I fix this?
+Rob Pegoraro: Another non-DTV query! Look in your Applications folder for any extra copies of Safari, then delete the older one. (I don't think you're doing any harm this way, but you are inflicting some unnecessary confusion on yourself.)
+_______________________
+Vienna: Do you have a review of the Palm Pre in the works? If so, what's your initial impression? Thanks...
+washingtonpost.com: A New Hope For Smartphones
+Rob Pegoraro: And here's yet another non-DTV question. See the link to my review; there's more on the Pre in my blog today:
+http://voices.washingtonpost.com.offcampus.lib.washington.edu/fasterforward/2009/06/with_the_pre_palm_reboots_itse.html
+_______________________
+Cambridge, Mass: Is there any national plan to dispose of all the toxic waste that will be left on the curbs across America to be picked up as trash from all the analog TV sets that will be disposed of as households switch to digital TV receivers? What do states and municipalities do with obsolete TV sets and PC monitors now to protect the public from the dangers of toxic waste?
+To what degree will the switch to all digital over-the-air TV reception expand the digital divide among those individuals and families already without high-speed broadband Internet access?
+Since current FCC ownership rules a single individual or firm to own three TV stations in the largest markets and the fact that digital TV channel spectrum can be compressed to allow 6MHz of frequency to broadcast 4-6 standard-definition channels of separate programming, is it not a violation of the public interest and contrary to notions of a marketplace of ideas and viewpoint diversity to allow 12-18 concentrated voices in the hands of a single source?
+Since the sole legal basis of broadcast regulation is the scarcity rationale (See: Red Lion v. FCC, 1969), where is scarcity when HD radio expands the number of radio channels by three to five times, digital TV expands channels from 4-6 or more, and the Internet has unlimited portals of content, along with additional channels of audio and video and multimedia content from cable and satellite services, cognitive radio, spread-spectrum radio, etc? And if the scarcity rationale is obsolete, then, shouldn't broadcasting be regulated as a common carrier, a means of regulating content more compliant with the First Amendment?
+Since 85%-90% of U.S. households receive their video content from cable and satellite services, does exclusive free use of the most valuable spectrum for over-the-air TV broadcasting (700MHz band) meet the mandate of Section 303(g) of the Communications Act that requires the best use of 'radio' in terms of efficiency and promotion of the public interest? Wouldn't the best use of the 700MHz band be to reassign this particular spectrum for unlicensed high-speed broadband?
+-- Nolan
+Rob Pegoraro: I don't know a nicer way to say this, but... look, man, it's over. The DTV transition is a reality.
+_______________________
+Georgetown, DC: Comment:
+Now that Comcast Arlington has taken the MD PBS 22 station off cable, and the digital switch means its over the air signal won't be as strong as analogue, assuming this is true for all of No. Va and DC, isn't sad that it appears that so many of us will no longer be able to see and share in the locally produced programming of our neighbor state? I wonder if this will affect their fundraising?
+Rob Pegoraro: Could be. What I'd suggest is that if you've got a digital TV or converter, try using that to watch MPT. It's got a very strong signal.
+_______________________
+Newburgh, Ind.: For people with HD TV's, will the broadcast digital signal be in an aspect ratio to fill the screen of those TV's and more letter box on older aspect screens, or will the picture remain in the old aspect ratio leaving it narrow unless zoom or one of the ratio changers is used?
+Rob Pegoraro: Most prime-time programming is in high-def and therefore widescreen; otherwise, you'll get a narrower picture that's letterboxed on the sides on an HD screen--unless the TV has a 'stretch' mode that widens the sides of the picture to fill the screen, as many do.
+_______________________
+Washington DC: If you are having trouble with your converter box your local fire department may be able to assist. Call them and see. (Don't call 911.)
+Rob Pegoraro: Hadn't heard about that--thanks!
+_______________________
+Washington DC: Rob -
+I, too, ought to be watching tonight at midnight. For two years, I've been doing my bit to put the word out there - including speaking at my mother's senior citizen's group.
+I remember one woman vividly who said, 'Oh, no, I don't think we'll be doing that -the digital switch- in Missouri.'
+I said, 'Ma'am, I know Missouri is called the Show Me State - and all I'm saying is there won't be anything to 'show' on analog after the transition.'
+I've been thinking about that lady all day today! :-)
+Your tangential friend.
+Rob Pegoraro: Well, I hope she's figured it out too...
+_______________________
+Rob Pegoraro: I'm going to sign off now. I wish I could tell you have many Web chats, stories and blog posts I've done about DTV--not to mention all the e-mails I've written to readers--but it's a lot. Now there's only a few hours left... and I'd be seriously lying if I didn't say that I'm happy about that :)
+Good luck with your DTV fine-tuning. I'll see you on the other side!
+_______________________
+Editor's Note: washingtonpost.com moderators retain editorial control over Discussions and choose the most relevant questions for guests and hosts; guests and hosts can decline to answer questions. washingtonpost.com is not responsible for any content posted by third parties.
+Copyright 2009 Washingtonpost.Newsweek Interactive
+All Rights Reserved

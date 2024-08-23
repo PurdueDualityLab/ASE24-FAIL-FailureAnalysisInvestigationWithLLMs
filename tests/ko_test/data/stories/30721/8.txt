@@ -1,0 +1,14 @@
+Intel decides to delay the launch of television chip
+08/18/2004
+Irish Independent
+fv
+IN another product postponement, semiconductor giant Intel Corp has said it won't be offering a chip for projection TVs by the end of 2004 as it had announced earlier this year.
+The Santa Clara, California-based chip maker said it still plans to introduce a liquid crystal on silicon chip, or LCoS, but company spokeswoman Laura Anderson declined to provide a specific timeline.
+"Basically, we're evolving our product development plans," she said, adding the company wants to more clearly differentiate its product from competing technologies and provide a clearer television picture.
+LCoS competes against other new display technologies that have already invigorated the rear-projection TV market, most notably the digital light processing (DLP) chip pioneered by Texas Instruments.
+Intel's plan to jump into the market was officially unveiled in January during the Consumer Electronics Show in Las Vegas. Analysts said the company's research and development dollars could make big-screen TVs cheaper and better - much like what it did for personal computers.
+It's been a rough year for Intel products, even though profits nearly doubled in the second quarter and it's on track to set record sales in the current quarter.
+Its current Pentium 4, unveiled in February, has been criticised for not raising the performance bar over previous processors.
+In May, it cancelled the next-generation Pentium 4 so that it could focus on more promising technologies.
+In June, a manufacturing glitch forced a small recall of chipsets, which handle communications between the processor and the rest of the system.
+In July, it said design problems would delay the release of a mobile computer chipset dubbed Alviso until next year.

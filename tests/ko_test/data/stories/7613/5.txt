@@ -1,0 +1,21 @@
+Y2K bug already biting in state: [ALL Edition]
+02/16/1999
+Bangor Daily News
+pq
+PORTLAND -- Some people think the millennium bug is a hollow threat, and others think it will have cataclysmic consequences.
+Mainers who are still on the fence about the threatened computer glitch associated with the dawning of the year 2000 may want to consider the experiences of three companies that already have been bitten by the so-called Y2K bug.
+It struck at UNUM Corp. in Portland in 1995 when it ate part of a list of brokers with whom the insurance company does business.
+At Consumers Maine Water Co., the bug infested 18 microprocessors hidden inside panels that control water quality and monitor treatment systems.
+At Valcom in South Portland, a computer training and consulting company, the millennium bug had been hidden away in the hardware of personal computers it tests for businesses and individuals.
+Y2K problems revolve around some computers' inability to recognize the two numerical digits 00 in internal calendars as a reference to the year 2000. Some computers will read the dates as 1900, and software on some will freeze up.
+Besides affecting old mainframe computers, the bug also could strike personal computers and some devices that contain microprocessors.
+Fearing society will break down into chaos as computers go awry, some people have taken extreme steps such as stocking up on food. Others say the problems will barely cause a ripple.
+While those examples show that the Year 2000 problem is real, they also show that problems can be detected and fixed more easily than some people thought likely.
+All three Maine companies that found problems were able to fix their computers.
+UNUM had a backup set of records of its brokers, which were used to restore its files within a few days, said spokesman Michael Norton.
+"It's a good example, though, of how all these things are not going to wait on January 1, 2000, to happen," said Norton.
+Consumers Water ran tests that found problems in 18 chips to systems that handle water treatment and data collection at its facilities in Millinocket, Greenville and Camden-Rockland. It is also the system that helps determine when chemicals or water should be added.
+Tests showed problems with 18 chips, which have been replaced at a cost of $300 each, labor included.
+Company Vice President Richard Knowlton said the water still would have been treated, but problems with generators and other automated systems would have occurred.
+Valcom, which tested thousands of computers, found that more than 80 percent would have failed in one way or another, said Dave O'Donnell, service manager at the company.
+Many of the computers can survive the arrival of 2000, provided someone enters the correct date manually through the keyboard.

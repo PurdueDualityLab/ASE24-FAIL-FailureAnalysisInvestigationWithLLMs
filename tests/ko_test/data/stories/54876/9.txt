@@ -1,0 +1,24 @@
+Will IPv6 be Bearish for the U.S. Dollar?
+06/08/2011
+Benzinga
+ln
+Jun. 8, 2011 (Benzinga delivered by Newstex) --
+The internet gods were playing around on Wednesday.
+More than 200 companies are testing out IPv6, the protocol system designed to replace the internet's current IPv4 system.
+Why is IPv4 being replaced and what does that mean for investors?
+IPv4 is running out of IP addresses. For those unfamiliar with the concept of IP addresses, think of them like property addresses. Every device that accesses the internet'smartphone, computer, or gaming console'must have an IP address. As the number of these devices increases, the need for more IP addresses increases as well. IPv4 is running out.
+Think of it like growing family moving to a new house.
+When should we expect IPv7, IPv8 or IPv9? Well, IPv6 should provide more than 4 billion times the number of IP addresses that IPv4 does, so perhaps not for a while.
+The test was going smoothly, with no major glitches reported.
+How should investors play the switch?
+The need to increase the number of available IP addresses is indicative of a growing mobile trend in the global economy. That could be bullish for tech giants and internet companies like Google (NASDAQ:GOOG) (NASDAQ: GOOG), Apple (NASDAQ: APPL), and Linkedin (NYSE: LNKD), but it could also foreshadow a bearish trend in the U.S. dollar.
+Cisco (NYSE: CSCO), as reported by News Factor, predicted that global internet traffic will quadruple in the next 4 years, and the Asia Pacific region will generate the most internet traffic.
+That report, coupled with the news that China has surpassed the U.S. in energy consumption, only further cements the notion that the days of U.S. economic dominance are coming to an end.
+With the U.S.'s importance in the global economy fading, the continuing use of the U.S. dollar as the world's reserve currency may be coming into doubt. If the dollar loses its reserve status, it may depreciate significantly in value.
+Traders who believe that thesis might wish to consider taking positions in PowerShares DB US Dollar Bearish Index (NYSE: UDN) and WisdomTree Dreyfus Chinese Yuan Fund (NYSE: CYB). UDN is a short dollar play, while CYB is a long yuan play. Taking a long position in the Chinese yuan may prove profitable if the Asian currency takes a larger role in the world's financial system.
+(c) 2011 Benzinga.com. All rights reserved. This material may not be published in its entirety or redistributed without the approval of Benzinga.
+Newstex ID: BNZ-6683-104980590
+Copyright 2011 Newstex LLC
+All Rights Reserved
+Newstex Web Blogs
+Copyright 2011 Benzinga

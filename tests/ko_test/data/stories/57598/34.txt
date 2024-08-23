@@ -1,0 +1,22 @@
+TSE's latest system glitch hits at important time
+02/06/2012
+The Nikkei Weekly (Japan)*Nikkei Weekly
+fv
+MAKOTO KAJIWARA
+System trouble at theTokyo Stock Exchange halted trading of 241 stocks during the morning session of Feb. 2, exposing a glaring lapse in risk management at the world's third-largest bourse on a trading-level basis.
+In fact, system malfunctions are not rare at the TSE. The exchange's information distribution system experiences a glitch"about once every six months," Hiroaki Uji, who heads the section in charge of the TSE's stock trading system, told a news conference.
+These minor disruptionshave not caused havoc, at least not before last week, because a backup system would take over within seconds. The TSE has yet to determine why the backup system did not come to the rescue this time.
+To be fair, stock exchanges in other countries also suffer from system glitches.
+NYSE Euronext Inc., whichoperates the New York Stock Exchange and other bourses, experienced system trouble on five occasions last year. But most of the malfunctions were quickly fixed.
+At the London Stock Exchange, trading was halted for roughly four hours last year.
+But given the TSE's trackrecord, it is absolutely crucial for the exchange to stay on top of the problem and improve its risk management. Trading has ground to a complete halt at the bourse in the past due to system trouble.
+Last week's incident came at a particularly bad time for two reasons.
+Impact
+For starters, the TSE isin the midst of an increasingly intense worldwide competition among stock exchanges to court investors and businesses.
+If the TSE's tradingsystem comes to be seen as problematic, the reputation would put the exchange at a serious disadvantage against Chinese bourses.
+The total marketcapitalization of China's three major stock exchanges already exceeds that of the TSE by 70%. Chinese bourses have also started attracting foreign companies. U.S. luxury bag maker Coach Inc. listed its stock on the Hong Kong Stock Exchange last year.
+Among Japanese companies, Lawson Inc. is preparing to list on the Shanghai Stock Exchange.
+The system failure wasalso unfortunate because the market is finally on a recovery track. After declining 17% last year, all the way down to where it was in 1983, the Nikkei Stock Average has gained roughly 5% so far in 2012.
+But last week's system problem could dampen sentiment among global investors.
+The TSE must quicklydetermine the cause of the trouble and implement measures to prevent a recurrence. If the bourse fails to do so, the bug's impact could last far longer than the half day for which trading was suspended.
+(The Nikkei Weekly 02/06/2012 Edition)

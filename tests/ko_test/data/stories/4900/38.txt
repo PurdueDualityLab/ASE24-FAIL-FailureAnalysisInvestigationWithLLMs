@@ -1,0 +1,19 @@
+Some Agencies Won't Fix 2000 Glitch
+03/18/1998
+AP Online*Associated Press Online
+fv
+WASHINGTON (AP) - The federal government is straining to fix "the mother of all computer glitches" before the year 2000 arrives, but many federal agencies probably will not meet the deadline, Congress' investigative arm said Wednesday.
+That could mean trouble for anyone who receives government checks, pays taxes, flies in an airplane, receives student loans or manages the military, said Gene L. Dodaro, assistant comptroller general for the General Accounting Office.
+"Financial transactions could be delayed, airline flights grounded and national defense affected," he told a joint meeting of two House technology subcommittees.
+Government computer systems that perform calculations involving dates may begin generating incorrect data after Dec. 31, 1999, because for several decades computer systems have used two digits to represent a year to save electronic storage space and reduce computing costs.
+This means that after the 1999, 2000 will be indistinguishable from 1900.
+As of Feb. 15, about 35 percent of the roughly 7,850 computer systems labeled as "mission critical" - systems that would cause the most serious problems - were ready for 2000, according to the White House Office of Management and Budget.
+Forty-five percent are being fixed, 14.6 percent are being replaced and 4.6 percent are being retired.
+"Our reviews of federal agency Year 2000 programs found uneven progress," Dodaro said. "Some agencies are significantly behind schedule and are at high risk that they will not fix their systems in time."
+Contingency plans are imperative, Dodaro said.
+Furthermore, as the demand for computer programmers increases, so will the cost of their services, said Michael Harden, president of Century Technology Services Inc.
+"By increasing the demand for programmers, competitive forces will increase their salaries," Harden said. "So not only will we need more programmers, but the hourly cost for this talent will also rise. Every wasted hour today may cost us three or four times as much later for that same hour of work."
+Costs already have jumped. In February 1997, the OMB estimated fixing the problem would cost $2.3 billion. Its most recent estimate was $4.7 billion.
+To help the government head off trouble, President Clinton appointed a council last month to oversee a governmentwide effort to reprogram or replace computers systems.
+"I don't need to remind the council that as we ring in the 21st century, we will be ushering in the mother of all computer glitches - one which could cripple critical government functions, such as air traffic control systems, veterans' benefits, Social Security and student loans as well as the everyday conveniences of modern life, like home security systems, video recorders and elevators in high- rise buildings," said Rep. Constance Morella, R-Md.
+The hearing was held by the House Science subcommittee on technology and the Government Reform and Oversight subcommittee on government management, information and technology.

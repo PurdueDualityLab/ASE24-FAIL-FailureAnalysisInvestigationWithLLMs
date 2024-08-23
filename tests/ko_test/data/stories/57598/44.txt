@@ -1,0 +1,16 @@
+Tokyo exchange glitch halts some trading
+02/02/2012
+Financial Times (FT.Com)*FT.com
+pq
+Trading in some of Japan's biggest stocks was halted on Thursday as the Tokyo Stock Exchange suffered a technical glitch.
+The outage, which lasted the entire morning session and affected trading in companies such as Sony, Komatsu and Tokyo Electric Power, comes as the exchange is under mounting pressure from alternative trading venues. Last year rival systems' share of equity trades doubled to 3 per cent, according to data from Thomson Reuters.
+One of the 241 stocks affected was the Topix Core 30 Exchange-Traded Fund, which is used as a benchmark by many computer-driven traders. So-called "algorithmic" trading is believed to account for about 35 to 40 per cent of all trades on the exchange.
+"It has caused some surprise that this has happened again," said one head of equity cash sales at an investment bank in Tokyo, referring to an incident in November 2005 when all stocks were halted from 9am to1.30pm. "With 241 names out of action, it is significantly impacting anyone hoping to trade the market in clarity, to read its price signals."
+Traders said clients were particularly frustrated by an inability to trade Sony, which named a new chief executive after the close of trading on Wednesday. The Osaka Securities Exchange, where Sony is also listed, saw 96,400 Sony shares traded in its morning session, 160 times the average daily volume so far this year.
+Analysts said Thursday's glitch may increase pressure on regulators to relax restrictions on alternative trading venues such as SBI Japannext and Chi-X Japan. For example, investors buying at alternative venues are required to make a takeover bid if they acquire more than 5 per cent of a company from more than 10 sellers. No such rule exists for shares bought on the main exchanges in Tokyo, Osaka, Nagoya, Fukuoka and Sapporo.
+"This is an ideal opportunity to examine these restrictions, to put proprietary trading systems on a level playing field," said Beth Haines, head of global marketing at Chi-X Japan. "This shows that we need greater stability and resilience in equity markets in Japan."
+None of the rival systems was allowed to trade the 241 stocks while they were halted on the TSE, by order of the Japan Securities Dealers Association.
+The stoppage also comes as the TSE is hoping to engineer a merger with its regional rival, the Osaka Securities Exchange, by January 2013.
+The OSE has not experienced major system troubles since 2002.
+A TSE spokesman said he did not know why the system had failed. The TSE will hold a press conference on Thursday afternoon to explain.
+Credit: By Ben McLannahan in Tokyo

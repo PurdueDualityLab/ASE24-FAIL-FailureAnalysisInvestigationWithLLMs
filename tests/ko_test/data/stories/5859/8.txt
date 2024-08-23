@@ -1,0 +1,10 @@
+HotMail scrambles to fix password glitch.
+08/31/1998
+Computerworld New Zealand
+fv
+Microsoft's HotMail subsidiary is scrambling to fix a security glitch in its free email service that could allow someone to steal passwords from HotMail members.
+The security breech was uncovered last week by a Web developer at Canadian firm Specialty Installations, which has posted an explanation of it on the company's "Because-We-Can" Web page (www.because-we-can.com/hotmail/default.htm[http://www.because-we-can.com/hotmail/default.htm]).
+The scheme involves sending an email message to a HotMail user that contains a particular JavaScript program. When the user opens the email the JavaScript program starts running almost instantly, and creates a message box that tells the user their account access has timed out, and asks them to re-enter their log-in information.
+In doing so, the victim's user name and password are winged back to the person who sent the malicious email. The intruder can then delete, send and read the victim's email, access the victim's address book and check messages on other mail servers the victim may have configured to be accessible from the HotMail account, according to Specialty Installations.
+HotMail is working "flat out" on a permanent fix, says a spokesman for HotMail's PR firm. HotMail could not say how long it will take to implement the fix. As a temporary measure, HotMail users can disable the JavaScript support in their browser software, Specialty Installations advises.
+Copyright IDG Communications Ltd.

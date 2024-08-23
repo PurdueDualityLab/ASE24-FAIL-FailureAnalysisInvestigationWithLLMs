@@ -1,0 +1,32 @@
+version: 2
+updates:
+
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "daily"
+
+  - package-ecosystem: "docker"
+    directory: "compose/local/django/"
+    schedule:
+      interval: "daily"
+
+  - package-ecosystem: "docker"
+    directory: "compose/production/django/"
+    schedule:
+      interval: "daily"
+
+  - package-ecosystem: "docker"
+    directory: "compose/production/postgres/"
+    schedule:
+      interval: "daily"
+
+  - package-ecosystem: "docker"
+    directory: "compose/production/traefik/"
+    schedule:
+      interval: "daily"
+
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "daily"

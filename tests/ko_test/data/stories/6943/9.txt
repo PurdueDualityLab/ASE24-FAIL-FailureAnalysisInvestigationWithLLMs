@@ -1,0 +1,37 @@
+Here's Lesson I: Figure out 1999: [CITY Edition]
+12/31/1998
+Florida Times Union
+pq
+If you thought solving the year 2000 computer glitch was going to be tricky, wait till you hear about the 1999 problem.
+Never heard of it? Neither had Marietta Nelson -- who now wishes she hadn't.
+A reference librarian at the National Institute of Standards and Technology in Gaithersburg, Md. -- one of two official U.S. timekeepers -- Nelson routinely fields queries from people wondering how to correctly express times and dates.
+The Miss Manners of chronology recently received an e-mail asking the following: How do you write the year 1999 in Roman numerals?
+Should it be the windy MDCCCCLXXXXVIIII?
+The economical MCMXCIX?
+Or the snappy MIM?
+Finding the answer to this question would lead her on a strange journey to the roots of a mysterious historical holdout. After all, Latin may be dead, but the seven Roman numerals -- I, V, X, L, C, D, and M -- live on in odd corners of the planet.
+For millions of schoolchildren, Roman numerals are an academic rite of passage.
+"It's one of those things that children need to know -- kind of like we study dinosaurs," says Edward Holmes, chairman of the elementary-education department at Towson University.
+They lend dignity to clock faces and the cover of The New York Times, and a quotient of cool to computer chips such as Intel's Pentium II processor. They enumerate popes and kings, Olympic Games and Super Bowls. Hollywood has long inscribed film copyright dates in Latin. Builders chisel Roman numerals into cornerstones and monuments.
+Thus, while the year 1999 Roman numeral problem (or "Y2K-1" as some are calling it) won't result in railroad wrecks or bank failures, it could result in messy, non-standard usage.
+When officials called the Motion Picture Association of America and the American Institute of Architects, they found that neither organization had an action plan for dealing with the year 1999 crisis.
+"The people who use these Roman numbers don't have long to make up their minds, and they haven't even thought about it," Nelson says.
+Nelson consulted the venerable Chicago Manual of Style (whose editors also received a call or two about the year 1999 conundrum). Nothing there. Then she turned to the Random House Webster's Collegiate Dictionary, which displayed the year 1914 written in Roman numerals, but nothing more contemporary.
+"There is no authority on Roman numerals," Nelson was eventually forced to conclude.
+Roman-numeral experts, such as there are, disagree on the best way to resolve the issue. In fact, scholars say the rules children learn in class today are actually 20th-century conventions, and not necessarily the rules Romans used. For example, children today learn to write the number 9 as IX, which translates as one subtracted from 10. It's a lot more compact than VIIII, which represents 5 plus 4.
+"In the earlier period, {the Romans} would have spelled out literally everything," says Brian Rose, associate professor of classical architecture at the University of Cincinnati. So Julius Caesar, were he alive today, would date his 1999 checks MDCCCCLXXXXVIIII.
+So, how should you write 1999 in Roman numerals?
+In the end, librarian Nelson relied on earlier precedents. Since the number 49, for example, was almost always written as XLIX rather than IL, the government arbiters settled on MCMXCIX for the year 1999.
+Of course, there's no argument about what to do when the millennium rolls around. Just date your check MM. And hope there's a bank still open to cash it.
+INFOBOX
+ROMAN NUMERALS
+Anciently, there were almost as many systems of numerals as there were languages. The Roman system was used in Europe from about the fourth century B.C. until the Renaissance, when it was replaced by the Arabic system that is standard today.
+The equivalents:
+Roman I: Arabic 1
+Roman V: Arabic 5
+Roman X: Arabic 10
+Roman L: Arabic 50
+Roman C: Arabic 100
+Roman D: Arabic 500
+Roman M: Arabic 1,000
+--The Baltimore Sun

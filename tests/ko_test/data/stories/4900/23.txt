@@ -1,0 +1,20 @@
+Federal Year 2000 Computer Fix Costs Climb Again
+04/01/1998
+Newsbytes*Newsbytes News Network
+fv
+WASHINGTON, DC, U.S.A., 1998 APR 1 (NB). US government cost projections to fix the Year 2000 computer problem are climbing faster than water temperatures off Ecuador. According to figures from the White House Office of Management and Budget (OMB), the latest estimates are in the $4.7 billion range - a variable number if there ever was one, as OMB Director Franklin Raines said, "I expect those costs to go up."
+But apart from the soaring taxpayer costs to get the government's computers to realize that "00" in a date line won't mean 1900, which could debilitate or destroy millions of records, Raines' added concern is the computer status at the hundreds of thousands of small businesses across the United States.
+Amid growing studies that the "Millennium Bug" could slow economic growth, cost the economy hundreds of billions of dollars in lost productivity, and send the world's economy into a major recession, Raines said that unlike large corporations, which better have the personnel and financial resources to absorb the changeover, small businesses could be particularly crippled in the next two years.
+"Y2K is a problem that demands the attention of every computer dependent small business," SBA Administrator Aida Alvarez noted.
+Alvarez told a press conference that the US Small Business Administration (SBA) has added a Year 2000 page to its Web site at http://www.sba.gov[http://www.sba.gov], to assist small businesses with the problem. The Web site, she said, includes a flow chart to assist with repairing the software glitch, as well as a database of other companies that perform Year 2000 fixes.
+But small businesses better not wait until next year to start fixing their computer systems. According to a study released last week by the Information Technology Association of America (ITAA), some computer systems already are starting to experience Year 2000 failures.
+In a study, ITAA found that some 44 percent of the survey respondents said have experienced Year 2000-related failures under actual operating conditions, and 67 percent reported failures under test conditions.
+"The Year 2000 may be more than 20 months away, but this survey offers eye-opening evidence that the problems associated with this issue are as current as today's newspaper," ITAA President Harris Miller said.
+Despite the growing concerns, however, John Koskinen, chairman of President Bill Clinton's Council on the Year 2000 Conversion, cautioned against pushing the panic button.
+In testimony before the US House of Representatives Banking Committee last this week, Koskinen said that "while it is important to increase world-wide attention to the urgent necessity of solving this problem, we need to avoid creating panic and precipitous, counterproductive activity."
+But creating a little panic may be a good thing, considering the General Accounting Office (GAO) reported last week that a significant number of federal agencies won't meet the December 31, 1999 deadline.
+Gene L. Dodaro, the GAO's assistant comptroller general, told a joint hearing of the House Science subcommittee on technology and the Government Reform and Oversight subcommittee on government management, information and technology that as of mid-February, only 35 percent of the government's 7,850 computer systems labeled "mission critical" were Year 2000 compliant.
+"It's unlikely that agencies are going to be able to complete this amount of work in the time remaining," Dodaro said. Or at the current budget estimate of $4.7 billion, which was estimated at $3.8 billion late last year, and $2.3 billion in February 1997.
+Doug Engfer, president of The Windward Group, which provides Y2K conversion services, told Newsbytes that the actual cost to the federal government will end up double the current estimates.
+Reported by Newsbytes News Network: http://www.newsbytes.com[http://www.newsbytes.com].
+15:42 CST

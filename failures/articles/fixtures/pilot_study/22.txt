@@ -1,0 +1,62 @@
+Boeing 737 Max: What’s Happened After the 2 Deadly Crashes
+Boeing remains under intense scrutiny nearly one year after the first Max jet was involved in a fatal accident.
+
+With hundreds dead, the popular 737 Max jet remains grounded as investigators examine how an automated system on the planes contributed to the crashes.
+
+In October, Lion Air Flight 610 crashed just minutes after taking off from Jakarta, Indonesia, killing 189 people.
+
+In March, another Max, Ethiopian Airlines Flight 302, crashed minutes after takeoff; all 157 people on board died.
+
+In response, all Max flights were grounded around the world, and carriers like United don’t expect them to be flying again until January at the earliest. Some international regulators, including the Europeans and Chinese, are expected to take even longer to clear the Max to fly.
+
+Evidence, including black box data from the two crashes, has indicated that a system designed to help the plane avoid stalls appears to have malfunctioned, contributing to the accidents.
+
+Investigators have faulted Boeing and the F.A.A. over how parts of the 737 Max was designed and certified.
+The automated system at the heart of the inquiries, known as MCAS, was new to the Max, but most pilots were not aware of it until the first crash. The system also had a single point of failure, and was made more aggressive and powerful late in the design process.
+
+A multi-agency task force known as the Joint Authorities Technical Review concluded that Boeing failed to adequately explain to regulators how MCAS worked, and the Federal Aviation Administration lacked the capability to effectively analyze much of what Boeing did share about the new plane.
+
+The National Transportation Safety Board, one of the agencies that has been investigating Boeing, also faulted Boeing and called for the company and federal regulators to revamp the way they assess the risk of key systems on planes, like emergency notifications in the cockpit. The Justice Department has also opened a criminal inquiry, and is being assisted by the F.B.I.
+
+Nearly one year to the day after the Lion Air crash, Indonesian investigators came to similar conclusions: They blamed Boeing for introducing MCAS without adequately instructing airlines and their crews about how to override the software should it malfunction.
+
+A senior engineer at Boeing said the company, to keep costs down, rejected a safety system that could have reduced the risks that contributed to the two deadly crashes, according to an internal complaint he submitted this year.
+
+The chief technical pilot for the Max complained to a colleague in 2016 that MCAS had “egregious” issues — eight months after he had asked the F.A.A. about removing mention of the new automated system from the pilot’s manual.
+
+The F.A.A., which in recent years has delegated more authority to companies like Boeing, in particular remains under scrutiny. New York Times investigations revealed that key officials at the F.A.A. never fully reviewed the final version of the MCAS software and that Boeing helped craft legislation related to approving designs to its liking.
+
+In the company’s most direct response to the accidents, a committee of the Boeing board suggested several changes designed to make the company safer. It stripped the C.E.O., Dennis A. Muilenburg, of his chairman title and the executive leading the division that produces the Max is leaving.
+
+Boeing is under financial pressure as the impact of the crisis takes a toll on the company.
+The financial impacts of the crashes and groundings have been hitting Boeing. The company said it would take at least a $7.3 billion hit associated with the prolonged grounding of the jet, in addition to the $100 million it set aside for the families and communities of victims.
+
+It has reported three straight quarterly losses since the second crash. Revenues and profits are likely to keep falling, and the costs connected with the crashes could keep growing.
+
+Boeing scored a major win with an order for 200 Max jets from the parent company of British Airways in June. But other airlines have suggested they may reconsider their orders for the Max, and a Saudi airline recently rescinded its commitment to buy 50 Max jets, placing an order with Airbus instead.
+
+Carriers like Southwest Airlines and American Airlines have cancelled thousands of flights, and some are demanding compensation from Boeing while their Maxes have been unable to fly.
+
+New problems with Max keep cropping up as Boeing works on a fix, and the timeline for the return of the Max has been pushed back several times.
+
+Boeing’s woes aren’t limited to the Max. It is also facing scrutiny over the production of the 787 Dreamliner in North Charleston, S.C. After a New York Times investigation into conditions in the factory, the executive in charge of the plant left Boeing, the F.A.A. stepped up its oversight there and the Justice Department expanded its investigation to include the factory.
+
+The 737 Max is a legacy of the past, the latest update of a decades-old airplane.
+The 737 was first developed in the 1960s, and has been updated several times over the decades, becoming the most popular commercial jet of all time.
+
+Boeing was considering building an all new airplane in 2011. But under intense pressure from its chief rival, Airbus, Boeing decided to update the 737 instead. That decision proved to be pivotal.
+
+Boeing designed the Max — a single-aisle jet that seats about 200 passengers — to fly farther and more efficiently than previous 737s. To do that, it equipped the Max with larger engines, which changed the plane’s aerodynamics and made it more likely to stall in some conditions.
+
+To offset the risk of a stall, Boeing developed MCAS, which pushes the plane’s nose down in some circumstances in order to stabilize the aircraft.
+
+But MCAS relied on data from just one of the plane’s two so-called angle of attack sensors that are mounted on the plane’s exterior to monitor its position in the sky.
+
+Until the two crashes, the Max was Boeing’s most successful plane ever.
+The Max was an instant hit. Boeing quickly took orders for more than 5,000 planes, securing billions of dollars worth of orders that would keep the company building the Max for years to come.
+
+For airlines, part of the appeal was that pilots who knew how to fly older versions of the 737 would be able to fly the Max without much additional training, which is time intensive and costly.
+
+Within months of entering commercial service in 2017, the Max became an integral part of the global aviation system. Before the second crash, the nearly 50 carriers that flew the Max were using it for an estimated 8,600 flights per week.
+
+If the Max is not cleared to fly soon, Boeing said it may have to halt production of the plane, a drastic step that would throw much of the American aviation industry into turmoil.

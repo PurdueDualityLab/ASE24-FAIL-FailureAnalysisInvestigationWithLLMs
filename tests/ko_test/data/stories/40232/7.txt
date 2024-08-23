@@ -1,0 +1,12 @@
+NASA investigates space station power loss
+02/12/2007
+UPI
+ln
+NASA scientists were testing systems affected by a weekend power failure aboard the International Space Station.
+National Aeronautics and Space Administration mission controllers in Houston said none of the station's three crew members was in any danger during the blackout.
+About 1 a.m. Sunday a power channels in the station's P4 solar array electrical system failed because of a glitch with a direct current switching unit, NASA said. That unit controls power distribution from the solar array to the battery systems and other hardware.
+Officials said the power outage resulted in a temporary loss of communications, and shut down some equipment, including a few science facilities and heating units and control moment gyroscope No. 2.
+NASA said the space station never lost orientation control but it operated most of the day with only two of its four gyros. Control moment gyroscope No. 3 previously had been powered down.
+Flight controllers restored power to nearly all affected systems and equipment by Monday morning. Officials said they were investigating what caused the glitch but said they believe it was an isolated event.
+Copyright 2007 U.P.I.
+All Rights Reserved

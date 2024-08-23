@@ -1,0 +1,27 @@
+Oracle looks to the Web to stir interest
+06/02/1999
+CBS MarketWatch
+ln
+REDWOOD SHORES, Calif. (CBS.MW) -- Oracle outlined on Wednesday its push into Internet operations, as the company looks to the Net to boost sluggish sales of its core databases.
+'We're entirely a Web-based company,' said Oracle Chief Executive Officer Larry Ellison. 'The only way we deliver technology is through our Web site.'
+Ellison said that about half Oracle's database sales go toward Internet sites and all of its applications are Web-based.
+'We're about to become the hottest company in town,' he said.
+He said Oracle will benefit from being an 'Internet age' powerhouse, just as IBM software powered the mainframes and Microsoft dominated the PC era.
+'Don't you think there will be a main supplier of software for this new information age?' Ellison added.
+In one announcement, Oracle (orcl) said Qwest (qwst) will be the preferredhosting and network infrastructure provider to Oracle's online hosting operation. Qwest has created a super-fast network, and Oracle is looking to offer its applications -- such as e-business programs -- to customers over the service.
+Tested waters
+A similar get-together hosted by IBM (ibm) three weeks ago added $18 billionto that company's market capitalization. And Hewlett-Packard (hwp) rolled out itse-business plans for analysts on Wednesday in New York City.
+'It'll definitely have an impact, but it's sort of like it's their time to make their push,' U.S. Bancorp Piper Jaffray analyst Steven Kahl said of Oracle's planned meeting. 'But it's one thing to market it and another thing to sell it.' (Some observers say investors' faith in Oracle's rise may be misplaced. )
+Oracle has sought to make hay on the Web since last fall, when the company launched the newest version of its flagship database, dubbing it Oracle 8i, with the 'i' standing for 'Internet.' Its marketing message continues to drum on the fact nine of the 10 largest Web sites run on Oracle software.
+Exaggeration?
+Shares of Oracle rose 11/16 to 26 3/16 Wednesday but are still down about 40 percent from the highs they hit earlier in the spring.
+Ellison said 'it's important for me to get the stock price higher and I will do that.'
+The database giant is set to report fiscal-fourth-quarter earnings June 15. Because Oracle is in its Securities and Exchange Commission-mandated 'quiet period' ahead of the release, company officials aren't expected to discuss Oracle's financial picture.
+Analysts expect Oracle to earn about 32 cents per share in its fiscal fourth quarter. Sales are expected to rise 18 percent to $2.84 billion, according to Lehman Brothers analyst Mike Stanek.
+But software license growth is expected to hit just 9 percent. The rate has slowed because of feared year 2000 glitches. Observers expect that many companies will make sure their existing software programs are ready for the new millennium before buying new software.
+Following Oracle's semiannual analysts day in mid-May, a number of Wall Street banks trimmed their ratings and outlooks for the company.
+Marshall Senk of BancBoston Robertson Stephens said that, in addition to the general slowdown in big-ticket software sales ahead of the new millennium, Oracle was also being hurt by turnover in its sales force and new competition from consulting companies.
+Ellison added that Oracle will streamline its operations using e-business practices. Over the next 18 months, he projected, Oracle will save $1 billion in operating expenses.
+Oracle gets about half its revenue from its huge consulting force (about 12,000 employees), but growth is expected to slow in the coming year. Consulting revenue is expected to rise 20 to 25 percent in the current fiscal year, compared with the 32 percent projected for the fiscal year that ended in May.
+1997-2002 MarketWatch.com, Inc. All rights reserved. See details at http://custom.marketwatch.com/custom/docs/useragreement.asp.
+Copyright 1999 MarketWatch.com Inc., All Rights Reserved

@@ -1,0 +1,40 @@
+New computer virus ravages hard drives
+05/20/2000
+The Dallas Morning News
+ln
+DALLAS _ The second major computer virus unleashed in two weeks was largely thwarted by precautionary measures Friday, but the attack brought renewed calls for the software industry to keep the disruptions from becoming even more commonplace.
+The industry needs to 'develop technologies that prevent people from being subject to malicious viruses in the first place,' said Michael Vatis, deputy assistant director of the FBI, which is investigating the origins of the program.
+'No amount of warning will ever eliminate the damage that can be caused by a virus, as long as systems can be so easily affected by these things,' said Vatis, who is chief of the National Infrastructure Protection Center.
+Dubbed 'NewLove,' the virus infected thousands of computers through Microsoft Corp.'s Outlook program, which handles electronic mail, calendar and address book functions.
+The virus disabled computers by overwriting almost all of the files on their hard-disk drives, and avoided detection by giving itself new names.
+Virus researchers at F-Secure Corp. said precisely because it was so damaging, infections seem to be far more limited than with the 'ILOVEYOU' virus that struck earlier this month.
+'It's so obvious you've been hit,' said Mikko Hypponen, F-Secure's manager of anti-virus research in Finland. 'With ILOVEYOU, you clicked on an attachment and you had no idea the worm was doing its work. With this one, boom!, the computer crashes and it won't reboot. It's too destructive and too obvious to get very far.'
+Indeed, the bigger effect of the virus appeared to be the burden to technical staffs of shifting once again to a higher state of readiness, as well as the disruption to organizations that had their e-mail systems turned off to avoid possible infections.
+Technology experts said that those who are responsible for managing e-mail systems may need to get used to operating at a level of alert that is always high.
+'This is now the course of duty,' said Douglas F. Aldrich, managing director of the global e-services practice in the Dallas office of A.T. Kearney, the managing consulting firm that is a unit of Electronic Data Systems Corp.
+Aldrich dismissed suggestions that businesses might curb their deployment of technology, recalling how glitches in airline computer reservations systems in the early 1980s led some at the time to call for going back to writing out tickets by hand.
+'There is no going back,' he said. 'Once you're automated and integrated, unraveling it won't get you anywhere.'
+John Dodge, editor of eWeek magazine, which covers e-commerce, said: 'E-mail is a way of life. It's like the telephone. It's indispensable.'
+Still, firewalls intended to block computer intrusions need to become more pro-active, Aldrich said, looking for virus-like patterns in e-mail traffic. Artificial intelligence software tools might also help, perhaps acting as a virtual post office to check mail.
+'There's a great dot.com opportunity for somebody,' he said.
+The cost and effort of maintaining higher levels of security could also create an opportunity for outsourcing firms to take on more work, said Jane Winn, a professor at Southern Methodist University who teaches a course on the law of electronic commerce.
+'People have migrated too much value onto the Internet, and not adequately analyzed the threat,' Winn said.
+But Leon Kappelman, a computer sciences professor at the University of North Texas, said 'outsourcing doesn't solve the problem. It just gives you people who are good at dealing with it.'
+He said lax security is simply a symptom of the poor quality of the software that the industry produces. 'And the vendor doesn't take responsibility, largely because the consumer doesn't ask him to,' Kappelman said.
+Over the past two weeks, much of the blame for the proliferation of viruses has fallen on the software industry in general and on Microsoft in particular.
+Part of the problem is that Outlook is simply too popular, said David Woodall, chief information officer at CIO magazine, which covers issues of interest to managers of corporate computer networks.
+'It's like any virus in the biological world,' said Woodall, who uses Lotus Notes for e-mail. 'If everyone had the same genetic makeup, any one virus could wipe out the human race.'
+David Jaffe, a Microsoft product manager, said viruses can occur on any type of software platform. But as the world's largest software maker, the Redmond, Wash.-based company was bound to be a target for malicious virus writers, he said.
+Microsoft has also been accused of being too lax about security. The company has said a security patch for Outlook will be available next week. Jaffe said it is aimed at making it much more difficult to automatically run any program through e-mail.
+And experts said the responsibility can't always fall on the software industry.
+Matthew Yarbrough, a former U.S. attorney who led the cybercrimes task force in Dallas, said that on the Internet, 'every single person is a front line of defense.'
+Yarbrough, now special Internet counsel in the Dallas law office of Vinson & Elkins, said the outbreak of viruses is causing a cultural change that is positive, making people more wary of the dangers that are inherent in an open computer network.
+Employers can help by creating more stringent policies for the use of electronic mail, said Dan Stamp, chairman of Priority Management Systems Inc. in Vancouver, B.C., a management training and consulting business.
+Security would be easier to manage if computer users were more selective about how they distribute e-mail, and if they sent shorter, simpler messages, he said.
+As for law-enforcement agencies, Vatis said they sometimes can get a jump on viruses before they are widely distributed.
+On Monday, a federal grand jury in Houston indicted a local man for allegedly crafting a virus that would capture a user's computer modem and repeatedly dial 911. Federal investigators were able to crack the case before the virus got very far.
+Dallas Morning News correspondents Jim Landers in Washington and Doug Bedell in Dallas contributed to this report.
+(c) 2000, The Dallas Morning News.
+Visit The Dallas Morning News on the World Wide Web at http://www.dallasnews.com/
+Copyright 2000 Knight Ridder/Tribune News Service
+Knight Ridder/Tribune News Service

@@ -1,0 +1,16 @@
+FAA halts installation of new air control software
+10/24/2000
+United Press International
+ln
+The installation of software to upgrade air traffic control systems was suspended by the Federal Aviation Administration while technicians attempt to work out bugs that twice caused a failure in the radar systems governing air travel in the western United States.
+The glitches caused delays for thousands of flights centered around Los Angeles Oct. 19, and in the San Francisco Bay area on Monday. Travel was slowed to destinations across the United States, and flights were delayed throughout Mexico as well.
+The problems, which occurred after software upgrades were installed at the air traffic control centers in Palmdale and Fremont, Calif., did not lead to any accidents. But takeoffs and landings were delayed until radar systems were brought back online.
+'We placed a moratorium on installing new software, including loading or testing,' said Jerry Snyder, the FAA regional spokesman for California and the Southwest.
+Computer technicians will be dispatched across the nation in coming weeks to check the software and hardware in the control centers and the installation procedures that were used.
+Snyder said that the problems in Palmdale and Fremont appeared to be unrelated incidents: The Fremont problem was related to software the testing while the Palmdale incident involved an actual error in the software language.
+'We'll be looking at the loading procedures, as well as the software language itself,' Snyder said.
+Snyder said that each of the 21 FAA centers has software customized to its particular geographic and equipment requirements. Upgrades that are already installed in 17 centers and are working normally would not be taken out.
+The National Air Traffic Controllers Association said late Monday that the problems were a safety issue that needed to be corrected before the upcoming Thanksgiving holiday.
+'Faulty equipment was the cause of this situation, and we're concerned about it,' association vice president Kevin McGrath said. 'We're coming up on Thanksgiving and the busiest season for air travel. We don't want to scare anyone, but the public has a right to know about these problems.'
+Snyder said there was no timeframe for the inspections, however the FAA did not want to attempt any major overhauls or changes with the holiday season coming soon.
+Copyright 2000 U.P.I.

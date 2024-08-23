@@ -1,0 +1,19 @@
+Oracle share prices plunge on expected profit warning
+05/14/1999
+The Ottawa Citizen
+ln
+REDWOOD CITY, California -- Shares of Oracle Corp., the No. 1 maker of database software, fell as much as 9.4 per cent amid speculation that the company will warn analysts that their earnings forecasts are too high.
+Demand for Oracle's database software ''could shrink as a percentage of the overall business,'' reducing customers needs for Oracle's services and other software, Morgan Stanley Dean Witter analyst Charles Phillips said in a research report. Mr. Phillips reduced his earnings per share estimate in the quarter ending in May to 30 cents from 34 cents. It was expected to earn 33 cents a share, the average estimate from First Call Corp. Analysts had estimates ranging from 30 cents to 35 cents.
+Oracle fell $2 5/16 to $23 U.S. in trading of 57.3 million shares. CNBC reported that Oracle may lower its earnings forecast because of a ''big product mix shift,'' citing unnamed sources. Oracle scheduled a meeting with analysts late yesterday afternoon. Oracle wasn't immediately available to comment.
+While many technology stocks are rising to records, Oracle, led by chairman Larry Ellison, has dropped 18 per cent this year. It has been suffering from a slump in the market for applications software and concerns about slowing database program sales caused by corporations delaying software purchases to fix their year 2000 computer glitches.
+Chief financial officer Jeff Henley, while cautious about a sales slowdown caused by Y2K spending, said, ''there's nothing in the market that is telling us this is a rapidly declining or slowing business.''
+''We're not concerned overall,'' he said in an interview. ''We think our database business will continue to be healthy, but we get surprised once in a while.''
+Morgan Stanley's Mr. Phillips, who rates the stock ''outperform,'' also trimmed his fourth-quarter revenue estimate to $2.73 billion from $2.83 billion. ''Chuck expects a resulting shift in the mix of revenue to continue for a couple of quarters,'' the note said.
+Application sales have been an important measurement of the company's health because that software area has grown faster than database sales. Applications software helps companies automate functions such as personnel, accounting and inventory. Database software, which Oracle dominates, helps companies store and manage huge libraries of information and computer data.
+Oracle is taking advantage of the demand for Internet-based products by touting its Oracle 8i database. Only a Web browser is required to operate the database so it is less bulky than other software.
+Corporations, however, are reluctant to buy new database software licenses until 2000, said Brian Eisenbarth, an analyst at Collins & Co.
+''Oracle has been concentrating on the services side of its business. The incremental revenue from that stream isn't like placing a new license,'' said Mr. Eisenbarth, who rates the stock ''buy.'' ''Until they see substantial new license growth their numbers aren't going to be like what we've seen in the past.''
+Oracle's shares plunged 23 per cent on March 12 after it said fiscal third- quarter revenue lagged estimates, prompting analysts to slash forecasts. It blamed the shortfall on its failure to close some applications-software sales during the quarter ended Feb. 28 and a delay in purchases by corporations that are instead spending money on preventing the Y2K computer bug.
+Copyright 1999 CanWest Interactive, a division of
+CanWest Global Communications Corp.
+All Rights Reserved

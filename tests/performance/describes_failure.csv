@@ -1,0 +1,2 @@
+Classify: Accuracy (Percentage),Classify: Accuracy (Fraction),Classify: False Positive (Percentage),Classify: False Positive (Fraction),Classify: False Negative (Percentage),Classify: False Negative (Fraction),Classify: Wrong (Percentage),Classify: Wrong (Fraction),Classify: Total Evaluated,Classify: False Positive Rate (Percentage),Classify: False Negative Rate (Percentage)
+85.53%,65/76,14.47%,11/76,0.00%,0/76,14.47%,11/76,76,42.31%,0.00%

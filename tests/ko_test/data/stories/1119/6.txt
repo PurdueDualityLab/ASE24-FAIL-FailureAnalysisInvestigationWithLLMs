@@ -1,0 +1,28 @@
+Customers spaced out by telecom failure
+01/22/1994
+The Financial Post (Toronto, Canada)
+ln
+Technicians at Telesat Canada and Spar Aerospace Ltd. scrambled frantically Friday to revive the crippled Anik E-2 satellite after the second mysterious malfunction to throw broadcasters into chaos in as many days.
+By late Friday, Telesat still could not explain the cause of the twin mishaps, which, it said in a statement, was ''totally outside the experience of Telesat and other satellite operators.'' Larry Boisvert, Telesat's president, suggested the blame may lie with a huge electromagnetic storm that took place in space near the satellites about the time that the problems began.
+Telesat said both the E-2 and E-1 satellites suffered a failure in what is known as the momentum wheel control system, which stabilizes them in space. The E-1 was fixed after a half-day malfunction Thursday, and only hours later the E-2 also went down.
+It remained crippled by late Friday, and customers were shifted to the U.S. Hughes Galaxy 6 and to Telesat's restored E-1.
+The back-up procedure that worked with E-1 did not bring the E-2 back to life, and Telesat could not estimate when the $300-million E-2 might be restored, if ever.
+CTV Television Network Ltd. of Toronto, among the first disrupted with the E-1, was at one point down to one transponder, and portions of the Shirley show did not reach some regional affiliates Thursday, said Harold Wesley, director, on-air presentation.
+''We may have to offer a few (advertising) make-goods but better this than two weeks from now when we're in the Olympics.'' CTV traffic is now on the Galaxy 6, he said.
+A Telesat emergency team worked overnight Thursday as the Canadian Broadcasting Corp. and Canadian Satellite Communications Inc. of Mississauga, Ont., had their transmissions shifted to the E-1.
+CBC's main channel and several specialty channels, normally on E-2, were put back on E-1 Friday but experienced only small glitches. CBC Newsworld was down for several hours Thursday except for some Toronto cable outlets.
+Cancom carried eight television channels on E-2 that service 2,300 cable companies and 32,000 rural ''direct to home'' subscribers. Service was down for 18 hours Thursday and Friday, including to 1,500 ''satellite reliant'' communities, said Susan Cornell, vice-president.
+Shifting isn't trivial since earth stations have to be reoriented.
+Neither satellite is insured while in orbit, 36,000 kilometres above the equator, raising questions about who could be liable for the cost of the E-2 should it not recover.
+Telesat, which has been losing money for two years and didn't expect to break even until 1995, has already paid the prime contractor, Spar, which delivered the E-2 in 1991. The satellites went through one year of testing before delivery, a Spar spokeswoman said. Spar stock fell 1/8 to $19 1/8 Friday on the Toronto Stock Exchange.
+Spar owns a small chunk of Telesat, which is primarily owned by BCE Inc. and the member telephone companies of the Stentor alliance.
+Stentor encountered only minimal impact on telecommunications traffic carried on the satellites, Stentor spokesman John Morris said.
+The satellites are supposed to last 13.5 years, after which they run out of fuel.
+Telesat makes performance incentive payments to Spar over the life of the satellites.
+Telesat is not liable for lost advertising time; its customers could only get their money back on the rates they pay.
+Telesat had gambled on insuring the satellites only on launch, not while in orbit, since the odds of failure on one were only 1%, said Fred Bartlett, Telesat vice-president of finance. Over the life of the satellite, it would have cost $75 million to insure one, he said.
+Because the satellites are early in their life, Telesat has been losing money the past few years. It lost $26 million on revenue of $196 million in 1992, and 1993 ''will definitely be another year of losses,'' Bartlett said.
+One Telesat user suggested the cause for the twin failure could be staffing, citing the fact Telesat last year trimmed its workforce of 820 by 40% to 500.
+Bartlett dismissed that.
+Bartlett also discounted speculation of sabotage. ''All commands sent up are encrypted. No such command could stop the momentum wheels.''
+Copyright 1994 Financial Post Ltd.

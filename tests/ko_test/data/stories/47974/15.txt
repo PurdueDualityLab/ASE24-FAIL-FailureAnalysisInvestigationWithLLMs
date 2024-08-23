@@ -1,0 +1,17 @@
+Big switch to digital TV looms for viewers
+05/28/2009
+Chester Chronicle
+ln
+EVERYONE in the Granada TV region must ensure their TV is ready to receive a digital signal from this autumn - but don't expect the technology to be glitch-free.
+From November 4, only digital TVs or those with a set-top box will be able to receive the television signal for terrestrial TV.
+A BBC fact-sheet reveals digital TV 'gives better quality pictures and sound than analogue TV and does not suffer from the same kinds of problems.
+'You will not get a fuzzy or 'snowy' picture, 'ghosting', hiss or crackling, for example. However, this does not mean digital reception is problem-free.'
+The BBC says the picture can break up, freeze or pixelate. Many reception difficulties are the result of a weak signal that the digital receiver cannot decode.
+However, the signal strength will be increased after switchover. This cannot happen at the moment as it could interfere with the analogue signal.
+Other potential issues are:  picture and sound out of synchronisation  no picture or sound  interactive features (via red button) not working  channels missing Any digital r eceiver - set-top box or digital TV - has a micro-processor and software at its heart and, like a computer, it can suffer from occasional glitches. Often, simply restarting or 'rebooting' is all that is needed.
+To reboot the receiver, unplug it from the mains and leave it unplugged for about 10 minutes. Plug the receiver back into the power supply and this will reboot the software.
+If channels or features are still missing, the next step to try is to rescan to find all the channels.
+On-screen messages about the digital switchover are now appearing on analogue TV channels in the North West.
+In six months' time, the Winter Hill transmitter group, which serves the Granada TV region, will start switching to digital television.
+Copyright 2009 MGN Limited
+All Rights Reserved

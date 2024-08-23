@@ -1,0 +1,7 @@
+DBS-POSB ATM disruptions caused by systems outage: IBM
+07/06/2010
+Channel NewsAsia
+ln
+SINGAPORE: Monday's islandwide DBS-POSB ATM disruptions were the result of a systems outage said the bank's vendor IBM. Replying to queries from Channel News Asia, IBM said it worked with DBS immediately to restore services. IBM added that it is committed to supporting DBS in continuing to provide high quality services to its customers. Meanwhile a DBS spokesman told Channel News Asia that it is reviewing and revising its resilience and redundancy plans. More than 1,000 ATM machines were down on Monday from as early as 3am following the technical glitch. In its statement on Tuesday, DBS said that as of 10am on Monday, all branch and ATM had resumed normal services. DBS said it is now conducting a full scale investigation. DBS group chief executive, Piyush Gupta had on Monday night, ruled out any act of sabotage in this incident.
+Copyright 2010 MCN International Pte Ltd.
+All Rights Reserved

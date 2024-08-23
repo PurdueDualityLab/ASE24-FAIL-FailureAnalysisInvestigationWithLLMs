@@ -1,0 +1,44 @@
+Less Is Better;'Minimize' the amount of data you keep, and you reduce the chances that lost or stolen information can come back to haunt you. By larry dignan glitches galore
+05/04/2005
+Baseline
+ln
+Polo Ralph Lauren loses the personal information of 180,000 HSBC North America customers. DSW Shoe Warehouse discovers credit card and check data on 1.4 million transactions has been stolen. Bank of America loses backup tapes with the personal information of 1.2 million federal employees.
+Why are these security breaches happening?
+The answers generally offered by the leaky keepers of data on customers all sound familiar-software glitches, lax security procedures and criminal activity.
+Another reason, never offered: Companies are data pack rats, collecting customer information for years without knowing what data is lying around or whether it even holds business value, say security experts such as Alan Brill, senior managing director at Kroll Ontrack.
+The fix: Go on a data diet. Reduce the amount of data you keep around, a process called 'data minimization.'
+Such minimization won't end the theft of customer information, but it will limit what data there is to steal (or lose).
+Companies often learn the hard way. Polo Ralph Lauren spokeswoman Alex Cohan says the company 'had more data on hand than we needed in the point-of-sale system.' The company wouldn't comment on what data was stored, but credit card magnetic strips contain items such as account numbers, three-digit verification codes and expiration dates.
+Now that Polo Ralph Lauren's system, provided by Micros Systems' Datavantage unit, has been patched, Cohan says only information needed to complete the sale-namely, credit card number and authorization-is collected.
+'No one asks whether a company really needs to keep all this information lying around,' Brill says. 'Is there a reasonable business reason to keep it?'
+According to Brill, companies need to go on a 'data minimization' quest to cut risks. Go through all your processes and purge data that doesn't serve a business purpose. In a data-minimized world, a retailer, for instance, wouldn't keep credit card numbers on transactions beyond its return policy. Social Security numbers wouldn't be collected at all. Addresses for former customers could be purged after, say, three years. Temporary workers and offshore contractors would only see the data necessary to do a task.
+So how did companies get in this pickle?
+David Farber, a computer science professor at Carnegie Mellon University, says companies got into it slowly with hopes of marketing better or selling their distribution lists. After all, the penalties for collecting driver's license and Social Security numbers, or any other nugget of customer information, were nil before identity theft became publicized.
+'It became easier to keep information than throw it away,' Farber says.
+Jim Stickley, chief technology officer at TraceSecurity, knows the drill. His credit union, California Coast Credit Union, gave his Social Security number to an unnamed third party marketing firm that lost it.
+'It's one thing if the bank needs my Social Security number,' Stickley says. 'But there's no marketing justification to giving it out.'
+So if you're a data pack rat-and Kroll couldn't identify any companies that aren't-where do you start?
+According to Stickley, the first step is a data audit. Survey where sensitive personal data is stored; rank it based on whether it's needed or not, and then consider how long the information needs to be stored. Classify public information and personal identifiers and separate them. Find out the security practices of suppliers and partners, and identify points where sensitive information travels via laptops or backup tapes.
+And don't forget the decades-old systems that may be hoarding information. Any system-including old paper files-that isn't terminated is capable of being accessed.
+'It's a nightmare because few companies have destroyed anything,' Stickley says. 'It used to be all that information was paper-based in some catacomb somewhere. Now it's on a computer.'
+David Sun, a consultant at security firm Vance International, says the data audit is a blueprint for a security strategy, but is often ignored. 'Most [companies] don't spend the money up front to figure out what not to collect,' he says. 'In the information age, information is power, but it's also a liability if not managed well.'
+With the audit complete, the next goal is secure the data and restrict sensitive information through encryption, access privileges and physical security. Visa and MasterCard are requiring merchants in their networks to comply with security practices such as protecting stored data, encrypting cardholder data, restricting physical and data access, and tracking and monitoring all access to information. Deadline: June 30.
+Then, the real work begins. Slowly eliminate data. Farber says the task will take years amid a lack of resources and pushback from data hoarders.
+According to Farber, a serious push to minimize data by corporate America is likely to require an act of Congress.
+Indeed, Sen. Dianne Feinstein (D-Calif.) proposed a data privacy bill on Jan. 24, along with one modeled after a California state law that would require companies nationally to disclose when customer data has been breached. Neither bill has passed, but the Senate Judiciary Committee has held hearings on protecting customer information.
+David Prinzing, director of network services at Raley's, a California supermarket chain, agrees regulation would move data minimization along. He has to deal with the California disclosure law, Visa and MasterCard's security requirements and the Health Insurance Portability and Accountability Act, but doesn't see much incentive for companies to minimize the data they keep.
+'It's a good idea and there probably are numbers we don't need,' Prinzing says. 'But it would take a substantial project to figure out what data could be eliminated and change databases.'
+Prinzing predicts that data minimization could be gradually phased in as data warehouses are replaced. But unless the concept piggybacks on another big project, the returns couldn't be justified.
+Deirdre Woods, chief information officer at the University of Pennsylvania's Wharton School, says the biggest return from data minimization is keeping your organization out of the press. 'That's really the goal,' she says.
+According to Woods, the University of Pennsylvania about three years ago made a big push to cut the use of Social Security numbers it absorbs from testing organizations, current and prospective students, and alumni. The university centralized the storage of sensitive data, restricted physical access to authorized personnel, and gave students and alumni unique identifiers that wouldn't reveal a treasure trove of additional information if stolen.
+'Data minimization is not a blinding revelation,' Brill maintains. 'If a CIO doesn't look at it and come up with a plan, someone else will.'
+While identity theft reports hit almost daily, software glitches also spill a lot of confidential information. Today, the odds that personal data will be unwittingly exposed or stolen because of a glitch have increased significantly, says Ranjit Jhala, a professor of computer science at the University of California, San Diego. Jhala says software vulnerabilities are more widely reported because there are more incidents and California law requires that consumers be notified when their data is lost.
+Here are some recent glitches. Dates reflect when the defects/thefts were initially reported in the press.
+In addition, an Edina, Minn. man received the 1099 tax forms of 73 individuals who held escrow accounts through Wachovia. Social Security numbers and account numbers were in the statements, which were mailed last spring. The bank attributed the mix-up to a clerk who incorrectly entered data into the escrow account system.
+Elizabeth Bennett
+1. Determine what information you collect. Audit all sources and forms of data you gather. Then make sure there's a business reason for each.
+2. Protect sensitive data. Determine what employee or customer information you absolutely need; then, enhance the security around the most important, critical information.
+3. Prepare for the long haul. You can't flip a switch and instantly stop packing away data. Getting more selective will take years.
+4. Get thick skin. Debates on what to minimize will be fierce. What you view as a liability is another department's future revenue generator.
+Copyright 2005 Ziff Davis Media Inc.
+All Rights Reserved

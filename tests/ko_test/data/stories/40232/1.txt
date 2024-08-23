@@ -1,0 +1,8 @@
+Station Recovers From Power Loss
+02/14/2007
+Space Daily
+ln
+Mission control teams are working to assess systems affected by a power loss aboard the International Space Station early Sunday morning. The station's three crew members were not in any danger, but it did turn an off-duty day into a full work shift. About 1 a.m. EST, one of the power channels of the P4 solar array electrical system went down because of a glitch with a device known as a direct current switching unit. It controls power distribution from the solar array to the battery systems and other hardware.
+The glitch resulted in a temporary loss of communications, and shut down some equipment, including a few science facilities and heating units and control moment gyroscope #2. The station never lost orientation control, but it operated most of the day with two of four gyros. Control moment gyroscope #3 previously had been powered down.
+Flight controllers restored power to nearly all affected systems and equipment by Monday morning. They are still investigating what caused the glitch, but they believe it was an isolated event.
+Copyright 2007 Space Daily, Distributed by United Press International

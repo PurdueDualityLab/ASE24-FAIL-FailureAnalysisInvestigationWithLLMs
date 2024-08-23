@@ -1,0 +1,16 @@
+Failure of Backup Servers Causes TSE's Trading Suspension
+02/02/2012
+Jiji Press Ticker Service
+ln
+The suspension of trading in some shares listed on the Tokyo Stock Exchange Thursday occurred because backup servers did not work normally after one server failed, the operator of the biggest Japanese stock exchange said.
+According to Tokyo Stock Exchange Inc., an initial glitch occurred around 1:30 a.m. (4:30 p.m. Wednesday GMT) at one of servers on its market information distribution system, which send information such as stock prices to information venders and brokerage firms.
+The TSE confirmed two backup servers were working about one hour later, but it was proved later that they were not working and information covered by the set of servers cannot be sent.
+As a result, trading of 241 issues on the TSE and all 74 issues on the Sapporo Stock Exchange was suspended throughout the morning session.
+Trading in the rest of issues covered by other seven sets of servers was not affected by the glitch.
+The cause of the glitch is to be investigated, and the troubled servers will be replaced, the TSE said. Trading will take place as usual Friday, it said.
+Similar glitches have occurred at a rate of once in about six months on server sets on the system since the exchange started operating it in January 2010, the TSE said.
+But in such cases, switching to backup servers went successfully and prevented trading suspension, it said.
+At a press conference, Yoshinori Suzuki, senior managing director and chief information officer at TSE, said he has an impression that Thursday's glitch was caused by combined factors. But he ruled out the possibility of a cyberattack.
+'We apologize to investors and market players for the inconvenience caused by the glitch,' Atsushi Saito, president and chief executive of the company, said in a statement.
+Copyright 2012 Jiji Press Ltd.
+All Rights Reserved

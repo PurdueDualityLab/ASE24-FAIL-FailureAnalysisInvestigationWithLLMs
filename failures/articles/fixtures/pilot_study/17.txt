@@ -1,0 +1,49 @@
+Nest Thermostat Glitch Leaves Users in the Cold
+
+The Nest Learning Thermostat is dead to me, literally. Last week, my once-beloved “smart” thermostat suffered from a mysterious software bug that drained its battery and sent our home into a chill in the middle of the night.
+
+Although I had set the thermostat to 70 degrees overnight, my wife and I were woken by a crying baby at 4 a.m. The thermometer in his room read 64 degrees, and the Nest was off.
+
+This didn’t happen to just me. The problems with the much-hyped thermostat, which allows users to monitor and adjust their thermostats on their smartphones (Google purchased Nest Labs for $3.2 billion in 2014), affected an untold number of customers when the device went haywire across America.
+
+Users vented on the company’s online forums and on social media. The glitch also coincided with plunging temperatures throughout much of the country.
+
+“Woke up to a dead nest and a very cold house,” a commenter wrote on the company’s forum. “Not good when you have a baby sleeping!”
+
+“Mine is offline,” another customer tweeted. “Not enough battery (?) I’m traveling. Called nest. Known problem. No resolution. #nest #fail.”
+
+Admittedly, this may strike some as a quintessential first-world problem: a thermostat that can’t connect to the web. But for some users, it posed genuine issues.
+
+For those who are elderly or ill, or who have babies, a freezing house can have dire health consequences. Moreover, homeowners who installed a Nest in a weekend home, or who were on vacation, were also concerned that their pipes could freeze and burst, causing major damage.
+
+Matt Rogers, the co-founder and vice president for engineering at Nest, blamed a software update from December. “We had a bug that was introduced in the software update that didn’t show up for about two weeks,” Mr. Rogers said apologetically. In January, devices went offline, and “that’s when things started to heat up.”
+
+Or, in my case, not heat up.
+
+Nest said the issue had since been fixed for 99.5 percent of its customers. And to be fair, the company’s tech support has been working hard to help users who are affected. But the fix can require customers to follow a nine-step procedure to manually restart the thermostat, which involves detaching the device from the wall, charging it with a USB cable for 15 minutes, reattaching it to the wall, pressing a series of buttons, charging it again for at least an hour, and then. …
+
+I know, you’re not the only one confused. (Nest does offer to send an electrician to your home if you can’t figure it out on your own.)
+
+But this isn’t just about the Nest. This points to a larger problem with so-called smart devices that we are inviting into our lives: Small glitches can cause huge problems.
+
+We’ve seen this before, with wireless fobs for keyless cars. They are supposed to make life easier by letting us do away with car keys, but they also make it easier for thieves to break in (by using a simple radio amplifier).
+
+It also happened recently with Fitbit, the maker of wearable activity trackers. The company was hit with a class-action lawsuit in San Francisco asserting that the wristbands failed to “consistently and accurately record wearers’ heart rates,” which is vital for those with certain medical conditions.
+
+I’ve heard dozens of other stories from people with connected homes who were locked out by malfunctioning door touch pads, or about newfangled security alarms going off in the middle of the night because a bug (one with wings, not a digital one) flew by.
+
+Making matters worse is the lack of recourse. Buried deep in Nest’s 8,000-word service agreement is a section called “Disputes and Arbitration,” which prohibits customers from suing the company or joining a class-action suit. Instead, disputes are settled through arbitration.
+
+As a 2015 investigative series in The New York Times illustrated, the use of arbitration clauses is becoming widespread.
+
+Nest’s terms of service “are inherently unfair to consumers,” said Sonia K. Gill, a lawyer for civil justice and consumer protection at Public Citizen, a nonprofit based in Washington, D.C. The terms, she said, limit damages and specify that customers need to travel to San Francisco for arbitration. “Who can afford that?” she said.
+
+Moreover, Ms. Gill noted, you have to agree to keep the terms of the arbitration confidential, meaning you can’t warn other consumers about potential flaws.
+
+So, if a pipe bursts in your home because the thermostat stopped working, or if your grandmother falls ill because the heat shuts off in the middle of the night and she doesn’t have a micro USB cable, you can’t sue.
+
+After last week’s freeze, I’m thinking of ditching my Nest. I haven’t decided on a replacement yet, but I may take a cue from Kent Goldman, a San Francisco resident I follow on Twitter who had a similar issue with his Nest in November.
+
+After being put on hold with Nest’s technical support for over an hour, Mr. Goldman went to his nearest Ace Hardware store (while still on hold) and picked up an old-fashioned mechanical thermostat for about $25.
+
+Sure, it doesn’t let you change the temperature through your smartphone. And it won’t email you monthly usage reports. But it isn’t vulnerable to bad software, and it doesn’t require a Wi-Fi connection.

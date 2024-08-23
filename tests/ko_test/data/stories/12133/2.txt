@@ -1,0 +1,19 @@
+First day back to work bug-free for Germany
+01/03/2000
+Associated Press Worldstream
+ln
+It seemed like a Y2K fantasy glitch.
+A journalist in Cologne checked his on-line banking account New Year's Day and found himself Germany's newest billionaire. An unexplained deposit of dlrs 1.56 billion (3 billion marks) beamed out at him from his computer screen.
+The software problem caused a momentary stir, but it was one of only a few blips in an otherwise flawless German transition into the new millennium as the country's banks and businesses headed back to work Monday.
+Among minor problems: Post office workers couldn't use their electronic cafeteria cards in Frankfurt and automated teller machines were drained of printer paper after curious customers made a weekend dash to check on their account balances.
+The nation's hospitals reported only 11 minor snafus that posed no threat to patient well-being, the Interior Ministry reported Monday.
+Even the billion-dollar glitch in Cologne turned out to be small change. It was not a true Y2K breakdown at all, according to Ulricke Kohl, a spokeswoman for Stadt Sparkasse Cologne.
+Instead it was date reading error in the take-home software and potentially afflicted any year's turnover not just 1999 to 2000, but 1998 to 1999 and so on. And it tripped up only customers who had ignored the bank's warning to upgrade with newly distributed software.
+''The problem showed up only on their computer screen. None of the actual account balances were ever altered,'' Kohl said, adding that the bank's computer systems were Y2K compliant.
+The European Central Bank also reported that all was functioning smoothly Monday, and investors upbeat about a bug-free transition into the new millennium pushed shares higher on the Frankfurt stock exchange.
+The Dax index of the top 30 stocks rose 2.8 percent to a record in the first hour, before giving back half those gains by midday.
+Even small businesses, thought to be largely unprepared for possible year 2000 glitches, reported no problems, according to local chambers of commerce.
+Still, commerce officials warned that gauging the extent of the problem is largely up to businesses coming forward with their problems. Glitches could still come to light over the next two weeks, they added.
+(hg-cb)
+Copyright 2000 Associated Press
+All Rights Reserved

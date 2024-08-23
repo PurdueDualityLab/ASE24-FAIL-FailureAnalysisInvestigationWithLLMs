@@ -1,0 +1,26 @@
+Downtime nightmare could cost DBS dearly; Banks strive to keep downtime below one hour a year; DBS braces for backlash
+07/07/2010
+The Business Times Singapore
+ln
+(SINGAPORE) As the inquest into the breakdown of DBS Bank's network continues, it appears that the bank's showing fell short of the reliability benchmarks laid out by the Monetary Authority of Singapore (MAS).
+This, in turn, could invoke a regulatory backlash as banks cannot hide behind outsourcing their operations.
+As a key economic pillar, banks are expected to keep their services up and running all the time. MAS has emphasised this point in its Internet banking and technology risk management (IBTRM) guidelines, saying users expect online banking services to be accessible '24 hours every day of the year' and this is 'tantamount to near-zero system downtime'.
+The guidelines then add: 'Banks, their service providers and vendors who provide Internet banking services need to ensure they have ample resources and capacity in terms of hardware, software and other operating capabilities to deliver consistently reliable service.'
+For banks, this expectation typically translates to so-called 99.99 per cent systems availability or better, or less than 53 minutes of downtime per year. Some strive for 99.999 per cent availability or a downtime of just 5 minutes 15 seconds a year. The most exacting standards in the technology sector are placed on military-grade systems with the threshold for failure being under 32 seconds annually, or an uptime of 99.9999 per cent.
+On Monday, however, DBS suffered its most severe systems failure to date. Besides crippling its Internet banking systems, technical glitches disrupted other consumer banking services including automated teller machines, credit card and Nets payments, for as long as seven hours.
+'While there may be multiple reasons for an outage, the redundancies built into the bank's systems should act as a first-level buffer before the back-up systems kick in. So it is likely there was some violation of QoS (quality of service) agreements between the bank and its service provider,' said Shawn Yip, an Asia-Pacific market analyst with research firm IDC Financial Insights.
+'For mission-critical systems, we would expect system restoration to be within four hours, 95 per cent of the time,' added Jim Longwood, research vice-president of IT sourcing at analyst firm Gartner.
+Banks and major corporations tend to factor in so-called redundancies when designing their technology systems. This allows the computing tasks that are handled by a failed component such as a server to be spread to other working ones before a back-up machine can be fired up.
+Although DBS did have such contingencies in place, these measures failed to kick in.
+'The bank takes responsibility for yesterday's (Monday's) incident and is sorry for the inconvenience caused,' DBS chief executive Piyush Gupta said in an e-mail response to BT yesterday.
+Singapore's largest bank farmed out the bulk of its application development and technology infrastructure operations to IBM in 2002. The 10-year outsourcing deal is worth some $1.2 billion - one of the biggest outsourcing contracts in Asia at that time. Under the pact, which expires in 2012, some 500 IT personnel from the bank were transferred to IBM but some were rehired by DBS a few years later.
+Such outsourcing arrangements will not absolve the bank of blame, according to MAS. 'A bank's responsibilities and accountabilities are not diminished or relieved by outsourcing its operations to third parties or joint-venture partners,' its IBTRM guidelines clearly state. MAS has previously said it does not rule out 'supervisory action' if banks fail to comply with this set of rules.
+When contacted, DBS and IBM said they are still in the midst of a 'full-scale investigation'. According to the bank's website, systems maintenance was carried out on its Internet and mobile banking systems just 24 hours before the glitch was uncovered, but it is unclear if the two incidents are related.
+'IBM and DBS worked closely together to restore services as soon as the outage occurred,' said Donald Hanson, the IBM account manager for DBS. He declined to reveal further information, citing contractual confidentiality.
+'Ultimately, there were many reasons for the glitch, and we think that several parties, not just one, would have been factors to the incident,' said IDC's Mr Yip.
+Penalties could be meted out to the technology provider if the firm is found to be responsible for the disruption, added Gartner's Mr Longwood.
+'A seven-hour outage of a mission-critical system during normal business hours - say, 8am to 6pm local time - would usually invoke penalty clauses to come into effect, with a 10-20 per cent reduction in the monthly fees for the affected towers of service,' he explained.
+Apart from financial penalties, service drivers would be driven by the hit their market image could take, he added.
+To help handle the unexpected, United Overseas Bank and OCBC Bank both said they conduct regular disaster recovery exercises and they also frequently review their technology systems and procedures.
+Copyright 2010 Singapore Press Holdings Limited
+All Rights Reserved

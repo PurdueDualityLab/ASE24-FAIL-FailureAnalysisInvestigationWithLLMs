@@ -1,0 +1,22 @@
+Olympic success hangs on computer system
+12/20/2001
+The Associated Press State & Local Wire
+ln
+At mission control for the $300 million Olympic computer system, technicians scrambled Thursday to fix problems set like a trap for them during full-scale test for the 2002 Winter Games.
+Worst-case scenarios were thrown at the technology staffers, including power outages at Olympic venues, equipment failures and lost video feeds.
+The computer system, tied by 32,000 miles of fiber-optic cable, was turned on Monday for five days of simulated Olympic competition. Its main mission is to instantly report the times and scores of athletes on TV screens.
+But that is only one of hundreds of tasks the system will have to perform flawlessly and without delay for the Salt Lake Games to succeed.
+It also must juggle delays caused by bad weather and traffic jams that force changes in complex schedules, process security badges at venues, manage Olympic volunteers and resist intrusions by computer hackers.
+The final week of computer testing follows an October dry run exposing what one official called a 'boatload' of computer glitches and personnel foul-ups that frustrated quick repairs.
+The problems are staged. When no one is looking, for instance, an engineer throws a circuit breaker on a computer server. A backup server takes over, but technicians must discover the problem and restore power to the primary server.
+To simulate Olympic competition, technicians use made-up athlete names and results along with their national affiliation.
+'It's amazing how many gold medals Britain can win,' chuckles British subject and chief Olympic integrator Robert Cottam, who works for SchlumbergerSema.
+SchlumbergerSema, a new worldwide Olympic sponsor that replaced IBM after the 2002 Sydney Games, leads a team of 15 technology partners including Japanese watchmaker Seiko; computer assembler Gateway Inc.; copier giant Xerox; Kodak; Internet service manager Ikano; MSNBC, and telephone company Qwest.
+SchlumbergerSema's first Olympic Games isn't the biggest or most complex job it has tackled; computer banking systems fit that definition. But the Olympic task is the company's most visible job, and failure isn't an option.
+'The world's eyes are upon us,' said Cottam, 48, who came to Salt Lake three years ago.
+SchlumbergerSema and its partners needed that time 'to climb a steep learning curve,' said Jean-Benoit Gauthier, an information-technology manager for the International Olympic committee.
+All systems seem to be go, says Gauthier, part of a team of IOC inspectors, who said the computer system is 'in good shape.'
+On the Net:
+Salt Lake Organizing Committee: http://www.saltlake2002.com
+Copyright 2001 Associated Press
+All Rights Reserved

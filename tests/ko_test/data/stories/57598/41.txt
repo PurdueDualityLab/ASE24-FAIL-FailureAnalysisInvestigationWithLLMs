@@ -1,0 +1,25 @@
+[untitled]
+02/02/2012
+Japan Economic Newswire
+ln
+The Tokyo Stock Exchange said Thursday it halted trading of 241 issues, or around 10 percent of all issues listed on the bourse, from the start of the morning session due to a server glitch in its market data distribution system, causing a decline of around 5 percent in trading value.
+While the bourse resumed trading of the issues at the start of the afternoon session from 12:30 p.m., it said it is still investigating the cause of the first major disruption to its Arrowhead high-speed trading system, which was introduced in January 2010.
+'We apologize for causing trouble to investors and market participants,' Yoshinori Suzuki, TSE chief information officer, told a news conference after the market closed. 'We are looking into the cause of the error and will take preventive measures.'
+The trouble came as Tokyo Stock Exchange Group Inc. is planning to merge with Osaka Securities Exchange Co. in January 2013, creating an entity that would handle almost all stock trading in Japan and hold a dominant share of the domestic market for trading derivative financial products.
+Atsushi Saito, the president of Tokyo Stock Exchange Group Inc., issued a statement after the press conference offering an apology and pledging to take preventive measures.
+Of the affected issues, 153, including Sony Corp., Tokyo Electric Power Co. and Dai-ichi Life Insurance Co., are listed on the First Section. The issues also included exchange-traded funds and real estate investment trusts.
+Business circles bitterly complained about the system failure, with Hiromasa Yonekura, chairman of the Japan Business Federation, known as Keidanren, saying the outage was 'an elementary-level error.'
+'It should really be prevented that trading at Japan's biggest exchange stops due to system trouble,' Yonekura told a press conference in Osaka.
+Tadashi Okamura, chairman of the Japan Chamber of Commerce and Industry, said in Tokyo that the repeated failures of the TSE's system in recent years would undermine its international credibility.
+The bourse last suffered a large-scale trading suspension in January 2006, when it faced massive sell orders that exceeded computer capacity after Livedoor Co. was raided by prosecutors over accounting fraud.
+Also in 2005, defects in the trading system led then TSE chief Takuo Tsurushima to resign after Mizuho Securities Co. could not cancel an erroneous order to sell J-Com Co. shares.
+Financial Services Minister Shozaburo Jimi, meanwhile, called on the Tokyo bourse to take steps to ensure the problem does not happen again, saying, 'It is regrettable. We want the TSE to clarify the cause and prevent a recurrence.'
+Although some brokers said the impact of the suspension on the overall market was limited, some investors expressed anxiety as the system failure affected trading of major issues.
+The 225-issue Nikkei Stock Average and the broader Topix index were calculated in the morning using the closing prices of the affected issues on Wednesday.
+The Arrowhead system was developed in collaboration with Fujitsu Ltd. at a cost of around 13 billion yen to enable the TSE to transact orders at high speed so it can survive fierce competition with global rivals.
+Even though the Arrowhead system has managed to shorten the time from the receipt of an order to its completion to around 0.002 second, exchanges in New York and London can process orders faster.
+While a high-speed system gives an exchange a competitive edge, the faster the system, the more complexity it entails, increasing the risk of a system failure, analysts said.
+Tsutomu Yamada, market analyst at kabu.com Securities Co., stressed the need to enhance the TSE's emergency response capability by, for example, introducing a system to switch stock trading to the Osaka Securities Exchange when trading at the TSE is suspended.
+Meanwhile, the Sapporo Securities Exchange said Thursday it temporarily halted trading for all 74 issues in the morning, as the Sapporo bourse uses the same system as the Tokyo bourse.
+Copyright 2012 Kyodo News Service
+All Rights Reserved

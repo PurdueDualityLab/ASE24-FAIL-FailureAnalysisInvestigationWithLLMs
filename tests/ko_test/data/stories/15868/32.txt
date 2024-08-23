@@ -1,0 +1,22 @@
+FAA finds cause of air traffic system glitch; Radar software failed after getting input from Mexico: [HOME Edition]
+10/21/2000
+Daily Breeze
+pq
+FAA finds cause of air traffic system glitch
+Radar software failed after getting input from Mexico
+Failure of the Southwest's main air traffic radar system was traced to new computer software unable to recognize hand-off datatyped manually by Mexico controllers, the Federal Aviation Administration said Friday.
+The software installed Wednesday night at the FAA's Los Angeles Center in the Mojave Desert, which controls aircraft over a 100,000- square-mile area, is the same upgrade completed successfully at 19 other FAA radar centers.
+But software designers didn't allow for information typed in by Mexico controllers handing off flights to the facility from south of the border, which doesn't have a computerized system, FAA spokesman Jerry Snyder said.
+"The computer didn't recognize the information when it was passed from Mexico and it aborted," Snyder said. "A digit out of place could do it."
+When controllers at the Los Angeles Center switched to the new software system Thursday morning, it quickly failed when data from a Mexico controller was received. The FAA radar computer system instantly switched to backup.
+The computer with the new software was restarted 100 minutes later, but it failed again and the old software system was reinstalled and the system returned to operation more than two hours later.
+Therewere no safety problems for about 100 aircraft already en route. Controller Garth Koleszar said "every flight in and out of our sector was affected."
+Air travel schedules were left in disarray as the FAA ordered a nationwide ground stopfor all flights bound for the Southwest, causing cancellations, rerouting, long delays and airport gridlock.
+The aftermath lingered until late Thursday. The national ground stop order was lifted incrementally throughout the day Thursdayto meter the flow of aircraft.
+"Everything's back to normal," Snyder said Friday.
+The radar system at Los Angeles Center covers a huge section of the Southwest, including mostof California, parts of Nevada and Utah, and out to sea 250miles.
+Technicians who have installed the new FAA radar software elsewhere have done so without any problems, Snyder said.
+"It's specifically written for each of the centers. The logic path is specific to each geographical area," he said. "The problem here though is we deal with air traffic coming up from Mexico."
+Technicians must now rewrite the software to recognize the Mexico controller information. It wasn't clear when a revised program would be installed.
+"Itwon't be attempted until after the Thanksgiving holiday rush," Snyder said.
+Credit: THE ASSOCIATED PRESS

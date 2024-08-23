@@ -1,0 +1,10 @@
+Tokyo Bourse Official: Glitch Caused By Information Distribution System
+02/01/2012
+Dow Jones International News
+fv
+TOKYO (Dow Jones)--Theabrupt suspension of trading at the Tokyo Stock Exchange on Thursday morning happened because a planned switch from a failed server to two backups didn't take place properly, a TSE official said later in the day.
+"If I describe the causeof the trouble in simple terms, a switching of servers didn't take place properly following a hardware problem at the information distribution system at our bourse," said Hiroaki Uji, an official in charge of information technology development at the TSE.
+He said workers are stillinvestigating why the switching didn't take place and that it remains unclear why the first server failed.
+The value of tradingwould have been five percent higher if the system failure hadn't occurred, said Hironaga Miyama, another official in charge of market operations.
+The temporary suspension of trading of 241 issues, including blue-chip stocks such as Sony Corp. (6758.TO) and Hitachi Ltd.(6501.TO), was the first major disruption in trading since the world's third-largest exchange upgraded its system in early 2010 after a series of embarrassing technical glitches forced the bourse to make massive investments to replace its antiquated trading platform.
+-By Kosaku Narioka, Dow Jones Newswires; 813-6269-2784; kosaku.narioka@dowjones.com [ 02-02-12 0925GMT ]

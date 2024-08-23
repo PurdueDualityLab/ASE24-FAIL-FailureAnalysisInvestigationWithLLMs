@@ -1,0 +1,770 @@
+ID,POSTMORTEM FIELDSPublished,Title,Summary,System,Time,SEcauses,NSEcauses,Impacts,Preventions,FixesResponsibleOrg,ImpactedOrg,References,Recurring Option,Recurring Rationale,TAXONOMY OPTIONS,Phase Option,Boundary Option,Nature Option,Dimension Option,Objective Option,Intent Option,Capability Option,Duration Option,Domain Option,CPS Option,Perception Option,Communication Option,Application Option,Behaviour Option,TAXONOMY EXPLANATIONS,Phase Rationale,Boundary Rationale,Nature Rationale,Dimension Rationale,Objective Rationale,Intent Rationale,Capability Rationale,Duration Rationale,Domain Rationale,CPS Rationale,Perception Rationale,Communication Rationale,Application Rationale,Behaviour Rationale
+25,,2011-01-06 08:00:00+00:00,Hackers Decrypt PlayStation 3 Security,"In December, a group of hackers called Fail0verflow revealed at the Chaos Communications hackers conference in Berlin that they had successfully exploited a weakness in the encryption system of the Sony PlayStation 3 (PS3). By using ""simple algebra,"" they were able to obtain the public key required to run any software on the console. Fail0verflow, like many hackers, is against piracy and bypasses security systems as an intellectual challenge or to run their own applications.
+
+Although Fail0verflow did not disclose the key themselves, hacker George Hotz (also known as Geohot), who had previously opened the iPhone system to jailbreak hacks, released the required firmware package decrypter on his website a few days later.
+
+The software failure incident occurred in December, but the specific date is unknown. The system that failed was the security system of the Sony PS3. The cause of the failure was the exploitation of a weakness in the console's encryption system by the hackers. The impact of the failure was that the hackers gained the ability to run any software on the PS3, bypassing Sony's control over what software could be used on the device.
+
+The responsible entities for the software failure were the hackers from Fail0verflow and George Hotz. The impacted entity was Sony, as their security system was compromised, allowing unauthorized software to be run on their console. [3710, 3663]",The PlayStation 3 security system. [3710],"The software failure incident mentioned in the context happened in December, prior to the article being published on January 7, 2011. [6486, 3710]","1. Weakness in the PlayStation 3's encryption system
+2. Exploitation of the encryption system through ""simple algebra""
+3. Disabling of the machine's Other OS functionality by Sony [3710]","1. Sony's decision to disable the Other OS functionality on the PlayStation 3.
+2. The exploit of a weakness in the PlayStation 3's encryption system.
+3. Fail0verflow's discovery and exploitation of the vulnerability.
+4. George Hotz's release of the required firmware package decrypter. [3710]","1. The PS3 security system was compromised.
+2. The encryption system of the PlayStation 3 was exploited.
+3. The public key required to run any software on the PS3 was obtained.
+4. The ability to install Linux OS and create/run own applications on the console was disabled.
+5. Game publishers started evacuating the PSP platform. [3710]","1. Sony could have chosen not to disable the Other OS functionality on the PS3 system.
+2. Sony could have implemented stronger encryption measures in the PlayStation 3's security system.
+3. Sony could have regularly updated and patched the software to fix any vulnerabilities.
+4. Sony could have implemented stricter measures to prevent unauthorized access to the system's software.
+5. Sony could have conducted thorough security testing and audits to identify and address any potential weaknesses in the software. [15042, 3710]","1. Network updates
+2. Fixing the security breach
+3. Implementing measures to prevent potential pirates from meddling with the system's software [15042, 3710]","Fail0verflow, George Hotz (Geohot) [3710]","Sony, PlayStation 3 [15042, 3710]","1. Sony's statement to Edge magazine
+2. Fail0verflow's proclamation at the Chaos Communications hackers conference
+3. The use of ""simple algebra"" to exploit a weakness in the PlayStation 3's encryption system [15042, 3710]",unknown,"Unknown [15042, 3710]",,system design,both,both,software,non-malicious,deliberate,unknown,unknown,entertainment,,unknown,connectivity level,,timing,,"The software failure was due to system design faults. [15042, 3710]","Both [15042, 3710]","both [15042, 3710]","The software failure was due to a software fault. [15042, 3710]","The software failure was due to a non-malicious fault. [15042, 3710]","Deliberate fault [15042, 3710]","unknown [15042, 3710]","unknown [15042, 3710]",entertainment [3710],"Option: unknown ; unknown [15042, 3710]","unknown [15042, 3710]","true [3710, 3663]","Option: unknown ; unknown [15042, 3710]","timing [15042, 3710]"
+130,,2013-01-31 08:00:00+00:00,Antivirus Software Fails to Detect Chinese Hackers on New York Times Network,"The software failure incident occurred during a four-month long cyberattack by Chinese hackers on the New York Times (NYT) network. The incident took place on January 31, 2013, at 08:00:00+00:00. The antivirus software, provided by Symantec (SYMC), failed to detect 44 out of the 45 pieces of malware installed by the attackers on the network. The failure was caused by the fact that the custom-built malware used by the hackers was not on Symantec's list of forbidden software, allowing it to pass through undetected. As a result, the hackers were able to retrieve usernames and passwords of Times' reporters.
+
+The impact of the software failure was significant, as it exposed the vulnerability of the NYT network to cyberattacks and compromised the security of sensitive information. The incident served as a wake-up call to individuals and businesses who relied solely on antivirus software for protection. The responsible entity for the failure was Symantec, as their antivirus system failed to detect the malware. The impacted entity was the New York Times, as their network was infiltrated by the Chinese hackers.
+
+Security experts recommended deploying technology that closely monitors network activity to detect and alert any unauthorized access. While it may not always be possible to prevent attackers from getting in, setting tripwires and maintaining awareness about network activity can help mitigate the impact of such incidents. [16412]",Antivirus software [16412],"The software failure incident happened during a four-month long cyberattack on the New York Times. The article was published on 2013-01-31, so the incident likely occurred sometime before that date. [16412]","1. The antivirus software used by the New York Times missed 44 out of 45 pieces of malware installed by the Chinese hackers.
+2. The antivirus software did not have the brand-new custom malware created by the hackers on its list of forbidden software.
+3. The antivirus software deployed by the New York Times was not advanced enough to detect the sophisticated attacks and custom malware used by the hackers. [16412]","1. Cyberattack by Chinese hackers
+2. Custom malware built by the hackers
+3. Lack of detection and prevention by the antivirus software
+4. Inability of the antivirus software to detect the brand-new malware
+5. Insufficient advanced solutions provided by Symantec [16412]","1. The New York Times experienced a four-month long cyberattack by Chinese hackers.
+2. The antivirus software from Symantec installed on the devices connected to the network failed to detect 44 out of 45 pieces of malware installed by the attackers.
+3. The custom malware created by the Chinese hackers was able to retrieve usernames and passwords of Times' reporters.
+4. The malware was not on Symantec's list of forbidden software, allowing it to pass through undetected.
+5. Avast, another antivirus software maker, stated that there is a distinction between everyday web threats and the targeted attack faced by the Times.
+6. The incident highlighted that no single solution can prevent all cyberthreats, and sophisticated attacks can bypass even rock-solid network security systems.
+7. Attackers are constantly finding ways to evade detection and come up with ingenious methods to do so. [16412]","1. Deploying technology that closely monitors network activity and alerts when suspicious activity is detected.
+2. Implementing a comprehensive network security system that can detect and prevent sophisticated attacks.
+3. Regularly updating and patching antivirus software to ensure it can effectively detect and remove malware.
+4. Conducting regular audits and assessments of the programs running on the network to identify any potential vulnerabilities or unauthorized software.
+5. Implementing strong access controls and authentication measures to prevent unauthorized access to the network.
+6. Educating employees and users about cybersecurity best practices to minimize the risk of human error or negligence leading to a software failure incident. [16412]","1. Deploying technology that closely monitors network activity to detect and alert when attackers gain access.
+2. Implementing solutions that aim to contextualize and detect threats.
+3. Increasing awareness and understanding of all programs running on the network.
+4. Having antivirus software as a basic defense measure. [16412]",Chinese hackers and Symantec's antivirus software. [16412],The New York Times was impacted by the software failure incident. [16412],"1. The New York Times
+2. Symantec (SYMC)
+3. AT&T (T)
+4. Mandiant [16412]",unknown,Unknown [16412],,system design,outside the system,non human actions,software,malicious,deliberate,both,unknown,unknown,,unknown,unknown,,omission,,"The software failure in this case was due to a system design fault. The antivirus software from Symantec did not have the custom malware used by the Chinese hackers on its list of forbidden software, allowing most of it to pass through undetected. [16412]",The software failure was due to faults from 'outside the system' [16412],"The software failure was due to non human actions, specifically a cyberattack by Chinese hackers. [16412]",The software failure was due to software faults. [16412],The software failure was due to malicious faults. [16412],Deliberate fault [16412],Both [16412],unknown [16412],unknown [16412],Option: unknown ; unknown [16412],unknown [16412],Unknown [16412],Option: unknown ; unknown [16412],The software failure was due to an omission. [16412]
+202,,2014-02-18 08:00:00+00:00,Asus Wireless Routers Vulnerable to Hackers: Software Failure Incident,"The software failure incident occurred when researchers from Independent Security Evaluators (ISE) discovered vulnerabilities in network hardware, specifically routers. The failure was caused by a lack of security measures in the software development life cycle of router manufacturers. The impact of this failure was the potential for large-scale attacks on the internet infrastructure due to the high number of vulnerable network hardware. 
+
+ISE notified all vendors about the vulnerabilities they found and some vendors responded quickly by providing beta firmware with fixes within 72 hours. However, there were other vendors who did not respond to the notifications. 
+
+The responsible entity for the software failure incident is the router manufacturers who did not prioritize security in their software development life cycle. The impacted entity is the internet infrastructure as a whole, as the vulnerabilities in the network hardware could be exploited for large-scale attacks. 
+
+It is important to note that the specific timing of the failure is not mentioned in the given context. Additionally, the exact details of the vulnerabilities and their potential impact are not provided. These additional pieces of information may be included in the upcoming release of information from ISE. [18168, 24554]","The router manufacturers' software development life cycle. [18168, 24554, 20284]","The article does not provide specific information about when the software failure incident happened. [18168, 24554]","Unknown [18168, 24554, 20284]","Unknown. [18168, 24554, 20284]","1. Some vendors responded quickly and provided beta firmware with fixes.
+2. Other vendors did not respond to the incident.
+3. Fixed AiCloud-vulnerability-related bugs.
+4. Underline ""_"" can now be acceptable in device name and computer name.
+5. Broadcast option in PPTP VPN server was hidden when disabled.
+6. Multicast IPTV related issues in PPPoE/PPTP/L2TP connection were fixed.
+7. Parental control offset issue in IE was fixed.
+8. 3G dongle-related issue was fixed.
+9. ASUS DDNS description was hidden when selecting third-party service.
+10. Script error 'invalid argument on IE' was fixed.
+11. Smart-sync JS error was fixed.
+12. JST time zone issue was fixed. [18168, 24554, 20284]","1. Prioritizing security in the router manufacturers' software development life cycle.
+2. Prompt response and action from vendors to fix the vulnerabilities.
+3. Regular firmware updates and patches to address known vulnerabilities.
+4. Thorough testing and quality assurance processes during software development.
+5. Proactive monitoring and detection of potential security threats.
+6. Implementing strong authentication and access control measures.
+7. Educating users about the importance of router security and best practices for securing their devices. [18168, 24554, 20284]","1. Fixing AiCloud-vulnerability-related bugs.
+2. Allowing the use of ""_"" in device name and computer name.
+3. Hiding the Broadcast option in PPTP VPN server when it is disabled.
+4. Fixing multicast IPTV related issues in PPPoE/PPTP/L2TP connection.
+5. Fixing parental control offset issue in IE.
+6. Fixing 3G dongle-related issue.
+7. Hiding ASUS DDNS description when selecting third-party service.
+8. Fixing script error 'invalid argument on IE.'
+9. Fixing smart-sync JS error.
+10. Fixing JST time zone issue. [18168, 24554, 20284]","Router vendors [18168, 24554]","Unknown. [18168, 24554, 20284]","1. The articles gather information from ISE security analyst Jake Holcomb, who mentions that some vendors responded quickly to the software failure incident and provided beta firmware with fixes within 72 hours.
+2. The articles also gather information from Lovett, who reported the software flaw to Asus representative Nick Mijuskovic in both September and November but received no response other than ""we'll look into it.""
+3. The articles mention that Asus did not immediately respond when asked for comment on the software failure incident.
+4. The articles mention that ISE plans to release additional information from the study in the coming weeks, following the security community best practice of giving vendors a chance to respond to vulnerabilities before publishing them.
+5. The articles quote Jake Holcomb stating that these types of attacks could be prevented if security was a higher priority in the router manufacturers' software development life cycle.
+6. The articles mention that the software failure incident is just the tip of the iceberg, indicating that there may be more vulnerable network hardware comprising the internet infrastructure. [18168, 24554]",unknown,"Unknown [18168, 24554, 20284]",,,outside the system,both,,malicious,deliberate,unknown,unknown,unknown,unknown,unknown,connectivity level,unknown,unknown,,"Option: unknown ; The context does not provide enough information to determine whether the software failure was due to system design or operation faults. [18168, 24554]","The software failure was due to faults from 'outside the system' because the vendors did not respond or provide fixes for the reported vulnerabilities. [18168, 24554]","Both [18168, 24554, 20284]","Option: unknown ; The context does not provide enough information to determine whether the software failure was due to hardware or software faults. [18168, 24554]","The software failure was due to malicious faults. [18168, 24554]","Deliberate fault [18168, 24554]","The context does not provide enough information to determine whether the software failure was accidental or due to development incompetence. [18168, 24554]","unknown [18168, 24554, 20284]","unknown [18168, 20284]","unknown [18168, 24554, 20284]","unknown [18168, 24554, 20284]","true [18168, 24554]","unknown [18168, 24554, 20284]","unknown [18168, 24554, 20284]"
+293,,2015-07-29 07:00:00+00:00,Hackers Take Control of Smart Rifles with Computer-Guided Scopes,"The software failure incident occurred when researchers successfully hacked into the software of TrackingPoint's smart rifles. The hack allowed them to change the target by feeding inaccurate data to the targeting computer. However, they were unable to make the gun fire without physically pulling the trigger. The incident was reported in a Wired article.
+
+The system that failed was the software of TrackingPoint's smart rifles, which are connected to the internet and vulnerable to hackers. The cause of the failure was the presence of security vulnerabilities in the software, which allowed the researchers to exploit and manipulate the targeting system.
+
+The impact of the failure was limited, as there were only a thousand vulnerable rifles in consumers' hands and the hack had a limited range. No actual victims were reported. However, the incident raised concerns about the increasing connectivity of objects to the internet and their vulnerability to hackers, especially when it comes to lethal weapons.
+
+The responsible entity for the software failure was TrackingPoint, the company that developed and manufactured the smart rifles. They have acknowledged the researchers' findings and stated that they are attempting to verify the conclusions. They have also committed to providing a software update if necessary and are working with the researchers on a fix.
+
+The impacted entity was TrackingPoint, as their reputation and the security of their smart rifles were compromised by the successful hack. Additionally, the incident raised concerns and highlighted the security challenges faced by companies when introducing technology to items that have not previously had it. [38968, 37995, 38012]","The targeting computer system. [38968, 37995, 38012]","The article does not provide a specific date or relative time for when the software failure incident happened. [38968, 37995, 38012]","1. Vulnerabilities in the rifles' software
+2. Inaccurate data being fed to the targeting computer
+3. Flaws in the scope's targeting system
+4. Possibility of the gun's entire file system being erased [38968, 37995, 38012]","1. Lack of manpower to fix the software.
+2. Vulnerabilities in the rifles themselves.
+3. Objects being increasingly connected to the internet and vulnerable to hackers.
+4. Security challenges that arise when technology is added to items that haven't had it before. [37995, 38012]","1. The hackers were able to change the target by feeding inaccurate data to the targeting computer.
+2. The gun did not fire without the trigger being pulled by the shooter.
+3. The software failure exposed the vulnerability of connected objects, including lethal weapons, to hackers.
+4. TrackingPoint is attempting to verify the researchers' conclusions and is working on a software update if necessary.
+5. The incident highlights the security challenges that arise when technology is added to items that haven't had it before. [38968, 37995, 38012]","1. Stronger security measures during the design and development of the software.
+2. Regular software updates and patches to address vulnerabilities.
+3. Thorough testing and verification of the software before it is released to consumers.
+4. Implementing stricter limitations on user access and functionality to prevent unauthorized manipulation.
+5. Continuous monitoring and detection of potential security breaches or anomalies.
+6. Prompt response and collaboration with security researchers to address identified flaws and develop fixes.
+7. Implementing additional layers of security, such as encryption or authentication protocols, to protect against unauthorized access.
+8. Conducting regular security audits and assessments to identify and address any potential weaknesses in the software. [38968, 37995]","- Software update
+- Patch
+- USB drive with software update
+- Fix developed by the company
+- Working with the researchers to develop a fix [38968, 37995]","Unknown. [38968, 37995, 38012]","TrackingPoint [38968, 37995, 38012]","1. TrackingPoint's statement posted on its website
+2. Researchers' conclusions and findings
+3. Demonstration of the successful hack to Wired at a firing range
+4. Attempts by the hackers to contact TrackingPoint to help patch the security flaws
+5. TrackingPoint's financial problems and layoffs [38968, 37995, 38012]",unknown,"The information provided does not indicate whether the software failure incident is a recurring occurrence or if it has occurred before within the same impacted entity or at other entity(s). [38968, 37995, 38012]",,system design,outside the system,both,software,malicious,deliberate,both,unknown,government,true,network communication,wired/wireless link level,,byzantine fault,,"The software failure was due to system design faults. [38968, 37995, 38012]","The software failure was due to faults from 'outside the system' [38968, 37995, 38012]","Both [38968, 37995, 38012]","The software failure was due to software faults. [38968, 37995, 38012]","The software failure was due to malicious faults. [37995, 38012]","Deliberate fault [38968, 37995, 38012]","Both [38968, 37995, 38012]","unknown [38968, 37995]","government [38968, 37995]","true [38968, 37995]","The software failure was due to network communication. [38968, 37995]","true [38968, 37995, 38012]","Option: The software failure was not due to bugs, operating system errors, unhandled exceptions, or incorrect usage. ; false [38968, 37995, 38012]","Byzantine fault [38968, 37995]"
+297,,2015-07-20 07:00:00+00:00,Steel Strut Failure Led to SpaceX Falcon 9 Rocket Explosion,"The software failure incident occurred on an unmanned SpaceX Falcon 9 rocket on an unspecified date prior to July 20, 2015. The system that failed was the software responsible for initiating the parachute deployment on the Dragon spacecraft. The failure was caused by the software not initiating the parachute deployment when it should have, resulting in the destruction of the Dragon spacecraft during the midair explosion of the Falcon 9 rocket. The impact of the failure was the loss of the Dragon spacecraft and a major setback for SpaceX's space plans, as the Dragon was supposed to rendezvous with the International Space Station. The responsible entity for the failure was SpaceX, as they were in charge of developing and implementing the software. The impacted entity was also SpaceX, as they suffered the loss of their spacecraft and the setback to their space plans. Elon Musk, the CEO of SpaceX, acknowledged the failure and stated that additional software would be added to ensure that the spacecraft always attempts to save itself in the future. Musk also mentioned that the failure may have been a result of the company becoming complacent after a string of successful launches. [37789]",The parachute deployment system failed in the software failure incident. [37789],The article does not provide specific information about when the software failure incident happened. [37789],"1. The software did not initiate the parachute deployment, which could have saved the Dragon spacecraft.
+2. The software did not have the capability to save the spacecraft in the event of a failure.
+3. The software may have been complacent or not adequately updated after a series of successful launches. [37789]","- A two-foot-long steel strut that was only an inch wide at its thickest point
+- The steel strut provided by an external supplier
+- The steel strut failed at a force level of 2,000lb, despite being designed to handle 10,000lb of force [37789]","1. The Dragon spacecraft was destroyed.
+2. The company experienced a major setback in its space plans.
+3. The software failure prevented the initiation of parachute deployment, leading to the destruction of the Dragon spacecraft.
+4. The tech CEO acknowledged that the company had become complacent after a series of successful launches.
+5. Additional software is being added to ensure that the spacecraft will always attempt to save itself in the future. [51, 37789]","1. Initiating the parachute deployment through the software.
+2. Adding additional software to ensure the spacecraft always attempts to save itself.
+3. Avoiding complacency and maintaining vigilance in software development and testing.
+4. Encouraging employees to report any possible reasons to delay a flight launch. [37789]","1. Additional software to initiate parachute deployment in case of failure.
+2. Fixing the bug or glitch in the software.
+3. Implementing measures to prevent complacency and ensure continuous improvement in software development.
+4. Conducting thorough testing and quality assurance to identify and address any potential software failures.
+5. Taking lessons from the incident and applying them in future software development processes. [51, 37789]",Unknown. [37789],The Dragon spacecraft and SpaceX were impacted by the software failure incident. [37789],"1. The articles gather information about the software failure incident from the CEO of SpaceX, Elon Musk.
+2. The articles also mention that the software failure incident involved the Dragon spacecraft. [51, 37789]",false,false [37789],,,both,both,hardware,non-malicious,accidental,,unknown,unknown,true,unknown,false,,timing,,"Option: both ; The software failure was due to both system design and operation faults. The software should have initiated the parachute deployment to save the spacecraft, but it failed to do so. Additionally, the software should have been designed to always attempt to save the spacecraft, regardless of external factors. Therefore, both the design and operation of the software contributed to the failure. [37789]",Both [37789],Both [37789],The software failure was due to hardware faults. [37789],The software failure was due to non-malicious faults. [37789],accidental [37789],"Option: both ; The software failure was accidental because it did not initiate the parachute deployment, but it was also due to development incompetence because the software should have been designed to always attempt to save the spacecraft. [37789]",unknown [37789],"unknown [51, 37789]",true [37789],unknown [37789],There was no software failure at the communication level. [37789],"Option: The software failure was not at the application level due to bugs, operating system errors, unhandled exceptions, or incorrect usage. ; false [37789]",timing [37789]
+420,,2015-11-11 08:00:00+00:00,"""Who Viewed Your Profile - InstaAgent"" Steals Usernames and Passwords","The software failure incident occurred on November 11, 2015. The app ""Who Viewed Your Profile - InstaAgent"" was the most downloaded free app in Britain and Canada. The failure involved the app silently stealing usernames and passwords from users who logged into their Instagram accounts through the app. These credentials were then uploaded, unencrypted, to a third-party server.
+
+The cause of the failure was the malicious activity of the app, which violated Instagram's terms of service by posting images advertising itself on users' Instagram feeds without their permission. This activity led to the compromise of hundreds of thousands of users' Instagram passwords.
+
+The impacted entity was the users who downloaded the app and logged into their Instagram accounts through it. These users should consider their Instagram passwords compromised and were advised to delete the app and reset their password on Instagram, as well as on any other service where they may have used the same login details.
+
+The responsible entity for the software failure was the developer of the app, Peppersoft. The failure was first spotted by developer David Layer-Reiss, who uploaded a warning about the malicious activity to his Twitter account.
+
+Overall, the software failure incident involved a popular app that deceived users by claiming to track who viewed their Instagram profiles but instead stole their login credentials. This breach of trust had a significant impact on the affected users' security and privacy. [53309]",The authentication system failed in the software failure incident. [53309],"The software failure incident happened on November 10, 2015. [53309]","1. The app ""Who Viewed Your Profile - InstaAgent"" had a software bug or flaw that allowed it to steal usernames and passwords.
+2. The app posted images advertising itself on users' Instagram feeds, which violated the site's terms of service.
+3. The app uploaded users' credentials to a third-party server without encrypting them. [53309]","1. Malicious activity: The app posted images advertising itself on users' Instagram feeds without their permission, which violated the site's terms of service.
+2. Unauthorized access: The app silently stole usernames and passwords from users who logged into their Instagram accounts.
+3. Lack of encryption: The stolen credentials were uploaded to a third-party server without being encrypted, making them vulnerable to unauthorized access. [53309]","1. The app was removed from both app stores.
+2. Hundreds of thousands of users' Instagram passwords were compromised.
+3. Users were advised to delete the app and reset their password on Instagram.
+4. Users were advised to reset their password on any other service where they may have used the same login details.
+5. The app violated Instagram's terms of service by posting images advertising itself on users' feeds without permission. [53309]","1. Conducting thorough security testing and vulnerability assessments before releasing the app to the app stores.
+2. Implementing proper encryption protocols to protect user credentials during transmission and storage.
+3. Enforcing strict adherence to the terms of service of the platform (in this case, Instagram) to prevent unauthorized activities.
+4. Regularly monitoring and auditing the app's behavior and user feedback to identify any suspicious or malicious activity.
+5. Promptly responding to user reports and taking immediate action to investigate and address any potential security issues.
+6. Educating users about the importance of using unique passwords for different services and regularly updating them.
+7. Implementing multi-factor authentication to add an extra layer of security to user accounts.
+8. Collaborating with security experts and researchers to identify and address any potential vulnerabilities in the app.
+9. Regularly updating and patching the app to fix any known security vulnerabilities.
+10. Implementing strong access controls and user authentication mechanisms to prevent unauthorized access to user data. [53309]","1. Removing the app from both app stores
+2. Deleting the app from users' devices
+3. Resetting passwords on Instagram and any other service where the same login details were used
+4. Fixing the bug or vulnerability in the app that allowed the unauthorized access and data upload
+5. Implementing encryption for user credentials to prevent unauthorized access and data theft in the future
+6. Ensuring compliance with the terms of service of Instagram and other platforms to avoid any further malicious activity. [53309]","The developer of the app, Peppersoft, was responsible for causing the software failure incident. [53309]",Instagram users [53309],"1. The articles gather information from developer David Layer-Reiss, who first spotted the malicious activity and uploaded a warning to his Twitter account.
+2. The articles also gather information from Google, which reported that the app received between 100,000 and 500,000 downloads on Android.
+3. The articles mention that the app was available on both iOS and Android app stores, and was the most downloaded free app in Britain and Canada.
+4. The articles mention that the app was removed from both app stores by Wednesday morning.
+5. The articles mention that the app was marketed as ""Who Viewed Your Profile - InstaAgent"" and claimed to allow users to track who visited their Instagram account.
+6. The articles mention that users who logged into the app had their credentials uploaded, unencrypted, to a third-party server. [53309]",within the same impacted entity,true [53309],,operation,both,both,software,malicious,deliberate,both,unknown,entertainment,,unknown,connectivity level,,unknown,,The software failure was due to 'operation' faults. [53309],Both [53309],Both [53309],software [53309],The software failure was due to malicious faults. [53309],Deliberate fault [53309],both [53309],unknown [53309],entertainment [53309],Option: unknown ; unknown [53309],unknown [53309],true [53309],Option: unknown ; unknown [53309],unknown [53309]
+425,,2010-12-10 08:00:00+00:00,Google's DoubleClick Ad Technology Distributes Malware Through Online Ads,"The software failure incident occurred on December 10, 2010, and it involved DoubleClick, the Google-owned ad technology. The failure was caused by the distribution of malware through an online ad served on various websites. The malware was inserted into a legitimate banner ad by exploiting vulnerabilities in users' browsers. If users had unpatched vulnerabilities, a software called ""hdd plus"" was quietly installed on their computers. Additionally, the malware attempted to exploit Adobe vulnerabilities by forcing browsers' PDF plug-ins to open a PDF and deliver the software. Once infected, users would see a fake Windows warning message indicating malware on their machines and urging them to purchase a security program. The incident also involved the installation of a backdoor on users' machines, the purpose of which was still being examined by researchers.
+
+The impact of the failure was that users who visited a webpage where the infected banner ad was displayed could be infected without even clicking on the ad. The malware was installed as a drive-by download, making it easier for users to be infected unknowingly. The responsible entity for the incident was DoubleClick, as the malware was distributed through their ad technology. The impacted entities were the users who visited websites displaying the infected banner ad. The incident led to the removal of the ads by Rodale Inc., the company responsible for publishing the ads. To prevent similar incidents in the future, a new security monitoring system was implemented to filter ads for malware. [54193]",The security monitoring system failed in the software failure incident. [54193],"The software failure incident happened no earlier than December 4, 2010. [54193]","1. Exploiting Adobe PDF plug-ins to deliver the software through an Adobe exploit.
+2. Inserting Javascript into a legitimate banner ad to exploit the user's browser through vulnerabilities.
+3. Drive-by download of the malware when users visit a page with an infected banner ad. [54193]","1. Exploitation of Adobe software vulnerability
+2. Copying and inserting of malicious Javascript into a legitimate banner ad
+3. Unpatched vulnerabilities in user's browser [54193]","1. Users' machines were infected with malware.
+2. A fake Windows warning message appeared on users' screens.
+3. Users were urged to purchase a security program.
+4. A backdoor was installed on users' machines.
+5. A banner ad for a gift card was exploited to deliver the malware.
+6. The malware was not detected by most anti-virus products.
+7. Pop-up warnings appeared on users' desktops.
+8. The malware was served through DoubleClick's ad system.
+9. Google detected malware through its DoubleClick Ad Exchange filter.
+10. The exact number of infected machines and websites is unknown. [54193]","1. Stronger security measures and monitoring systems in place to detect and filter out malware-infected ads.
+2. Regular and timely software updates and patches to address vulnerabilities in browsers and plug-ins.
+3. Improved awareness and education among users about the risks of clicking on suspicious ads or downloading unknown software.
+4. More effective collaboration and information sharing between anti-virus vendors to quickly identify and detect new malware strains.
+5. Enhanced user authentication and verification processes to prevent unauthorized access and installation of malicious software.
+6. Implementation of stricter ad approval processes to ensure that only legitimate and safe ads are served to users.
+7. Continuous monitoring and analysis of user feedback and reports to identify and address any potential software failures or security breaches. [54193]","1. Patching the vulnerabilities in the user's browser to prevent exploitation.
+2. Removing the malicious software ""hdd plus"" from the infected machines.
+3. Strengthening the security monitoring system to detect and prevent similar exploits in the future.
+4. Conducting a thorough examination of the backdoor installed on the user's machines to understand its functionality and mitigate any potential risks.
+5. Enhancing the detection capabilities of anti-virus products to identify and block the malware.
+6. Implementing stricter ad verification processes to prevent the insertion of malicious code into legitimate banner ads.
+7. Taking down the ads that were serving the malware.
+8. Investigating and addressing any potential vulnerabilities or weaknesses in the software development process that allowed the exploit to occur. [54193]",Unknown. [54193],Users who visited websites where the infected banner ad was displayed. [54193],"1. The articles gather information from a company spokeswoman from Rodale Inc.
+2. The articles mention that the malware was detected by Google through its DoubleClick Ad Exchange filter.
+3. The articles mention that the malware was discovered by a security researcher. [54193]",within the same impacted entity,true [54193],,system design,outside the system,human actions,software,malicious,deliberate,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,,"The software failure in this context is due to a system design fault. The attackers exploited vulnerabilities in the system's design, such as the PDF plug-ins and browser vulnerabilities, to deliver the malware and execute their malicious actions. [54193]",The software failure was due to faults from 'outside the system' because the malicious ad exploited vulnerabilities in the user's browser to deliver the software. [54193],The software failure was due to human actions. [54193],software [54193],malicious [54193],deliberate [54193],unknown [54193],unknown [54193],unknown [54193],unknown [54193],unknown [54193],Unknown [54193],unknown [54193],unknown [54193]
+582,,2012-02-13 08:00:00+00:00,"Microsoft's Online Store in India Hacked, Usernames and Passwords Stolen","The software failure incident occurred when the Microsoft online store in India was compromised. The failure was discovered and reported on at 10:30 a.m. PT. The system that failed was the online store's security measures, specifically the encryption of customer passwords. The cause of the failure was the passwords being stored in clear text instead of being encrypted. This allowed a Chinese group of hackers called Evil Shadow Team to gain access to the site and obtain unencrypted usernames and passwords. The impact of the failure was that customers who had purchased items through the site were at risk of having their personal information compromised. Microsoft has notified the affected customers and provided guidance on resetting their passwords. The responsible entity for the failure was the Indian IT specialists who had long lamented the lack of awareness about internet security in the country. The impacted entity was Microsoft, as their online store in India was hacked and taken down. Microsoft is diligently working to remedy the incident and restore access to the store as quickly as possible. [10162]",The online store system failed in the software failure incident. [10162],"The software failure incident happened on Sunday, prior to the article being published on February 13, 2012. The exact date of the incident is not mentioned in the given context. [10162]","1. Lack of awareness about Internet security across the country
+2. Unencrypted passwords stored in clear text
+3. Surprising lack of security measures by Microsoft [10162]","1. Lack of awareness about Internet security across the country
+2. Unencrypted passwords stored on the site
+3. Reuse of passwords by users
+4. Limited security measures in place for a company like Microsoft [10162]","1. The Microsoft Store India website was hacked.
+2. Usernames and passwords of the site's customers were stolen.
+3. The Microsoft Store India website was taken down.
+4. Customers were notified and provided with guidance to reset their passwords.
+5. Microsoft is working to restore access to the website as quickly as possible.
+6. The incident exposed a lack of awareness about internet security in India. [10162]","1. Encryption of passwords: If the passwords were encrypted instead of being stored in clear text, it would have made it much more difficult for hackers to access and misuse them.
+2. Improved security measures: Implementing stronger security measures, such as multi-factor authentication or regular security audits, could have prevented the incident.
+3. User awareness and education: Increasing awareness about internet security among users could have prevented them from reusing passwords across multiple accounts, reducing the impact of the incident.
+4. Prompt response and remediation: If the incident was detected and addressed promptly, the impact could have been minimized. [10162]","1. Investigating the cause of the compromise and identifying the vulnerabilities in the software.
+2. Implementing stronger security measures and protocols to prevent future incidents.
+3. Encrypting passwords and sensitive user information to protect against unauthorized access.
+4. Notifying customers about the incident and providing guidance on resetting their passwords.
+5. Restoring access to the Microsoft Store India website as quickly as possible.
+6. Advising users to change their passwords once the site is back online.
+7. Urging users to change their credentials on other sites if they have used the same login information. [10162]",Evil Shadow Team (Chinese group of hackers) [10162],Customers of Microsoft's online store in India. [10162],"1. Comment in a story by AFP
+2. Microsoft's response
+3. Report in the Times of India
+4. Message on the hacked site [10162]",at other entity(s),true [10162],,,outside the system,both,software,malicious,deliberate,development incompetence,unknown,unknown,,unknown,unknown,,unknown,,Option: unknown ; The context does not provide enough information to determine whether the software failure was due to system design or operation faults. [10162],The software failure was due to faults from 'outside the system' because a Chinese group of hackers took credit for the hack. [10162],Both [10162],The software failure was due to a software fault. [10162],malicious [10162],Deliberate fault [10162],"The software failure was due to development incompetence because the passwords were stored in clear text and not encrypted, showing a lack of security. [10162]",unknown [10162],unknown [10162],Option: unknown ; unknown [10162],unknown [10162],Unknown [10162],Option: unknown ; unknown [10162],unknown [10162]
+709,,2014-04-15 07:00:00+00:00,Samsung Galaxy S5 Fingerprint Scanner Allows Multiple Incorrect Attempts,"The software failure incident occurred with the Samsung Galaxy S5's fingerprint scanner. The failure was identified by researchers from SRLabs, a Berlin-based security research and consulting think tank. The flaw in the fingerprint scanner allowed for multiple incorrect attempts without requiring a password. This means that an individual could continuously try different fingerprint spoofs until they gained access to the device. 
+
+The failure occurred in the Samsung Galaxy S5's fingerprint scanning system. The cause of the failure was a vulnerability in the software that allowed for unlimited incorrect attempts without password verification. This flaw compromised the security of the device, as unauthorized individuals could potentially gain access to it by continuously trying different fingerprint spoofs. 
+
+The impact of the failure was a significant security risk for users of the Samsung Galaxy S5. If an unauthorized person gained access to the device, they could potentially access sensitive information or perform malicious activities. 
+
+The responsible entity for the failure was Samsung, the manufacturer of the Samsung Galaxy S5. They were contacted by CNET for comment on the issue. It is unknown if Samsung took any action to address the flaw or provide a fix for affected devices. 
+
+The impacted entity was the users of the Samsung Galaxy S5 who relied on the fingerprint scanner for device security. They were at risk of unauthorized access to their device and potential compromise of their personal information. [26032]",The fingerprint scanner system failed. [26032],The article does not provide a specific date or relative time for when the software failure incident happened. [26032],"1. The software allowed for multiple incorrect attempts at the fingerprint scanner without requiring a password.
+2. The software did not have sufficient security measures to prevent spoofing or bypassing the fingerprint security.
+3. The software did not detect or prevent the use of a ""wood glue spoof"" made from a mold taken from a photo of a fingerprint smudge on the smartphone screen. [26032]","1. The design flaw in the fingerprint scanner of the S5 smartphone.
+2. The ability to make multiple incorrect attempts without requiring a password.
+3. The vulnerability of the fingerprint scanner to spoofing using a ""wood glue spoof"" made from a mold taken from a photo of a fingerprint smudge on the smartphone screen. [26032]","1. The fingerprint scanner on the Samsung Galaxy S5 allowed for multiple incorrect attempts without requiring a password.
+2. This flaw raised additional security concerns about the implementation of fingerprint authentication on the phone.
+3. SRLabs, a security research and consulting think tank, investigated and reported on the issue.
+4. PayPal issued a statement in response to SRLabs' findings. [26032]","1. Implementing a limit on the number of incorrect fingerprint attempts before requiring a password.
+2. Conducting thorough security testing and vulnerability assessments on the fingerprint scanner feature.
+3. Addressing and fixing the same technique used to hack past the fingerprint scanner in Apple's iPhone 5S, as it was already known to be vulnerable.
+4. Ensuring that the fingerprint scanner is not easily bypassed by using spoofing techniques such as the ""wood glue spoof.""
+5. Regularly updating and patching the software to address any identified security vulnerabilities. [26032]","1. Requiring a password after a certain number of incorrect fingerprint attempts.
+2. Implementing a more secure and reliable fingerprint scanning technology.
+3. Patching the software to fix the vulnerability that allows for multiple incorrect attempts without requiring a password.
+4. Conducting a thorough security review and implementing necessary changes to prevent similar incidents in the future. [26032]",Samsung [26032],Samsung [26032],"1. CNET contacted Samsung for comment.
+2. SRLabs, a Berlin-based security research and consulting think tank, investigated the flaw in the fingerprint scanner of the Samsung S5.
+3. The researchers from Security Research Labs demonstrated the hack in a video. [26032]",within the same impacted entity,"True, the software failure incident has occurred before within the same impacted entity. [26032]",,system design,within the system,both,software,non-malicious,deliberate,unknown,unknown,consumer device,false,embedded software,connectivity level,true,unknown,,system design [26032],The software failure was due to faults from 'within the system' [26032],Both [26032],The software failure was due to a software fault. [26032],The software failure was due to a non-malicious fault. [26032],Deliberate [26032],unknown [26032],unknown [26032],consumer device [26032],false [26032],"The software failure is not due to sensors, actuators, processing unit, or network communication. It is due to embedded software. [26032]",There was a software failure at the connectivity level. [26032],true [26032],unknown [26032]
+905,,2014-12-22 08:00:00+00:00,North Korea Experiences Sweeping and Worsening Internet Outages,"The software failure incident occurred in North Korea's internet infrastructure starting on Saturday and persisting until Monday. The failure was caused by denial-of-service attacks, which overwhelmed the target's internet equipment and resulted in internet outages. The impact of the failure was significant, with North Korea's online access going ""totally down"" at one stage. The responsible entity for the attacks was not confirmed, with the US government declining to comment on whether they were responsible. The incident occurred amid tensions over the hacking of Sony Pictures and the cancellation of the movie ""The Interview."" While a benign explanation for the problem was a software glitch in a router, a cyber-attack involving North Korea's internet service was also a possibility. The outage was prolonged and worsened over time, indicating that it was not a common routing instability. The impacted entity was North Korea, as their internet connectivity was severely affected. [56266]",Unknown. [56266],"The software failure incident happened over the weekend and extended into Monday, as mentioned in the article. The specific date of the incident is not provided, so it is unknown. [56266]","1. Router software glitch
+2. Denial-of-service attacks [56266]",Unknown [56266],"1. North Korea experienced sweeping and progressively worse internet outages.
+2. North Korea's online access went ""totally down"" at one stage.
+3. The internet outages extended into Monday.
+4. The outage was prolonged and got worse instead of better over the hours.
+5. North Korea's internet service was affected.
+6. The software failure incident could have been caused by a router suffering a software glitch or a cyber-attack involving North Korea's internet service. [56266]","1. Regular software updates and patches to fix any existing glitches or vulnerabilities in the router's software.
+2. Implementation of robust cybersecurity measures to protect against cyber-attacks, such as denial-of-service attacks.
+3. Monitoring and detection systems to identify and mitigate any routing instabilities or abnormal network behavior.
+4. Improved internet infrastructure and connectivity to handle increased traffic and prevent overwhelming of internet equipment.
+5. Enhanced internet sophistication and technological advancements in North Korea's internet infrastructure to prevent easy disruption by hacktivists. [56266]","1. Investigating and resolving the software glitch in the router.
+2. Implementing measures to prevent future software glitches in the router.
+3. Filtering and discarding spurious traffic to allow normal connections to resume.
+4. Strengthening the infrastructure's defense against denial-of-service attacks.
+5. Identifying and addressing any other potential vulnerabilities in the software or network. [56266]",Unknown. [56266],North Korea [56266],"1. Internet technology service Arbor Networks
+2. Doug Madory, the director of internet analysis at Dyn
+3. State department spokeswoman Marie Harf [56266]",unknown,Unknown [56266],,,both,,software,both,both,unknown,unknown,unknown,unknown,unknown,connectivity level,unknown,unknown,,"Option: unknown ; The software failure could be due to a software glitch or a cyber-attack involving North Korea's internet service. It is not clear whether the failure was due to system design or operation faults, or both. [56266]",Both [56266],"Option: both ; Both human and non-human actions are possible explanations for the software failure. It could be due to a software glitch in a router, which is a non-human action. However, a cyber-attack involving North Korea's internet service is also a possibility, which would involve human actions. [56266]","The context mentions a possible software glitch as the cause of the problem, so the software option is the most likely. [56266]",Both [56266],Both [56266],unknown [56266],unknown [56266],unknown [56266],unknown [56266],unknown [56266],true [56266],unknown [56266],unknown [56266]
+933,,2016-09-09 07:00:00+00:00,Researchers Discover Vulnerability in 911 Emergency Phone System,"The software failure incident occurred in the 911 system. The failure was caused by a Telephony Denial of Service (TDoS) attack, where the attackers launched a high volume of calls against the system to tie it up and prevent legitimate calls from getting through. The incident occurred recently and was brought to the attention of the Department of Homeland Security (DHS) by the National Emergency Number Association four years ago. The researchers from Ben Gurion University in Israel conducted the study and passed their findings to the DHS.
+
+The impact of the failure was significant, as it could cause 33 percent of the nation's legitimate callers to give up in reaching 911. This means that a large number of people in need of emergency assistance would be unable to reach the emergency services. The failure occurred in the call centers and routers that handle the 911 calls, which often operate at near capacity under normal conditions. The vulnerability in the system was worse than initially calculated by the researchers, according to the director of government affairs for the National Emergency Number Association.
+
+The responsible entity for the failure is the group of attackers who launched the TDoS attack as part of an extortion plot. They demanded money and, when turned down, proceeded to launch the attack. The impacted entity is the 911 system itself, as it was overwhelmed by the high volume of calls and unable to receive legitimate calls. [47969]",The 911 emergency phone system. [47969],The article does not provide specific information about when the software failure incident happened. [47969],"1. Malware created by the researchers that infected the phone's firmware.
+2. The firmware initiating calls silently in the background without the phone owner's notice.
+3. No record of the calls appearing in the phone's call log. [47969]","1. Malware infection of the phone's firmware
+2. Attackers sending commands to infected phones
+3. Changing IMSI and IMEI numbers on smartphones
+4. Extortion plot and high volume of calls launched by perpetrators [47969]","1. The malware infected the phone's firmware.
+2. The attacker sent commands to infected phones to call 911 repeatedly.
+3. The calls were initiated by the firmware and occurred silently in the background.
+4. No record of the calls appeared in the phone's call log.
+5. The 911 system was tied up from receiving legitimate calls.
+6. The vulnerability of the 911 system was brought to the attention of DHS.
+7. Denial-of-service attacks were launched against the administrative lines of various 911 call centers. [47969]","1. Altering phone hardware to prevent attackers from changing IMSI and IMEI numbers on smartphones and replacing them with random ones.
+2. Installing a firewall on phone hardware that would detect and block repeated 911 calls with the characteristics of botnet activity.
+3. Implementing redundancy in 911 networks to prevent a single router from becoming a major point of failure in an attack. [47969]","1. Altering phone hardware to prevent attackers from changing IMSI and IMEI numbers on smartphones and replacing them with random ones.
+2. Installing a firewall on phone devices that can detect and block repeated 911 calls with botnet activity characteristics.
+3. Implementing redundancy in 911 networks to prevent a single router from becoming a major point of failure in an attack. [47969]",Unknown. [47969],911 call centers [47969],"1. Trey Forgety, director of government affairs for the National Emergency Number Association
+2. Researchers' paper from the Department of Homeland Security (DHS)
+3. The vulnerability was brought to the attention of DHS four years ago by the National Emergency Number Association
+4. Israeli researchers who conducted the TDoS attack test
+5. Information about the 911 network in North Carolina, which was used as a simulated cellular network for the test [47969]",at other entity(s),true [47969],,system design,outside the system,both,both,malicious,deliberate,unknown,unknown,government,unknown,unknown,wired/wireless link level,,unknown,,The software failure was due to system design faults. [47969],The software failure was due to faults from 'outside the system' [47969],Both [47969],The software failure was due to both hardware and software faults. [47969],The software failure was due to a malicious fault. [47969],Deliberate fault [47969],unknown [47969],unknown [47969],government [47969],unknown [47969],unknown [47969],true [47969],Option: unknown ; unknown [47969],unknown [47969]
+974,,2012-01-15 08:00:00+00:00,"Human error, electrical failure, and uncharted ridge theories for Costa Concordia software failure","The software failure incident occurred on the Costa Concordia ship, which hit the rocks. The failure occurred at an unknown time, as the published context does not provide a specific timeframe. The system that failed was the Electronic Chart Display Information System (ECDIS), a computer-based system that uses GPS and mapping to pinpoint the ship's location. The cause of the failure is unclear, but it is suggested that it could be due to a power surge or a malfunction in the ship's generators. The impact of the failure was significant, as it led to the ship going off course and hitting the rocks. The responsible entity for the failure is unknown, as the context does not provide information about who was responsible for maintaining and operating the ECDIS system. The impacted entity was the Costa Concordia ship itself, as it suffered damage from hitting the rocks. [9455]",Electronic Chart Display Information System (ECDIS) [9455],Unknown. The article does not provide specific information about when the software failure incident happened. [9455],Unknown. The given context does not provide any information about software causes of the failure incident. [9455],"1. Electrical failure
+2. Power surge
+3. Malfunction in the ship's generators
+4. Uncharted ridge
+5. Human error
+6. Recklessness [9455]","1. The ship's lights failed.
+2. The ship's navigation equipment malfunctioned.
+3. The ship's computer systems went haywire.
+4. The ship went too close to shore and hit the rocks. [9455]","1. Regular maintenance and inspection of the ship's electrical systems and generators to prevent power surges and malfunctions.
+2. Implementation of robust cybersecurity measures to prevent hacking or unauthorized access to the ship's software systems.
+3. Adequate training and education for the ship's crew to minimize the risk of human error or recklessness.
+4. Thorough testing and quality assurance of the ship's navigation and computer systems to ensure they are functioning properly.
+5. Proper adherence to International Maritime Organisation rules and regulations, including the use of the ship as a lifeboat and returning to port for evacuation when necessary. [9455]","1. Conduct a thorough investigation to determine the exact cause of the software failure and address any underlying issues.
+2. Implement measures to prevent power surges or electrical failures that could lead to software malfunctions.
+3. Enhance the ship's navigation equipment and computer systems to ensure accurate and reliable functioning.
+4. Improve the ship's emergency response systems to minimize the impact of software failures and enable a quicker recovery.
+5. Provide additional training and education to the crew to prevent human errors and promote responsible decision-making.
+6. Regularly update and maintain the software systems to address any bugs, faults, or glitches that may arise.
+7. Implement stricter protocols and guidelines for captains to follow in case of software failures, ensuring the safety of passengers and crew members. [9455]",Unknown. [9455],The ship's navigation equipment and the Electronic Chart Display Information System. [9455],"1. Reports of an explosion and the failure of the ship's lights.
+2. The ship's massive electrical failure.
+3. The ship's navigation equipment malfunction or computer failure.
+4. The investigation into every decision, order, and event that led up to the sinking. [9455]",unknown,Unknown [9455],,both,both,both,both,,accidental,unknown,temporary,transportation,,,unknown,true,unknown,,Both [9455],"The software failure was due to faults from both within the system and outside the system. The electrical failure and malfunction in the ship's generators suggest a fault within the system, while the computer failure that affected the navigation systems suggests a fault from outside the system. [9455]",Both [9455],The software failure was due to both hardware and software faults. [9455],Option: unknown ; The context does not provide any information about whether the software failure was due to malicious or non-malicious faults. [9455],accidental [9455],unknown [9455],temporary [9455],transportation [9455],Option: unknown ; unknown [9455],Option: unknown ; The context does not provide enough information to determine the specific cause of the software failure. [9455],Unknown [9455],true [9455],unknown [9455]
+1044,,2016-09-01 07:00:00+00:00,Tesla's Software Update Raises Safety Concerns with Falcon Wing Doors,"The software failure incident occurred with the deployment of update version 7.1 2.32.100 for Tesla's Model X electric SUV. The failure occurred when the update was sent over the air to address complaints about the rear doors opening or closing incorrectly. The system that failed was the software controlling the functionality of the Falcon Wing rear doors. The cause of the failure was the deactivation of sensors that were meant to improve closure consistency and reduce false detection of obstacles. However, this deactivation created a more serious safety issue as it disabled the sensors completely.
+
+The impact of the failure was that the doors could potentially close on passengers' hands or other objects without any warning or obstacle detection. This posed a significant safety concern for the owners and passengers of the Model X vehicles. The responsible entity for the failure was Tesla, as they deployed the software update without properly addressing the disabling of the sensors and the potential safety risks associated with it.
+
+The impacted entity was the owners and passengers of the Model X vehicles who installed the update. They were not adequately informed about the deactivation of the sensors and the potential dangers it posed. Tesla's official response to the issue was deemed disconcerting, as they provided vague statements that did not address the disabling of the sensors or the safety concerns. The impacted entity should have been informed about the deactivation of the sensors so that they could take necessary precautions to avoid any accidents or injuries. [47149]",Door sensors. [47149],The article does not provide a specific date for when the software failure incident happened. [47149],1. Deactivation of sensors causing the doors to act up [47149],Unknown. The given context does not provide any information about the non-software causes of the failure incident. [47149],"1. The functionality of Tesla's Falcon Wing rear doors was claimed to be improved.
+2. The software update potentially created a more serious safety issue.
+3. Sensors that were causing the doors to act up may have been deactivated.
+4. Tesla's official response to the issue was disconcerting.
+5. Tesla provided statements to Jalopnik and Automotive News, mentioning that the update was deployed to improve closure consistency and reduce false detection of obstacles.
+6. The specific details of what exactly happened due to the software failure incident are unknown. [47149]","1. Thorough testing and quality assurance of the software update before deployment.
+2. Proper communication and transparency from Tesla regarding the changes made in the software update.
+3. Clear documentation and instructions for Tesla owners on how to ensure safety while using the updated software.
+4. Prompt identification and acknowledgement of the issue by Tesla, followed by immediate action to rectify the problem.
+5. Regular monitoring and maintenance of the software to identify any potential issues or vulnerabilities. [47149]","1. Tesla could release a new software update that addresses the issue and reactivates the sensors.
+2. Tesla could provide a detailed explanation to owners about the disabled sensors and the steps they should take to ensure safety when closing the doors.
+3. Tesla could work on a better fix for the issue and inform owners about the progress and expected timeline for the resolution.
+4. Tesla could improve its communication and provide more specific and transparent responses to address the serious safety concerns raised by the software failure incident. [47149]",Tesla [47149],Owners and passengers of the Model X electric SUV. [47149],"1. Tesla's official response to the issue
+2. Statements provided by Tesla to Jalopnik and Automotive News
+3. Information about the software update version 7.1 2.32.100
+4. Videos posted on YouTube by MEtv Product Reviews showing the deactivation of sensors causing the doors to act up. [47149]",unknown,unknown [47149],,both,both,unknown,both,unknown,unknown,unknown,unknown,transportation,true,sensors,unknown,unknown,unknown,,Both [47149],Both [47149],Unknown [47149],The software failure was due to both hardware and software faults. [47149],Unknown [47149],Unknown [47149],Unknown [47149],Unknown [47149],transportation [47149],true [47149],The software failure was due to 'sensors' [47149],Unknown [47149],unknown [47149],unknown [47149]
+1063,,2016-06-20 07:00:00+00:00,Investigation into Stability Control System of 2001-2002 Toyota Sequoia,"The software failure incident occurred on the first-generation Toyota Sequoia SUV, specifically on the stability control system. The failure was caused by a faulty sensor that triggered the system to engage at highway speeds, leading to two crashes and five injuries. The failure impacted approximately 135,000 vehicles, potentially resulting in a recall. The responsible entity for investigating the issue and potentially initiating a recall is the National Highway Traffic Safety Administration (NHTSA). The impacted entity is Toyota, the manufacturer of the Sequoia SUV. This incident is not the first related to the stability control system, as the 2003 Sequoia was previously recalled in 2010 for low-speed stability control engagement. Despite Toyota's initial claim that it was not a safety issue, they still recalled the vehicles. The NHTSA is currently in the investigation phase to determine if a recall is necessary for the affected vehicles. [45326]",The stability control system. [45326],"Based on the given context, it is not explicitly mentioned when the software failure incident happened. Therefore, the answer is unknown. [45326]",Unknown. The context does not provide specific information about the software causes of the failure incident. [45326],Unknown. [45326],"1. The National Highway Traffic Safety Administration (NHTSA) launched an investigation into the stability control system of the first-generation Toyota Sequoia.
+2. The 2003 Sequoia was recalled in 2010 for low-speed stability control engagement.
+3. Two crashes and five injuries were allegedly linked to the software failure issue.
+4. The faulty sensor in the system caused it to engage at highway speeds, leading to potential instability of the vehicle.
+5. There were 135 complaints reported to the NHTSA regarding improper stability-control engagement, including braking of individual wheels and steering pulling to either the right or left. [45326]","1. Thorough testing and quality assurance of the software before it was released.
+2. Regular software updates and patches to address any potential issues or vulnerabilities.
+3. Proper monitoring and analysis of user feedback and complaints to identify any patterns or recurring problems.
+4. Prompt and effective communication between the software developers and regulatory authorities to address any concerns or issues.
+5. Implementation of robust security measures to prevent any unauthorized access or hacking attempts.
+6. Regular maintenance and inspection of the software system to ensure its proper functioning.
+7. Adequate training and education for users to understand the system and its potential risks or limitations. [45326]","1. Fixing the faulty sensor that is causing the stability control system to engage at highway speeds.
+2. Updating or reprogramming the software that controls the stability control system.
+3. Conducting a recall to address the issue and provide a fix to affected vehicles.
+4. Investigating and identifying any other potential software bugs or faults that may be contributing to the incident.
+5. Implementing additional safety measures or protocols to prevent the stability control system from engaging at incorrect times. [45326]",Unknown. [45326],Owners of the 2001-2002 Toyota Sequoia SUV. [45326],"1. The articles gather information from the National Highway Traffic Safety Administration (NHTSA).
+2. The articles gather information from Reuters. [45326]",within the same impacted entity,true [45326],,,both,both,unknown,non-malicious,unknown,unknown,unknown,transportation,unknown,sensors,unknown,unknown,unknown,,Option: unknown ; The context does not provide enough information to determine whether the software failure was due to 'system design' or 'operation' faults. [45326],Both [45326],Both [45326],unknown [45326],non-malicious faults [45326],unknown [45326],unknown [45326],unknown [45326],transportation [45326],unknown [45326],The software failure is due to a faulty sensor that could cause the system to kick in at highway speeds. [45326],Unknown [45326],unknown [45326],unknown [45326]
+1269,,2018-03-22 07:00:00+00:00,Atlanta Mayor Urges Vigilance After Ransomware Attack on City Systems,"The software failure incident occurred on Thursday, March 22, 2018, at 5:40 a.m. in the City of Atlanta, Georgia. The specific system that failed was the city's customer-facing applications, including those used for bill payments and accessing court-related information. The failure was caused by a cyberattack, which is currently being investigated by the Federal Bureau of Investigation (FBI) and the Department of Homeland Security (DHS). The city engaged Microsoft and Cisco's Incident Response Services to assist in the investigation.
+
+The impact of the failure was that various customer-facing applications were experiencing outages, preventing customers from paying bills or accessing court-related information. However, the city's payroll, public safety, and water services were not affected. Some city data remains encrypted as investigators work to determine the full scope of the attack.
+
+The responsible entity for the failure is currently unknown, as the investigation is ongoing. However, the city's Deputy Chief Information Officer, Daphne Rackley, mentioned that the city had implemented measures in the past to mitigate risks, including a ""cloud strategy"" to migrate critical systems to secure infrastructure.
+
+The impacted entity is the City of Atlanta, as their customer-facing applications were affected by the cyberattack. The city's officials, including Mayor Keisha Lance Bottoms, have urged caution during this incident. [68976]",Unknown. [68976],"The software failure incident happened on Thursday, March 22, 2018, at 5:40 a.m. [68976]",Unknown [68976],unknown [68976],"1. Various customer-facing applications experienced outages.
+2. Customers were unable to pay bills or access court-related information.
+3. Some city data remains encrypted.
+4. The scope of the attack is still being determined.
+5. The city had implemented measures in the past to mitigate risk.
+6. The mayor urged caution. [68976]","1. Implementing stronger security measures and protocols.
+2. Conducting regular vulnerability assessments and audits.
+3. Ensuring timely patching and updates of software systems.
+4. Implementing a robust cloud strategy to migrate critical systems to secure infrastructure.
+5. Investing in cybersecurity training and awareness programs for employees.
+6. Collaborating with external cybersecurity experts and agencies for technical expertise and support.
+7. Regularly monitoring and analyzing network traffic for any suspicious activities.
+8. Implementing multi-factor authentication for user access to critical systems.
+9. Regularly backing up data and implementing disaster recovery plans.
+10. Conducting regular penetration testing to identify and address any potential vulnerabilities. [68976]","1. Investigation and analysis by the Federal Bureau of Investigation and Department of Homeland Security.
+2. Technical expertise and support from the Department of Homeland Security.
+3. Measures to mitigate any risk in the past.
+4. Engagement of Microsoft and Cisco's Incident Response Services in the investigation.
+5. Determining the scope of the attack.
+6. Implementing a ""cloud strategy"" to migrate critical systems to secure infrastructure.
+7. Taking action to address vulnerabilities identified during the investigation.
+8. Restoring encrypted city data.
+9. Fixing any bugs, faults, errors, or glitches that contributed to the software failure incident. [68976]",Unknown. [68976],Various customer-facing applications and several city departments. [68976],"1. The Federal Bureau of Investigation and Department of Homeland Security
+2. Atlanta Information Management officials
+3. DHS spokesman Scott McConnell
+4. City of Atlanta, GA Twitter account
+5. Cox (unspecified)
+6. Rackley (unspecified)
+7. Microsoft
+8. Cisco's Incident Response Services [68976]",at other entity(s),true [68976],,unknown,,unknown,unknown,malicious,unknown,unknown,unknown,government,,unknown,connectivity level,,unknown,,unknown [68976],Option: unknown ; The given context does not provide enough information to determine whether the software failure was due to faults from 'within the system' or from 'outside the system'. [68976],unknown [68976],unknown [68976],"The software failure was due to a malicious fault, as the city received a ransom demand in bitcoin to unlock the system. [68976]",unknown [68976],unknown [68976],unknown [68976],government [68976],Option: unknown ; unknown [68976],unknown [68976],"True, the software failure was at the connectivity level. [68976]",Option: unknown ; unknown [68976],unknown [68976]
+1288,,2018-04-06 07:00:00+00:00,Ford Recalls Vehicles for Transmission Clip and Roll Pin Issues,"Based on the given context, there is no mention of a software failure incident. The recalls issued by Ford are related to transmission clips and transmission roll pins, which are mechanical components rather than software systems. Therefore, the information about when the failure occurred, what system failed, the cause of failure, the impact of failure, the responsible entity(s), and the impacted entity(s) cannot be determined as it is not related to a software failure incident. [70171]",Unknown. The given context does not mention any software failure incident. [70171],"Based on the given context, there is no mention of a software failure incident. Therefore, the answer is unknown. [70171]","Based on the given context, there is no mention of any software causes of the failure incident. Therefore, the answer is unknown. [70171]","1. Missing roll pin in the transmission component
+2. Incorrect installation of the clip [70171]","1. Ford issued a recall for approximately 350,000 trucks and SUVs in North America.
+2. The recall includes the 2018 F-150, 2018 Expedition, 2018 Mustang, and 2018 Lincoln Navigator.
+3. The recall is related to a small transmission component, specifically a roll pin that attaches the parking pawl and the transmission case.
+4. The roll pin might be missing, causing the vehicle to lose Park entirely.
+5. If the vehicle loses Park, it won't shift to Park even when selected with the shifter.
+6. This software failure incident presents a safety hazard. [70171]","1. Proper installation and quality control of the transmission clips and roll pins during the manufacturing process.
+2. Thorough testing and inspection of the transmission components before the vehicles are released to the market.
+3. Implementation of a robust software testing process to identify any potential software bugs or faults related to the transmission system.
+4. Regular software updates and patches to address any identified software vulnerabilities or issues.
+5. Continuous monitoring and analysis of vehicle performance data to detect any anomalies or abnormalities related to the transmission system.
+6. Effective communication and collaboration between the software development team, manufacturing team, and quality control team to ensure all potential software failures are addressed and resolved before the vehicles are sold to customers. [70171]","1. Checking to see if the clip was installed correctly and securing the clip.
+2. Adjusting the shifter cable.
+3. Ensuring that the roll pin is not missing and attaching it properly to the parking pawl and transmission case. [70171]",Unknown. [70171],Unknown. The context does not mention any software failure incident. [70171],"1. The articles gather information about the software failure incident from Ford's recall announcements.
+2. The articles mention that the software failure incident involves transmission clips and transmission roll pins.
+3. The articles state that the software failure incident affects certain models of Ford vehicles, including the 2017-2018 Ford F-150, 2018 Expedition, 2018 Mustang, 2018 Lincoln Navigator, 2018 F-650, and F-750 trucks.
+4. The articles mention that the software failure incident is related to the vehicles' 10-speed automatic transmissions and six-speed automatic transmissions.
+5. The articles mention that the software failure incident has resulted in at least one accident and injury.
+6. The articles state that the software failure incident can be fixed by checking if the clip was installed correctly and securing the clip and adjusting the shifter cable if necessary. [70171]",unknown,Unknown [70171],,neither,both,neither,neither,neither,accidental,neither,unknown,transportation,unknown,unknown,false,unknown,unknown,,Neither [70171],Both [70171],Neither [70171],Neither [70171],Neither [70171],Accidental [70171],Neither [70171],unknown [70171],transportation [70171],unknown [70171],unknown [70171],false [70171],unknown [70171],unknown [70171]
+1391,,2018-10-05 07:00:00+00:00,Toyota's Latest Recall: Software Failure Causes Power Loss and Stalling,"The software failure incident occurred in the hybrid system of certain Toyota Prius and Prius V vehicles. The failure causes the vehicles to lose power and stall instead of entering a failsafe driving mode when a fault is detected in the system. This failure can increase the risk of a crash if it happens at an inconvenient time. The issue was not anticipated in two prior recalls from 2014 and 2015. The failure occurs when the failsafe mode fails to activate due to an internal issue. The impacted entity is the owners of the affected Prius and Prius V vehicles. The responsible entity for the software failure is Toyota. Toyota has planned an update for the hybrid system to ensure that the failsafe mode activates properly. This update will be provided free of charge to owners who bring their vehicles to a dealership for the recall. Additionally, Toyota will replace the inverter component at no cost for customers who have experienced an inverter failure due to this issue. Prius owners affected by the software failure will receive recall notices starting in August. [101056, 77003]","The hybrid system failed in the software failure incident. [101056, 77003]","The software failure incident happened sometime before the article published on 2020-06-29 07:00:00+00:00. The article mentions that the issue was addressed in two prior recalls from 2014 and 2015, indicating that the software failure incident occurred before those recalls. [101056, 77003]","Unknown [101056, 77003]","Unknown. The given context does not provide any information about non-software causes of the failure incident. [101056, 77003]","1. The vehicles lost power and stalled instead of entering ""limp"" mode.
+2. The risk of a crash increased if the loss of power occurred at a bad time.
+3. Power steering and brake functions remained operational despite the loss of power.
+4. The issue was addressed in two prior recalls, but this new recall addresses a condition that the previous recalls did not anticipate. [101056, 77003]","1. Thorough testing and quality assurance of the software before it was deployed in the vehicles.
+2. Identifying and addressing the fault in the hybrid system during the previous recalls in 2014 and 2015.
+3. Anticipating and addressing the condition that led to the software failure in the current recall.
+4. Implementing failsafe mechanisms and failover systems to ensure that the vehicles can enter ""limp"" mode in case of a fault.
+5. Regular software updates and patches to address any potential vulnerabilities or issues in the software.
+6. Continuous monitoring and analysis of the software performance to identify and fix any potential failures or bugs. [101056, 77003]","A software patch/update [101056, 77003]","Unknown. [101056, 77003]","Owners of the recalled Toyota Prius and Prius V vehicles. [101056, 77003]","1. Toyota's release
+2. Prior recalls from 2014 and 2015
+3. Published articles on the incident [77003]",within the same impacted entity,"The software failure incident is a recurring occurrence within the same impacted entity. [101056, 77003]",,system design,within the system,non human actions,software,non-malicious,accidental,both,temporary,transportation,true,embedded software,false,,unknown,,"The software failure in this case is due to system design faults. [101056, 77003]","The software failure was due to faults from within the system. [101056, 77003]","non human actions [101056, 77003]","The software failure was due to software faults. [101056, 77003]","The software failure was due to non-malicious faults. [101056, 77003]","accidental [101056, 77003]","Both [101056, 77003]","temporary [101056, 77003]","transportation [101056, 77003]","true [101056, 77003]","embedded software [101056, 77003]","false [101056, 77003]","Option: unknown ; unknown [101056, 77003]","unknown [101056, 77003]"
+1393,,2018-10-10 07:00:00+00:00,"Pentagon Weapons Systems Vulnerable to Hackers, Government Review Finds","The software failure incident occurred in the Defense Department's weapon systems, which were increasingly computerized and networked. The failure was caused by a combination of the department's past failure to prioritize weapon systems cybersecurity and the presence of millions of lines of software in various parts and subsystems, creating vulnerabilities that were not fully understood by weapons designers and contractors. The incident involved the exploitation of various interfaces within the weapon systems, which served as pathways for unauthorized access.
+
+The impact of the failure was significant, as testers were able to guess an admin password on a weapons system in just nine seconds and partially shut down another system by scanning it. The testers were able to take control of the systems and operate undetected due to poor password management and unencrypted communications. The failure highlighted the basic issues in the systems' security, including the use of default passwords and lack of encryption.
+
+The responsible entity for the failure was the Defense Department, which had failed to prioritize cybersecurity in weapon systems. The impacted entity was the weapon systems themselves, as they were vulnerable to unauthorized access and control. The report from the Government Accountability Office (GAO) highlighted the dismissive attitude of the officials overseeing the systems, further exacerbating the impact of the failure.
+
+Overall, the incident revealed the lack of cybersecurity measures in the Defense Department's weapon systems, leading to vulnerabilities that were exploited by testers. The failure occurred due to poor password management, unencrypted communications, and a lack of understanding of the system's interfaces. The impacted entity was the Defense Department's weapon systems, and the responsible entity was the Defense Department itself. [76390, 76430]","Unknown. [76430, 76390]","The article does not provide specific information about when the software failure incident happened. [76430, 76390]","1. Easy-to-crack passwords on weapons systems.
+2. Failure to change default passwords on weapons systems.
+3. Lack of protections against ""insiders"" working on elements of the programs.
+4. Vulnerabilities in the millions of lines of software buried in parts and subsystems.
+5. Lack of understanding and awareness of interfaces that could be used as pathways for attacks.
+6. Inadequate monitoring and detection of intrusion technology by humans responsible for monitoring the systems. [76390, 76430]","1. The Defense Department's past failure to prioritize weapon systems cybersecurity.
+2. The millions of lines of software buried in parts and subsystems, creating vulnerabilities that weapons designers and contractors often do not fully grasp.
+3. Weapon systems having a wide variety of interfaces, some of which are not obvious, that could be used as pathways for intrusion.
+4. The humans responsible for monitoring the automated systems not understanding what the intrusion technology was trying to tell them.
+5. Poor basic password security or lack of encryption in the department's weapon systems. [76390, 76430]","1. The CEO of the company was put on death watch.
+2. A tester was able to guess an admin password on a weapons system in nine seconds.
+3. Administers failed to change the default passwords on weapons systems.
+4. Another tester managed to partially shut down a weapons system by scanning it.
+5. The Defense Department failed to prioritize weapon systems cybersecurity.
+6. Millions of lines of software buried in parts and subsystems created vulnerabilities.
+7. Weapon systems have a wide variety of interfaces that could be used as pathways for intrusion.
+8. Intrusion detection systems correctly identified test team activities but warnings were so common that operators were desensitized to them.
+9. Vulnerabilities of major weapon systems were examined for the first time by congressional auditors.
+10. Easy-to-crack passwords and lack of protections against insiders allowed penetration of many weapons systems.
+11. Testing teams toyed with their Pentagon targets, causing pop-up messages to appear on users' screens. [76430, 76390]","1. Changing default passwords on weapons systems.
+2. Prioritizing weapon systems cybersecurity.
+3. Fully understanding the vulnerabilities created by the millions of lines of software buried in parts and subsystems.
+4. Testing and patching bugs found through a bug-bounty program.
+5. Implementing strong basic password security and encryption measures.
+6. Improving overall security hygiene and practices. [76430, 76390]","1. Changing default passwords on weapons systems.
+2. Prioritizing weapon systems cybersecurity.
+3. Understanding and addressing vulnerabilities in buried software.
+4. Identifying and addressing potential problem areas such as industrial control systems, devices that don't connect to the internet, and counterfeit parts.
+5. Actively patching bugs and vulnerabilities through bug-bounty programs.
+6. Fixing vulnerabilities identified in the Government Accountability Office's survey.
+7. Implementing measures to address vulnerabilities in submarines, missiles, cargo rockets, radars, fighter jets, refueling tankers, aircraft carriers, destroyers, satellites, helicopters, and electronic jammers. [76430, 76390]","Unknown. [76430, 76390]","The Pentagon and the Defense Department were impacted by the software failure incident. [76430, 76390]","1. GAO report
+2. Congressional auditors
+3. ""Red team"" hackers
+4. Testing teams
+5. Automated systems
+6. Humans responsible for monitoring the systems [76430, 76390]",unknown,"The context does not provide enough information to determine if the software failure incident was a recurring occurrence. [76390, 76430]",,both,both,both,both,,unknown,unknown,unknown,unknown,true,unknown,unknown,unknown,unknown,,"The software failure was due to both system design and operation faults. [76390, 76430]","The software failure was due to faults from both within the system and outside the system. [76430, 76390]","Both [76430, 76390]","Both hardware and software faults contributed to the software failure. [76390, 76430]","Option: unknown ; The context does not provide information about whether the software failure was due to malicious or non-malicious faults. [76430, 76390]","The context does not provide enough information to determine whether the software failure was deliberate or accidental. [76430, 76390]","The context does not provide enough information to determine whether the software failure was accidental or due to development incompetence. [76430, 76390]","unknown [76430, 76390]",unknown [76390],"true [76390, 76430]","unknown [76430, 76390]","Unknown [76390, 76430]","unknown [76430, 76390]","unknown [76430, 76390]"
+1477,,2019-03-13 07:00:00+00:00,GCSE coursework lost in cyber attack on Bridport school,"The software failure incident occurred when a school's computer network was attacked, resulting in the loss of GCSE coursework. The attack was initiated through an email claiming to be from a colleague at another school in Dorset, which infected the network. The specific system that failed was the school's IT network, which was compromised by malicious software. The cause of the failure was the opening of an unsolicited email and clicking on a suspicious link, which allowed the attackers to install the malware on the victim's computer. As a result, the coursework saved on the school's system was lost.
+
+The impact of the failure was significant, as the school now has to explain the loss of coursework to parents and pupils, which can damage its reputation. The incident highlights the importance of implementing cybersecurity measures, such as regularly backing up data on external drives, keeping antivirus software up to date, and educating network users about the risks of opening unsolicited emails or clicking on suspicious links.
+
+The responsible entity for the attack is unknown, as the context does not provide specific information about the identity of the attackers. However, it is mentioned that schools and other public institutions, like hospitals, have become regular victims of such attacks. The impacted entity is the school itself, as it suffered the loss of GCSE coursework and now has to address the consequences of the attack with parents and pupils. The incident also emphasizes the need for schools to prioritize cybersecurity and allocate sufficient budget to protect themselves from such attacks. [82465]",The computer network system failed in the software failure incident. [82465],"Based on the given context, it is not possible to determine the exact date of the software failure incident. [82465]","1. The software failure incident was caused by a malicious email claiming to be from a colleague at another Dorset school.
+2. The email infected the computer network, leading to the loss of GCSE coursework saved on the school's system. [82465]","1. Falling victim to a cyber attack
+2. Opening unsolicited emails or clicking on suspicious links
+3. Lack of awareness and education about cyber security
+4. Lack of budget or resources to protect against cyber attacks [82465]","1. GCSE coursework was lost.
+2. Year 9 and 10 reports will be delayed by at least a week.
+3. The school is working to rectify the issue.
+4. The school is liaising with exam boards about the lost coursework.
+5. A police expert has advised that no school information has left the building and the school is not compromised in that way.
+6. Personal data relating to staff, students, and parents is not held on the affected system and is secure. [82465]","1. Regularly backing up data on an external drive.
+2. Keeping anti-virus software up to date.
+3. Educating anyone who uses the network to not open unsolicited emails or click on suspicious links. [82465]","1. Rectifying the issue by working with specialists to remove the malicious software and restore the encrypted files.
+2. Taking action to prevent future attacks, such as implementing stronger cybersecurity measures and practices.
+3. Educating staff, students, and parents about cybersecurity best practices, including not opening unsolicited emails or clicking on suspicious links.
+4. Regularly backing up data on an external drive to prevent data loss in the event of an attack.
+5. Keeping anti-virus software up to date to detect and prevent malware infections.
+6. Implementing measures to protect personal data of staff, students, and parents, such as storing it securely on separate systems. [82465]",Unknown. [82465],"Year 11 students, school, exam boards, parents, pupils, Year 9 and 10 reports. [82465]","1. The email claimed to be from a colleague at another Dorset school and infected the computer network.
+2. Coursework from one subject submitted by Year 11 students, which was saved on the school's system, has been lost.
+3. Head teacher David Herbert stated that personal data relating to staff, students, and parents is not held on the system and is secure.
+4. A police expert advised that it is very unlikely that any school information has left the building and the school is not compromised in that way.
+5. The head teacher mentioned that many schools do not realize they have to report each cyber attack and some do not report them to reduce reputational damage.
+6. The head teacher's team carried out tests on cyber security in the education sector and took an average of four hours to take over a school's IT network. [82465]",unknown,Unknown [82465],,unknown,outside the system,both,software,malicious,deliberate,unknown,unknown,,,unknown,unknown,,unknown,,unknown [82465],The software failure was due to faults from 'outside the system' because the attack came from an external source (an email claiming to be from a colleague at another school). [82465],Both [82465],software [82465],The software failure was due to a malicious fault. [82465],Deliberate fault [82465],unknown [82465],unknown [82465],Option: knowledge ; education [82465],Option: unknown ; unknown [82465],unknown [82465],Unknown [82465],Option: unknown ; unknown [82465],unknown [82465]
+1752,,2020-02-03 08:00:00+00:00,Twitter Flaw Exposes User Phone Numbers to State-Sponsored Actors,"The software failure incident occurred on December 24, 2019, when a security researcher discovered a flaw in Twitter's ""contacts upload"" feature. The researcher, Ibrahim Balic, was able to match 17 million phone numbers to specific Twitter user accounts using the Android app. This flaw allowed unauthorized access to user phone numbers. As a result, a senior Israeli politician was identified through this tool. The incident was not immediately addressed by Twitter, as they did not send individual notifications to users whose phone numbers were accessed, which is considered a best practice in information security.
+
+The impact of this software failure was significant as it compromised the privacy and security of Twitter users. The unauthorized access to phone numbers could potentially lead to further privacy breaches or even targeted attacks. The responsible entity for this failure is Twitter, as the flaw was present in their ""contacts upload"" feature. The impacted entity is the users of Twitter, whose phone numbers were accessed without their consent.
+
+It is worth noting that Twitter suspected a possible connection to state-backed actors, particularly in Iran, as the attackers had unrestricted access to Twitter despite the platform being banned in that country. This suggests that the software failure may have been exploited by state actors for surveillance or intelligence purposes. [96761]","The ""contacts upload"" feature. [96761]",The article does not provide a specific date for when the software failure incident happened. [96761],"1. Flaw in the ""contacts upload"" feature of Twitter's Android app.
+2. Exploitation of the flaw by a security researcher.
+3. High volume of requests to use the feature from IP addresses in Iran, Israel, and Malaysia, which may have ties to state-sponsored actors. [96761]","1. Attempts by possible state actors to access phone numbers associated with user accounts
+2. Flaw in the company's ""contacts upload"" feature
+3. Exploitation of the flaw by a security researcher
+4. Lack of individual notifications to users whose phone numbers were accessed [96761]","1. Attempts by possible state actors to access phone numbers associated with user accounts were discovered.
+2. A flaw in the ""contacts upload"" feature of Twitter's Android app was exploited by a security researcher.
+3. The security researcher was able to match 17 million phone numbers to specific Twitter user accounts.
+4. A senior Israeli politician was identified through the matching of a phone number using the tool.
+5. A high volume of requests to use the feature came from IP addresses in Iran, Israel, and Malaysia.
+6. Some of these IP addresses may have ties to state-sponsored actors.
+7. The exact number of user phone numbers exposed is unknown.
+8. Twitter did not send individual notifications to users whose phone numbers were accessed in the data leak. [96761]","1. Regular security audits and vulnerability assessments of the software.
+2. Thorough testing and quality assurance processes before releasing the software.
+3. Promptly addressing and fixing reported bugs and flaws in the software.
+4. Implementing proper access controls and authentication mechanisms to prevent unauthorized access.
+5. Providing individual notifications to users whose phone numbers were accessed in the data leak.
+6. Implementing best practices recommended by information security experts.
+7. Monitoring and analyzing network traffic to detect suspicious activity and potential attacks.
+8. Implementing strong encryption measures to protect user data.
+9. Conducting background checks and vetting of employees and contractors who have access to sensitive user information.
+10. Regularly updating and patching the software to address any known vulnerabilities. [96761]","1. Patching the flaw in the contacts feature of the Android app.
+2. Strengthening the security measures to prevent unauthorized access to user phone numbers.
+3. Conducting a thorough investigation to identify the extent of the data leak and the affected user accounts.
+4. Notifying individual users whose phone numbers were accessed in the data leak.
+5. Implementing best practices recommended by information security experts to prevent similar incidents in the future. [96761]",Unknown. [96761],Twitter users [96761],"1. Twitter's statement published on its privacy blog.
+2. TechCrunch's report on the security researcher's findings.
+3. The company spokeswoman's response to inquiries.
+4. The identification of a ""high volume of requests"" from IP addresses in Iran, Israel, and Malaysia.
+5. The statement that ""some of these IP addresses may have ties to state-sponsored actors."" [96761]",unknown,Unknown [96761],,system design,outside the system,non human actions,software,malicious,deliberate,development incompetence,unknown,unknown,unknown,unknown,connectivity level,,unknown,,"The software failure was due to a flaw in the 'contacts upload' feature of Twitter's Android app, which allowed a security researcher to match phone numbers to user accounts. This indicates a system design fault. [96761]",The software failure was due to faults from 'outside the system' as state actors attempted to access user phone numbers through a flaw in the contacts upload feature. [96761],"The software failure was due to non-human actions, specifically attempts by possible state actors to access user accounts. [96761]",The software failure was due to a software flaw in the 'contacts upload' feature of Twitter's Android app. [96761],The software failure was due to a 'malicious' fault because attempts were made by possible state actors to access user accounts through exploiting a flaw in the contacts feature of Twitter's Android app. [96761],Deliberate fault [96761],"The software failure was due to a flaw in the 'contacts upload' feature of Twitter's Android app, which allowed a security researcher to match phone numbers to user accounts. This indicates a development incompetence. [96761]",unknown [96761],unknown [96761],unknown [96761],unknown [96761],true [96761],Option: unknown ; unknown [96761],unknown [96761]
+1863,,2020-09-18 07:00:00+00:00,"Boat tour company losing £1,000 a day due to drained river.","The software failure incident occurred between Weston Lock and Bath Bottom Lock on Tuesday. The system that failed was the software that operates a vertical sluice gate, causing it to open suddenly. The failure was due to a fault in the software. As a result, the water level dropped by about 1.8m (5.9ft). The impact of the failure was significant, with boat owners becoming stranded and experiencing a loss of revenue. Paul Siddall, director of River Adventures, stated that the malfunction had a ""significant financial impact"" on his boat tour company, which employs eight staff. The incident also affected people who live and work on the river, especially considering that this year's tourist season had already been shortened due to the Covid-19 pandemic and flooding in the spring. The responsible entity for the software failure was the Environment Agency. Boat owners criticized the agency for not acting soon enough and expressed concerns about the incident happening again. In a meeting with boat owners, the agency's representative, Ian Withers, apologized and admitted that they ""could have done better"" in handling the situation, acknowledging that it was distressing. Overall, the software failure had a significant impact on boat owners, the River Adventures company, and the individuals who rely on the river for their livelihoods. [104834]",The software that operates a vertical sluice gate. [104834],The article does not provide a specific date for when the software failure incident happened. [104834],"1. Fault in the software that operates a vertical sluice gate, causing it to open suddenly. [104834]","1. The water level dropped by about 1.8m (5.9ft).
+2. A fault in the software that operates a vertical sluice gate caused it to open suddenly. [104834]","1. The water level dropped by about 1.8m (5.9ft).
+2. Boat owners became stranded.
+3. The revenue of Paul Siddall's boat tour company was significantly impacted.
+4. The tourist season was further shortened.
+5. People living and working on the river were affected.
+6. There was a serious impact on a lot of people.
+7. Boat owners criticized the Environment Agency for not acting soon enough.
+8. The Environment Agency admitted it ""could have done better"" and apologized. [104834]","1. Regular software maintenance and updates to ensure the software is functioning properly.
+2. Thorough testing and quality assurance processes to identify and fix any potential faults or bugs in the software.
+3. Implementation of proper monitoring and alert systems to quickly identify and address any issues with the software.
+4. Adequate training and support for the operators of the software to ensure they are aware of potential issues and know how to respond in case of a failure.
+5. Improved communication and coordination between the Environment Agency and boat owners to address any concerns or previous incidents related to the software.
+6. Implementation of backup systems or redundancy measures to minimize the impact of a software failure.
+7. Regular inspections and maintenance of the vertical sluice gate and its associated software to identify and address any potential faults or malfunctions before they cause a significant incident. [104834]","1. Repair or replace the faulty software that operates the vertical sluice gate.
+2. Conduct a thorough investigation to identify the root cause of the software failure and implement measures to prevent it from happening again.
+3. Improve communication and response protocols within the Environment Agency to ensure prompt action in case of similar incidents.
+4. Provide compensation or financial support to affected boat owners and businesses to mitigate the financial impact of the incident.
+5. Implement regular maintenance and monitoring procedures for the software and associated systems to detect and address any potential issues before they cause failures.
+6. Collaborate with experts or consultants in software engineering or water management to assess and improve the reliability and functionality of the software.
+7. Enhance training and education programs for Environment Agency staff involved in operating and maintaining the software to ensure they have the necessary skills and knowledge to prevent and address software failures effectively. [104834]",The Environment Agency was responsible for causing the software failure incident. [104834],Paul Siddall's boat tour company and boat owners. [104834],"1. Boat owners who became stranded and criticized the Environment Agency for not acting soon enough.
+2. The Environment Agency's statement about the incident and their plan to raise the water levels.
+3. The fault in the software that operates a vertical sluice gate, causing it to open suddenly.
+4. The fault occurred between Weston Lock and Bath Bottom Lock on Tuesday.
+5. The meeting with boat owners where the Environment Agency's Ian Withers apologized and admitted they could have done better.
+6. Paul Siddall, director of River Adventures, who mentioned the significant financial impact and the potential impact on the future of the business.
+7. The impact on people who live and work on the river, as well as the shortened tourist season due to the Covid-19 pandemic and previous flooding. [104834]",within the same impacted entity,true [104834],,system design,within the system,non human actions,software,non-malicious,accidental,unknown,temporary,natural resources,true,embedded software,unknown,,,,The software failure was due to a 'system design' fault. [104834],The software failure was due to faults from within the system. [104834],"The software failure was due to non-human actions, specifically a fault in the software that operates the sluice gate. [104834]",The software failure was due to a software fault. [104834],The software failure was due to a non-malicious fault in the software that operates the vertical sluice gate. [104834],The software failure was an accidental fault. [104834],The context does not provide enough information to determine whether the software failure was accidental or due to development incompetence. [104834],The software failure was due to a temporary fault in the software that operates the vertical sluice gate. [104834],natural resources [104834],true [104834],"The software failure was due to a fault in the software that operates a vertical sluice gate, indicating a problem with the embedded software. [104834]",Unknown [104834],Option: unknown ; unknown [104834],"Option: unknown ; The software failure was due to a 'fault' in the software that operates a vertical sluice gate, causing it to open suddenly. [104834]"
+1871,,2020-10-06 07:00:00+00:00,Security Flaw in Hi-Tech Chastity Belt Allows Remote Locking,"The software failure incident occurred when Qiui, a Chinese developer, failed to fully address security vulnerabilities in their app and server-based application programming interface (API). The failure was first reported by Pen Test Partners (PTP) in May, prompting Qiui to update the app and API. However, they left an older version of the API online, leaving users who had not downloaded the latest version at risk. PTP sent follow-up emails and involved Techcrunch to press for action, but Qiui's CEO admitted that their attempts to fix the issue had created more problems. Despite ongoing efforts, the vulnerabilities remained unresolved. Five months later, PTP decided to go public with their discovery due to the trivial nature of finding the issues and Qiui's focus on developing another internal device. This decision increased the likelihood of a real-world attack. The failure impacted the security of Qiui's app and API, leaving users vulnerable to potential hacks or breaches. Qiui was responsible for the failure as they failed to fully address the vulnerabilities and left the older version of the API active. The impacted entities were the users of Qiui's app who had not downloaded the latest version, potentially exposing their personal information and privacy to risk. [106477, 106334, 109711]","The API system failed in the software failure incident. [106477, 106334, 109711]","The article does not provide a specific date for when the software failure incident happened. [106477, 106334, 109711]","1. Qiui left an older version of the API online, making users who had not downloaded the latest version of the app vulnerable.
+2. Qiui's attempt to fix the issue created more problems.
+3. The server had a vulnerability that allowed the disclosure of personal details and location information.
+4. The underlying issues identified by the researchers were not fixed by Qiui. [106355, 106477, 106334, 109711]","1. Lack of manual override: The software failure incident was caused by the absence of a manual override feature, which could have allowed users to manually control the device in case of a failure or vulnerability.
+
+2. Inadequate testing and quality control: Qiui's attempt to fix the issue resulted in creating more problems, indicating a lack of thorough testing and quality control measures in place.
+
+3. Insufficient security measures: The incident highlights that the developers behind 'smart' adult products, including Qiui, still have lessons to learn in terms of implementing robust security measures to protect user data and prevent vulnerabilities.
+
+4. Delayed response and action: The security firm had reported the issues to Qiui, but the company took five months to address the problems, leaving the older version of the software active and users vulnerable during that time.
+
+5. Failure to address underlying issues: The researchers shared their findings with the company, but when one of the underlying issues was not fixed, they decided to make their findings public. This indicates a failure on Qiui's part to effectively address and resolve the identified vulnerabilities. [106355, 106477, 106334, 109711]","1. Qiui updated the software in response to the report from PTP.
+2. The older version of the software was still active and users remained vulnerable.
+3. Qiui attempted to fix the issue but created more problems.
+4. The research team flagged the issue to Qiui and updated the app and API.
+5. The earlier version of the API remained online, leaving users at risk.
+6. Pen Test Partners sent follow-up emails and involved Techcrunch to press for action.
+7. The researchers discovered a way to access personal details and location information.
+8. The researchers shared their findings with the company.
+9. One of the underlying issues was not fixed.
+10. Qiui's CEO attempted to tackle the issue but encountered more problems.
+11. The UK security team decided to go public after five months of communication.
+12. Going public increased the likelihood of a real-world attack. [106355, 106477, 109711]","1. Fully updating and patching the software to fix the initial issues reported by PTP.
+2. Removing the older version of the API that was still active and vulnerable.
+3. Addressing the additional problems that were created when attempting to fix the initial issue.
+4. Responding promptly to the follow-up emails from PTP and taking action to address the remaining vulnerabilities.
+5. Taking the necessary steps to ensure that users are forced to download the latest version of the app, eliminating the risk for those who have not updated.
+6. Implementing a manual override feature to prevent users from being forced to resort to brute force methods.
+7. Learning from past mistakes and applying lessons to improve the development and security of smart adult products.
+8. Taking proactive measures to address and fix software issues before they are publicly exposed by security teams like PTP.
+9. Conducting thorough testing and quality assurance processes to identify and resolve any potential software flaws or vulnerabilities before release.
+10. Prioritizing security and regularly updating and maintaining the software to prevent future incidents. [106477, 106334, 109711]","1. Updating the software to fix the issues.
+2. Addressing the vulnerability in the older version of the API and ensuring all users have downloaded the latest version of the app.
+3. Resolving the problems created by the attempted fix.
+4. Taking action and addressing the issue promptly after being alerted by Pen Test Partners and Techcrunch.
+5. Working on another internal device to improve overall software security.
+6. Taking the necessary steps to prevent real-world attacks. [106477, 106334, 109711]","Qiui [106355, 106477, 109711]","Users of Qiui's app and server-based API. [106477, 109711]","1. Mr Lomas' team flagged the issue to Qiui in May.
+2. Qiui updated its app and the server-based API involved.
+3. The older version of the API was still online, leaving users at risk.
+4. Pen Test Partners sent follow-up emails and involved the news site Techcrunch.
+5. Qiui fixed most of the issues in May but left the older version active and users vulnerable.
+6. Qiui stated that they tried to fix the issue but it created more problems.
+7. Techcrunch reported on Qiui's response.
+8. Five months after first alerting Qiui, Pen Test Partners decided to go public with their discovery.
+9. Pen Test Partners acknowledged that going public made a real-world attack more likely.
+10. Qiui confirmed that they had tried to fix the issue but encountered more problems.
+11. Mr Lomas stated that they felt compelled to publish due to the trivial nature of finding some of the issues and Qiui working on another internal device. [106477, 106334, 109711]",at other entity(s),"true [106477, 106334, 109711]",,system design,both,both,both,both,unknown,both,temporary,consumer device,true,unknown,connectivity level,unknown,timing,,"The software failure was due to 'system design' faults. [106355, 106334, 109711]","Both [106355, 106334, 109711]","Both [106355, 106477, 106334, 109711]","The software failure was due to both hardware and software faults. [106355, 106334, 109711]","Both [106355, 106477, 109711]","Unknown [106355, 106477, 106334, 109711]","Both [106355, 106477, 106334, 109711]","temporary [106355, 106334, 109711]","consumer device [106355, 106477, 106334, 109711]","true [106477, 106334, 109711]","unknown [106334, 109711]","True, the software failure was at the 'connectivity level' because the software relies on sending commands to a computer server used by the manufacturer. [106355, 106477, 106334, 109711]","unknown [106355, 106477, 109711]","timing [106355, 106477, 106334, 109711]"
+1923,,2020-12-14 08:00:00+00:00,"CD Projekt Red Apologizes for Cyberpunk 2077 Performance, Offers Refunds","The software failure incident occurred during the launch of Cyberpunk 2077 in December 2020. The system that failed was the console version of the game, specifically on Sony's PlayStation 4 and Microsoft's Xbox One. The failure was caused by the presence of numerous unfixed bugs, resulting in significant performance problems. The game also struggled on newer devices like Microsoft's Xbox Series X and Sony's PlayStation 5.
+
+The cause of the failure was attributed to the development strategy employed by CD Projekt Red, the responsible entity. The studio initially focused on making the game look impressive on PCs and then planned to adjust it for consoles, particularly older ones. However, this approach proved to be more challenging than anticipated, leading to the underestimation of the task.
+
+The impact of the failure was widespread, with players experiencing crashes, glitches, and other issues that hindered their gameplay experience. This resulted in disappointment and frustration among the gaming community, as the console version did not meet the expected quality standard.
+
+In response to the failure, CD Projekt Red's co-founder, Marcin Iwinski, publicly apologized and took ownership of the situation. The studio acknowledged the need to fix the bugs and crashes across all platforms. They committed to releasing regular patches, with the first update scheduled within 10 days of the apology video. CD Projekt Red aimed to address the issues and improve the game's performance in the following weeks.
+
+The impacted entities were the players who purchased and played Cyberpunk 2077 on consoles, particularly PlayStation 4 and Xbox One users. Additionally, the reputation of CD Projekt Red as a game developer was affected by the software failure incident. [110171]","Console versions of Cyberpunk 2077. [110171, 115853]","The software failure incident happened last month, prior to the article being published on 2021-01-13. The exact date of the incident is not mentioned in the given context. [110171, 115853]","1. Underestimation of the task of adjusting the game for consoles, especially older ones.
+2. Significant improvements not being delivered in the final day zero update.
+3. Challenges brought on by COVID-19 work-from-home restrictions, leading to lost dynamics and communication issues. [110171, 115853]","1. COVID-19 work-from-home restrictions
+2. Challenges with video calls and email communication
+3. Underestimation of the task of adjusting the game for consoles, especially older ones. [110171, 115853]","1. Sony and Microsoft removed Cyberpunk from their consoles' digital stores.
+2. Refunds were offered to unhappy customers.
+3. The game had significant performance problems on Sony's PlayStation 4 and Microsoft's Xbox One.
+4. The game also struggled on new devices like Microsoft's Xbox Series X and Sony's PlayStation 5.
+5. The studio underestimated the task of adjusting the game for consoles, especially older ones.
+6. The studio wanted to make the game look epic on PCs, which led to issues on consoles.
+7. The game debuted with many unfixed bugs. [110171, 115853]","1. Thorough testing and quality assurance processes.
+2. Adequate time and resources allocated for development and optimization for all platforms.
+3. Effective communication and collaboration among team members, which may have been hindered by remote work due to COVID-19 restrictions.
+4. Proper estimation and understanding of the complexity of the task.
+5. Prioritizing stability and bug fixing over visual enhancements.
+6. More extensive user feedback and beta testing.
+7. Addressing known issues and bugs before the final release.
+8. Timely and regular software updates and patches. [110171]","1. Regular patches and updates
+2. First update within 10 days
+3. Another significant update in the following weeks
+4. First round of updates already released
+5. More updates coming within the next seven days
+6. Two large patches planned for January and February
+7. Addressing bugs, crashes, and other issues
+8. Fixing the most prominent problems on last-gen consoles
+9. Significant improvements in the final day zero update
+10. Overcoming challenges brought on by COVID-19 work-from-home restrictions [108649, 110171, 115853]","CD Projekt Red [110171, 115853]","Sony, Microsoft, and CD Projekt Red. [110171, 115853]","1. Marcin Iwinski's apology and explanation for the software failure incident.
+2. Reports of significant improvements leading up to the final release.
+3. Challenges caused by COVID-19 work-from-home restrictions.
+4. Sony and Microsoft removing Cyberpunk from their digital stores and offering refunds.
+5. Performance problems on Sony's PlayStation 4 and Microsoft's Xbox One, particularly on base versions of the consoles.
+6. Struggles on new devices like Microsoft's Xbox Series X and Sony's PlayStation 5.
+7. CD Projekt Red's goal to fix bugs and crashes across platforms.
+8. Planned patches and updates to address the software failure issues. [110171, 115853]",within the same impacted entity,"true [110171, 115853]",,,,,,non-malicious,,,,entertainment,unknown,unknown,connectivity level,,timing,,"Option: both ; The software failure was due to both system design and operation faults. The studio initially focused on making the game look epic on PCs and then adjusted for consoles, especially older ones. However, they underestimated the task and the game debuted with many unfixed bugs, leading to performance problems on various consoles. [110171, 115853]","Option: both ; The software failure was due to faults from within the system (underestimating the task of adjusting the game for consoles) and from outside the system (performance problems on older consoles and new devices). [110171, 115853]","Option: both ; The software failure was due to both human actions and non-human actions. The studio's strategy of prioritizing the PC version and underestimating the task of adjusting for consoles, especially older ones, was a human action. However, the unfixed bugs and performance problems were non-human actions resulting from the software itself. [110171, 115853]","Option: both ; The software failure was due to both hardware and software faults. The game was not optimized properly for older consoles, resulting in performance problems. Additionally, there were unfixed bugs in the game's software that contributed to the issues. [110171, 115853]","The software failure was due to non-malicious faults. [110171, 115853]","Option: accidental ; The software failure was due to accidental fault. The studio underestimated the task of adjusting the game for consoles, especially older ones, after focusing on making it look epic on PCs. [110171, 115853]","Option: both ; The software failure was both accidental and due to development incompetence. The studio underestimated the task of adjusting the game for consoles, especially older ones, after focusing on making it look epic on PCs. This resulted in many unfixed bugs and dramatic performance problems on various consoles, including the base PS4 and Xbox One hardware. [110171, 115853]","Option: temporary ; The software failure was due to temporary faults. The game debuted with many unfixed bugs, leading to dramatic performance problems on Sony's PlayStation 4 and Microsoft's Xbox One. It also struggled on new devices like Microsoft's Xbox Series X and Sony's PlayStation 5. [110171, 115853]","entertainment [110171, 115853]","unknown [110171, 115853]","unknown [110171, 115853]",true [110171],Option: unknown ; unknown [110171],"timing [110171, 115853]"
+1957,,2021-03-08 08:00:00+00:00,Massive Cyber-Attack on Microsoft Customers: Emergency Taskforce Launched,"The software failure incident occurred on March 5, 2021, when hackers gained access to the email accounts of at least 30,000 organizations in the US. This breach affected Microsoft Exchange, a widely used email and calendar software system. The cause of the failure was a significant vulnerability in Microsoft Exchange that allowed the hackers to exploit and gain unauthorized access to the email accounts.
+
+The impact of the failure is potentially far-reaching, with the breach being described as ""absolutely massive"" and potentially larger than the SolarWinds attack. The breach has affected hundreds of thousands of Microsoft customers worldwide, making it a significant cybersecurity incident. The White House press secretary emphasized the seriousness of the vulnerability and urged organizations to scan their devices for vulnerabilities and apply updates as soon as possible.
+
+The responsible entity for the software failure is the group of hackers who exploited the vulnerability in Microsoft Exchange. Their actions have led to unauthorized access to sensitive email accounts and potentially compromised the security and privacy of the impacted organizations. The Biden administration has responded to the incident by launching an emergency task force to address the cyber-attack.
+
+The impacted entities include at least 30,000 organizations in the US that were affected by the breach. The incident has also raised concerns globally, as it has affected hundreds of thousands of Microsoft customers worldwide. The exact extent of the impact is still being investigated, but it is clear that the software failure has had significant consequences for organizations relying on Microsoft Exchange for their email communication. [112046]",Microsoft Exchange [112046],"Based on the given context, the exact date of the software failure incident is not mentioned. However, it is stated that the hack began as a controlled attack in late 2020 and was detected in early January. Therefore, the software failure incident likely occurred between late 2020 and early January. [112046]",Unknown. [112046],Unknown. [112046],"1. Hackers were able to access the email accounts of at least 30,000 organizations in the US.
+2. The European Banking Authority confirmed that it had been affected by the cyber-attack.
+3. The breach exposed a significant vulnerability that could have far-reaching impacts.
+4. The Biden administration launched an emergency taskforce to address the cyber-attack.
+5. The Cybersecurity and Infrastructure Security Agency encouraged organizations using Microsoft Exchange to scan devices for vulnerabilities.
+6. Impacted customers were advised to apply updates as soon as possible and contact support teams for additional help and resources. [112046]","1. Applying updates as soon as possible across all impacted systems.
+2. Scanning devices for vulnerabilities.
+3. Taking proactive measures to detect and mitigate attacks.
+4. Implementing strong cybersecurity measures and protocols.
+5. Regularly monitoring and auditing systems for any signs of compromise.
+6. Promptly patching vulnerabilities as they are discovered.
+7. Collaborating with cybersecurity agencies and experts to stay informed about emerging threats and best practices. [112046]","1. Applying updates as soon as possible across all impacted systems.
+2. Contacting Microsoft support teams for additional help and resources.
+3. Launching a multi-agency effort to determine who has been hacked, what has been done, and how to quickly patch the vulnerabilities.
+4. Scanning devices for vulnerabilities and applying patches for the attack.
+5. Taking measures to prevent further attacks on Exchange servers. [112046]",China [112046],"The European Banking Authority and at least 30,000 organizations in the US. [112046]","1. Statements from Microsoft officials, including Microsoft's president, Brad Smith, who spoke at a congressional hearing.
+2. Information provided by researchers who have analyzed the hack.
+3. Insights from a former national security official who was briefed on the matter.
+4. Statements from a person working with the US response to the hack.
+5. Attribution of the attack to a Chinese government-backed actor by Microsoft and a Chinese government spokesman denying involvement.
+6. Comparison to the SolarWinds attack, which was attributed to Russia and prompted a congressional hearing. [112046]",unknown,Unknown [112046],,unknown,outside the system,unknown,unknown,malicious,deliberate,unknown,unknown,government,unknown,unknown,unknown,,unknown,,unknown [112046],The software failure was due to faults from 'outside the system' [112046],unknown [112046],unknown [112046],malicious [112046],Deliberate [112046],unknown [112046],unknown [112046],government [112046],unknown [112046],unknown [112046],Unknown [112046],Option: unknown ; unknown [112046],unknown [112046]
+2037,,2021-06-02 07:00:00+00:00,Tesla Recalls Thousands of Model 3 and Model Y EVs,"Based on the given context, there is no mention or indication of a software failure incident. The context specifically discusses a recall by Tesla for potentially loose brake caliper bolts in Model 3 and Model Y EVs. The issue pertains to a mechanical problem with the brake caliper bolts, not a software failure. Therefore, the answer to the question is unknown as there is no information provided about a software failure incident. [116132]",Unknown. The given context does not mention any software failure incident. [116132],"Based on the given context, there is no mention or indication of a software failure incident. Therefore, the answer is unknown. [116132]","Based on the given context, there is no mention of any software causes for the failure incident. Therefore, the software is not related to the failure incident. [116132]","1. Potentially loose brake caliper bolts.
+2. Brake caliper separating and making contact with the wheel.
+3. Tire losing pressure.
+4. Risk of a crash.
+5. Abnormal noise coming from the affected area. [116132]","Based on the given context, there is no mention of a software failure incident. Therefore, it can be concluded that no software failure incident occurred in this case. [116132]","1. Regular and thorough quality control checks during the manufacturing process to ensure that all bolts are properly torqued.
+2. Implementing a robust inspection process before delivering the vehicles to customers to identify any loose brake caliper bolts.
+3. Conducting routine maintenance and inspections on the vehicles to identify and address any potential issues with the brake caliper bolts.
+4. Implementing a software system that alerts the driver or service center if there is any abnormal noise or indication of a loose brake caliper bolt.
+5. Providing clear and detailed instructions to owners on how to identify and report any abnormal noise or potential issues with the brake caliper bolts.
+6. Conducting regular training and education programs for technicians to ensure they are aware of the potential problem and know how to properly torque the brake caliper bolts. [116132]","Based on the given context, there is no mention of a software failure incident. The context specifically refers to a recall for potentially loose brake caliper bolts in Tesla Model 3 and Model Y EVs. Therefore, the answer to the question is unknown as it does not pertain to the given information. [116132]",Unknown. The context does not mention any software failure incident. [116132],Owners of Tesla Model 3 and Model Y EVs. [116132],"1. Documents published with the National Highway Traffic Safety Administration.
+2. Tesla's recall notice.
+3. Inspection and repair process mentioned by Tesla.
+4. Potential risks and consequences of the software failure incident. [116132]",unknown,Unknown [116132],,neither,neither,neither,neither,neither,accidental,neither,unknown,transportation,false,unknown,false,unknown,unknown,,Neither [116132],Neither [116132],Neither [116132],Neither [116132],Neither [116132],Accidental [116132],Neither [116132],unknown [116132],transportation [116132],false [116132],unknown [116132],false [116132],unknown [116132],unknown [116132]
+2038,,2021-06-26 07:00:00+00:00,"Tesla Recalls 285,000 Vehicles in China for Cruise Control Issue","The software failure incident occurred in Tesla vehicles in China. The specific system that failed was the cruise control feature. The failure was caused by the cruise control system being activated when drivers attempted to shift gears or accidentally touched the gear selector, leading to unintended acceleration. The impact of the failure was a safety risk for the drivers and passengers of the affected vehicles. The responsible entity for the failure was Tesla, as they manufactured the vehicles and developed the software. The impacted entities were the owners of the affected vehicles, which included 35,665 imported Model 3 vehicles and 249,855 Model 3 and Model Y vehicles made in Tesla's factory in Shanghai. However, customers were not required to return the vehicles. Instead, they were offered a free software update either remotely or in-person to resolve the issue. Tesla apologized for the recall and stated their commitment to improving in accordance with China's safety regulations. [116081, 115929]",The cruise control system. [116081],"The article does not provide specific information about when the software failure incident happened. [116081, 115929]",Unknown. The given context does not provide specific information about the software causes of the failure incident. [116081],"The non-software causes of the failure incident were:
+
+1. The cruise control system being activated when drivers try to shift gears.
+2. Accidental activation of the cruise control system when drivers accidentally touch the gear selector. [116081]","1. Tesla issued a recall for over 285,000 vehicles in China.
+2. The recall included both imported Model 3 vehicles and Model 3 and Model Y vehicles made in Tesla's Shanghai factory.
+3. The software failure involved the cruise control feature of the vehicles.
+4. The cruise control system could be activated when drivers tried to shift gears or accidentally touched the gear selector, leading to accidental acceleration.
+5. Customers were not required to return their vehicles but instead received a free software update to resolve the issue.
+6. Tesla apologized for the inconvenience caused to car owners and stated its commitment to improving safety and following national regulations. [116081]","1. Thorough testing and quality assurance of the software before its release.
+2. Conducting comprehensive risk assessments and identifying potential vulnerabilities in the software.
+3. Implementing robust security measures to prevent unauthorized access and hacking attempts.
+4. Regular monitoring and maintenance of the software to identify and address any potential issues or bugs.
+5. Adhering to strict safety regulations and standards during the development and deployment of the software.
+6. Ensuring effective communication and collaboration between different departments and teams involved in the software development process.
+7. Conducting thorough inspections and audits of the software to identify and rectify any potential flaws or defects.
+8. Implementing a robust feedback and reporting system to promptly address any issues or incidents reported by users or regulatory agencies.
+9. Continuous improvement and learning from past incidents to enhance the overall reliability and safety of the software. [116081]","A free software update either remotely or in-person. [116081, 115929]",Tesla [116081],"35,665 imported Model 3 vehicles and 249,855 Model 3 and Model Y vehicles made in Tesla's factory in Shanghai. [116081, 115929]","1. Tesla's official Weibo account statement
+2. Chinese regulatory agencies questioning the quality of Tesla's Shanghai-made Model 3 cars [116081, 115929]",within the same impacted entity,"True. The software failure incident has occurred before within the same impacted entity. [116081, 115929]",,,unknown,both,software,,accidental,unknown,unknown,transportation,true,unknown,false,,,,"Option: unknown ; The context does not provide information about whether the software failure was due to 'system design' or 'operation' faults. [116081, 115929]","unknown [116081, 115929]","Both [116081, 115929]","The software failure was due to software faults. [116081, 115929]","Option: unknown ; The context does not provide information about whether the software failure was due to 'malicious' or 'non-malicious' faults. [116081, 115929]","The software failure was due to an accidental fault. [116081, 115929]","unknown [116081, 115929]","unknown [116081, 115929]","transportation [115929, 116081]","true [116081, 115929]",unknown [116081],"false [116081, 115929]","Option: unknown ; unknown [116081, 115929]","Option: unknown ; The software failure was not due to a crash, omission, timing, incorrect value, or Byzantine fault. It was a safety risk concerning the vehicle's cruise control feature. [116081, 115929]"
+2087,,2021-08-17 07:00:00+00:00,Investigation into Tesla Autopilot Crashes Involving Emergency Vehicles,"Based on the given context, it is not explicitly mentioned that there was a software failure incident. The context refers to an investigation by a safety agency into Tesla crashes, specifically those involving Tesla vehicles using Autopilot and emergency vehicles. The investigation aims to understand the causes of these crashes, including the technologies and methods used to monitor and enforce driver engagement while Autopilot is in use.
+
+The accidents under investigation occurred between January 22, 2018, and July 10, 2021, across nine different states. The crashes took place mostly at night and involved control measures like first responder vehicle lights, flares, an illuminated arrow board, and road cones.
+
+While the context highlights concerns about Tesla owners assuming their cars can drive themselves, it does not provide specific information about a software failure incident, the impacted system, the cause of failure, the impact of failure, the responsible entity(s), or the impacted entity(s). Therefore, it is unknown whether a software failure incident occurred based on the given context. [117484]",Autopilot feature or traffic-aware cruise control. [117484],The article does not provide specific information about a software failure incident. [117484],Unknown. [117484],"Based on the given context, the non-software causes of the failure incident are:
+
+1. Assumption by Tesla owners that their cars can drive themselves.
+2. Lack of understanding or interpretation of cues by the auto drive system.
+3. Presence of road flares and flashing lights at the accident site.
+4. Potential risk to other non-Tesla drivers on the road. [117484]","1. The NHTSA is conducting a probe into 11 accidents involving Tesla cars using Autopilot or other self-driving features.
+2. These accidents occurred when the Tesla cars approached the scene of an earlier crash and crashed into emergency vehicles.
+3. Seven of these accidents resulted in 17 injuries and one death.
+4. Tesla stock fell 5% in morning trading following news of the probe.
+5. The accidents took place between January 22, 2018, and July 10, 2021, across nine different states.
+6. The accidents mostly occurred at night and the post-accident scenes included control measures like first responder vehicle lights, flares, an illuminated arrow board, and road cones.
+7. Tesla did not immediately respond to a request for comment about the probe. [117484]","1. Improved training and education for Tesla owners on the limitations and capabilities of the Autopilot feature.
+2. Enhanced cues and visual indicators for the Autopilot system to better understand and respond to accident sites, such as road flares or flashing lights.
+3. More adaptive machine vision systems that can better handle unexpected scenarios and avoid silly errors.
+4. Regular software updates and improvements to address bugs, faults, and glitches in the Autopilot feature.
+5. Stronger integration of safety features and protocols to ensure the Autopilot system can accurately detect and respond to control measures like first responder vehicle lights, flares, illuminated arrow boards, and road cones.
+6. Continuous monitoring and evaluation of the Autopilot system's performance to identify and rectify any potential software failures or anomalies.
+7. Clear communication and collaboration between Tesla and regulatory authorities to address any concerns or issues related to the Autopilot feature. [117484]","1. Improving the technologies and methods used to monitor, assist, and enforce the driver's engagement with driving while Autopilot is in use.
+2. Enhancing the cues and visual indicators provided to the driver when approaching accident sites, such as road flares or flashing lights.
+3. Addressing the confusion and potential errors that the Autopilot feature may experience when encountering certain situations that humans would easily understand.
+4. Making the machine vision system more adaptive and capable of handling a wider range of scenarios without making silly errors. [117484]",Unknown. [117484],Tesla drivers and other non-Tesla drivers on the road. [117484],"1. The National Highway Transportation Safety Administration (NHTSA) statement
+2. Tesla's lack of immediate response to a request for comment
+3. The investigation into accidents involving Tesla cars using Autopilot or other self-driving features
+4. The accidents occurring between January 22, 2018, and July 10, 2021, across nine different states
+5. The accidents involving Tesla cars crashing into emergency vehicles at the scene of an earlier crash
+6. The injuries and death resulting from these accidents
+7. The impact on Tesla's stock, which fell 5% in morning trading following news of the probe [117484]",unknown,Unknown [117484],,both,both,both,unknown,unknown,unknown,unknown,unknown,transportation,,unknown,unknown,unknown,unknown,,Both [117484],Both [117484],Both [117484],unknown [117484],unknown [117484],Unknown [117484],unknown [117484],unknown [117484],transportation [117484],Option: unknown ; unknown [117484],unknown [117484],Unknown [117484],unknown [117484],unknown [117484]
+2229,,2022-02-21 08:00:00+00:00,Engineering work delay leads to train crash due to slippery tracks,"Based on the given context, there is no mention or indication of a software failure incident. The incident described is a train crash caused by slippery tracks due to leaves stuck to the line, strong winds, heavy rain, and delayed cleaning of the rails. The impact of the crash includes injuries to 14 people on board, major damage to the trains and railway infrastructure, and disruption of services in the area for two weeks. The responsible entities for the incident are not specified in the given context. Therefore, the information provided does not include any details about a software failure incident. [124780]",Unknown. The context provided does not mention any software failure incident. [124780],"Based on the given context, there is no mention of a software failure incident. Therefore, the answer is unknown. [124780]","Based on the given context, there is no mention or indication of any software causes of the failure incident. Therefore, the answer is unknown. [124780]","1. Leaves on the tracks
+2. Wet conditions from rain
+3. Strong winds
+4. Delayed cleaning of rails
+5. Collision between two moving passenger trains [124780]",Unknown. The given context does not provide any information about a software failure incident. [124780],"Based on the given context, there is no mention or indication of a software failure incident. Therefore, it is not possible to determine what could have prevented the software failure incident. [124780]",Unknown. The given context does not provide any information about a software failure incident. [124780],Unknown. [124780],Unknown. The context does not provide any information about a software failure incident. [124780],"1. Accident inspectors at the crash site
+2. RAIB (Rail Accident Investigation Branch) investigation
+3. Network Rail's policies to manage risk and vegetation around the tracks [124780]",unknown,Unknown [124780],,neither,unknown,non human actions,unknown,unknown,unknown,,unknown,transportation,unknown,unknown,false,unknown,unknown,,neither [124780],unknown [124780],non human actions [124780],unknown [124780],unknown [124780],unknown [124780],"Option: unknown ; The given context does not provide any information about a software failure. It focuses on the accident, injuries, and damage caused by the crash, as well as the investigation into risk management and vegetation around the tracks. Therefore, it is unknown whether the software failure was accidental, due to development incompetence, both, or neither. [124780]",unknown [124780],transportation [124780],unknown [124780],unknown [124780],false [124780],unknown [124780],unknown [124780]
+2497,,2019-08-08 07:00:00+00:00,Apple Pay Integration Vulnerabilities: Exposing Websites to Attacks,"The software failure incident occurred last fall when a security researcher, Joshua Maddux, discovered a vulnerability in websites that have added support for Apple Pay. The vulnerability is related to a type of vulnerability called ""server side request forgery,"" which allows attackers to bypass firewalls and send malicious queries or commands to the target site's infrastructure. This can potentially lead to the extraction of privileged data, such as authorization tokens, and unauthorized access to the website's backend infrastructure.
+
+The failure impacted websites that have integrated Apple Pay, exposing their backend infrastructure to potential attacks. The incident did not involve a flaw in Apple Pay itself or its payment network, but rather the unintended consequences of web interconnections and third-party integrations. The vulnerabilities have been regularly exploited in the wild and were even involved in the recent Capital One breach.
+
+The responsible entity for the failure is the websites that added support for Apple Pay without properly mitigating the potential weaknesses. The impacted entities are the websites themselves, as their backend infrastructure and sensitive data were at risk of being compromised. The failure could have significant consequences, including unauthorized access to user data and potential financial losses.
+
+Joshua Maddux emphasizes the need for more awareness about the problem, as popular integrations like Apple Pay are present on numerous websites across the web. He suggests that it is possible to implement support for Apple Pay safely, but it requires a security-conscious approach and understanding of server side request forgery vulnerabilities. [88901]",The website's backend infrastructure. [88901],"Based on the given context, it is not possible to determine the exact date of the software failure incident. [88901]","1. Server side request forgery vulnerability
+2. Flaws in the website's integration of Apple Pay
+3. Exposure of the website's backend infrastructure to unauthorized access
+4. Unintended issues arising from web interconnections and third-party integrations [88901]",Unknown [88901],"1. The software failure incident exposed websites that had added support for Apple Pay to potential attacks.
+2. Attackers were able to send queries or commands to the target site's infrastructure using a malicious URL.
+3. The attackers potentially extracted an authorization token or other privileged data, gaining access to the website's backend infrastructure.
+4. The incident highlighted the vulnerability known as ""server side request forgery,"" which allows attackers to bypass protections like firewalls and directly send commands to web applications.
+5. The incident played a role in the Capital One breach.
+6. The incident exposed the backend infrastructure of websites that integrated Apple Pay.
+7. The incident was not a flaw in Apple Pay itself or its payment network, but rather an unintended issue arising from web interconnections and third-party integrations. [88901]","1. Increased awareness about the potential vulnerabilities and risks associated with integrating Apple Pay into websites.
+2. Implementation of proper security measures and protocols to mitigate the weaknesses and vulnerabilities.
+3. Improved understanding and knowledge of server-side request forgery vulnerabilities among developers.
+4. More specific directions and fewer options for configuring the integration, similar to Google Pay.
+5. Timely communication and collaboration between the software developer (Apple) and the security researcher (Maddux) to address the identified issues and propose mitigations. [88901]","1. Implementing stronger security measures to prevent server side request forgery vulnerabilities.
+2. Restricting the options for how websites can configure the integration of Apple Pay to minimize potential exposures.
+3. Providing more specific directions and fewer options for configuring the integration, similar to Google Pay.
+4. Increasing awareness among developers about the potential weaknesses and risks associated with integrating Apple Pay.
+5. Regularly updating and patching the software to address any known vulnerabilities.
+6. Conducting thorough security evaluations and testing to identify and mitigate any potential flaws or weaknesses.
+7. Enhancing user education and awareness about the risks and best practices when using Apple Pay on different websites. [88901]",Unknown. [88901],Capital One [88901],"1. The articles gather information from a security researcher named Joshua Maddux.
+2. The articles mention that Joshua Maddux noticed the issue while implementing Apple Pay support for a client.
+3. The articles mention that Joshua Maddux first notified Apple about the issue in February and communicated with the company about his proposed mitigations in March.
+4. The articles mention that Joshua Maddux evaluated Google Pay and found that it has more specific directions and fewer options compared to Apple Pay.
+5. The articles mention that the vulnerabilities discussed in the context have been regularly exploited in the wild and played a role in the Capital One breach.
+6. The articles mention that the vulnerabilities are related to a well-known type of vulnerability called ""server side request forgery.""
+7. The articles mention that the vulnerabilities allow attackers to bypass protections like firewalls and send commands to web applications.
+8. The articles mention that the vulnerabilities are not a flaw in Apple Pay itself, but rather an exposure to websites that have added support for Apple Pay.
+9. The articles mention that the vulnerabilities highlight the unintended issues that can emerge from web interconnections and third-party integrations. [88901]",at other entity(s),true [88901],,both,outside the system,non human actions,software,malicious,accidental,both,unknown,sales,,unknown,connectivity level,,unknown,,Both [88901],The software failure was due to faults from 'outside the system' [88901],"The software failure was due to non-human actions, specifically a vulnerability in the integration of Apple Pay with websites. [88901]",The software failure was due to software faults. [88901],The software failure was due to malicious faults. [88901],The software failure was due to an accidental fault. [88901],both [88901],unknown [88901],sales [88901],Option: unknown ; unknown [88901],unknown [88901],true [88901],Option: unknown ; unknown [88901],unknown [88901]

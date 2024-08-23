@@ -1,0 +1,18 @@
+Spacecraft Set to Reach Milestone, Reports Technical Glitches
+02/07/2007
+U.S. Newswire*PR Newswire
+pq
+To: SCIENCE EDITORS
+Contact: Dwayne Brown, Headquarters, Washington, +1-202-358-1726, or Guy Webster, Jet Propulsion Laboratory, Pasadena, Calif., +1-818-354-6278, both of NASA
+WASHINGTON, Feb. 7 /PRNewswire-USNewswire/ -- NASA's Mars Reconnaissance Orbiter spacecraft this month is set to surpass the record for the most science data returned by any Mars spacecraft. While continuing to produce data at record levels, engineers are examining why two instruments are intermittently not performing entirely as planned. All other spacecraft instruments are operating well and continue to return science data.
+Since beginning its primary science phase in November 2006, the orbiter has returned enough data to fill nearly 1,000 CD-ROMs. This ties the record for Mars data sent back between 1997 and 2006 by NASA's Mars Global Surveyor mission.
+In late November 2006 the spacecraft team operating the High Resolution Imaging Science Experiment camera on Mars Reconnaissance Orbiter noticed a significant increase in noise, such as bad pixels, in one of its 14 camera detector pairs. Another detector, that developed the same problem soon after launch, has worsened. Images from the spacecraft camera last month revealed the first signs of this problem in five other detectors.
+While the current impact on image quality is small, there is concern as to whether the problem will continue to worsen.
+In-flight data show that more warming of the camera's electronics before taking an image reduces or eliminates the problem. The imaging team aims to understand the root cause of the worsening over time and to determine the best operational procedures to maximize the long-term science benefits. The camera continues to make observations and is returning excellent images of the Martian surface.
+The second instrument concern aboard the Mars Reconnaissance Orbiter is related to an instrument designed to routinely scan from the surface across the atmosphere above Mars' horizon. The Mars Climate Sounder maps the temperature, ice clouds and dust distributions in the atmosphere on each of nearly 13 orbits every day. In late December, the sounder appeared to skip steps occasionally, so that its field of view was slightly out of position. Following uplink of new scan tables to the instrument, the position errors stopped and the instrument operated nominally.
+In mid-January, the position errors reappeared. Although still intermittent, the errors became more frequent, so the instrument has been temporarily stowed while the science team investigates the problem.
+The rate of data return is expected to increase over the coming months as the relative motions of Earth and Mars in their orbits around the sun shrink the distance between the planets. By the conclusion of its first science phase in 2008, the mission is expected to have returned more than 30 terabits of science data, enough to fill more than 5,000 CD-ROMs. Observations will be used to evaluate potential landing sites for future missions and to increase our understanding of Mars and how planets change over time.
+The mission is managed by NASA's Jet Propulsion Laboratory, Pasadena, Calif., for NASA's Science Mission Directorate, Washington. Lockheed Martin Space Systems, Denver, Colo., is the prime contractor and built the spacecraft.
+Additional information about the Mars Reconnaissance Orbiter is available on the Web at:
+http://www.nasa.gov/mro
+SOURCE NASA

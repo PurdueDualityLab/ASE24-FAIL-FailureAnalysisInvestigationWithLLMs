@@ -1,0 +1,56 @@
+Competition Ho! California or Bust! The great megawatt market rush begins
+03/30/1998
+The Energy Report
+ln
+The much-anticipated, much-heralded and much-criticized new market structure is launched in California this week.
+After a three-month delay, the California Power Exchange (PX) and Independent System Operator (ISO) are declared ready for the prospectors. The original launch of the new market was panned Dec. 22, 1997, one week before take off, due to glitches in computer systems.
+'We're anxious to go. I don't think we could get much more ready than we are,' PX CEO Dennis Loughridge said last week.
+'I think we're down to the dot-the-I, cross-the-T logistics,' ISO CEO Jeffrey Tranen said at a Board of Governors meeting after the decision to launch competition was made.
+A five-member 'CEO Certification Team' consisting of Tranen, Loughridge and the CEOs of the three investor-owned utilities (IOUs) surrendering their transmission systems to the ISO -- Pacific Gas & Electric, Southern California Edison and San Diego Gas & Electric -- approved four documents and subsequently sent them to the California Public Utilities Commission (CPUC) and the Federal Energy Regulatory Commission.
+The documents together make up the actual certification document, an agreement of the IOUs signing over control of the transmission grid. This document needed the signature of CPUC Commissioner Greg Conlon and the IOUs had to send a letter to the Western Systems Coordinating Council authorizing the transfer of the grid to the ISO.
+The ISO last week wrapped up tests of the market -- which sells one hour before delivery -- and finished four days of database and file updates.
+'There was quite a bit of debugging, especially as it relates to the energy management system,' Tranen said. 'The nature of the debugging was not unexpected. With so many files being added and moved around, there were a few that were not in the computers they were supposed to be in.
+'We saw symptoms, we tracked them down, we identified them and we fixed them.'
+Previous questions about the PX's zonal pricing calculator and overgeneration software have been resolved, and tests of the system continued to 'pre-launch preparation' last weekend, the PX's George Sladoje said.
+Rather than risk a public relations nightmare and have both systems melt down hours into the new year, PX and ISO organizers decided to weather the storm of criticism from the delay and postpone competition.
+The biggest critics of the delay could arguably be the ones who will be hurt the most by the postponement: the ratepayers. The three-month delay has cost Californians an additional $75 million in startup costs, adding to a grand total of $325 million to implement the PX and ISO.
+In addition, Californians have begun paying off the billions of dollars in stranded costs associated with the three IOUs through the competitive transition cost (CTC), now appearing on their bills.
+The delay of the PX and ISO has many wondering if the exorbitant price paid for competition was too high. Others still question whether California's market model will be effective at spurring competition.
+In fact, the interest among consumers, except for several thousand of the largest customers, has ranged from lackluster to openly hostile. Only 20,000 of the state's nearly 10 million customers of IOUs have signed up to choose a new electricity supplier. Some consumer and activist groups continue to circulate state-authorized petitions, gathering the thousands of signatures they hope will lead to a referendum to change the law on retail competition so that consumers don't pay nearly as much in utility stranded costs.
+But market players continue to jockey for position to reap the rewards of a $28 billion market.
+In the beginning, providers were promising as much as a 20% reduction in rates. That's 'a figure people like to hear,' attorney Norm Pedersen said, considering rates are 50% above the national average.
+Robin Larson, director of regulatory affairs for the ISO, noted that while rates are above average, Californians' actual utility bills are about average because the mild weather keeps usage low.
+Pedersen said the largest energy service provider (ESP) in terms of accounts was not a commercial vendor like Enron, but the Assn. of Bay Area Governments (ABAG), which has 125 municipalities in the San Francisco Bay area.
+'ABAG accounts for more than half of the 10,000 direct service requests,' he said, adding they are projecting significant savings of 4%.
+Companies planning to provide electric service in California will have to comply with a new set of conduct rules designed by CPUC last week.
+Responding to a number of complaints from consumers, the CPUC adopted rules to protect residential and small commercial customers from abuse and harassment.
+Initially, a company could register as an electric service provider merely by paying a $100 fee and submitting a form attesting that the company's principal officers had no felony convictions. The CPUC began to crack down on providers after the state attorney general charged one registered company with making promises about electric service that it could not possibly keep and running a pyramid scheme to recruit marketers.
+The new rules codify what the CPUC has been practicing for about six weeks. Prospective energy service providers must have experience in the energy field or related businesses, and provide proof of technical, operational and financial ability, the commission said.
+The CPUC will take 30 days to review a provider's application and will post all approved providers on its web site.
+Registration will not be accepted until the provider shows proof to the commission that it has an executed service agreement with each utility distribution company (Pacific Gas & Electric, Southern California Edison or San Diego Gas & Electric) in whose territory it intends to offer service.
+Any provider that has signed up customers must make a $25,000 deposit with the CPUC and must submit documentation that it is authorized by the California Independent System Operator as a scheduling coordinator or that it has agreements with coordinators.
+To ensure uninterrupted electric service to customers if a provider fails to deliver, the utility distribution company will serve as the default provider.
+All utilities and providers will have to use the same format and information for bills.
+Consumers can avoid telemarketing calls by writing to the CPUC to be placed on a 'don't call me' list. Any provider that solicits a potential customer on the list more than once will have to pay the person called $25.
+Switching customers without permission or 'slamming' is prohibited. A provider that involuntarily switches a consumer will be liable for all charges for service to the customer's original provider. Any request to switch service is to be verified by a third party.
+California Power players still debate whether the market should have been designed exclusively as a power pool or a bilateral market, rather than incorporating both models into its market structure.
+Becky Kilbourne, director of market services for the PX, said the model that will begin operation on March 31, achieves a peaceful coexistence that will allow market participants to buy or sell through the exchange itself.
+The PX will be more efficient than such well known exchanges as the Chicago Board of Trade and the New York Stock Exchange, Kilbourne said.
+During the 1987 stock market crash program trading initiated a flurry of sell orders that were magnified by further selling in response to a falling market.
+Kilbourne said that the 'auction' nature of her market would avoid such pitfalls because buyers and sellers submit their bids once in the day-ahead market and then receive the market clearing price that is determined by the intersection of supply and demand of those bids and offers.
+In an effort to be operational by March 31, the PX and ISO underwent a streamlining process or took on what they call simplification measures, where as only essential systems for the running of both entities would be tested and worked on for operation.
+Other non-essential services to operation would be added after the scheduled PX-ISO start-up.
+The ISO's Robin Larson said the reason for the initial computer system problems that put the halt on competition was due to the error in developing the systems on parallel tracks instead of sequentially.
+'You cannot compress computer system development,' she said, adding that short-cuts caused the problems.
+'We developed 17 different systems. When we got to the actual testing process, there were a lot of bugs,' Larson said.
+She conceded that all the computer problems will not be solved by the projected start up.
+'Someone asked the CEO of the ISO once, How long would it take to debug the system? He said about 10 years.'
+But Larson emphasizes that the systems that need to be operational will be error free, but the computer problems that remain will be solved in the course of time.
+But when the ISO and PX completed their required seven-day testing on March 11, the PX had passed with flying colors, but the ISO had not done so well.
+In the seven-day 'market simulation' the ISO only completed three days without mistakes. Most days, it did not meet minimum operating criteria set to insure reliable grid operations.
+According to the daily progress reports issued by the ISO, there was also some trouble, in the first two days of testing, with real-time market availability of supplemental energy and, on one occasion with hour-ahead transmission availability.
+ISO Board of Governors Chair Jan Smutney-Jones said he was confident problems will be fixed on time.
+A week after the tests were concluded, the PX and ISO notified FERC they would be open for business at the end of March.
+Do not fear, Larson said, the ISO will be coupled with utilities in a redundant situation to double insure double reliability until January 1, 1999.
+URL: http://www.platts.com
+Copyright 1998 The McGraw-Hill Companies, Inc.
