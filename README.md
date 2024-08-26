@@ -16,6 +16,23 @@ Our artifact includes the following (ordered by sections):
 | [Results](#plot-figures-and-gather-statistics-used-in-the-paper) | Source code to plot figures and gather other results from the paper |  Section 4 - Analyzing the FAIL DB |
 
 
+## Citations
+For citations, please refer to the following:
+
+**APA Citation:**
+Anandayuvaraj, D., Campbell, M., Tewari, A., & Davis, J. C. (2024). *FAIL: Analyzing Software Failures from the News Using LLMs*. Proceedings of the 2024 IEEE/ACM International Conference on Automated Software Engineering (ASE). IEEE.
+
+**BibTeX Citation:**
+```bibtex
+@inproceedings{ananday2024fail,
+  title={FAIL: Analyzing Software Failures from the News Using LLMs},
+  author={Anandayuvaraj, Dharun and Campbell, Matthew and Tewari, Arav and Davis, James C},
+  booktitle={Proceedings of the 2024 IEEE/ACM International Conference on Automated Software Engineering (ASE)},
+  year={2024},
+  organization={IEEE}
+}
+```
+
 ## Setting up the pipeline
 
 ### Setting up the docker containers for the pipeline
