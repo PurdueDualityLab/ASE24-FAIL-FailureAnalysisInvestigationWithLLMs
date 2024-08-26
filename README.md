@@ -4,6 +4,7 @@ FAIL is an LLM based pipeline to collect and analyze software failures from the 
 
 A database of software failures from 2010 to 2022 curated by FAIL is available at: [http://ec2-44-222-209-185.compute-1.amazonaws.com:8000/dashboard/](http://ec2-44-222-209-185.compute-1.amazonaws.com:8000/dashboard/)
 - Unfortunately, the website is currently broken, and we are working on fixing it. In the meantime, our raw database is available as a JSON dump at: [https://drive.google.com/file/d/1Ajwxj2PKVunTJHT98naD9s7lc6kmptHu/view](https://drive.google.com/file/d/1Ajwxj2PKVunTJHT98naD9s7lc6kmptHu/view)
+- The JSON data contains a list of articles and incidents. Incidents have a generated postmortem report as described in Table 1 of the paper. Please note that there are occasionall missing (N/A) values in the reports. An analysis of this data is described in Section 4 of the paper. 
 
 ## About
 This repository contains all of the artifacts of the project.
