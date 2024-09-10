@@ -6,7 +6,7 @@ beautifulsoup4==4.12.2
 
 langchain==0.0.295
 chromadb==0.4.11
-openai==0.27.4
+openai==1.44.1
 tiktoken==0.5.1
 
 # Chroma requires sqlite3 >= 3.35.0 
